@@ -55,25 +55,29 @@
 
     <main class="board" id="board">
         <div class="wrap">
-            <div class="controls" role="region" aria-label="Filters and view">
-                <div class="view-toggle" role="tablist" aria-label="View">
-                    <button type="button" class="view-btn is-on" data-view="upcoming" role="tab" aria-selected="true"><svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1" y="2" width="4" height="3" rx="1"/><rect x="6" y="2.5" width="9" height="2" rx="1"/><rect x="1" y="6.5" width="4" height="3" rx="1"/><rect x="6" y="7" width="9" height="2" rx="1"/><rect x="1" y="11" width="4" height="3" rx="1"/><rect x="6" y="11.5" width="9" height="2" rx="1"/></svg>Upcoming</button>
-                    <button type="button" class="view-btn" data-view="calendar" role="tab" aria-selected="false"><svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1.5" y="3" width="13" height="11.5" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M1.5 6.5h13" stroke="currentColor" stroke-width="1.6" fill="none"/><rect x="4" y="1" width="1.6" height="3.2" rx=".8"/><rect x="10.4" y="1" width="1.6" height="3.2" rx=".8"/></svg>Calendar</button>
-                </div>
+            <div class="view-toggle" role="tablist" aria-label="Choose a view">
+                <button type="button" class="view-btn is-on" data-view="upcoming" role="tab" aria-selected="true">
+                    <svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1" y="2" width="4" height="3" rx="1"/><rect x="6" y="2.5" width="9" height="2" rx="1"/><rect x="1" y="6.5" width="4" height="3" rx="1"/><rect x="6" y="7" width="9" height="2" rx="1"/><rect x="1" y="11" width="4" height="3" rx="1"/><rect x="6" y="11.5" width="9" height="2" rx="1"/></svg>
+                    <span class="vb-tx"><b>Upcoming</b><small>The next games, day by day</small></span>
+                </button>
+                <button type="button" class="view-btn" data-view="full" role="tab" aria-selected="false">
+                    <svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1.5" y="2" width="13" height="2.2" rx="1"/><rect x="1.5" y="6.9" width="13" height="2.2" rx="1"/><rect x="1.5" y="11.8" width="13" height="2.2" rx="1"/></svg>
+                    <span class="vb-tx"><b>Full Schedule</b><small>Search by sport, school or level</small></span>
+                </button>
+            </div>
+            <div class="controls" role="region" aria-label="Filters">
                 <div class="filters">
                     <label class="sr-only" for="f-sport">Sport</label>
                     <select id="f-sport" class="filter" data-filter="sport"><option value="">All sports</option></select>
                     <label class="sr-only" for="f-school">School</label>
-                    <select id="f-school" class="filter" data-filter="school"><option value="">All schools</option></select>
+                    <select id="f-school" class="filter filter--school" data-filter="school"><option value="">All schools</option></select>
                     <label class="sr-only" for="f-level">Level</label>
                     <select id="f-level" class="filter" data-filter="level"><option value="">All levels</option></select>
-                    <label class="sr-only" for="f-search">Search</label>
-                    <input id="f-search" class="filter filter--search" type="search" placeholder="Search a team…" data-filter="q">
                     <button type="button" class="filter-clear" data-clear hidden>Clear</button>
                 </div>
                 <div class="controls-right">
                     <button type="button" class="btn btn--soft btn--sm" data-print-view>Print</button>
-                    <button type="button" class="btn btn--soft btn--sm" data-export-view>Export (.ics)</button>
+                    <button type="button" class="btn btn--gold btn--sm" data-open-subscribe><span aria-hidden="true">📅</span> Add to Calendar</button>
                 </div>
             </div>
 
@@ -81,20 +85,15 @@
             <section class="view view-upcoming" aria-live="polite">
                 <div class="agenda"></div>
                 <p class="empty" hidden>No games match those filters.</p>
-                <button type="button" class="btn btn--soft load-more" hidden>Load more dates</button>
+                <button type="button" class="btn btn--soft load-more" hidden>Show more days</button>
             </section>
 
-            <!-- Calendar (month grid) view -->
-            <section class="view view-calendar" hidden>
-                <div class="cal-bar">
-                    <button type="button" class="cal-nav" data-cal-prev aria-label="Previous month">&#8249;</button>
-                    <h2 class="cal-title"></h2>
-                    <button type="button" class="cal-nav" data-cal-next aria-label="Next month">&#8250;</button>
-                </div>
-                <div class="cal-grid"></div>
-                <div class="cal-day">
-                    <p class="cal-hint">Pick a date above to see that day&rsquo;s games.</p>
-                </div>
+            <!-- Full Schedule (whole season, filterable) view -->
+            <section class="view view-full" hidden>
+                <p class="full-hint" hidden>Showing the whole conference. Pick a school, sport or level above to see its full season — then print or subscribe to it.</p>
+                <div class="agenda"></div>
+                <p class="empty" hidden>No games match those filters.</p>
+                <button type="button" class="btn btn--soft load-more" hidden>Show more</button>
             </section>
         </div>
     </main>
@@ -103,11 +102,11 @@
     <div class="sub-backdrop" hidden>
         <div class="sub" role="dialog" aria-modal="true" aria-labelledby="sub-title">
             <button type="button" class="sub-x" aria-label="Close" data-close-subscribe>&times;</button>
-            <h2 id="sub-title">Add the schedule to your calendar</h2>
-            <p class="sub-lede">Subscribe once and it stays up to date — new games, time changes and cancellations flow in automatically.</p>
+            <h2 id="sub-title">Follow the schedule</h2>
+            <p class="sub-lede">Choose what to follow, then how. Calendar subscriptions keep themselves up to date — new games, time changes and cancellations flow in on their own.</p>
 
             <div class="sub-pick">
-                <label for="sub-scope">What do you want to follow?</label>
+                <label for="sub-scope">1 · What to follow</label>
                 <select id="sub-scope" class="filter">
                     <option value="all">The whole conference</option>
                     <optgroup label="A school" data-group="schools"></optgroup>
@@ -116,21 +115,33 @@
             </div>
 
             <div class="sub-pick sub-level" hidden>
-                <label for="sub-level">Level (optional, for a sport)</label>
+                <label for="sub-level">Level (optional)</label>
                 <select id="sub-level" class="filter"><option value="">All levels</option></select>
             </div>
 
-            <div class="sub-actions">
-                <a class="sub-btn" data-sub="google" target="_blank" rel="noopener"><span>Google Calendar</span></a>
-                <a class="sub-btn" data-sub="apple"><span>Apple Calendar</span></a>
-                <a class="sub-btn" data-sub="outlook" target="_blank" rel="noopener"><span>Outlook</span></a>
-                <a class="sub-btn" data-sub="download" download><span>Download .ics</span></a>
+            <div class="sub-sect">
+                <h3 class="sub-h3">2 · Add to your calendar <span class="sub-tag">stays up to date</span></h3>
+                <div class="sub-list">
+                    <a class="sub-row" data-sub="google" target="_blank" rel="noopener"><span class="sub-row-ic sub-ic-g">G</span><span class="sub-row-tx"><b>Google Calendar</b><small>Opens Google and asks you to confirm — click <em>Add calendar</em>. (Google refreshes it every ~8–24 hrs.)</small></span></a>
+                    <a class="sub-row" data-sub="apple"><span class="sub-row-ic sub-ic-a">&#63743;</span><span class="sub-row-tx"><b>Apple Calendar</b><small>Opens Calendar on Mac or iPhone — click <em>Subscribe</em>, then <em>Add</em>.</small></span></a>
+                    <a class="sub-row" data-sub="outlook" target="_blank" rel="noopener"><span class="sub-row-ic sub-ic-o">O</span><span class="sub-row-tx"><b>Outlook</b><small>Opens Outlook on the web — name it and click <em>Import</em>.</small></span></a>
+                    <a class="sub-row" data-sub="download" download><span class="sub-row-ic sub-ic-d">&#8595;</span><span class="sub-row-tx"><b>Download .ics file</b><small>A one-time snapshot for any other app. Note: it will <em>not</em> update later — subscribe above if you want it live.</small></span></a>
+                </div>
+                <div class="sub-copy">
+                    <input type="text" class="sub-url" readonly aria-label="Calendar feed URL">
+                    <button type="button" class="btn btn--soft btn--sm" data-copy-url>Copy link</button>
+                </div>
+                <p class="sub-note">Rather paste it yourself? In Google Calendar: <em>Other calendars → From URL</em>, paste the link above, <em>Add calendar</em>.</p>
             </div>
-            <div class="sub-copy">
-                <input type="text" class="sub-url" readonly aria-label="Calendar feed URL">
-                <button type="button" class="btn btn--soft btn--sm" data-copy-url>Copy link</button>
+
+            <div class="sub-sect sub-sect--rss">
+                <h3 class="sub-h3">Follow by RSS <span class="sub-tag sub-tag--muted">news readers only</span></h3>
+                <p class="sub-note"><strong>Not for Google, Apple or Outlook calendars.</strong> RSS is for news readers like Feedly or Inoreader — paste this link there to get new games in your feed.</p>
+                <div class="sub-copy">
+                    <input type="text" class="sub-rss-url" readonly aria-label="RSS feed URL">
+                    <button type="button" class="btn btn--soft btn--sm" data-copy-rss>Copy RSS</button>
+                </div>
             </div>
-            <p class="sub-foot">Prefer a reader? <a data-sub="rss" href="/feeds/rss.xml">Follow upcoming games by RSS</a>. On Google Calendar, use <em>Other calendars → From URL</em> and paste the link above.</p>
         </div>
     </div>
 

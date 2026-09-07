@@ -9,6 +9,13 @@
 /feeds/sports/*
   Content-Type: text/calendar; charset=utf-8
   Cache-Control: public, max-age=1800
+# per-scope RSS lives alongside the .ics — override those .xml files back to RSS
+/feeds/schools/*.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
+/feeds/sports/*.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
 /feeds/rss.xml
   Content-Type: application/rss+xml; charset=utf-8
   Cache-Control: public, max-age=1800

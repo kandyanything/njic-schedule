@@ -1,17 +1,18 @@
-// NJIC Conference Schedule — loads the split month files, renders an upcoming
-// agenda and a month calendar, filters client-side, and wires the subscribe /
-// export (.ics) actions to the static feeds.
+// NJIC Conference Schedule — loads the split month files, renders an Upcoming
+// agenda and a searchable Full Schedule, filters client-side, and wires the
+// subscribe / export (.ics) + RSS actions to the static feeds. Standalone site,
+// so selectors are unscoped.
 (function () {
   'use strict';
   var DATA = 'data/schedule/', FEEDS = 'feeds/';
-  var ALL = [];               // every loaded game
+  var ALL = [];
   var INDEX = null, FEEDMAN = null, SCHOOL_PATH = {}, SPORT_BY_SLUG = {};
-  var state = { view: 'upcoming', sport: '', school: '', level: '', q: '', days: 10, calMonth: null, selDate: null };
+  var CONF = 'North Jersey Interscholastic Conference';
+  var state = { view: 'upcoming', sport: '', school: '', level: '', q: '', days: 10 };
 
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
 
-  // ---- dates ----
   function easternToday() {
     return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
   }
@@ -31,8 +32,9 @@
     var h = Math.round(mins / 60); if (h < 24) return h + 'h ago';
     return Math.round(h / 24) + 'd ago';
   }
+  function initialDays() { return state.view === 'full' ? 40 : 10; }
+  function byDateTime(a, b) { return a.date === b.date ? (a.time || '99:99').localeCompare(b.time || '99:99') : a.date.localeCompare(b.date); }
 
-  // ---- load ----
   function loadJSON(u) { return fetch(u, { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); }); }
   function init() {
     Promise.all([
@@ -41,11 +43,12 @@
     ]).then(function (res) {
       INDEX = res[0]; FEEDMAN = res[1];
       if (!INDEX) { showError(); return; }
-      fillStats();
+      CONF = (FEEDMAN && FEEDMAN.conference) || CONF;
       var months = INDEX.months || [];
       return Promise.all(months.map(function (m) { return loadJSON(DATA + m + '.json').then(function (d) { return d.games || []; }).catch(function () { return []; }); }))
         .then(function (lists) {
           lists.forEach(function (g) { ALL = ALL.concat(g); });
+          fillStats();
           buildFilters();
           buildSubscribe();
           wire();
@@ -85,21 +88,21 @@
     if (state.q) { var q = state.q.toLowerCase(); if ((g.school || '').toLowerCase().indexOf(q) < 0 && (g.opponent || '').toLowerCase().indexOf(q) < 0) return false; }
     return true;
   }
+  function hasFilter() { return !!(state.sport || state.school || state.level || state.q); }
 
   // ---- render ----
   function render() {
-    $('.filter-clear').hidden = !(state.sport || state.school || state.level || state.q);
-    if (state.view === 'upcoming') renderUpcoming(); else renderCalendar();
+    $('.filter-clear').hidden = !hasFilter();
+    if (state.view === 'upcoming') renderUpcoming(); else renderFull();
   }
-
   function teamHtml(name, logo, isHome) {
     return '<span class="team' + (isHome ? ' home' : '') + '">' +
       (logo ? '<img class="team-logo" src="images/logos/optimized/' + logo + '.png" alt="" loading="lazy" onerror="this.remove()">' : '') +
       '<span class="team-name">' + esc(name) + '</span></span>';
   }
-  function gameEl(g) {
+  function gameEl(g, past) {
     var el = document.createElement('div');
-    el.className = 'game' + (g.status ? ' is-off' : '');
+    el.className = 'game' + (g.status ? ' is-off' : '') + (past ? ' is-past' : '');
     var away = g.home === false;
     el.innerHTML =
       '<div class="game-time">' + (g.timeLabel ? esc(g.timeLabel) : 'TBA') + '<small>' + (away ? 'Away' : 'Home') + '</small></div>' +
@@ -115,11 +118,8 @@
       '<div class="game-side ' + (away ? '' : 'home') + '">' + (away ? '@ ' : 'vs ') + '</div>';
     return el;
   }
-
-  function renderUpcoming() {
-    var wrap = $('.view-upcoming'), agenda = $('.agenda', wrap), empty = $('.empty', wrap), more = $('.load-more', wrap);
-    var games = ALL.filter(function (g) { return g.date >= TODAY && match(g); })
-      .sort(function (a, b) { return a.date === b.date ? (a.time || '99:99').localeCompare(b.time || '99:99') : a.date.localeCompare(b.date); });
+  function renderAgenda(wrap, games) {
+    var agenda = $('.agenda', wrap), empty = $('.empty', wrap), more = $('.load-more', wrap);
     agenda.innerHTML = '';
     if (!games.length) { empty.hidden = false; more.hidden = true; return; }
     empty.hidden = true;
@@ -127,55 +127,22 @@
     var dates = Object.keys(byDate).sort();
     var shown = dates.slice(0, state.days);
     shown.forEach(function (d) {
-      var lab = dayLabel(d);
-      var h = document.createElement('div'); h.className = 'day-head' + (lab.today ? ' is-today' : '');
+      var lab = dayLabel(d), past = d < TODAY;
+      var h = document.createElement('div'); h.className = 'day-head' + (lab.today ? ' is-today' : '') + (past ? ' is-past' : '');
       h.innerHTML = '<b>' + esc(lab.big) + '</b><span>' + esc(lab.sub) + '</span><em>' + byDate[d].length + ' game' + (byDate[d].length > 1 ? 's' : '') + '</em>';
       agenda.appendChild(h);
-      byDate[d].forEach(function (g) { agenda.appendChild(gameEl(g)); });
+      byDate[d].forEach(function (g) { agenda.appendChild(gameEl(g, past)); });
     });
     more.hidden = shown.length >= dates.length;
   }
-
-  function renderCalendar() {
-    var wrap = $('.view-calendar');
-    if (!state.calMonth) state.calMonth = (INDEX.months || []).filter(function (m) { return m >= TODAY.slice(0, 7); })[0] || (INDEX.months || [])[0] || TODAY.slice(0, 7);
-    var m = state.calMonth, y = +m.slice(0, 4), mo = +m.slice(5, 7) - 1;
-    $('.cal-title', wrap).textContent = MON[mo] + ' ' + y;
-    var grid = $('.cal-grid', wrap); grid.innerHTML = '';
-    ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].forEach(function (d) { var c = document.createElement('div'); c.className = 'cal-dow'; c.textContent = d; grid.appendChild(c); });
-    var first = new Date(y, mo, 1).getDay(), days = new Date(y, mo + 1, 0).getDate();
-    var counts = filteredDateCounts(m);
-    for (var i = 0; i < first; i++) { var e = document.createElement('div'); e.className = 'cal-cell empty-cell'; grid.appendChild(e); }
-    for (var d = 1; d <= days; d++) {
-      var ds = m + '-' + String(d).padStart(2, '0');
-      var n = counts[ds] || 0;
-      var cell = document.createElement('div');
-      cell.className = 'cal-cell' + (n ? ' has-games' : '') + (ds === TODAY ? ' is-today' : '') + (ds === state.selDate ? ' is-selected' : '');
-      cell.innerHTML = '<span class="cal-num">' + d + '</span>' + (n ? '<span class="cal-count"><b>' + n + '</b> game' + (n > 1 ? 's' : '') + '</span>' : '');
-      if (n) { cell.setAttribute('data-date', ds); cell.setAttribute('role', 'button'); cell.setAttribute('tabindex', '0'); }
-      grid.appendChild(cell);
-    }
-    renderCalDay();
+  function renderUpcoming() {
+    renderAgenda($('.view-upcoming'), ALL.filter(function (g) { return g.date >= TODAY && match(g); }).sort(byDateTime));
   }
-  function filteredDateCounts(month) {
-    var c = {};
-    ALL.forEach(function (g) { if (g.date.slice(0, 7) === month && match(g)) c[g.date] = (c[g.date] || 0) + 1; });
-    return c;
+  function renderFull() {
+    var wrap = $('.view-full'), hint = $('.full-hint', wrap);
+    if (hint) hint.hidden = hasFilter();
+    renderAgenda(wrap, ALL.filter(match).sort(byDateTime));
   }
-  function renderCalDay() {
-    var box = $('.cal-day');
-    if (!state.selDate) { box.innerHTML = '<p class="cal-hint">Pick a date above to see that day&rsquo;s games.</p>'; return; }
-    var games = ALL.filter(function (g) { return g.date === state.selDate && match(g); })
-      .sort(function (a, b) { return (a.time || '99:99').localeCompare(b.time || '99:99'); });
-    var lab = dayLabel(state.selDate);
-    box.innerHTML = '';
-    var h = document.createElement('div'); h.className = 'day-head' + (lab.today ? ' is-today' : '');
-    h.innerHTML = '<b>' + esc(lab.big) + '</b><span>' + esc(lab.sub) + '</span><em>' + games.length + ' game' + (games.length !== 1 ? 's' : '') + '</em>';
-    box.appendChild(h);
-    if (!games.length) { box.insertAdjacentHTML('beforeend', '<p class="empty">No games match those filters on this day.</p>'); return; }
-    games.forEach(function (g) { box.appendChild(gameEl(g)); });
-  }
-
   function groupBy(arr, k) { var o = {}; arr.forEach(function (x) { (o[x[k]] = o[x[k]] || []).push(x); }); return o; }
   function esc(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
 
@@ -184,6 +151,7 @@
   function allFeed() { return (FEEDMAN && FEEDMAN.all) || 'feeds/all.ics'; }
   function buildSubscribe() {
     var scope = $('#sub-scope'), lvl = $('#sub-level');
+    if (!scope) return;
     if (FEEDMAN) {
       var sg = $('optgroup[data-group="schools"]', scope), pg = $('optgroup[data-group="sports"]', scope);
       (FEEDMAN.schools || []).forEach(function (s) { SCHOOL_PATH[s.slug] = s; var o = document.createElement('option'); o.value = 'school:' + s.slug; o.textContent = s.name; sg.appendChild(o); });
@@ -196,65 +164,38 @@
     lvl.addEventListener('change', updateSubscribe);
     updateSubscribe();
   }
-  function currentFeedPath() {
-    var v = $('#sub-scope').value, lvl = $('#sub-level').value;
-    if (v.indexOf('school:') === 0) { var sc = SCHOOL_PATH[v.slice(7)]; return sc ? sc.path : allFeed(); }
+  function currentFeed(kind) {
+    var v = $('#sub-scope').value, lvl = $('#sub-level').value, key = kind === 'rss' ? 'rss' : 'path';
+    var fallback = kind === 'rss' ? ((FEEDMAN && FEEDMAN.rss) || 'feeds/rss.xml') : allFeed();
+    if (v.indexOf('school:') === 0) { var sc = SCHOOL_PATH[v.slice(7)]; return sc ? (sc[key] || sc.path) : fallback; }
     if (v.indexOf('sport:') === 0) {
       var sp = SPORT_BY_SLUG[v.slice(6)];
-      if (sp && lvl) { var mm = (FEEDMAN.sportLevels || []).filter(function (x) { return x.sport === sp.name && x.level === lvl; })[0]; if (mm) return mm.path; }
-      return sp ? sp.path : allFeed();
+      if (sp && lvl) { var mm = (FEEDMAN.sportLevels || []).filter(function (x) { return x.sport === sp.name && x.level === lvl; })[0]; if (mm) return mm[key] || mm.path; }
+      return sp ? (sp[key] || sp.path) : fallback;
     }
-    return allFeed();
+    return fallback;
   }
   function updateSubscribe() {
     $('.sub-level').hidden = $('#sub-scope').value.indexOf('sport:') !== 0;
-    var path = currentFeedPath(), https = absUrl(path), webcal = https.replace(/^https?:/, 'webcal:');
+    var path = currentFeed('ics'), https = absUrl(path), webcal = https.replace(/^https?:/, 'webcal:');
     $('[data-sub="apple"]').href = webcal;
-    $('[data-sub="outlook"]').href = 'https://outlook.live.com/calendar/0/addfromweb?url=' + encodeURIComponent(https) + '&name=' + encodeURIComponent('NJIC');
+    $('[data-sub="outlook"]').href = 'https://outlook.live.com/calendar/0/addfromweb?url=' + encodeURIComponent(https) + '&name=' + encodeURIComponent(CONF);
     $('[data-sub="google"]').href = 'https://calendar.google.com/calendar/r?cid=' + encodeURIComponent(webcal);
     $('[data-sub="download"]').href = path;
     $('.sub-url').value = https;
+    var rssIn = $('.sub-rss-url'); if (rssIn) rssIn.value = absUrl(currentFeed('rss'));
   }
 
-  function icsFromGames(list, name) {
-    var VTZ = ['BEGIN:VTIMEZONE', 'TZID:America/New_York',
-      'BEGIN:DAYLIGHT', 'TZOFFSETFROM:-0500', 'TZOFFSETTO:-0400', 'TZNAME:EDT', 'DTSTART:19700308T020000', 'RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU', 'END:DAYLIGHT',
-      'BEGIN:STANDARD', 'TZOFFSETFROM:-0400', 'TZOFFSETTO:-0500', 'TZNAME:EST', 'DTSTART:19701101T020000', 'RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU', 'END:STANDARD', 'END:VTIMEZONE'];
-    var out = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//AthlitIQ//NJIC Schedule//EN', 'CALSCALE:GREGORIAN', 'X-WR-CALNAME:' + name, 'X-WR-TIMEZONE:America/New_York'].concat(VTZ);
-    var esc2 = function (s) { return String(s || '').replace(/\\/g, '\\\\').replace(/;/g, '\\;').replace(/,/g, '\\,').replace(/\n/g, '\\n'); };
-    list.forEach(function (g, i) {
-      var ymd = g.date.replace(/-/g, ''), vs = g.home === false ? 'at' : 'vs';
-      out.push('BEGIN:VEVENT', 'UID:njic-' + ymd + '-' + i + '@view', 'DTSTAMP:' + new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '').slice(0, 15) + 'Z');
-      if (g.time) {
-        var hm = g.time.replace(':', '') + '00';
-        var end = new Date(g.date + 'T' + g.time + ':00'); end.setHours(end.getHours() + 2);
-        var eh = String(end.getHours()).padStart(2, '0') + String(end.getMinutes()).padStart(2, '0') + '00';
-        out.push('DTSTART;TZID=America/New_York:' + ymd + 'T' + hm, 'DTEND;TZID=America/New_York:' + ymd + 'T' + eh);
-      } else out.push('DTSTART;VALUE=DATE:' + ymd);
-      out.push('SUMMARY:' + esc2(g.school + ' ' + vs + ' ' + (g.opponent || 'TBD') + ' (' + [g.level, g.gender, g.sport].filter(Boolean).join(' ') + ')'));
-      if (g.status) out.push('STATUS:CANCELLED');
-      out.push('END:VEVENT');
-    });
-    out.push('END:VCALENDAR');
-    return out.join('\r\n');
-  }
-  function exportView() {
-    var games = ALL.filter(function (g) { return g.date >= TODAY && match(g); })
-      .sort(function (a, b) { return a.date === b.date ? (a.time || '99:99').localeCompare(b.time || '99:99') : a.date.localeCompare(b.date); });
-    var name = 'NJIC' + (state.school ? ' — ' + state.school : '') + (state.sport ? ' — ' + state.sport : '');
-    var blob = new Blob([icsFromGames(games, name)], { type: 'text/calendar' });
-    var a = document.createElement('a'); a.href = URL.createObjectURL(blob);
-    a.download = 'njic-schedule.ics'; document.body.appendChild(a); a.click(); a.remove();
-  }
-
+  // ---- print (mirrors the active view) ----
   function printView() {
-    var games = ALL.filter(function (g) { return g.date >= TODAY && match(g); })
-      .sort(function (a, b) { return a.date === b.date ? (a.time || '99:99').localeCompare(b.time || '99:99') : a.date.localeCompare(b.date); });
+    var full = state.view === 'full';
+    var games = ALL.filter(function (g) { return (full || g.date >= TODAY) && match(g); }).sort(byDateTime);
     var scope = [state.school, state.sport, state.level].filter(Boolean).join(' · ') || 'All schools · all sports';
     var byDate = groupBy(games, 'date');
     var gen = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-    var html = '<div class="print-head"><h1>North Jersey Interscholastic Conference</h1>' +
-      '<h2>' + esc(scope) + '</h2><p>' + games.length + ' upcoming game' + (games.length !== 1 ? 's' : '') + ' · as of ' + gen + '</p></div>';
+    var kind = full ? 'full schedule' : 'upcoming';
+    var html = '<div class="print-head"><h1>' + esc(CONF) + '</h1>' +
+      '<h2>' + esc(scope) + '</h2><p>' + games.length + ' ' + kind + ' game' + (games.length !== 1 ? 's' : '') + ' · as of ' + gen + '</p></div>';
     Object.keys(byDate).sort().forEach(function (d) {
       var lab = dayLabel(d);
       html += '<h3 class="print-day">' + esc((lab.today ? 'Today — ' : '') + DOW[parseDate(d).getDay()] + ', ' + lab.sub.replace(/^[A-Za-z]+ · /, '')) + '</h3><table class="print-tbl"><tbody>';
@@ -278,42 +219,38 @@
         $$('.view-btn').forEach(function (x) { x.classList.remove('is-on'); x.setAttribute('aria-selected', 'false'); });
         b.classList.add('is-on'); b.setAttribute('aria-selected', 'true');
         state.view = b.dataset.view;
+        state.days = initialDays();
         $('.view-upcoming').hidden = state.view !== 'upcoming';
-        $('.view-calendar').hidden = state.view !== 'calendar';
+        $('.view-full').hidden = state.view !== 'full';
         render();
       });
     });
     $$('[data-filter]').forEach(function (el) {
       var ev = el.tagName === 'SELECT' ? 'change' : 'input';
-      el.addEventListener(ev, function () { state[el.dataset.filter] = el.value; state.days = 10; state.selDate = null; render(); });
+      el.addEventListener(ev, function () { state[el.dataset.filter] = el.value; state.days = initialDays(); render(); });
     });
     $('[data-clear]').addEventListener('click', function () {
-      state.sport = state.school = state.level = state.q = ''; state.days = 10; state.selDate = null;
-      $('#f-sport').value = ''; $('#f-school').value = ''; $('#f-level').value = ''; $('#f-search').value = '';
+      state.sport = state.school = state.level = state.q = ''; state.days = initialDays();
+      ['#f-sport', '#f-school', '#f-level', '#f-search'].forEach(function (s) { var el = $(s); if (el) el.value = ''; });
       render();
     });
-    $('.load-more').addEventListener('click', function () { state.days += 10; renderUpcoming(); });
-    $('[data-cal-prev]').addEventListener('click', function () { stepMonth(-1); });
-    $('[data-cal-next]').addEventListener('click', function () { stepMonth(1); });
-    $('.cal-grid').addEventListener('click', function (e) { var c = e.target.closest('[data-date]'); if (c) { state.selDate = c.dataset.date; render(); } });
-    $('.cal-grid').addEventListener('keydown', function (e) { if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset.date) { e.preventDefault(); state.selDate = e.target.dataset.date; render(); } });
-    $('[data-export-view]').addEventListener('click', exportView);
-    $('[data-print-view]').addEventListener('click', printView);
+    $$('.load-more').forEach(function (b) { b.addEventListener('click', function () { state.days += 20; render(); }); });
+    $$('[data-print-view]').forEach(function (b) { b.addEventListener('click', printView); });
     // subscribe drawer
     $$('[data-open-subscribe]').forEach(function (b) { b.addEventListener('click', openSub); });
     $('[data-close-subscribe]').addEventListener('click', closeSub);
     $('.sub-backdrop').addEventListener('click', function (e) { if (e.target === this) closeSub(); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeSub(); });
-    $('[data-copy-url]').addEventListener('click', function () {
-      var u = $('.sub-url'); u.select();
-      navigator.clipboard ? navigator.clipboard.writeText(u.value) : document.execCommand('copy');
-      this.textContent = 'Copied!'; var t = this; setTimeout(function () { t.textContent = 'Copy link'; }, 1600);
-    });
-    $('.foot-year').textContent = new Date().getFullYear();
+    var cp = $('[data-copy-url]');
+    if (cp) cp.addEventListener('click', function () { copyFrom($('.sub-url'), this, 'Copy link'); });
+    var cr = $('[data-copy-rss]');
+    if (cr) cr.addEventListener('click', function () { copyFrom($('.sub-rss-url'), this, 'Copy RSS'); });
+    var fy = $('.foot-year'); if (fy) fy.textContent = new Date().getFullYear();
   }
-  function stepMonth(dir) {
-    var m = state.calMonth || TODAY.slice(0, 7), y = +m.slice(0, 4), mo = +m.slice(5, 7) - 1 + dir;
-    var d = new Date(y, mo, 1); state.calMonth = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0'); state.selDate = null; renderCalendar();
+  function copyFrom(input, btn, label) {
+    input.select();
+    navigator.clipboard ? navigator.clipboard.writeText(input.value) : document.execCommand('copy');
+    btn.textContent = 'Copied!'; setTimeout(function () { btn.textContent = label; }, 1600);
   }
   function maybeAutoSub() {
     var force = /[?&]sub\b/.test(location.search);

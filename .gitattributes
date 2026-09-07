@@ -1,3 +1,3 @@
-# iCalendar feeds must use CRLF line endings per RFC 5545 (git would otherwise
-# normalize them to LF). Everything else keeps its default handling.
-*.ics text eol=crlf
+# iCalendar feeds must keep CRLF line endings (RFC 5545). Store them as exact
+# bytes so git never normalizes to LF and hosts re-serve them verbatim.
+*.ics binary

@@ -19,6 +19,22 @@ const doc = JSON.parse(fs.readFileSync(SRC, 'utf8'));
 const games = doc.games || [];
 if (!games.length) throw new Error('schedule.json has no games - refusing to publish an empty calendar');
 
+// The same school is spelled differently depending on whose DigitalSports page a
+// game was scraped from - e.g. "Lyndhurst" on its own page but "Lyndhurst High
+// School" when it is the opponent on someone else's. That breaks the exact-match
+// school filter (away games silently vanish) and shows a team under two names.
+// Collapse every name to one canonical form from the roster before splitting.
+const roster = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts', 'ds-schools.json'), 'utf8'));
+const SLUG2NAME = {};
+(roster.schools || roster).forEach(s => { if (s.slug) SLUG2NAME[s.slug] = s.name; });
+function canonical(name) { if (!name) return name; const sl = logoSlug(name); return (sl && SLUG2NAME[sl]) || name; }
+for (const g of games) {
+    g.school = canonical(g.school);
+    if (g.opponent) g.opponent = canonical(g.opponent);
+    if (Array.isArray(g.schools)) g.schools = g.schools.map(canonical);
+}
+fs.writeFileSync(SRC, JSON.stringify(doc) + '\n');   // keep the source (and thus the feeds built after this) consistent too
+
 fs.mkdirSync(OUT, { recursive: true });
 
 // clear out months that no longer have games, so a stale file cannot linger

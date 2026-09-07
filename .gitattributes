@@ -1,0 +1,3 @@
+# iCalendar feeds must use CRLF line endings per RFC 5545 (git would otherwise
+# normalize them to LF). Everything else keeps its default handling.
+*.ics text eol=crlf

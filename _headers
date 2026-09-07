@@ -3,13 +3,14 @@
 /feeds/all.ics
   Content-Type: text/calendar; charset=utf-8
   Cache-Control: public, max-age=1800
-/feeds/schools/*
+# extension-specific so the .ics and .xml feeds in these folders don't both
+# match one rule (Cloudflare merges matching headers rather than overriding).
+/feeds/schools/*.ics
   Content-Type: text/calendar; charset=utf-8
   Cache-Control: public, max-age=1800
-/feeds/sports/*
+/feeds/sports/*.ics
   Content-Type: text/calendar; charset=utf-8
   Cache-Control: public, max-age=1800
-# per-scope RSS lives alongside the .ics — override those .xml files back to RSS
 /feeds/schools/*.xml
   Content-Type: application/rss+xml; charset=utf-8
   Cache-Control: public, max-age=1800

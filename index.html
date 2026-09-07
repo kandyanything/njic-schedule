@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The full North Jersey Interscholastic Conference schedule — every game, every school, in one place. Filter by sport or school, and subscribe from Google, Apple or Outlook calendars.">
+    <title>NJIC Conference Schedule</title>
+    <link rel="canonical" href="/">
+    <meta name="theme-color" content="#0f2a55">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="NJIC Conference Schedule">
+    <meta property="og:description" content="Every North Jersey Interscholastic Conference game, one schedule. Subscribe from any calendar.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/schedule.css">
+    <link rel="alternate" type="application/rss+xml" title="NJIC Upcoming Games" href="/feeds/rss.xml">
+</head>
+<body>
+
+    <header class="site-head">
+        <div class="wrap head-inner">
+            <a class="brand" href="/">
+                <span class="brand-mark" aria-hidden="true">NJIC</span>
+                <span class="brand-text">
+                    <b>North Jersey Interscholastic Conference</b>
+                    <span>Conference Schedule</span>
+                </span>
+            </a>
+            <nav class="head-actions">
+                <a class="link-muted" href="https://njicathletics.org/" target="_blank" rel="noopener">NJIC Home &#8599;</a>
+                <button type="button" class="btn btn--gold" data-open-subscribe>Add to Calendar</button>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="wrap hero-inner">
+            <div class="hero-copy">
+                <h1>Every NJIC game.<br>One schedule.</h1>
+                <p>All 35 member schools, every sport — assembled automatically from each school&rsquo;s feed and refreshed through the day. Filter it, follow it, or subscribe from your own calendar.</p>
+                <div class="hero-cta">
+                    <button type="button" class="btn btn--gold btn--lg" data-open-subscribe>Subscribe to the schedule</button>
+                    <a class="btn btn--ghost btn--lg" href="#board">Browse games</a>
+                </div>
+            </div>
+            <ul class="hero-stats" aria-label="At a glance">
+                <li><b data-stat="schools">35</b><span>Schools</span></li>
+                <li><b data-stat="games">&mdash;</b><span>Games</span></li>
+                <li><b data-stat="sports">&mdash;</b><span>Sports</span></li>
+                <li><b data-stat="updated">&mdash;</b><span>Last updated</span></li>
+            </ul>
+        </div>
+    </section>
+
+    <main class="board" id="board">
+        <div class="wrap">
+            <div class="controls" role="region" aria-label="Filters and view">
+                <div class="view-toggle" role="tablist" aria-label="View">
+                    <button type="button" class="view-btn is-on" data-view="upcoming" role="tab" aria-selected="true"><svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1" y="2" width="4" height="3" rx="1"/><rect x="6" y="2.5" width="9" height="2" rx="1"/><rect x="1" y="6.5" width="4" height="3" rx="1"/><rect x="6" y="7" width="9" height="2" rx="1"/><rect x="1" y="11" width="4" height="3" rx="1"/><rect x="6" y="11.5" width="9" height="2" rx="1"/></svg>Upcoming</button>
+                    <button type="button" class="view-btn" data-view="calendar" role="tab" aria-selected="false"><svg class="view-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><rect x="1.5" y="3" width="13" height="11.5" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M1.5 6.5h13" stroke="currentColor" stroke-width="1.6" fill="none"/><rect x="4" y="1" width="1.6" height="3.2" rx=".8"/><rect x="10.4" y="1" width="1.6" height="3.2" rx=".8"/></svg>Calendar</button>
+                </div>
+                <div class="filters">
+                    <label class="sr-only" for="f-sport">Sport</label>
+                    <select id="f-sport" class="filter" data-filter="sport"><option value="">All sports</option></select>
+                    <label class="sr-only" for="f-school">School</label>
+                    <select id="f-school" class="filter" data-filter="school"><option value="">All schools</option></select>
+                    <label class="sr-only" for="f-level">Level</label>
+                    <select id="f-level" class="filter" data-filter="level"><option value="">All levels</option></select>
+                    <label class="sr-only" for="f-search">Search</label>
+                    <input id="f-search" class="filter filter--search" type="search" placeholder="Search a team…" data-filter="q">
+                    <button type="button" class="filter-clear" data-clear hidden>Clear</button>
+                </div>
+                <div class="controls-right">
+                    <button type="button" class="btn btn--soft btn--sm" data-print-view>Print</button>
+                    <button type="button" class="btn btn--soft btn--sm" data-export-view>Export (.ics)</button>
+                </div>
+            </div>
+
+            <!-- Upcoming (list) view -->
+            <section class="view view-upcoming" aria-live="polite">
+                <div class="agenda"></div>
+                <p class="empty" hidden>No games match those filters.</p>
+                <button type="button" class="btn btn--soft load-more" hidden>Load more dates</button>
+            </section>
+
+            <!-- Calendar (month grid) view -->
+            <section class="view view-calendar" hidden>
+                <div class="cal-bar">
+                    <button type="button" class="cal-nav" data-cal-prev aria-label="Previous month">&#8249;</button>
+                    <h2 class="cal-title"></h2>
+                    <button type="button" class="cal-nav" data-cal-next aria-label="Next month">&#8250;</button>
+                </div>
+                <div class="cal-grid"></div>
+                <div class="cal-day">
+                    <p class="cal-hint">Pick a date above to see that day&rsquo;s games.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Subscribe / export drawer -->
+    <div class="sub-backdrop" hidden>
+        <div class="sub" role="dialog" aria-modal="true" aria-labelledby="sub-title">
+            <button type="button" class="sub-x" aria-label="Close" data-close-subscribe>&times;</button>
+            <h2 id="sub-title">Add the schedule to your calendar</h2>
+            <p class="sub-lede">Subscribe once and it stays up to date — new games, time changes and cancellations flow in automatically.</p>
+
+            <div class="sub-pick">
+                <label for="sub-scope">What do you want to follow?</label>
+                <select id="sub-scope" class="filter">
+                    <option value="all">The whole conference</option>
+                    <optgroup label="A school" data-group="schools"></optgroup>
+                    <optgroup label="A sport" data-group="sports"></optgroup>
+                </select>
+            </div>
+
+            <div class="sub-pick sub-level" hidden>
+                <label for="sub-level">Level (optional, for a sport)</label>
+                <select id="sub-level" class="filter"><option value="">All levels</option></select>
+            </div>
+
+            <div class="sub-actions">
+                <a class="sub-btn" data-sub="google" target="_blank" rel="noopener"><span>Google Calendar</span></a>
+                <a class="sub-btn" data-sub="apple"><span>Apple Calendar</span></a>
+                <a class="sub-btn" data-sub="outlook" target="_blank" rel="noopener"><span>Outlook</span></a>
+                <a class="sub-btn" data-sub="download" download><span>Download .ics</span></a>
+            </div>
+            <div class="sub-copy">
+                <input type="text" class="sub-url" readonly aria-label="Calendar feed URL">
+                <button type="button" class="btn btn--soft btn--sm" data-copy-url>Copy link</button>
+            </div>
+            <p class="sub-foot">Prefer a reader? <a data-sub="rss" href="/feeds/rss.xml">Follow upcoming games by RSS</a>. On Google Calendar, use <em>Other calendars → From URL</em> and paste the link above.</p>
+        </div>
+    </div>
+
+    <footer class="site-foot">
+        <div class="wrap foot-inner">
+            <div>
+                <b>North Jersey Interscholastic Conference</b>
+                <p>Schedules are assembled from each school&rsquo;s published DigitalSports feed. Unofficial; confirm details with the school. <span class="foot-updated"></span></p>
+            </div>
+            <div class="foot-links">
+                <a href="https://njicathletics.org/" target="_blank" rel="noopener">NJIC Home</a>
+                <a href="/feeds/all.ics">Full calendar (.ics)</a>
+                <a href="/feeds/rss.xml">RSS</a>
+            </div>
+        </div>
+        <div class="wrap foot-credit">
+            <span>&copy; <span class="foot-year"></span> North Jersey Interscholastic Conference</span>
+            <a class="atq" href="https://athlitiq.com" target="_blank" rel="noopener">Built by AthlitIQ</a>
+        </div>
+    </footer>
+
+    <script src="js/schedule.js"></script>
+</body>
+</html>

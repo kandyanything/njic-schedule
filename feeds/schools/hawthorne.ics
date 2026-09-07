@@ -1,0 +1,1835 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Hawthorne
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2646:7460571@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260804T150000
+DTEND;TZID=America/New_York:20260804T170000
+SUMMARY:Hawthorne at Manchester Regional High School (Varsity Boys Footba
+ ll)
+DESCRIPTION:Varsity Boys Football - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7461998@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260818T090000
+DTEND;TZID=America/New_York:20260818T110000
+SUMMARY:Glen Rock vs Hawthorne High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7449224@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260821T100000
+DTEND;TZID=America/New_York:20260821T120000
+SUMMARY:Hawthorne vs Pompton Lakes High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7461537@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Hawthorne at Manchester Regional High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7461538@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Hawthorne vs Manchester Regional High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7501647@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Hawthorne at DePaul Catholic High School (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7576712@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Hawthorne Christian vs Hawthorne High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7554729@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Hawthorne Christian vs Hawthorne High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7576732@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Hawthorne Christian at Hawthorne High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7515637@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Hawthorne at Indian Hills High School (Junior Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7547155@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Hawthorne at Indian Hills High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7576725@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T100000
+DTEND;TZID=America/New_York:20260827T120000
+SUMMARY:Eastern Christian vs Hawthorne High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7464975@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T110000
+DTEND;TZID=America/New_York:20260827T130000
+SUMMARY:Eastern Christian vs Hawthorne High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7464974@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T160000
+DTEND;TZID=America/New_York:20260827T180000
+SUMMARY:Eastern Christian at Hawthorne High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7459991@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T190000
+DTEND;TZID=America/New_York:20260827T210000
+SUMMARY:Hawthorne vs North Arlington High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7503395@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Hawthorne at Leonia High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7543909@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Hawthorne at Fair Lawn High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7521614@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T113000
+DTEND;TZID=America/New_York:20260829T133000
+SUMMARY:Hawthorne at Fair Lawn High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440016@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Hawthorne at Secaucus High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455344@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Hawthorne vs Saddle Brook High School (Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7511702@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Hawthorne at Saddle Brook High School (Freshman Girls Girls Volle
+ yball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7511787@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T173000
+DTEND;TZID=America/New_York:20260901T193000
+SUMMARY:Hawthorne vs Saddle Brook High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454951@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Hawthorne at Leonia High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440031@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Hawthorne vs Lodi High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455354@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T163000
+DTEND;TZID=America/New_York:20260903T183000
+SUMMARY:Hawthorne at Saddle River Day School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7582035@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T163000
+DTEND;TZID=America/New_York:20260903T183000
+SUMMARY:Hawthorne at Saddle River Day School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7435756@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T180000
+DTEND;TZID=America/New_York:20260903T200000
+SUMMARY:Hasbrouck Heights vs Hawthorne High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7608834@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T100000
+DTEND;TZID=America/New_York:20260904T120000
+SUMMARY:Hasbrouck Heights at Hawthorne High School (Junior Varsity Boys F
+ ootball)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452561@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260906T150000
+DTEND;TZID=America/New_York:20260906T170000
+SUMMARY:Hasbrouck Heights at Hawthorne High School (Junior Varsity Boys F
+ ootball)
+DESCRIPTION:Junior Varsity Boys Football - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499631@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Cresskill at Hawthorne High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455365@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Cresskill vs Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440069@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Hawthorne vs Palisades Park High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458985@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T174500
+DTEND;TZID=America/New_York:20260908T194500
+SUMMARY:Cresskill vs Hawthorne High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440015@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Hawthorne at Saddle River Day School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455056@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Hawthorne vs Wood-Ridge/Wallington (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7613477@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Hawthorne at Palisades Park High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7455056@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Wallington at Hawthorne High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7455056@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Wood-Ridge at Hawthorne High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7534125@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Glen Rock vs Hawthorne High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455386@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Glen Rock at Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7455128@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Hasbrouck Heights at Hawthorne High School (Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7531546@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Hawthorne vs Wayne Valley High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484262@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Eastern Christian vs Hawthorne High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484355@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T173000
+DTEND;TZID=America/New_York:20260911T193000
+SUMMARY:Eastern Christian vs Hawthorne High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7586632@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Garfield vs Hawthorne High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7586632@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Hawthorne at Garfield High School (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455137@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Hawthorne at Mary Help Of Christians Academy (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454954@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Hawthorne at Park Ridge High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440050@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Hawthorne vs Midland Park High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455137@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Mary Help vs Hawthorne High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454953@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hawthorne at New Milford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455402@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hawthorne vs New Milford High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440014@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Hawthorne at Paterson Charter School Of Science and Technology (V
+ arsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7440014@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:PCSST vs Hawthorne High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455148@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:Hawthorne at Palisades Park High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454991@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Hawthorne vs Midland Park High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455417@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Hawthorne at Lyndhurst High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7556655@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Hawthorne Christian vs Hawthorne High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7452156@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T190000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Hawthorne at Saddle Brook High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7452390@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Hawthorne vs Saddle Brook High School (Junior Varsity Boys Footba
+ ll)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7439965@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455429@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7535779@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7592438@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Hawthorne Christian vs Hawthorne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7531755@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Hawthorne Christian at Hawthorne High School (Middle School Boys 
+ Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7454899@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Butler at Hawthorne High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455455@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Hawthorne vs Secaucus High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440017@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Hawthorne at Weehawken High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7508884@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Hawthorne at Waldwick High School (Middle School Girls Girls Socc
+ er)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7511123@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Hawthorne vs Waldwick High School (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7575605@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Hawthorne vs Pompton Lakes High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455460@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Bogota vs Hawthorne High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7455155@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Elmwood Park at Hawthorne High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532541@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Hawthorne vs Waldwick Middle School (Middle School Boys Boys Socc
+ er)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455155@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Hawthorne vs Elmwood Park Memorial High School (Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7449892@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T163000
+DTEND;TZID=America/New_York:20260925T183000
+SUMMARY:Hawthorne at Pompton Lakes High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7459933@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Butler at Hawthorne High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455481@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Hawthorne vs Park Ridge High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7446477@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Emerson at Hawthorne High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454950@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Hawthorne at Harrison High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7446477@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Hawthorne vs Emerson Jr-Sr High School (Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455493@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Hawthorne at Waldwick High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455181@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Hawthorne vs Weehawken High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7579782@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T163000
+DTEND;TZID=America/New_York:20261001T183000
+SUMMARY:Becton at Hawthorne High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7579782@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T163000
+DTEND;TZID=America/New_York:20261001T183000
+SUMMARY:Hawthorne vs Henry P Becton Regional High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455506@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill at Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532591@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Hawthorne at Haledon Middle School (Middle School Boys Boys Socce
+ r)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7599469@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Hawthorne vs Haledon Middle School (Middle School Girls Girls Soc
+ cer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458994@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cresskill at Hawthorne High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462007@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Hawthorne vs Secaucus High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440116@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Hawthorne vs Saddle River Day School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455525@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Hawthorne at New Milford High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455536@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Glen Rock vs Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454996@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Hawthorne vs New Milford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7612779@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Hawthorne at Hackensack High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440013@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Hawthorne at Midland Park High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532593@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Hawthorne vs Saddle River Day School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7532593@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Saddle River Day at Hawthorne High School (Middle School Coed Coe
+ d Soccer)
+DESCRIPTION:Middle School Coed Coed Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7455195@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Hasbrouck Heights vs Hawthorne High School (Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7454952@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Hawthorne at Midland Park High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532606@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T161500
+DTEND;TZID=America/New_York:20261009T181500
+SUMMARY:Hawthorne at Midland Park High School (Middle School Boys Boys So
+ ccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564477@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T161500
+DTEND;TZID=America/New_York:20261009T181500
+SUMMARY:Hawthorne vs Midland Park High School (Middle School Girls Girls 
+ Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462032@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T183000
+DTEND;TZID=America/New_York:20261009T203000
+SUMMARY:Hawthorne at New Milford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455205@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Hawthorne vs Mary Help Of Christians Academy (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455205@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Mary Help at Hawthorne High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7523544@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Hawthorne at Lakeland Regional High School (Junior Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7497324@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Middle School Boys Bo
+ ys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7497353@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Eastern Christian vs Hawthorne High School (Middle School Girls G
+ irls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455216@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Hawthorne vs Palisades Park High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7581872@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Hawthorne at Lodi High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7592458@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Hawthorne Christian at Hawthorne High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484317@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7455221@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Elmwood Park vs Hawthorne High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455221@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Hawthorne at Elmwood Park Memorial High School (Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7440012@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Eastern Christian vs Hawthorne High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7465543@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Eastern Christian vs Hawthorne High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462109@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Hawthorne at TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7440083@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Hawthorne vs Paterson Charter School Of Science and Technology (V
+ arsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7440083@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:PCSST at Hawthorne High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455008@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Hawthorne vs Park Ridge High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455554@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Hawthorne vs Lyndhurst High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532616@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Hawthorne at Saddle River Day School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7532616@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Saddle River Day vs Hawthorne High School (Middle School Coed Coe
+ d Soccer)
+DESCRIPTION:Middle School Coed Coed Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7599474@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Hawthorne at Haledon Middle School (Middle School Girls Girls Soc
+ cer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7454949@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Butler vs Hawthorne High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455575@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Hawthorne vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7535781@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Hawthorne at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532617@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Hawthorne vs Midland Park Middle School (Middle School Boys Boys 
+ Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7542388@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Hawthorne vs Midland Park High School (Middle School Boys Boys So
+ ccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564504@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Hawthorne at Midland Park High School (Middle School Girls Girls 
+ Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462115@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Hawthorne vs TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7470811@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T161500
+DTEND;TZID=America/New_York:20261024T181500
+SUMMARY:Hawthorne vs Passaic Charter (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7449961@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Hawthorne vs Pompton Lakes High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7575606@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Hawthorne at Pompton Lakes High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455584@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Hawthorne at Secaucus High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7440011@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Bogota vs Hawthorne High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455595@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Bogota at Hawthorne High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7497333@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Eastern Christian vs Hawthorne High School (Middle School Boys Bo
+ ys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7497356@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Middle School Girls G
+ irls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7508914@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261030T161500
+DTEND;TZID=America/New_York:20261030T181500
+SUMMARY:Hawthorne vs Waldwick High School (Middle School Girls Girls Socc
+ er)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7485249@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261208T161500
+DTEND;TZID=America/New_York:20261208T181500
+SUMMARY:Hasbrouck Heights at Hawthorne High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564454@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Hawthorne at Bergenfield High School (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564453@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Hawthorne at Bergenfield High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564455@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T110100
+DTEND;TZID=America/New_York:20261212T130100
+SUMMARY:Hawthorne at Bergenfield High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:01 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7449003@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Emerson at Hawthorne High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7449003@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Hawthorne vs Emerson Jr-Sr High School (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7452939@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Hawthorne vs Pompton Lakes High School (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7572185@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Hawthorne vs Manchester Regional High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7579667@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Hawthorne vs Manchester Regional High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7607984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Hawthorne vs Passaic Charter (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7534342@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Hawthorne at New Milford High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Emerson vs Hawthorne High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Hawthorne at Emerson Jr-Sr High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448985@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270106T174500
+DTEND;TZID=America/New_York:20270106T194500
+SUMMARY:Emerson vs Hawthorne High School (Junior Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448985@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270106T174500
+DTEND;TZID=America/New_York:20270106T194500
+SUMMARY:Hawthorne at Emerson Jr-Sr High School (Junior Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7530838@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T161500
+DTEND;TZID=America/New_York:20270108T181500
+SUMMARY:Hawthorne vs Saddle Brook High School (Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7530928@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Hawthorne vs Saddle Brook High School (Junior Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7554601@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Hawthorne at Ridgefield Memorial High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7580060@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Hawthorne at Manchester Regional High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7580068@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Hawthorne at Manchester Regional High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7456723@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Hawthorne at Pompton Lakes High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7456753@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T180000
+DTEND;TZID=America/New_York:20270115T200000
+SUMMARY:Hawthorne at Pompton Lakes High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7458488@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Hawthorne vs Palisades Park High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7458489@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Hawthorne vs Palisades Park High School (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7590917@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Hawthorne at Bergenfield High School (Middle School Coed Coed Wre
+ stling)
+DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509383@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Middle School Boys Bo
+ ys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7462065@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Emerson at Hawthorne High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462065@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Hawthorne vs Emerson Jr-Sr High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7590919@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Bogota at Hawthorne High School (Middle School Coed Coed Wrestlin
+ g)
+DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448998@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T161500
+DTEND;TZID=America/New_York:20270201T181500
+SUMMARY:Emerson at Hawthorne High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448998@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T161500
+DTEND;TZID=America/New_York:20270201T181500
+SUMMARY:Hawthorne vs Emerson Jr-Sr High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448999@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T174500
+DTEND;TZID=America/New_York:20270201T194500
+SUMMARY:Emerson at Hawthorne High School (Junior Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448999@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T174500
+DTEND;TZID=America/New_York:20270201T194500
+SUMMARY:Hawthorne vs Emerson Jr-Sr High School (Junior Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7530802@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Hawthorne at Saddle Brook High School (Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7537149@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Hawthorne at New Milford High School (Middle School Coed Coed Wre
+ stling)
+DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7607983@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270204T180000
+DTEND;TZID=America/New_York:20270204T200000
+SUMMARY:Hawthorne vs Passaic Charter (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7491140@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270205T163000
+DTEND;TZID=America/New_York:20270205T183000
+SUMMARY:Hawthorne vs Dover High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7491136@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Hawthorne at Dover High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7491137@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Hawthorne at Dover High School (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7543433@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270210T160000
+DTEND;TZID=America/New_York:20270210T180000
+SUMMARY:Hawthorne at Haledon Middle School (Middle School Coed Coed Wrest
+ ling)
+DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7553260@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270330T161500
+DTEND;TZID=America/New_York:20270330T181500
+SUMMARY:Garfield at Hawthorne High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7564714@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270330T161500
+DTEND;TZID=America/New_York:20270330T181500
+SUMMARY:Hawthorne vs North Arlington High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7580304@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T160000
+DTEND;TZID=America/New_York:20270331T180000
+SUMMARY:Hawthorne at Pompton Lakes High School (Varsity Boys Boys Lacross
+ e)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7580305@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T173000
+DTEND;TZID=America/New_York:20270331T193000
+SUMMARY:Hawthorne at Pompton Lakes High School (Junior Varsity Boys Boys 
+ Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7539413@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270401T160000
+DTEND;TZID=America/New_York:20270401T180000
+SUMMARY:Hawthorne at Leonia High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7565112@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Elmwood Park at Hawthorne High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7553270@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Hawthorne at Waldwick High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7565112@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Hawthorne vs Elmwood Park Memorial High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7553272@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Butler vs Hawthorne High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556160@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Cresskill at Hawthorne High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Eastern Christian at Hawthorne High School (Varsity Boys Boys Tra
+ ck and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Hawthorne Christian at Hawthorne High School (Varsity Boys Boys T
+ rack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7575504@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Hawthorne vs Hawthorne Christian Academy (Varsity Girls Girls Tra
+ ck and Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Pompton Lakes at Hawthorne High School (Varsity Boys Boys Track a
+ nd Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575504@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Pompton Lakes at Hawthorne High School (Varsity Girls Girls Track
+  and Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7557870@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Hawthorne vs New Milford High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7553309@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T161500
+DTEND;TZID=America/New_York:20270421T181500
+SUMMARY:Hawthorne at Park Ridge High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7553312@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Hawthorne at Lodi High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7563806@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T161500
+DTEND;TZID=America/New_York:20270428T181500
+SUMMARY:Hawthorne vs Saddle Brook High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7542460@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270429T161500
+DTEND;TZID=America/New_York:20270429T181500
+SUMMARY:Hawthorne at Eastern Christian/Hawthorne Christian (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7542462@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7542462@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Hawthorne Christian at Hawthorne High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7553313@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Hawthorne vs Saddle Brook High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7608595@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270507T160000
+DTEND;TZID=America/New_York:20270507T180000
+SUMMARY:Hawthorne at Manchester Regional High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7574764@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270511T160000
+DTEND;TZID=America/New_York:20270511T180000
+SUMMARY:Hawthorne vs Pompton Lakes High School (Junior Varsity Boys Baseb
+ all)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7574763@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Hawthorne at Pompton Lakes High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7518213@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270513T161500
+DTEND;TZID=America/New_York:20270513T181500
+SUMMARY:Eastern Christian at Hawthorne High School (Middle School Coed Co
+ ed Track and Field)
+DESCRIPTION:Middle School Coed Coed Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7518213@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270513T161500
+DTEND;TZID=America/New_York:20270513T181500
+SUMMARY:Hawthorne vs Hoboken High School (Middle School Coed Coed Track a
+ nd Field)
+DESCRIPTION:Middle School Coed Coed Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7608610@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270514T161500
+DTEND;TZID=America/New_York:20270514T181500
+SUMMARY:Hawthorne at Manchester Regional High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7553315@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Hawthorne at Saddle Brook High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+END:VCALENDAR

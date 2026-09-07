@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Boys Track and Field
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2621:7575479@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T160000
+DTEND;TZID=America/New_York:20270329T180000
+SUMMARY:Garfield at Saddle Brook High School (Varsity Boys Boys Track and
+  Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575479@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T160000
+DTEND;TZID=America/New_York:20270329T180000
+SUMMARY:Pompton Lakes at Saddle Brook High School (Varsity Boys Boys Trac
+ k and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7564693@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Midland Park vs Cresskill High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7571631@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270330T160000
+DTEND;TZID=America/New_York:20270330T180000
+SUMMARY:Lyndhurst vs Wallington High School (Varsity Boys Boys Track and 
+ Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7608735@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T160000
+DTEND;TZID=America/New_York:20270331T180000
+SUMMARY:Butler at Manchester Regional High School (Varsity Boys Boys Trac
+ k and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7608735@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T160000
+DTEND;TZID=America/New_York:20270331T180000
+SUMMARY:Hawthorne Christian at Manchester Regional High School (Varsity B
+ oys Boys Track and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564881@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Emerson at New Milford High School (Varsity Boys Boys Track and F
+ ield)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7564881@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:New Milford vs Emerson Jr-Sr High School (Varsity Boys Boys Track
+  and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7564881@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Saddle River Day at New Milford High School (Varsity Boys Boys Tr
+ ack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564739@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Emerson at Waldwick High School (Varsity Boys Boys Track and Fiel
+ d)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7575484@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Garfield vs Pompton Lakes High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7564739@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Leonia at Waldwick High School (Varsity Boys Boys Track and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7575484@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Manchester Regional at Garfield High School (Varsity Boys Boys Tr
+ ack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7564739@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Waldwick vs Emerson Jr-Sr High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7571683@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Rutherford at Secaucus High School (Varsity Boys Boys Track and F
+ ield)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7567952@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Palisades Park at Hasbrouck Heights High School (Varsity Boys Boy
+ s Track and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7571721@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Becton vs Wallington High School (Varsity Boys Boys Track and Fie
+ ld)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Eastern Christian at Hawthorne High School (Varsity Boys Boys Tra
+ ck and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Hawthorne Christian at Hawthorne High School (Varsity Boys Boys T
+ rack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575491@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Pompton Lakes at Hawthorne High School (Varsity Boys Boys Track a
+ nd Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7575493@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Glen Rock vs Saddle Brook High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575493@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Pompton Lakes at Glen Rock High School (Varsity Boys Boys Track a
+ nd Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564717@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Boys Track and Fie
+ ld)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7565556@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Manchester Regional at Hasbrouck Heights High School (Varsity Boy
+ s Boys Track and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7571744@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:North Arlington vs Wallington High School (Varsity Boys Boys Trac
+ k and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7571744@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Saint Mary at North Arlington High School (Varsity Boys Boys Trac
+ k and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7565556@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Wood-Ridge at Hasbrouck Heights High School (Varsity Boys Boys Tr
+ ack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564721@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Boys Track and Fie
+ ld)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7567982@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Emerson vs Palisades Park High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7567982@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Palisades Park at Emerson Jr-Sr High School (Varsity Boys Boys Tr
+ ack and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,3600 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Cresskill
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2582:7462366@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260821T080000
+DTEND;TZID=America/New_York:20260821T100000
+SUMMARY:Cresskill vs Tenafly High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7571130@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260821T090000
+DTEND;TZID=America/New_York:20260821T110000
+SUMMARY:Cresskill at Tenafly High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499404@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cresskill at Westwood Regional Senior High School (Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499405@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cresskill at Westwood Regional Senior High School (Junior Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499408@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cresskill at Westwood Regional Senior High School (Freshman Girls
+  Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7440381@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T160000
+DTEND;TZID=America/New_York:20260824T180000
+SUMMARY:Bogota at Cresskill High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499509@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cresskill vs Wood-Ridge/Wallington (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7499509@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Wallington at Cresskill High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7499509@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Wood-Ridge at Cresskill High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7460919@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Cresskill at Saddle Brook High School (Freshman Girls Girls Volle
+ yball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440383@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cresskill at Pascack Hills High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440502@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cresskill vs Pascack Hills High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7528049@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cresskill vs Hackensack High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7528056@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cresskill vs Hackensack High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7528049@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Saddle Brook at Cresskill High School (Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7528056@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Saddle Brook at Cresskill High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7528050@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260826T120000
+DTEND;TZID=America/New_York:20260826T140000
+SUMMARY:Cresskill vs Saddle Brook High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7445939@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T100000
+DTEND;TZID=America/New_York:20260827T120000
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7445939@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T100000
+DTEND;TZID=America/New_York:20260827T120000
+SUMMARY:Emerson vs Cresskill High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7410318@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Cresskill at Cliffside Park High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7549815@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cresskill at Hackensack High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7557846@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cresskill at Hackensack High School (Junior Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7463244@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T160000
+DTEND;TZID=America/New_York:20260828T180000
+SUMMARY:Cresskill at Tenafly High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513953@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Cresskill at Bergenfield High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499452@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Cresskill at Saddle River Day School (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7528716@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Cresskill at Lyndhurst High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455345@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458983@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T174500
+DTEND;TZID=America/New_York:20260901T194500
+SUMMARY:Cresskill vs Saddle River Day School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440553@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Cresskill at Saint Joseph Regional High School (Freshman Boys Boy
+ s Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454910@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Cresskill at Waldwick High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7605030@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Cresskill at Lyndhurst High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7605032@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Cresskill vs Lyndhurst High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526783@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cresskill at Pompton Lakes High School (Junior Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7452187@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cresskill vs Pompton Lakes High School (Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458960@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455350@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cresskill at Park Ridge High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499626@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cresskill vs Wallington High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7483888@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439952@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T173000
+DTEND;TZID=America/New_York:20260903T193000
+SUMMARY:Cresskill at Park Ridge High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439393@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T180000
+DTEND;TZID=America/New_York:20260903T200000
+SUMMARY:Cresskill at Wood-Ridge High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7515195@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T161500
+DTEND;TZID=America/New_York:20260904T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440585@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T161500
+DTEND;TZID=America/New_York:20260904T181500
+SUMMARY:Cresskill at Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7412494@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T161500
+DTEND;TZID=America/New_York:20260904T181500
+SUMMARY:Cresskill at Academy of the Holy Angels (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439953@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Cresskill at Hawthorne Christian Academy (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499631@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Cresskill at Hawthorne High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458961@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Cresskill vs Hawthorne Christian Academy (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455365@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Cresskill vs Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455115@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Cresskill at Ridgefield Memorial High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526785@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Cresskill vs Ridgefield Memorial High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458985@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T174500
+DTEND;TZID=America/New_York:20260908T194500
+SUMMARY:Cresskill vs Hawthorne High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7474948@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Cresskill at Glen Rock High School (Junior Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454931@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Cresskill vs Glen Rock High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7439945@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Butler at Cresskill High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455129@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill vs Lodi High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455381@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill at New Milford High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526786@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill at Lodi High School (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7502879@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill at Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458986@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Cresskill at New Milford High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439394@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Cresskill vs Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527114@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Cresskill at Cresskill/Emerson (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7603768@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Cresskill at Bergen County Technical High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7603769@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Cresskill vs Bergen County Technical High School (Junior Varsity 
+ Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440641@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T164500
+DTEND;TZID=America/New_York:20260911T184500
+SUMMARY:Cresskill at Eastern Christian (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499651@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Cresskill at Hackensack High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440586@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Cresskill vs Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440043@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Cresskill vs Manchester Regional High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458968@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Cresskill at Manchester Regional High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526878@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Cresskill vs Eastern Christian (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526787@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Cresskill vs Harrison High School (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455135@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Cresskill at Harrison High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454907@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cresskill at Dwight-Englewood School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446281@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cresskill vs Lodi High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455396@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cresskill at Glen Rock High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455728@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:Cresskill at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7477057@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Cresskill at Glen Rock High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7451795@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cresskill at Saddle Brook High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440057@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cresskill vs New Milford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526782@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cresskill vs Saddle Brook High School (Junior Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7454893@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Becton at Cresskill High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526784@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Glen Rock High School (Junior Varsity Girls Girls Te
+ nnis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7410315@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Cliffside Park High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499682@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455423@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454893@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Henry P Becton Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455095@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill at Glen Rock High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458988@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Cresskill vs Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439395@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T200000
+SUMMARY:Cresskill at Glen Rock High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440388@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T083000
+DTEND;TZID=America/New_York:20260919T103000
+SUMMARY:Cresskill at Indian Hills High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458971@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T083000
+DTEND;TZID=America/New_York:20260919T103000
+SUMMARY:Cresskill vs Indian Hills High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7554532@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cresskill at Cresskill/Emerson (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454908@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T161500
+DTEND;TZID=America/New_York:20260919T181500
+SUMMARY:Cresskill at Eastern Christian (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439956@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Cresskill at Saddle Brook High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458964@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Cresskill vs Saddle Brook High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7570259@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Cresskill at Lyndhurst High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455433@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Cresskill vs Lyndhurst High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458989@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Cresskill vs Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525268@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T174500
+DTEND;TZID=America/New_York:20260922T194500
+SUMMARY:Cresskill vs Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525221@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Cresskill vs Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538547@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Cresskill vs Dumont High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516187@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Cresskill vs Franklin Lakes Middle School (Middle School Boys Boy
+ s Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516201@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Cresskill at Franklin Lakes Middle School (Middle School Girls Gi
+ rls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455444@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Bogota vs Cresskill High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446284@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Cresskill at Lodi High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454177@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Cresskill vs Saddle Brook High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7525136@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T193000
+SUMMARY:Bogota vs Cresskill High School (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516209@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cresskill at Brookside Middle School (Middle School Girls Girls V
+ olleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503545@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cresskill vs Brookside Middle School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503557@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cresskill at Brookside Middle School (Middle School Girls Girls S
+ occer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458965@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cresskill vs Wood-Ridge High School (Junior Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439957@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cresskill at Wood-Ridge High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454909@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Cresskill at Lyndhurst High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455158@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Cresskill vs Park Ridge High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455458@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Cresskill at Secaucus High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7612800@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Cresskill at Park Ridge High School (Junior Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458991@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T173000
+DTEND;TZID=America/New_York:20260925T193000
+SUMMARY:Cresskill at Secaucus High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7571134@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T190000
+DTEND;TZID=America/New_York:20260925T210000
+SUMMARY:Cresskill at Waldwick/Midland Park (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440019@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill vs Hawthorne Christian Academy (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499732@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill at Waldwick High School (Freshman Girls Girls Volleybal
+ l)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458966@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill at Hawthorne Christian Academy (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516210@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill vs Park Ridge High School (Middle School Girls Girls Vo
+ lleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516193@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill vs Park Ridge High School (Middle School Girls Girls So
+ ccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503543@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill at Park Ridge High School (Middle School Boys Boys Socc
+ er)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503562@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill vs Park Ridge High School (Middle School Girls Girls So
+ ccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7504037@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill at Waldwick High School (Freshman Girls Girls Volleybal
+ l)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7552171@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill vs Dwight-Englewood School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455486@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill vs Waldwick High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458992@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Cresskill vs Waldwick High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503216@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T174500
+DTEND;TZID=America/New_York:20260928T194500
+SUMMARY:Cresskill vs Waldwick High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516175@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cresskill at Park Ridge High School (Middle School Boys Boys Socc
+ er)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455170@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455029@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526789@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Cresskill at Saddle River Day School (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516188@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Cresskill vs Hillsdale Middle School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516202@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Cresskill at Hillsdale Middle School (Middle School Girls Girls S
+ occer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7511813@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Cresskill vs Saddle Brook High School (Freshman Girls Girls Volle
+ yball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7549183@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Cresskill vs Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440627@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Cresskill vs Northern Valley Regional High (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455488@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Cresskill at Saddle Brook High School (Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458993@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:Cresskill at Saddle Brook High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440399@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Cresskill vs Northern Valley Regional High (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455178@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cresskill vs Ridgefield Memorial High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458890@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cresskill vs River Dell Regional High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526790@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cresskill at Ridgefield Memorial High School (Junior Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516178@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cresskill at Woodcliff Middle School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516196@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cresskill vs Woodcliff Middle School (Middle School Girls Girls S
+ occer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516214@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cresskill at Woodcliff Middle School (Middle School Girls Girls V
+ olleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440566@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill vs Paramus High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440619@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill vs Paramus High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446280@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill at Waldwick High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455506@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill at Hawthorne High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458994@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cresskill at Hawthorne High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439397@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Cresskill vs Elmwood Park Memorial High School (Varsity Boys Foot
+ ball)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7571138@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Cresskill at Cresskill/Emerson (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7439397@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T190000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:Elmwood Park at Cresskill High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499794@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T110000
+SUMMARY:Cresskill at Pascack Hills High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499801@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T041500
+DTEND;TZID=America/New_York:20261005T061500
+SUMMARY:Cresskill vs Glen Rock High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7439951@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Butler vs Cresskill High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7458959@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Butler at Cresskill High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455523@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Cresskill vs Glen Rock High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7558528@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Cresskill at Glen Rock High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7477071@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T193000
+SUMMARY:Cresskill vs Glen Rock High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525424@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Cresskill at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525429@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Cresskill at NJIC (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499886@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill at New Milford High School (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516179@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill at Holdrum Middle School (Middle School Boys Boys Socce
+ r)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516197@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill vs Holdrum Middle School (Middle School Girls Girls Soc
+ cer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516215@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill vs Holdrum Middle School (Middle School Girls Girls Vol
+ leyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539424@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill vs New Milford High School (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455183@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Cresskill at Lodi High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455539@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Cresskill vs New Milford High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526791@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Cresskill vs Lodi High School (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454912@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Cresskill vs Dwight-Englewood School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458996@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Cresskill vs New Milford High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439954@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Cresskill at Manchester Regional High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458962@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Cresskill vs Manchester Regional High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7502890@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Cresskill vs Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513544@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Cresskill vs Dumont High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527192@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Cresskill at Academy of the Holy Angels (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7454906@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Becton vs Cresskill High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454906@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Cresskill at Henry P Becton Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455194@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Cresskill vs Harrison High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513735@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Cresskill vs Glen Rock High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526792@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Cresskill at Harrison High School (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Cresskill vs Dumont High School (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513739@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Cresskill vs Glen Rock High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Cresskill vs Fieldstone Middle School (Middle School Boys Boys So
+ ccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503565@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Cresskill at Fieldstone Middle School (Middle School Girls Girls 
+ Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7571139@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T190000
+DTEND;TZID=America/New_York:20261009T210000
+SUMMARY:Cresskill at Cresskill/Emerson (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499153@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Cresskill at Waldwick High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503174@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Cresskill vs Waldwick High School (Junior Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7511811@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Cresskill vs Wallington High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526793@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Cresskill at Saddle Brook High School (Junior Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7578737@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Cresskill at Pompton Lakes High School (Junior Varsity Boys Footb
+ all)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513769@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T174500
+DTEND;TZID=America/New_York:20261012T194500
+SUMMARY:Cresskill vs Wallington High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499697@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Cresskill at Lyndhurst High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516227@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Cresskill at River Dell Middle School (Middle School Girls Girls 
+ Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455208@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Cresskill vs Saddle Brook High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527133@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Cresskill at Eastern Christian (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7552174@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Cresskill at Dwight-Englewood School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455212@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Cresskill at Park Ridge High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7567045@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Cresskill vs Bergenfield High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7567046@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T173000
+DTEND;TZID=America/New_York:20261014T193000
+SUMMARY:Cresskill vs Bergenfield High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516180@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cresskill at Westwood Middle School (Middle School Boys Boys Socc
+ er)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516198@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cresskill vs Westwood Middle School (Middle School Girls Girls So
+ ccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516216@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cresskill at Westwood Middle School (Middle School Girls Girls Vo
+ lleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7568181@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cresskill at Bergenfield High School (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499058@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Cresskill vs Bergen Charter (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7546304@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261017T180000
+DTEND;TZID=America/New_York:20261017T200000
+SUMMARY:Cresskill at New Milford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439955@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Cresskill at New Milford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503527@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Cresskill at Eisenhower Middle School (Middle School Boys Boys So
+ ccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7503569@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Cresskill vs Eisenhower Middle School (Middle School Girls Girls 
+ Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516212@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Cresskill vs Eisenhower Middle School (Middle School Girls Girls 
+ Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499924@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Cresskill at Pascack Hills High School (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499938@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Cresskill at Pascack Hills High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499927@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Cresskill at Pascack Hills High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446077@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T174500
+DTEND;TZID=America/New_York:20261019T194500
+SUMMARY:Cresskill vs Emerson Jr-Sr High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7446077@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T174500
+DTEND;TZID=America/New_York:20261019T194500
+SUMMARY:Emerson at Cresskill High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499949@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Cresskill vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Cresskill at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454917@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Cresskill vs Eastern Christian (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458970@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cresskill at Saddle Brook High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516183@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cresskill at Glen Rock High School (Middle School Boys Boys Socce
+ r)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526331@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cresskill vs Glen Rock High School (Middle School Girls Girls Soc
+ cer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7504010@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Cresskill vs Glen Rock High School (Middle School Girls Girls Soc
+ cer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516213@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Cresskill vs Glen Rock High School (Middle School Girls Girls Vol
+ leyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440109@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T173000
+DTEND;TZID=America/New_York:20261021T193000
+SUMMARY:Cresskill vs Saddle Brook High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499959@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cresskill vs Lyndhurst High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516184@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cresskill vs Ramapo Ridge MS (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516200@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cresskill at Ramapo Ridge MS (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516217@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cresskill at Ramapo Ridge MS (Middle School Girls Girls Volleybal
+ l)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516226@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cresskill at Emerson Middle School (Middle School Girls Girls Vol
+ leyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454164@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Cresskill at Saddle Brook High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455566@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Cresskill at Lyndhurst High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7501635@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7501635@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Emerson vs Cresskill High School (Middle School Girls Girls Volle
+ yball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458998@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T193000
+SUMMARY:Cresskill at Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525277@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T174500
+DTEND;TZID=America/New_York:20261022T194500
+SUMMARY:Cresskill at Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525222@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Cresskill at Lyndhurst High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7500141@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Cresskill vs Emerson Jr-Sr High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7500141@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Emerson at Cresskill High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499630@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Cresskill at Wallington High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7500143@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T173000
+DTEND;TZID=America/New_York:20261023T193000
+SUMMARY:Cresskill vs Emerson Jr-Sr High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7500143@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T173000
+DTEND;TZID=America/New_York:20261023T193000
+SUMMARY:Emerson at Cresskill High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7521775@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T130000
+SUMMARY:Cresskill at Tenafly High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7460999@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T150000
+DTEND;TZID=America/New_York:20261024T170000
+SUMMARY:Cresskill at Fair Lawn High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7461000@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T150000
+DTEND;TZID=America/New_York:20261024T170000
+SUMMARY:Cresskill vs Fair Lawn High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7461177@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T150000
+DTEND;TZID=America/New_York:20261024T170000
+SUMMARY:Cresskill at Fair Lawn High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7513967@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T161500
+DTEND;TZID=America/New_York:20261024T181500
+SUMMARY:Cresskill at Tenafly High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7518924@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Cresskill at Dumont High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455580@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Bogota at Cresskill High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7454974@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Cresskill vs Lyndhurst High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7515287@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Cresskill vs Westwood Regional Senior High School (Junior Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7458999@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T173000
+DTEND;TZID=America/New_York:20261026T193000
+SUMMARY:Bogota at Cresskill High School (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7515289@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T190000
+DTEND;TZID=America/New_York:20261026T210000
+SUMMARY:Cresskill at Westwood Regional Senior High School (Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446019@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7446019@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Emerson vs Cresskill High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7515495@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T030300
+DTEND;TZID=America/New_York:20261028T050300
+SUMMARY:Cresskill at Academy of the Holy Angels (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:03 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7516191@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T153000
+DTEND;TZID=America/New_York:20261028T173000
+SUMMARY:Cresskill at Academy of the Holy Angels (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455609@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Cresskill vs Secaucus High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7586828@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261030T161500
+DTEND;TZID=America/New_York:20261030T181500
+SUMMARY:Cresskill vs Tenafly High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439404@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Cresskill vs Fair Lawn High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439405@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Cresskill vs Fair Lawn High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439428@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Cresskill at Fair Lawn High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439406@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Cresskill at Indian Hills High School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439427@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Cresskill vs Indian Hills High School (Freshman Boys Boys Basketb
+ all)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7559908@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261211T161500
+DTEND;TZID=America/New_York:20261211T181500
+SUMMARY:Cresskill at Cresskill/Emerson (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7559926@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261211T161500
+DTEND;TZID=America/New_York:20261211T181500
+SUMMARY:Cresskill at Cresskill/Emerson (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7559934@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261211T163000
+DTEND;TZID=America/New_York:20261211T183000
+SUMMARY:Cresskill at Pascack Valley High School (Freshman Boys Boys Baske
+ tball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7525398@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T040000
+DTEND;TZID=America/New_York:20261212T060000
+SUMMARY:Cresskill at Dwight-Englewood School (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539074@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539696@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Cresskill at Glen Rock High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7485018@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T161500
+DTEND;TZID=America/New_York:20261216T181500
+SUMMARY:Cresskill vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539379@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Cresskill at Glen Rock High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7536424@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Cresskill at Glen Rock High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539744@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Cresskill at Glen Rock High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539207@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T040000
+DTEND;TZID=America/New_York:20261218T060000
+SUMMARY:Cresskill at North Arlington High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539199@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T125800
+DTEND;TZID=America/New_York:20261218T145800
+SUMMARY:Cresskill at Rutherford High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:58 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539201@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Cresskill at Rutherford High School (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7583192@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539200@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Cresskill at Rutherford High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539206@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Cresskill at North Arlington High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539205@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Cresskill at North Arlington High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7546184@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Cresskill at North Arlington High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7501605@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Becton at Cresskill High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7501605@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Cresskill vs Henry P Becton Regional High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7546240@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Cresskill at North Arlington High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7546288@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Cresskill at North Arlington High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539083@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Cresskill at Ridgefield Memorial High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7518760@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261223T190000
+DTEND;TZID=America/New_York:20261223T210000
+SUMMARY:Cresskill vs Bergen Charter (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539211@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T040000
+DTEND;TZID=America/New_York:20270104T060000
+SUMMARY:Cresskill vs Manchester Regional High School (Freshman Boys Boys 
+ Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539210@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T053000
+DTEND;TZID=America/New_York:20270104T073000
+SUMMARY:Cresskill vs Manchester Regional High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539209@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T070000
+DTEND;TZID=America/New_York:20270104T090000
+SUMMARY:Cresskill vs Manchester Regional High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539291@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T161500
+DTEND;TZID=America/New_York:20270104T181500
+SUMMARY:Cresskill at Waldwick High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7476503@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539294@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Cresskill at Park Ridge High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539090@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Cresskill at Saint Mary High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539227@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T053000
+DTEND;TZID=America/New_York:20270108T073000
+SUMMARY:Cresskill vs Saddle River Day School (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539226@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T070000
+DTEND;TZID=America/New_York:20270108T090000
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539297@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T163000
+DTEND;TZID=America/New_York:20270108T183000
+SUMMARY:Cresskill at North Arlington High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439423@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cresskill vs Tenafly High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439429@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Cresskill vs Tenafly High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439442@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Cresskill vs Tenafly High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539230@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T040000
+DTEND;TZID=America/New_York:20270111T060000
+SUMMARY:Cresskill at Paterson Charter School Of Science and Technology (F
+ reshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7539230@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T040000
+DTEND;TZID=America/New_York:20270111T060000
+SUMMARY:PCSST vs Cresskill High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539228@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T070000
+DTEND;TZID=America/New_York:20270111T090000
+SUMMARY:Cresskill at Paterson Charter School Of Science and Technology (V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7539228@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T070000
+DTEND;TZID=America/New_York:20270111T090000
+SUMMARY:PCSST vs Cresskill High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527191@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Cresskill at Paterson Charter School Of Science and Technology (F
+ reshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527191@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:PCSST vs Cresskill High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539323@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T161500
+DTEND;TZID=America/New_York:20270111T181500
+SUMMARY:Cresskill vs Glen Rock High School (Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527190@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Cresskill vs Paterson Charter School Of Science and Technology (J
+ unior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527190@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:PCSST at Cresskill High School (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7527189@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T190000
+DTEND;TZID=America/New_York:20270111T210000
+SUMMARY:Cresskill at Paterson Charter School Of Science and Technology (V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527189@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T190000
+DTEND;TZID=America/New_York:20270111T210000
+SUMMARY:PCSST vs Cresskill High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7485889@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539237@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Cresskill vs North Arlington High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7501773@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T161500
+DTEND;TZID=America/New_York:20270115T181500
+SUMMARY:Becton vs Cresskill High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7501773@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T161500
+DTEND;TZID=America/New_York:20270115T181500
+SUMMARY:Cresskill at Henry P Becton Regional High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539236@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Cresskill vs North Arlington High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7609183@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T183000
+DTEND;TZID=America/New_York:20270115T203000
+SUMMARY:Cresskill at Fort Lee High School (Junior Varsity Boys Boys Wrest
+ ling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539235@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Cresskill vs North Arlington High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7609177@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Cresskill at Fort Lee High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539240@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T070000
+DTEND;TZID=America/New_York:20270120T090000
+SUMMARY:Cresskill at Park Ridge High School (Middle School Boys Boys Bask
+ etball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539239@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Cresskill at Park Ridge High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539238@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T210000
+SUMMARY:Cresskill at Park Ridge High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539243@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Cresskill at Manchester Regional High School (Freshman Boys Boys 
+ Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539242@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Cresskill at Manchester Regional High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539241@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Cresskill at Manchester Regional High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539267@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Cresskill at Weehawken High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539268@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T173000
+DTEND;TZID=America/New_York:20270201T193000
+SUMMARY:Cresskill at Weehawken High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539266@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Cresskill at Weehawken High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539273@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Cresskill at Saddle River Day School (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539272@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T190000
+DTEND;TZID=America/New_York:20270203T210000
+SUMMARY:Cresskill at Saddle River Day School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7552698@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Cresskill at Northern Valley Regional High (Junior Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7551199@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T203000
+SUMMARY:Cresskill at Northern Valley Regional High (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439424@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270213T090000
+DTEND;TZID=America/New_York:20270213T110000
+SUMMARY:Cresskill at Bergen County Technical High School (Freshman Boys B
+ oys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439410@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270213T103000
+DTEND;TZID=America/New_York:20270213T123000
+SUMMARY:Cresskill at Bergen County Technical High School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439409@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270213T120000
+DTEND;TZID=America/New_York:20270213T140000
+SUMMARY:Cresskill at Bergen County Technical High School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7595794@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270219T161500
+DTEND;TZID=America/New_York:20270219T181500
+SUMMARY:Cresskill at River Dell Regional High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7595797@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Cresskill at River Dell Regional High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585389@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270322T161500
+DTEND;TZID=America/New_York:20270322T181500
+SUMMARY:Cresskill vs Pascack Valley High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7564693@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Cresskill at Midland Park High School (Varsity Coed Coed Track an
+ d Field)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7572859@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Cresskill vs Eastern Christian (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7575434@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Cresskill at Eastern Christian (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7564693@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Midland Park vs Cresskill High School (Varsity Boys Boys Track an
+ d Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556129@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270330T161500
+DTEND;TZID=America/New_York:20270330T181500
+SUMMARY:Cresskill at Secaucus High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576558@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576613@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Cresskill vs Emerson Jr-Sr High School (Junior Varsity Boys Boys 
+ Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7576558@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7576613@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Emerson at Cresskill High School (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538322@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270401T161500
+DTEND;TZID=America/New_York:20270401T181500
+SUMMARY:Cresskill at Midland Park High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556135@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270401T161500
+DTEND;TZID=America/New_York:20270401T181500
+SUMMARY:Cresskill vs Palisades Park High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576563@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270402T161500
+DTEND;TZID=America/New_York:20270402T181500
+SUMMARY:Cresskill vs Garfield High School (Junior Varsity Boys Boys Tenni
+ s)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585393@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270403T120000
+DTEND;TZID=America/New_York:20270403T140000
+SUMMARY:Cresskill at Fort Lee High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7572746@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270405T160000
+DTEND;TZID=America/New_York:20270405T180000
+SUMMARY:Cresskill vs New Milford High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538326@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270405T161500
+DTEND;TZID=America/New_York:20270405T181500
+SUMMARY:Cresskill at Wood-Ridge High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576621@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270405T161500
+DTEND;TZID=America/New_York:20270405T181500
+SUMMARY:Cresskill at New Milford High School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576567@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Cresskill at Saddle River Day School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576568@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Cresskill vs Saddle River Day School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7573423@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Cresskill vs Ridgefield Memorial High School (Varsity Boys Boys T
+ ennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576636@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Cresskill at Ridgefield Memorial High School (Junior Varsity Boys
+  Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585394@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Cresskill vs Dwight-Englewood School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556160@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Cresskill at Hawthorne High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576584@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Cresskill vs Dwight-Englewood School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576585@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Cresskill at Dwight-Englewood School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538339@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556186@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Cresskill at Glen Rock High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576571@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Varsity Boys Boys Ten
+ nis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576572@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Junior Varsity Boys B
+ oys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7599893@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cresskill vs Leonia High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7599930@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cresskill at Leonia High School (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556145@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Cresskill vs Elmwood Park Memorial High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576588@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Cresskill at Leonia High School (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7556145@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Elmwood Park at Cresskill High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585401@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cresskill at Dumont High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556147@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Cresskill vs Saddle Brook High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7564717@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Varsity Coed Coed Track a
+ nd Field)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576593@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Cresskill at Garfield High School (Junior Varsity Boys Boys Tenni
+ s)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564717@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Boys Track and Fie
+ ld)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7537404@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T161500
+DTEND;TZID=America/New_York:20270421T181500
+SUMMARY:Cresskill at New Milford High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7572753@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Cresskill at New Milford High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576652@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270422T161500
+DTEND;TZID=America/New_York:20270422T181500
+SUMMARY:Cresskill vs New Milford High School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556171@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270423T161500
+DTEND;TZID=America/New_York:20270423T181500
+SUMMARY:Cresskill at Mary Help Of Christians Academy (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585414@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270423T161500
+DTEND;TZID=America/New_York:20270423T181500
+SUMMARY:Cresskill at Memorial High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7556171@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270423T161500
+DTEND;TZID=America/New_York:20270423T181500
+SUMMARY:Mary Help vs Cresskill High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538344@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Cresskill at Glen Rock High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7564721@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Varsity Coed Coed Track a
+ nd Field)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576595@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Cresskill vs Saddle River Day School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576596@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Cresskill at Saddle River Day School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7564721@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270426T161500
+DTEND;TZID=America/New_York:20270426T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Boys Track and Fie
+ ld)
+DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576653@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T103100
+DTEND;TZID=America/New_York:20270428T123100
+SUMMARY:Cresskill vs Ridgefield Memorial High School (Junior Varsity Boys
+  Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 10:31 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7573429@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Cresskill at Ridgefield Memorial High School (Varsity Boys Boys T
+ ennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556173@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T161500
+DTEND;TZID=America/New_York:20270428T181500
+SUMMARY:Cresskill at New Milford High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585415@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T161500
+DTEND;TZID=America/New_York:20270428T181500
+SUMMARY:Cresskill vs Pascack Hills High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576575@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270430T161500
+DTEND;TZID=America/New_York:20270430T181500
+SUMMARY:Cresskill at Dwight-Englewood School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576576@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270430T161500
+DTEND;TZID=America/New_York:20270430T181500
+SUMMARY:Cresskill vs Dwight-Englewood School (Junior Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585416@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270501T100000
+DTEND;TZID=America/New_York:20270501T120000
+SUMMARY:Cresskill vs Park Ridge High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7538345@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Becton vs Cresskill High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538345@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Cresskill at Henry P Becton Regional High School (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576601@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Cresskill vs Hasbrouck Heights High School (Varsity Boys Boys Ten
+ nis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576602@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Cresskill at Hasbrouck Heights High School (Junior Varsity Boys B
+ oys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7599918@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T160000
+DTEND;TZID=America/New_York:20270505T180000
+SUMMARY:Cresskill at Leonia High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7599937@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T160000
+DTEND;TZID=America/New_York:20270505T180000
+SUMMARY:Cresskill vs Leonia High School (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538356@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Cresskill vs Emerson Jr-Sr High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556174@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Cresskill at Elmwood Park Memorial High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576580@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Cresskill vs Leonia High School (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7556174@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Elmwood Park vs Cresskill High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7538356@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Emerson at Cresskill High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7557935@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270506T161500
+DTEND;TZID=America/New_York:20270506T181500
+SUMMARY:Cresskill at Lodi High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585421@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270511T161500
+DTEND;TZID=America/New_York:20270511T181500
+SUMMARY:Cresskill at Waldwick High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7538347@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Cresskill at Emerson Jr-Sr High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7556176@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Cresskill at Saddle Brook High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7538347@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Emerson vs Cresskill High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585422@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270519T161500
+DTEND;TZID=America/New_York:20270519T181500
+SUMMARY:Cresskill vs Dwight Morrow High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7585423@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270521T161500
+DTEND;TZID=America/New_York:20270521T181500
+SUMMARY:Cresskill vs Ridgefield Memorial High School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+END:VCALENDAR

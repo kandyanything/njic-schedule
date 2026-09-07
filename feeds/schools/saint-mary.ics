@@ -1,0 +1,551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Saint Mary
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2854:7514024@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260821T120000
+DTEND;TZID=America/New_York:20260821T140000
+SUMMARY:Saint Mary at Madison High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7581992@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T161500
+DTEND;TZID=America/New_York:20260827T181500
+SUMMARY:Saddle River Day vs Saint Mary High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7582032@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260827T161500
+DTEND;TZID=America/New_York:20260827T181500
+SUMMARY:Saddle River Day vs Saint Mary High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7502431@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T180000
+DTEND;TZID=America/New_York:20260828T200000
+SUMMARY:Saint Mary at Notre Dame High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455343@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Rutherford vs Saint Mary High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7455361@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Lyndhurst vs Saint Mary High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7467961@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T180000
+DTEND;TZID=America/New_York:20260903T200000
+SUMMARY:Glen Rock vs Saint Mary High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455377@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Saint Mary at Wallington High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7462770@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Saint Mary at Wallington High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7455385@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Garfield at Saint Mary High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7495697@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T140000
+DTEND;TZID=America/New_York:20260912T160000
+SUMMARY:Saint Mary vs Wood-Ridge High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455405@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Leonia vs Saint Mary High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455728@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:Saint Mary at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7455425@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Saddle River Day vs Saint Mary High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7582047@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Saddle River Day vs Saint Mary High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7552067@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Bogota vs Saint Mary High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7455438@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Saddle Brook vs Saint Mary High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455456@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Saint Mary vs Waldwick High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7455469@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Park Ridge vs Saint Mary High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7562096@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:Saint Mary vs Weehawken High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455474@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Bogota vs Saint Mary High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455500@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Saint Mary at Secaucus High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455516@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Saint Mary at Wallington High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7462779@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Saint Mary at Wallington High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7577908@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+SUMMARY:Saint Mary vs Hudson Catholic High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455526@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Leonia vs Saint Mary High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7455544@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Garfield vs Saint Mary High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7545099@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T190000
+DTEND;TZID=America/New_York:20261009T210000
+SUMMARY:Park Ridge vs Saint Mary High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7455558@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Saddle River Day at Saint Mary High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7582093@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T163000
+DTEND;TZID=America/New_York:20261020T183000
+SUMMARY:Saddle River Day at Saint Mary High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7455577@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Saddle Brook vs Saint Mary High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7455592@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Saint Mary at Waldwick High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7455608@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Park Ridge vs Saint Mary High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7438873@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261031T130000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:Saint Mary vs Morris Catholic High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7605466@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Park Ridge at Saint Mary High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7562958@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Saint Mary vs Montgomery High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603902@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T040100
+DTEND;TZID=America/New_York:20261221T060100
+SUMMARY:Lyndhurst at Saint Mary High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:01 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603903@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T051600
+DTEND;TZID=America/New_York:20261221T071600
+SUMMARY:Lyndhurst at Saint Mary High School (Junior Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:16 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7554620@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Saint Mary at TBA NJ (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7511821@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270104T095000
+DTEND;TZID=America/New_York:20270104T115000
+SUMMARY:Garfield at Saint Mary High School (Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 9:50 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7605027@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270105T163000
+DTEND;TZID=America/New_York:20270105T183000
+SUMMARY:Saddle River Day at Saint Mary High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539090@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Cresskill at Saint Mary High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603824@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Lyndhurst at Saint Mary High School (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603823@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Lyndhurst at Saint Mary High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603822@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Lyndhurst at Saint Mary High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7605505@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Park Ridge vs Saint Mary High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7604060@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Lyndhurst at Saint Mary High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527208@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:PCSST at Saint Mary High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7527208@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Saint Mary vs Paterson Charter School Of Science and Technology (
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7614388@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270130T110000
+DTEND;TZID=America/New_York:20270130T130000
+SUMMARY:Saint Mary at Bergen Charter (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7532489@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Saint Mary vs Wood-Ridge High School (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603840@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Lyndhurst vs Saint Mary High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603841@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Lyndhurst vs Saint Mary High School (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603839@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Lyndhurst vs Saint Mary High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7561867@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Saint Mary at Fair Lawn High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7563734@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270402T110000
+DTEND;TZID=America/New_York:20270402T130000
+SUMMARY:Saint Mary at Passaic County Technical Institute (Varsity Boys Ba
+ seball)
+DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7556803@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Leonia at Saint Mary High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7537198@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Pompton Lakes vs Saint Mary High School (Junior Varsity Boys Base
+ ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7601803@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Glen Rock vs Saint Mary High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7571744@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Saint Mary at North Arlington High School (Varsity Boys Boys Trac
+ k and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7556862@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Leonia vs Saint Mary High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

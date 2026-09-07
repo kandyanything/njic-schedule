@@ -1,0 +1,16 @@
+# Cloudflare Pages headers. Calendar feeds must serve as text/calendar so
+# webcal:// subscriptions work; short cache so subscribers pick up changes.
+/feeds/all.ics
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+/feeds/schools/*
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+/feeds/sports/*
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+/feeds/rss.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
+/data/schedule/*
+  Cache-Control: public, max-age=1800

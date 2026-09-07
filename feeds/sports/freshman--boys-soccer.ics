@@ -1,0 +1,476 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Freshman Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2916:7553923@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Waldwick vs Northern Valley Regional High (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7528879@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Lodi vs Ridgewood High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7410318@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Cresskill at Cliffside Park High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7506852@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Glen Rock at Madison High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7569983@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T150000
+DTEND;TZID=America/New_York:20260828T170000
+SUMMARY:Waldwick vs Northern Highlands Regional High School (Freshman Boy
+ s Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7461498@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T090000
+DTEND;TZID=America/New_York:20260829T110000
+SUMMARY:Waldwick at Morris Knolls High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7563412@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Glen Rock at Ramapo High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7530028@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Waldwick vs Northern Highlands Regional High School (Freshman Boy
+ s Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7586771@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Dwight-Englewood at Waldwick High School (Freshman Boys Boys Socc
+ er)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440553@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Cresskill at Saint Joseph Regional High School (Freshman Boys Boy
+ s Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440585@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T161500
+DTEND;TZID=America/New_York:20260904T181500
+SUMMARY:Cresskill at Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7502082@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260907T161500
+DTEND;TZID=America/New_York:20260907T181500
+SUMMARY:Waldwick at Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7546700@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T163000
+DTEND;TZID=America/New_York:20260908T183000
+SUMMARY:Glen Rock at Whippany Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7506545@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Lodi at Paramus High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7519022@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T163000
+DTEND;TZID=America/New_York:20260909T183000
+SUMMARY:Becton at North Bergen High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7502879@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill at Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7594986@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Glen Rock at Don Bosco Prep (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7474676@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260911T160000
+DTEND;TZID=America/New_York:20260911T180000
+SUMMARY:Lodi vs Saint Joseph Regional High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7544185@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Waldwick vs Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440586@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Cresskill vs Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7502110@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Becton at Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446281@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cresskill vs Lodi High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7508566@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Garfield vs Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7410315@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Cliffside Park High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7611981@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Glen Rock at Teaneck High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7506381@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Lodi at Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7545529@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Dwight-Englewood at Glen Rock High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7501775@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Waldwick at James Caldwell High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7499266@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260921T161500
+DTEND;TZID=America/New_York:20260921T181500
+SUMMARY:Lodi vs Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7446284@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Cresskill at Lodi High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7506635@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Glen Rock vs Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7552171@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Cresskill vs Dwight-Englewood School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7600581@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Glen Rock at Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7549183@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Cresskill vs Northern Valley Regional High (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7517029@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T163000
+DTEND;TZID=America/New_York:20260930T183000
+SUMMARY:Waldwick vs Bergen County Technical High School (Freshman Boys Bo
+ ys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440566@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Cresskill vs Paramus High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7586773@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Dwight-Englewood vs Waldwick High School (Freshman Boys Boys Socc
+ er)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7509772@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Glen Rock vs Saddle Brook High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7502890@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Cresskill vs Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7519026@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Becton vs North Bergen High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7499263@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Lodi at Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7611985@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T161500
+DTEND;TZID=America/New_York:20261009T181500
+SUMMARY:Glen Rock vs Teaneck High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7502540@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Waldwick at Cliffside Park High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7543832@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Glen Rock vs Lyndhurst High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7408361@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Eastern Christian at Wayne Valley High School (Freshman Boys Boys
+  Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7552174@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Cresskill at Dwight-Englewood School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7506382@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Lodi vs Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7564684@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Glen Rock at Ramsey High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7572769@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Dwight-Englewood vs Lyndhurst High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7506636@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Glen Rock at Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7508569@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Garfield at Waldwick High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7517047@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T163000
+DTEND;TZID=America/New_York:20261022T183000
+SUMMARY:Waldwick at Bergen County Technical High School (Freshman Boys Bo
+ ys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7572770@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Dwight-Englewood at Lyndhurst High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7461177@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T150000
+DTEND;TZID=America/New_York:20261024T170000
+SUMMARY:Cresskill at Fair Lawn High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+END:VCALENDAR

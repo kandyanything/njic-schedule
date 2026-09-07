@@ -1,0 +1,2229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Rutherford
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2841:7495269@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260817T100000
+DTEND;TZID=America/New_York:20260817T120000
+SUMMARY:Rutherford at Westwood Regional Senior High School (Varsity Boys 
+ Football)
+DESCRIPTION:Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7581389@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260819T090000
+DTEND;TZID=America/New_York:20260819T110000
+SUMMARY:Rutherford vs Passaic High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7387251@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260820T093000
+DTEND;TZID=America/New_York:20260820T113000
+SUMMARY:Rutherford vs Ramsey High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7464230@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Rutherford vs Fair Lawn High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7498473@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Hasbrouck Heights vs Rutherford High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7499648@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260825T170000
+DTEND;TZID=America/New_York:20260825T190000
+SUMMARY:Hasbrouck Heights vs Rutherford High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7590080@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T083000
+DTEND;TZID=America/New_York:20260828T103000
+SUMMARY:Ridgefield Memorial at Rutherford High School (Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7513006@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Midland Park vs Rutherford High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545841@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Rutherford vs Indian Hills High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545849@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Rutherford vs Indian Hills High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7533986@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T111500
+DTEND;TZID=America/New_York:20260828T131500
+SUMMARY:Midland Park vs Rutherford High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7499767@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260828T180000
+DTEND;TZID=America/New_York:20260828T200000
+SUMMARY:Rutherford vs Bernards High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7496307@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Rutherford at Wayne Valley High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545654@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Rutherford at Bernards High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455343@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Rutherford vs Saint Mary High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7496207@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Lyndhurst at Rutherford High School (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7498539@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Rutherford at Hackensack High School (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7455023@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Lyndhurst vs Rutherford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7528053@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T161500
+DTEND;TZID=America/New_York:20260902T181500
+SUMMARY:Rutherford at Hackensack High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7528054@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260902T173000
+DTEND;TZID=America/New_York:20260902T193000
+SUMMARY:Rutherford at Hackensack High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7512981@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Leonia vs Rutherford High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440107@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Rutherford at Wallington High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455355@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Leonia at Rutherford High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455114@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Rutherford at Waldwick High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7495215@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Rutherford vs Wallington High School (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510759@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T173000
+DTEND;TZID=America/New_York:20260903T193000
+SUMMARY:Leonia at Rutherford High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7492175@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260903T180000
+DTEND;TZID=America/New_York:20260903T200000
+SUMMARY:Lyndhurst vs Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7592081@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260904T161500
+DTEND;TZID=America/New_York:20260904T181500
+SUMMARY:Rutherford vs Clifton High School (Junior Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7447948@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260905T100000
+DTEND;TZID=America/New_York:20260905T120000
+SUMMARY:Emerson vs Rutherford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7536865@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260905T100000
+DTEND;TZID=America/New_York:20260905T120000
+SUMMARY:Lyndhurst at Rutherford High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7447948@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260905T100000
+DTEND;TZID=America/New_York:20260905T120000
+SUMMARY:Rutherford at Emerson Jr-Sr High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536367@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260905T100000
+DTEND;TZID=America/New_York:20260905T120000
+SUMMARY:Rutherford vs TBA NJ (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7455368@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Lyndhurst at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7495217@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Elmwood Park vs Rutherford High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7455118@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Garfield at Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7495217@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Rutherford at Elmwood Park Memorial High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7549477@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Rutherford vs Fort Lee High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7525264@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T174500
+DTEND;TZID=America/New_York:20260908T194500
+SUMMARY:Lyndhurst at Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7439977@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T180000
+DTEND;TZID=America/New_York:20260908T200000
+SUMMARY:Elmwood Park at Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7439977@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260908T180000
+DTEND;TZID=America/New_York:20260908T200000
+SUMMARY:Rutherford vs Elmwood Park Memorial High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7589792@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Rutherford at Mount Saint Dominic Academy (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7454898@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Becton at Rutherford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7454898@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Rutherford vs Henry P Becton Regional High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7535770@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Lyndhurst vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455380@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Bogota at Rutherford High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7440102@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Emerson vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7445951@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Emerson at Rutherford High School (Junior Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7455131@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Midland Park at Rutherford High School (Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440102@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Rutherford at Emerson Jr-Sr High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7445951@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Rutherford vs Emerson Jr-Sr High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7525132@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Bogota at Rutherford High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7439394@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Cresskill vs Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7527114@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Rutherford at Cresskill/Emerson (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543888@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T084500
+DTEND;TZID=America/New_York:20260912T104500
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7446397@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Emerson at Rutherford High School (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7446397@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Rutherford vs Emerson Jr-Sr High School (Boys (Sub Varsity) Footb
+ all)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7455134@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Becton at Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455134@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Rutherford vs Henry P Becton Regional High School (Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7495230@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Rutherford vs Harrison High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440104@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260914T190000
+DTEND;TZID=America/New_York:20260914T210000
+SUMMARY:Rutherford at Harrison High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7545576@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Becton at Rutherford High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545576@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Rutherford vs Henry P Becton Regional High School (Freshman Girls
+  Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7454934@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Glen Rock at Rutherford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7477015@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Glen Rock vs Rutherford High School (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455403@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Rutherford at Secaucus High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7506584@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T164000
+DTEND;TZID=America/New_York:20260915T184000
+SUMMARY:Rutherford at Leonia High School (Varsity Girls Girls Cross Count
+ ry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7546050@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T164000
+DTEND;TZID=America/New_York:20260915T184000
+SUMMARY:Rutherford at Leonia High School (Junior Varsity Girls Girls Cros
+ s Country)
+DESCRIPTION:Junior Varsity Girls Girls Cross Country - Away - 4:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7506562@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Rutherford at Leonia High School (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545886@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Rutherford at Leonia High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7545901@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Rutherford at Leonia High School (Junior Varsity Boys Boys Cross 
+ Country)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7546033@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Rutherford at Leonia High School (Varsity Girls Girls Cross Count
+ ry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536037@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Rutherford at Secaucus High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7439990@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:Garfield at Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7495236@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:Garfield vs Rutherford High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7455152@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:New Milford vs Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499682@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455423@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7556843@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Rutherford vs Whippany Park High School (Junior Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455025@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Rutherford at Saddle River Day School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458988@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Cresskill vs Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7449233@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Pompton Lakes at Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7535772@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:North Arlington at Rutherford High School (Freshman Girls Girls V
+ olleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7499603@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:North Arlington vs Rutherford High School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7499806@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:North Arlington vs Rutherford High School (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7455024@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:North Arlington vs Rutherford High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7451681@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Pompton Lakes vs Rutherford High School (Junior Varsity Boys Foot
+ ball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7451681@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Rutherford at Pompton Lakes High School (Boys (Sub Varsity) Footb
+ all)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7592004@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Rutherford at Indian Hills High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7451215@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260919T173000
+DTEND;TZID=America/New_York:20260919T193000
+SUMMARY:Rutherford vs West Milford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543891@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455429@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7535779@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7440080@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Park Ridge at Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7495263@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Park Ridge vs Rutherford High School (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7454946@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Hasbrouck Heights at Rutherford High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7533013@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:New Milford vs Rutherford High School (Freshman Girls Girls Volle
+ yball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7455452@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:New Milford at Rutherford High School (Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7589804@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Rutherford at Bloomfield High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7505150@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Dwight-Englewood at Rutherford High School (Varsity Boys Boys Cro
+ ss Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603308@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Dwight-Englewood at Rutherford High School (Varsity Girls Girls C
+ ross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7603308@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Garfield at Rutherford High School (Varsity Girls Girls Cross Cou
+ ntry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7505150@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Garfield at Rutherford High School (Varsity Boys Boys Cross Count
+ ry)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7505150@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Lyndhurst at Rutherford High School (Varsity Boys Boys Cross Coun
+ try)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603308@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Lyndhurst at Rutherford High School (Varsity Girls Girls Cross Co
+ untry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7505150@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Manchester Regional at Rutherford High School (Varsity Boys Boys 
+ Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7603308@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Manchester Regional at Rutherford High School (Varsity Girls Girl
+ s Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7537380@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260923T174500
+DTEND;TZID=America/New_York:20260923T194500
+SUMMARY:New Milford at Rutherford High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510931@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Leonia at Rutherford High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7440105@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Leonia vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455466@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Glen Rock vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7534141@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Glen Rock at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7496198@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Rutherford at Waldwick High School (Junior Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7477061@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T173000
+DTEND;TZID=America/New_York:20260925T193000
+SUMMARY:Glen Rock vs Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7458340@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Becton at Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7458340@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Rutherford vs Henry P Becton Regional High School (Varsity Boys F
+ ootball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7609247@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Becton vs Rutherford High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7609247@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Rutherford at Henry P Becton Regional High School (Boys (Sub Vars
+ ity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455046@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Rutherford vs Waldwick High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543900@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260926T120000
+DTEND;TZID=America/New_York:20260926T140000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7612791@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Becton vs Rutherford High School (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7495270@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Elmwood Park at Rutherford High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7440101@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Elmwood Park vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7455482@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Garfield vs Rutherford High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7533670@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Garfield vs Rutherford High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440101@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Rutherford at Elmwood Park Memorial High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7495270@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Rutherford vs Elmwood Park Memorial High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7455020@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Dwight-Englewood vs Rutherford High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7455169@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Eastern Christian vs Rutherford High School (Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7526841@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Eastern Christian at Rutherford High School (Junior Varsity Girls
+  Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536709@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Rutherford vs North Bergen High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7496372@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260929T174000
+DTEND;TZID=America/New_York:20260929T194000
+SUMMARY:Rutherford at Elmwood Park Memorial High School (Varsity Boys Boy
+ s Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7511922@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Rutherford at Wallington High School (Freshman Girls Girls Volley
+ ball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7439962@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Dwight-Englewood at Rutherford High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7605333@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Dwight-Englewood vs Rutherford High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455501@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Rutherford vs Wallington High School (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7462778@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:Rutherford vs Wallington High School (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455180@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Rutherford vs Waldwick High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7464984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Rutherford at Dwight Morrow High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7455514@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Lyndhurst vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7535771@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Lyndhurst at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7525273@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T174500
+DTEND;TZID=America/New_York:20261002T194500
+SUMMARY:Lyndhurst vs Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7495277@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Glen Rock vs Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7536875@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Glen Rock at Rutherford High School (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536875@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Rutherford vs Glen Rock High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7534884@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261003T180000
+DTEND;TZID=America/New_York:20261003T200000
+SUMMARY:Rutherford at Wood-Ridge High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7544232@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7445993@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Emerson vs Rutherford High School (Junior Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7445993@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Rutherford at Emerson Jr-Sr High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455532@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Rutherford vs Secaucus High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7439984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T180000
+DTEND;TZID=America/New_York:20261005T200000
+SUMMARY:Emerson at Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7439984@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261005T180000
+DTEND;TZID=America/New_York:20261005T200000
+SUMMARY:Rutherford vs Emerson Jr-Sr High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7505152@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7455542@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Bogota vs Rutherford High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7455188@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Garfield vs Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7474956@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Glen Rock at Rutherford High School (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455021@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261006T181500
+DTEND;TZID=America/New_York:20261006T201500
+SUMMARY:Glen Rock vs Rutherford High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440003@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Rutherford vs Harrison High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7495274@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Rutherford at Harrison High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7592922@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Rutherford at Fort Lee High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7455197@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Midland Park at Rutherford High School (Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455034@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T200000
+SUMMARY:Rutherford vs Saddle River Day School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536790@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261009T161500
+DTEND;TZID=America/New_York:20261009T181500
+SUMMARY:Rutherford vs Cliffside Park High School (Freshman Girls Girls Vo
+ lleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7588433@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Rutherford vs Indian Hills High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7458127@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T150000
+SUMMARY:Midland Park at Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7458127@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T150000
+SUMMARY:Rutherford vs Waldwick/Midland Park (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7458127@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T150000
+SUMMARY:Waldwick at Rutherford High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7455207@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Becton vs Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455207@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Rutherford at Henry P Becton Regional High School (Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7527131@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Rutherford at Waldwick/Midland Park (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7470741@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Rutherford at Tenafly High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7470742@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Rutherford at Tenafly High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7470743@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Rutherford at Tenafly High School (Freshman Girls Girls Volleybal
+ l)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7455215@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:New Milford at Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7498610@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Rutherford vs Saddle Brook High School (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7499629@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Rutherford vs Saddle Brook High School (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7499808@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Rutherford vs Saddle Brook High School (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7589805@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Rutherford at Bloomfield High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7495059@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Leonia at Rutherford High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7496193@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Rutherford vs Waldwick High School (Junior Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7535657@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Rutherford vs TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7586640@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Garfield vs Rutherford High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7586640@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Rutherford at Garfield High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7544244@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7440103@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Garfield vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7495276@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261019T161500
+DTEND;TZID=America/New_York:20261019T181500
+SUMMARY:Garfield at Rutherford High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499949@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Cresskill vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Cresskill at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7455003@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:North Arlington at Rutherford High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7396895@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Rutherford vs Cliffside Park High School (Junior Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7495280@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Park Ridge at Rutherford High School (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7440106@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Park Ridge vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7455575@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Hawthorne vs Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7535781@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Hawthorne at Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7455022@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Hasbrouck Heights vs Rutherford High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7535728@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7492658@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Pompton Lakes vs Rutherford High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7492965@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Pompton Lakes at Rutherford High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543935@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261024T160000
+DTEND;TZID=America/New_York:20261024T180000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7455590@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:New Milford vs Rutherford High School (Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7455026@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Rutherford at Waldwick High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455599@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Glen Rock at Rutherford High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7534143@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Glen Rock vs Rutherford High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7477069@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261028T173000
+DTEND;TZID=America/New_York:20261028T193000
+SUMMARY:Glen Rock at Rutherford High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7496309@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261029T161500
+DTEND;TZID=America/New_York:20261029T181500
+SUMMARY:Rutherford at Hoboken High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536377@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261029T161500
+DTEND;TZID=America/New_York:20261029T181500
+SUMMARY:Rutherford vs TBA NJ (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7535733@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Rutherford vs TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543941@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261031T160000
+DTEND;TZID=America/New_York:20261031T180000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7535735@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Rutherford vs TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543957@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261107T160000
+DTEND;TZID=America/New_York:20261107T180000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7535737@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261113T180000
+DTEND;TZID=America/New_York:20261113T200000
+SUMMARY:Rutherford vs TBA NJ (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7543961@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261114T160000
+DTEND;TZID=America/New_York:20261114T180000
+SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7593769@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261208T161500
+DTEND;TZID=America/New_York:20261208T181500
+SUMMARY:Rutherford vs Cliffside Park High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7552688@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Rutherford at Northern Valley Regional High (Junior Varsity Boys 
+ Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7534292@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Rutherford at Northern Valley Regional High (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7477032@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Rutherford vs Ridgefield Park High School (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7501549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Becton at Rutherford High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7501549@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Rutherford vs Henry P Becton Regional High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539199@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T125800
+DTEND;TZID=America/New_York:20261218T145800
+SUMMARY:Cresskill at Rutherford High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:58 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539201@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Cresskill at Rutherford High School (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7539200@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Cresskill at Rutherford High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7579688@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Manchester Regional at Rutherford High School (Freshman Boys Boys
+  Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7579699@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Manchester Regional at Rutherford High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7541637@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Glen Rock vs Rutherford High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7579698@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Manchester Regional at Rutherford High School (Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7609213@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Lyndhurst vs Rutherford High School (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7603596@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Manchester Regional vs Rutherford High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7485885@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270111T161500
+DTEND;TZID=America/New_York:20270111T181500
+SUMMARY:Hasbrouck Heights vs Rutherford High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485032@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Eastern Christian at Rutherford High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485047@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Eastern Christian at Rutherford High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7580081@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T161500
+DTEND;TZID=America/New_York:20270115T181500
+SUMMARY:Manchester Regional vs Rutherford High School (Freshman Boys Boys
+  Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7580083@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Manchester Regional vs Rutherford High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7580086@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Manchester Regional vs Rutherford High School (Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603835@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Lyndhurst at Rutherford High School (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603834@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Lyndhurst at Rutherford High School (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7603833@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T210000
+SUMMARY:Lyndhurst at Rutherford High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7560930@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Lodi at Rutherford High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7560930@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Rutherford vs Lodi/Saddle (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7560930@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Saddle Brook at Rutherford High School (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7472860@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270123T103000
+DTEND;TZID=America/New_York:20270123T123000
+SUMMARY:Rutherford vs Ramsey High School (Junior Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7472861@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:Rutherford vs Ramsey High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7550901@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:North Arlington at Rutherford High School (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536893@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+SUMMARY:Leonia at Rutherford High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7462070@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Emerson at Rutherford High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7462070@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Rutherford vs Emerson Jr-Sr High School (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7603329@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270329T161500
+DTEND;TZID=America/New_York:20270329T181500
+SUMMARY:Rutherford at Paramus High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7571683@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Rutherford at Secaucus High School (Varsity Boys Boys Track and F
+ ield)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575442@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Pompton Lakes at Rutherford High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7572895@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Eastern Christian vs Rutherford High School (Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7581463@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Eastern Christian at Rutherford High School (Junior Varsity Boys 
+ Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7556849@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Leonia vs Rutherford High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7575452@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Pompton Lakes vs Rutherford High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7537210@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270429T161500
+DTEND;TZID=America/New_York:20270429T181500
+SUMMARY:Pompton Lakes at Rutherford High School (Junior Varsity Boys Base
+ ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7572878@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270430T161500
+DTEND;TZID=America/New_York:20270430T181500
+SUMMARY:Eastern Christian at Rutherford High School (Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7581465@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270430T161500
+DTEND;TZID=America/New_York:20270430T181500
+SUMMARY:Eastern Christian vs Rutherford High School (Junior Varsity Boys 
+ Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7537212@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Pompton Lakes vs Rutherford High School (Junior Varsity Boys Base
+ ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7556863@njicathletics
+DTSTAMP:20260907T170134Z
+DTSTART;TZID=America/New_York:20270505T160000
+DTEND;TZID=America/New_York:20270505T180000
+SUMMARY:Leonia at Rutherford High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+END:VCALENDAR

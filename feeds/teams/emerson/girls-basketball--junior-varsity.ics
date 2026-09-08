@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Emerson Junior Varsity Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2609:7448977@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T174500
+DTEND;TZID=America/New_York:20261216T194500
+SUMMARY:Emerson vs Harrison High School (Junior Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7530925@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Emerson vs Saddle Brook (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7530925@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Saddle Brook at Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448983@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T174500
+DTEND;TZID=America/New_York:20270104T194500
+SUMMARY:Emerson vs Mary Help (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7448983@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T174500
+DTEND;TZID=America/New_York:20270104T194500
+SUMMARY:Mary Help at Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448985@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T174500
+DTEND;TZID=America/New_York:20270106T194500
+SUMMARY:Emerson vs Hawthorne (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448985@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T174500
+DTEND;TZID=America/New_York:20270106T194500
+SUMMARY:Hawthorne at Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448987@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Emerson vs Manchester Regional (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7448987@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Manchester Regional at Emerson (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448991@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T174500
+DTEND;TZID=America/New_York:20270113T194500
+SUMMARY:Emerson vs PCSST (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7448991@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T174500
+DTEND;TZID=America/New_York:20270113T194500
+SUMMARY:PCSST at Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7530939@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Emerson at Saddle Brook (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7530939@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Saddle Brook vs Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448999@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T174500
+DTEND;TZID=America/New_York:20270201T194500
+SUMMARY:Emerson at Hawthorne (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7448999@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T174500
+DTEND;TZID=America/New_York:20270201T194500
+SUMMARY:Hawthorne vs Emerson (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7449001@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T174500
+DTEND;TZID=America/New_York:20270203T194500
+SUMMARY:Emerson at Manchester Regional (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7449001@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T174500
+DTEND;TZID=America/New_York:20270203T194500
+SUMMARY:Manchester Regional vs Emerson (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+END:VCALENDAR

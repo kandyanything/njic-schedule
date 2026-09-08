@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Dwight-Englewood Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2598:7539694@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Dwight-Englewood at Glen Rock (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7527095@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Dwight-Englewood vs PCSST (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527095@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:PCSST at Dwight-Englewood (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7527094@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Dwight-Englewood vs PCSST (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527094@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:PCSST at Dwight-Englewood (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7527093@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Dwight-Englewood vs PCSST (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7527093@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:PCSST at Dwight-Englewood (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603818@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Dwight-Englewood vs Lyndhurst (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603817@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Dwight-Englewood vs Lyndhurst (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603816@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Dwight-Englewood vs Lyndhurst (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7605500@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Dwight-Englewood at Park Ridge (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7615701@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T183000
+DTEND;TZID=America/New_York:20270109T203000
+SUMMARY:Dwight-Englewood at Hackensack High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7550891@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Dwight-Englewood vs North Arlington (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7551133@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Dwight-Englewood vs North Arlington (Freshman Boys Boys Basketbal
+ l)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7551127@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Dwight-Englewood vs North Arlington (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603837@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Dwight-Englewood at Lyndhurst (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603838@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Dwight-Englewood at Lyndhurst (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7536798@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T170000
+DTEND;TZID=America/New_York:20270122T190000
+SUMMARY:Palisades Park at Dwight-Englewood (Middle School Boys Boys Baske
+ tball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7603836@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Dwight-Englewood at Lyndhurst (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7539688@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Glen Rock vs Dwight-Englewood (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7539371@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Glen Rock vs Dwight-Englewood (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7534364@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T210000
+SUMMARY:Glen Rock vs Dwight-Englewood (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7605541@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T190000
+DTEND;TZID=America/New_York:20270203T210000
+SUMMARY:Dwight-Englewood vs Park Ridge (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+END:VCALENDAR

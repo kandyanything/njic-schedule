@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Ridgefield Memorial Junior Varsity Girls Tennis
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2582:7526785@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Cresskill vs Ridgefield Memorial (Junior Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7544857@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Ridgefield Memorial vs North Bergen High School (Junior Varsity G
+ irls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7588003@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7612799@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Park Ridge at Ridgefield Memorial (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7544847@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Ridgefield Memorial at Teaneck High School (Junior Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7544853@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Ridgefield Memorial at Waldwick (Junior Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7544859@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Ridgefield Memorial at North Bergen High School (Junior Varsity G
+ irls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7535847@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Ridgefield Memorial vs Secaucus (Junior Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526790@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cresskill at Ridgefield Memorial (Junior Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7612803@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Park Ridge vs Ridgefield Memorial (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7588006@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7609216@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Leonia vs Ridgefield Memorial (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+END:VCALENDAR

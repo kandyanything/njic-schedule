@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Saddle River Day Girls Tennis
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2843:7451786@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Saddle Brook vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7455124@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Saddle River Day at Secaucus (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7455126@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T163000
+DTEND;TZID=America/New_York:20260909T183000
+SUMMARY:Dwight-Englewood at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7452340@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Pompton Lakes vs Saddle River Day (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7452196@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T163000
+DTEND;TZID=America/New_York:20260914T183000
+SUMMARY:Pompton Lakes at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510840@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:Leonia vs Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455149@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T163000
+DTEND;TZID=America/New_York:20260916T183000
+SUMMARY:Leonia at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7596094@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Saddle River Day vs Golda Och Academy (Middle School Girls Girls 
+ Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455160@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Glen Rock vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7581941@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T163000
+DTEND;TZID=America/New_York:20260925T183000
+SUMMARY:Glen Rock at Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455170@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Cresskill vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7526789@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Cresskill at Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7535863@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Saddle River Day at Secaucus (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7455179@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T163000
+DTEND;TZID=America/New_York:20261001T183000
+SUMMARY:Saddle River Day vs Secaucus (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7572583@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Saddle River Day vs Dwight-Englewood (Middle School Girls Girls T
+ ennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7572584@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T153000
+DTEND;TZID=America/New_York:20261006T173000
+SUMMARY:Saddle River Day at Tuxedo Park School (Middle School Girls Girls
+  Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7455190@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Dwight-Englewood vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7581943@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T163000
+DTEND;TZID=America/New_York:20261006T183000
+SUMMARY:Dwight-Englewood at Saddle River Day (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7452291@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Pompton Lakes vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7452349@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T163000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:Pompton Lakes at Saddle River Day (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455209@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Leonia vs Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510845@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:Leonia at Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7572585@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T153000
+DTEND;TZID=America/New_York:20261013T173000
+SUMMARY:Saddle River Day vs Tuxedo Park School (Middle School Girls Girls
+  Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7581937@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Dwight-Englewood vs Saddle River Day (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7581945@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Glen Rock vs Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7455213@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:Glen Rock at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7596107@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Saddle River Day vs Golda Och Academy (Middle School Girls Girls 
+ Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7455102@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Park Ridge at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7581932@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Park Ridge vs Saddle River Day (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7572586@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T153000
+DTEND;TZID=America/New_York:20261027T173000
+SUMMARY:Saddle River Day at The Elisabeth Morrow School (Middle School Gi
+ rls Girls Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7572587@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Saddle River Day vs The Elisabeth Morrow School (Middle School Gi
+ rls Girls Tennis)
+DESCRIPTION:Middle School Girls Girls Tennis - Home - 3:30 PM
+END:VEVENT
+END:VCALENDAR

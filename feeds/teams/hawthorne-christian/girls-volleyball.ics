@@ -1,0 +1,474 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Hawthorne Christian Girls Volleyball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2645:7537575@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Hawthorne Christian vs Lakeland Regional High School (Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7576270@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T111500
+DTEND;TZID=America/New_York:20260824T131500
+SUMMARY:Hawthorne Christian vs Lakeland Regional High School (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7511619@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T113100
+DTEND;TZID=America/New_York:20260825T133100
+SUMMARY:Hawthorne Christian vs Lakeland Regional High School (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:31 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7576732@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Hawthorne Christian at Hawthorne (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7503824@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Hawthorne Christian vs Leonia (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455338@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Hawthorne Christian at Mary Help (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455338@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Mary Help vs Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455360@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Hawthorne Christian vs PCSST (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7455360@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:PCSST at Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7455366@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Elmwood Park vs Hawthorne Christian (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455366@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Hawthorne Christian at Elmwood Park (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7455388@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Eastern Christian vs Hawthorne Christian (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7613794@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T161500
+DTEND;TZID=America/New_York:20260911T181500
+SUMMARY:Hawthorne Christian at Passaic Charter (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7602664@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hawthorne Christian vs Passaic High School (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7602667@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T174500
+DTEND;TZID=America/New_York:20260915T194500
+SUMMARY:Hawthorne Christian vs Passaic High School (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455419@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Hawthorne Christian vs Midland Park (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7533975@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:Hawthorne Christian vs Midland Park (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7533930@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T174500
+DTEND;TZID=America/New_York:20260917T194500
+SUMMARY:Hawthorne Christian vs Midland Park (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7496224@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Emerson vs Hawthorne Christian (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7496224@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne Christian at Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7455430@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Emerson vs Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7556507@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Emerson vs Hawthorne Christian (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455430@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Hawthorne Christian at Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7556507@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Hawthorne Christian at Emerson (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7455443@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Butler at Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455461@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7614716@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:Hawthorne Christian vs Lakeland Regional High School (Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455479@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Hawthorne Christian vs Mary Help (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455479@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Mary Help at Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Hawthorne Christian at PCSST (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7455494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:PCSST vs Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7455507@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Elmwood Park at Hawthorne Christian (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455507@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Hawthorne Christian vs Elmwood Park (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7455534@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484375@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Eastern Christian at Hawthorne Christian (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7484375@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Hawthorne Christian vs Eastern Christian (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7543631@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Hawthorne Christian vs Passaic Valley High School (Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Eastern Christian vs Hawthorne Christian (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7484377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Hawthorne Christian at Eastern Christian (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484222@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T110000
+DTEND;TZID=America/New_York:20261017T130000
+SUMMARY:Eastern Christian vs Hawthorne Christian (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7510782@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Hawthorne Christian at Leonia (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7504007@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T200000
+SUMMARY:Hawthorne Christian at Leonia (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455551@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Hawthorne Christian at Midland Park (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7533982@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Hawthorne Christian at Midland Park (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7533937@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T174500
+DTEND;TZID=America/New_York:20261020T194500
+SUMMARY:Hawthorne Christian at Midland Park (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7455569@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Emerson at Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455569@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Hawthorne Christian vs Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7496246@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T193000
+SUMMARY:Emerson at Hawthorne Christian (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7496246@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T193000
+SUMMARY:Hawthorne Christian vs Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7556514@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T193000
+SUMMARY:Hawthorne Christian vs Emerson (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7455585@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Butler vs Hawthorne Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7455603@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+END:VCALENDAR

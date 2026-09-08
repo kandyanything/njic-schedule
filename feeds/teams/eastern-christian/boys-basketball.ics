@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//NJIC Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIC — Eastern Christian Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ds:2602:7546256@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T120000
+DTEND;TZID=America/New_York:20261212T140000
+SUMMARY:Eastern Christian at Mountain Lakes High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7536244@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Eastern Christian vs Leonia (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7536225@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Eastern Christian vs Leonia (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485009@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Eastern Christian at Saddle Brook (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485012@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Eastern Christian at Saddle Brook (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484981@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T210000
+SUMMARY:Eastern Christian at Saddle Brook (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485014@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Eastern Christian vs Emerson (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7485014@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Emerson at Eastern Christian (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7448961@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Eastern Christian vs Emerson (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448961@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Emerson at Eastern Christian (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7484986@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T161500
+DTEND;TZID=America/New_York:20270104T181500
+SUMMARY:Butler at Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7530780@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T163000
+DTEND;TZID=America/New_York:20270108T183000
+SUMMARY:Eastern Christian at Bergen Charter (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7530784@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Eastern Christian at Bergen Charter (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485013@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
+SUMMARY:Eastern Christian at Harrison High School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484992@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T180000
+DTEND;TZID=America/New_York:20270111T200000
+SUMMARY:Eastern Christian at Harrison High School (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484990@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Eastern Christian vs Saddle Brook (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484991@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Eastern Christian vs Saddle Brook (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484989@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Eastern Christian vs Saddle Brook (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7448969@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Eastern Christian at Emerson (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448969@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Emerson vs Eastern Christian (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7448968@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Eastern Christian at Emerson (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448968@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Emerson vs Eastern Christian (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7509380@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Butler vs Eastern Christian (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484996@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Eastern Christian vs Wallington (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7485007@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Butler vs Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509383@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Eastern Christian at Hawthorne (Middle School Boys Boys Basketbal
+ l)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7485015@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Butler vs Eastern Christian (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7484997@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Butler vs Eastern Christian (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509384@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T161500
+DTEND;TZID=America/New_York:20270127T181500
+SUMMARY:Eastern Christian at Waldwick (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509381@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T161500
+DTEND;TZID=America/New_York:20270129T181500
+SUMMARY:Eastern Christian vs Haledon Middle School (Middle School Boys Bo
+ ys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7516181@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Eastern Christian vs Cliffside Park High School (Middle School Bo
+ ys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485001@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T163000
+DTEND;TZID=America/New_York:20270201T183000
+SUMMARY:Eastern Christian at Hawthorne Christian (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485000@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T180000
+DTEND;TZID=America/New_York:20270201T200000
+SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509388@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Eastern Christian at Saddle River Day (Middle School Boys Boys Ba
+ sketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509385@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T161500
+DTEND;TZID=America/New_York:20270205T181500
+SUMMARY:Eastern Christian at Midland Park (Middle School Boys Boys Basket
+ ball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485016@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Eastern Christian vs Kinnelon High School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485017@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Eastern Christian vs Kinnelon High School (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7529597@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Eastern Christian at Boonton High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7529588@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Eastern Christian at Boonton High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7509387@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T161500
+DTEND;TZID=America/New_York:20270217T181500
+SUMMARY:Eastern Christian vs Saddle River Day (Middle School Boys Boys Ba
+ sketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7537349@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T163000
+DTEND;TZID=America/New_York:20270217T183000
+SUMMARY:Eastern Christian at Veritas Christian Academy (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7532813@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T161500
+DTEND;TZID=America/New_York:20270218T181500
+SUMMARY:Eastern Christian at Sussex County Technical High School (Freshma
+ n Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7532805@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T173000
+DTEND;TZID=America/New_York:20270218T193000
+SUMMARY:Eastern Christian at Sussex County Technical High School (Junior 
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7532801@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T190000
+DTEND;TZID=America/New_York:20270218T210000
+SUMMARY:Eastern Christian at Sussex County Technical High School (Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+END:VCALENDAR

@@ -9,7 +9,7 @@
   var INDEX = null, FEEDMAN = null, SCHOOL_PATH = {}, SPORT_BY_SLUG = {};
   var TEAMS = null, TEAMS_BY_SLUG = {};
   var CONF = 'North Jersey Interscholastic Conference';
-  var state = { view: 'upcoming', sport: '', school: '', level: '', q: '', days: 10 };
+  var state = { view: 'upcoming', sport: '', school: '', level: '', date: '', q: '', days: 10 };
 
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
@@ -87,10 +87,11 @@
     if (state.sport && g.sport !== state.sport) return false;
     if (state.level && g.level !== state.level) return false;
     if (state.school && g.school !== state.school && g.opponent !== state.school) return false;
+    if (state.date && g.date !== state.date) return false;
     if (state.q) { var q = state.q.toLowerCase(); if ((g.school || '').toLowerCase().indexOf(q) < 0 && (g.opponent || '').toLowerCase().indexOf(q) < 0) return false; }
     return true;
   }
-  function hasFilter() { return !!(state.sport || state.school || state.level || state.q); }
+  function hasFilter() { return !!(state.sport || state.school || state.level || state.date || state.q); }
 
   // ---- render ----
   function render() {
@@ -149,7 +150,10 @@
     more.hidden = shown.length >= dates.length;
   }
   function renderUpcoming() {
-    renderAgenda($('.view-upcoming'), ALL.filter(function (g) { return g.date >= TODAY && match(g); }).sort(byDateTime));
+    var games = state.date
+      ? ALL.filter(function (g) { return match(g); })
+      : ALL.filter(function (g) { return g.date >= TODAY && match(g); });
+    renderAgenda($('.view-upcoming'), games.sort(byDateTime));
   }
   function renderFull() {
     var wrap = $('.view-full'), hint = $('.full-hint', wrap);
@@ -286,8 +290,8 @@
       el.addEventListener(ev, function () { state[el.dataset.filter] = el.value; state.days = initialDays(); render(); });
     });
     $('[data-clear]').addEventListener('click', function () {
-      state.sport = state.school = state.level = state.q = ''; state.days = initialDays();
-      ['#f-sport', '#f-school', '#f-level', '#f-search'].forEach(function (s) { var el = $(s); if (el) el.value = ''; });
+      state.sport = state.school = state.level = state.date = state.q = ''; state.days = initialDays();
+      ['#f-sport', '#f-school', '#f-level', '#f-date', '#f-search'].forEach(function (s) { var el = $(s); if (el) el.value = ''; });
       render();
     });
     $$('.load-more').forEach(function (b) { b.addEventListener('click', function () { state.days += 20; render(); }); });

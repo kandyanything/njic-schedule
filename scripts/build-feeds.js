@@ -33,7 +33,9 @@ const VTZ = [
   'END:VTIMEZONE',
 ];
 
-const DTSTAMP = (doc.generated || new Date().toISOString()).replace(/[-:]/g, '').replace(/\.\d+/, '').slice(0, 15) + 'Z';
+// Fixed so an unchanged feed stays byte-identical build-to-build — no git churn
+// across the ~1600 team feeds. Creation stamp, not a refresh signal.
+const DTSTAMP = '20250801T000000Z';
 
 function vevent(g) {
   const ymd = g.date.replace(/-/g, '');
@@ -127,6 +129,32 @@ for (const k of Object.keys(combos).sort()) {
   sportLevelFeeds.push({ sport, level, name: level + " " + sport, slug, path: "feeds/sports/" + slug + ".ics", rss: "feeds/sports/" + slug + ".xml", games: combos[k].length });
 }
 
+// ---- per-team feeds: one school's sport (all levels) and each sport+level ----
+const orderLv = ['Varsity', 'Junior Varsity', 'Freshman', 'Middle School'];
+const teamSchools = [];
+let teamCount = 0;
+for (const s of SCHOOLS) {
+  const list = schoolGames(s.name);
+  if (!list.length) continue;
+  const bySport = {};
+  for (const g of list) (bySport[g.sport] = bySport[g.sport] || []).push(g);
+  const dir = path.join(OUT, 'teams', s.slug);
+  fs.mkdirSync(dir, { recursive: true });
+  const sportsOut = [];
+  for (const sport of Object.keys(bySport).sort()) {
+    const sl = slugify(sport);
+    fs.writeFileSync(path.join(dir, sl + '.ics'), calendar('NJIC — ' + s.name + ' ' + sport, bySport[sport])); teamCount++;
+    const byLevel = {};
+    for (const g of bySport[sport]) if (g.level) (byLevel[g.level] = byLevel[g.level] || []).push(g);
+    const levels = Object.keys(byLevel).sort((a, b) => (orderLv.indexOf(a) + 1 || 9) - (orderLv.indexOf(b) + 1 || 9));
+    for (const lv of levels) { fs.writeFileSync(path.join(dir, sl + '--' + slugify(lv) + '.ics'), calendar('NJIC — ' + s.name + ' ' + lv + ' ' + sport, byLevel[lv])); teamCount++; }
+    sportsOut.push({ name: sport, slug: sl, levels: levels.map(lv => ({ name: lv, slug: slugify(lv) })) });
+  }
+  teamSchools.push({ name: s.name, slug: s.slug, sports: sportsOut });
+}
+fs.writeFileSync(path.join(OUT, 'teams.json'), JSON.stringify({ conference: CONF, base: 'feeds/teams', schools: teamSchools }) + '\n');
+console.log('  ' + teamCount + ' team feeds');
+
 // ---- conference-wide RSS (upcoming ~21 days) ----
 const today = new Date().toISOString().slice(0, 10);
 const horizon = new Date(); horizon.setDate(horizon.getDate() + 21);
@@ -134,7 +162,7 @@ const upCount = games.filter(g => g.date >= today && g.date <= horizon.toISOStri
 fs.writeFileSync(path.join(OUT, 'rss.xml'), rssFor(CONF + ' — Upcoming Games', 'Upcoming games across all ' + CONF + ' schools.', games, 21, 600));
 
 fs.writeFileSync(path.join(OUT, 'index.json'), JSON.stringify({
-  conference: CONF, generated: doc.generated, all: 'feeds/all.ics', rss: 'feeds/rss.xml',
+  conference: CONF, generated: doc.generated, all: 'feeds/all.ics', rss: 'feeds/rss.xml', teams: 'feeds/teams.json',
   schools: schoolFeeds, sports: sportFeeds, sportLevels: sportLevelFeeds,
 }, null, 2) + '\n');
 

@@ -7,6 +7,7 @@
   var DATA = 'data/schedule/', FEEDS = 'feeds/';
   var ALL = [];
   var INDEX = null, FEEDMAN = null, SCHOOL_PATH = {}, SPORT_BY_SLUG = {};
+  var TEAMS = null, TEAMS_BY_SLUG = {};
   var CONF = 'North Jersey Interscholastic Conference';
   var state = { view: 'upcoming', sport: '', school: '', level: '', q: '', days: 10 };
 
@@ -40,8 +41,9 @@
     Promise.all([
       loadJSON(DATA + 'index.json').catch(function () { return null; }),
       loadJSON(FEEDS + 'index.json').catch(function () { return null; }),
+      loadJSON(FEEDS + 'teams.json').catch(function () { return null; }),
     ]).then(function (res) {
-      INDEX = res[0]; FEEDMAN = res[1];
+      INDEX = res[0]; FEEDMAN = res[1]; TEAMS = res[2];
       if (!INDEX) { showError(); return; }
       CONF = (FEEDMAN && FEEDMAN.conference) || CONF;
       var months = INDEX.months || [];
@@ -149,34 +151,74 @@
   // ---- subscribe / export ----
   function absUrl(rel) { return location.origin.replace(/\/$/, '') + '/' + rel.replace(/^\//, ''); }
   function allFeed() { return (FEEDMAN && FEEDMAN.all) || 'feeds/all.ics'; }
+  function slug(s) { return String(s == null ? '' : s).toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); }
   function buildSubscribe() {
-    var scope = $('#sub-scope'), lvl = $('#sub-level');
+    var scope = $('#sub-scope');
     if (!scope) return;
     if (FEEDMAN) {
       var sg = $('optgroup[data-group="schools"]', scope), pg = $('optgroup[data-group="sports"]', scope);
       (FEEDMAN.schools || []).forEach(function (s) { SCHOOL_PATH[s.slug] = s; var o = document.createElement('option'); o.value = 'school:' + s.slug; o.textContent = s.name; sg.appendChild(o); });
       (FEEDMAN.sports || []).forEach(function (s) { SPORT_BY_SLUG[s.slug] = s; var o = document.createElement('option'); o.value = 'sport:' + s.slug; o.textContent = s.name; pg.appendChild(o); });
-      var order = ['Varsity', 'Junior Varsity', 'Freshman', 'Middle School'];
-      var levels = uniq((FEEDMAN.sportLevels || []).map(function (x) { return x.level; })).sort(function (a, b) { return (order.indexOf(a) + 1 || 9) - (order.indexOf(b) + 1 || 9); });
-      fillSelect(lvl, levels);
     }
-    scope.addEventListener('change', updateSubscribe);
-    lvl.addEventListener('change', updateSubscribe);
-    updateSubscribe();
+    if (TEAMS && TEAMS.schools) TEAMS.schools.forEach(function (s) { TEAMS_BY_SLUG[s.slug] = s; });
+    scope.addEventListener('change', onScope);
+    var tsp = $('#sub-tsport'); if (tsp) tsp.addEventListener('change', onTsport);
+    var lvl = $('#sub-level'); if (lvl) lvl.addEventListener('change', updateLinks);
+    onScope();
+  }
+  function fillLevels(sel, levelNames) {
+    if (!sel) return;
+    sel.innerHTML = '<option value="">All levels</option>';
+    levelNames.forEach(function (n) { var o = document.createElement('option'); o.value = n; o.textContent = n; sel.appendChild(o); });
+  }
+  function onScope() {
+    var v = $('#sub-scope').value;
+    var isSchool = v.indexOf('school:') === 0, isSport = v.indexOf('sport:') === 0;
+    var tsp = $('#sub-tsport'), lvl = $('#sub-level'), tspWrap = $('.sub-tsport'), lvlWrap = $('.sub-level');
+    if (tspWrap) tspWrap.hidden = !isSchool;
+    if (isSchool && tsp) {
+      var t = TEAMS_BY_SLUG[v.slice(7)];
+      tsp.innerHTML = '<option value="">All sports (whole school)</option>';
+      if (t) t.sports.forEach(function (sp) { var o = document.createElement('option'); o.value = sp.slug; o.textContent = sp.name; tsp.appendChild(o); });
+      if (lvlWrap) lvlWrap.hidden = true;
+      if (lvl) lvl.innerHTML = '<option value="">All levels</option>';
+    } else if (isSport) {
+      var sp2 = SPORT_BY_SLUG[v.slice(6)], order = ['Varsity', 'Junior Varsity', 'Freshman', 'Middle School'];
+      var levels = uniq((FEEDMAN.sportLevels || []).filter(function (x) { return sp2 && x.sport === sp2.name; }).map(function (x) { return x.level; })).sort(function (a, b) { return (order.indexOf(a) + 1 || 9) - (order.indexOf(b) + 1 || 9); });
+      fillLevels(lvl, levels);
+      if (lvlWrap) lvlWrap.hidden = false;
+    } else if (lvlWrap) { lvlWrap.hidden = true; }
+    updateLinks();
+  }
+  function onTsport() {
+    var v = $('#sub-scope').value; if (v.indexOf('school:') !== 0) { updateLinks(); return; }
+    var t = TEAMS_BY_SLUG[v.slice(7)], spSlug = $('#sub-tsport').value, lvl = $('#sub-level'), lvlWrap = $('.sub-level');
+    var sp = t && t.sports.filter(function (x) { return x.slug === spSlug; })[0];
+    if (sp && sp.levels.length) { fillLevels(lvl, sp.levels.map(function (l) { return l.name; })); if (lvlWrap) lvlWrap.hidden = false; }
+    else { if (lvl) lvl.innerHTML = '<option value="">All levels</option>'; if (lvlWrap) lvlWrap.hidden = true; }
+    updateLinks();
   }
   function currentFeed(kind) {
-    var v = $('#sub-scope').value, lvl = $('#sub-level').value, key = kind === 'rss' ? 'rss' : 'path';
-    var fallback = kind === 'rss' ? ((FEEDMAN && FEEDMAN.rss) || 'feeds/rss.xml') : allFeed();
-    if (v.indexOf('school:') === 0) { var sc = SCHOOL_PATH[v.slice(7)]; return sc ? (sc[key] || sc.path) : fallback; }
-    if (v.indexOf('sport:') === 0) {
-      var sp = SPORT_BY_SLUG[v.slice(6)];
-      if (sp && lvl) { var mm = (FEEDMAN.sportLevels || []).filter(function (x) { return x.sport === sp.name && x.level === lvl; })[0]; if (mm) return mm[key] || mm.path; }
-      return sp ? (sp[key] || sp.path) : fallback;
+    var v = $('#sub-scope').value, key = kind === 'rss' ? 'rss' : 'path';
+    var fb = kind === 'rss' ? ((FEEDMAN && FEEDMAN.rss) || 'feeds/rss.xml') : allFeed();
+    if (v.indexOf('school:') === 0) {
+      var s = v.slice(7), sc = SCHOOL_PATH[s];
+      var tsp = $('#sub-tsport'), spSlug = tsp ? tsp.value : '', lvName = $('#sub-level').value;
+      if (spSlug) {
+        if (kind === 'rss') return (sc && sc.rss) || fb;
+        var base = (TEAMS && TEAMS.base) || 'feeds/teams';
+        return base + '/' + s + '/' + spSlug + (lvName ? '--' + slug(lvName) : '') + '.ics';
+      }
+      return sc ? (sc[key] || sc.path) : fb;
     }
-    return fallback;
+    if (v.indexOf('sport:') === 0) {
+      var sp2 = SPORT_BY_SLUG[v.slice(6)], lv2 = $('#sub-level').value;
+      if (sp2 && lv2) { var mm = (FEEDMAN.sportLevels || []).filter(function (x) { return x.sport === sp2.name && x.level === lv2; })[0]; if (mm) return mm[key] || mm.path; }
+      return sp2 ? (sp2[key] || sp2.path) : fb;
+    }
+    return fb;
   }
-  function updateSubscribe() {
-    $('.sub-level').hidden = $('#sub-scope').value.indexOf('sport:') !== 0;
+  function updateLinks() {
     var path = currentFeed('ics'), https = absUrl(path), webcal = https.replace(/^https?:/, 'webcal:');
     $('[data-sub="apple"]').href = webcal;
     $('[data-sub="outlook"]').href = 'https://outlook.live.com/calendar/0/addfromweb?url=' + encodeURIComponent(https) + '&name=' + encodeURIComponent(CONF);

@@ -126,7 +126,7 @@
       '<span class="vs">' + sep + '</span>' +
       teamHtml(teamB, logoB, false) + '</div>' +
       '<div class="game-meta">' +
-      '<span class="pill pill--sport">' + esc([g.gender, g.sport].filter(Boolean).join(' ')) + '</span>' +
+      '<span class="pill pill--sport">' + esc(sportTag(g)) + '</span>' +
       (g.level ? '<span class="pill">' + esc(g.level) + '</span>' : '') +
       (g.status ? '<span class="pill pill--off">' + esc(g.status) + '</span>' : '') +
       '</div></div>';
@@ -162,6 +162,7 @@
   }
   function groupBy(arr, k) { var o = {}; arr.forEach(function (x) { (o[x[k]] = o[x[k]] || []).push(x); }); return o; }
   function esc(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function sportTag(g) { var sp = g.sport || '', gen = g.gender || ''; return (gen && sp.toLowerCase().indexOf(gen.toLowerCase()) === 0) ? sp : [gen, sp].filter(Boolean).join(' '); }
 
   // ---- subscribe / export ----
   function absUrl(rel) { return location.origin.replace(/\/$/, '') + '/' + rel.replace(/^\//, ''); }
@@ -261,7 +262,7 @@
         if (g.home === false) { tA = g.school; tB = g.opponent || 'TBD'; sep = '@'; }
         else if (g.home === true) { tA = g.opponent || 'TBD'; tB = g.school; sep = '@'; }
         else { tA = g.school; tB = g.opponent || 'TBD'; sep = 'vs'; }
-        html += '<tr><td class="pt-time">' + esc(g.timeLabel || 'TBA') + '</td><td class="pt-match">' + esc(tA) + ' <span>' + sep + '</span> ' + esc(tB) + '</td><td class="pt-meta">' + esc([g.level, g.gender, g.sport].filter(Boolean).join(' ')) + (g.status ? ' — ' + esc(g.status) : '') + '</td></tr>';
+        html += '<tr><td class="pt-time">' + esc(g.timeLabel || 'TBA') + '</td><td class="pt-match">' + esc(tA) + ' <span>' + sep + '</span> ' + esc(tB) + '</td><td class="pt-meta">' + esc([g.level, sportTag(g)].filter(Boolean).join(' ')) + (g.status ? ' — ' + esc(g.status) : '') + '</td></tr>';
       });
       html += '</tbody></table>';
     });

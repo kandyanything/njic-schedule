@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "njic-schedule-bot"
           git config user.email "njic-schedule-bot@users.noreply.github.com"
-          git add data/schedule.json data/schedule feeds
+          git add data/schedule feeds
           if git diff --cached --quiet; then
             echo "No schedule changes."
           else

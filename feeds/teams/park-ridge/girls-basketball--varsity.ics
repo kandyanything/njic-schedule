@@ -23,22 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2789:7530820@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T161500
-DTEND;TZID=America/New_York:20261211T181500
-SUMMARY:Park Ridge at Saddle Brook (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2763:7550628@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:North Arlington at Park Ridge (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7485878@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
@@ -71,28 +55,12 @@ SUMMARY:Becton at Park Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7501778@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T161500
-DTEND;TZID=America/New_York:20270122T181500
-SUMMARY:Park Ridge vs Becton (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2703:7604083@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T174500
 DTEND;TZID=America/New_York:20270126T194500
 SUMMARY:Lyndhurst vs Park Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7463229@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T120000
-DTEND;TZID=America/New_York:20270206T140000
-SUMMARY:Park Ridge vs Ramsey High School (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7439389@njicathletics
@@ -103,36 +71,11 @@ SUMMARY:Emerson at Park Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7439389@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T163000
-DTEND;TZID=America/New_York:20270217T183000
-SUMMARY:Park Ridge vs Emerson (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7462076@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270217T190000
 DTEND;TZID=America/New_York:20270217T210000
 SUMMARY:Emerson at Park Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7462076@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T190000
-DTEND;TZID=America/New_York:20270217T210000
-SUMMARY:Park Ridge vs Emerson (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7475371@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270219T161500
-DTEND;TZID=America/New_York:20270219T181500
-SUMMARY:Park Ridge vs Kittatinny Regional High School (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

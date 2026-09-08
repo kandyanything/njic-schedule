@@ -23,22 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2843:7530817@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T163000
-DTEND;TZID=America/New_York:20261208T183000
-SUMMARY:Saddle Brook at TBA NJ (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530912@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T163000
-DTEND;TZID=America/New_York:20261208T183000
-SUMMARY:Saddle Brook at TBA NJ (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7530822@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -55,45 +39,12 @@ SUMMARY:Lodi at Saddle Brook (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7530820@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T161500
-DTEND;TZID=America/New_York:20261211T181500
-SUMMARY:Park Ridge at Saddle Brook (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7458405@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Palisades Park at Saddle Brook (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7530920@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T173000
-DTEND;TZID=America/New_York:20261216T193000
-SUMMARY:Palisades Park at Saddle Brook (Junior Varsity Girls Girls Basket
- ball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7530841@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
 SUMMARY:Mary Help vs Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530841@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T161500
-DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Saddle Brook at Mary Help (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7530923@njicathletics
@@ -104,28 +55,12 @@ SUMMARY:Mary Help vs Saddle Brook (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7530923@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T173000
-DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Saddle Brook at Mary Help (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448980@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
 SUMMARY:Emerson vs Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7448980@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T161500
-DTEND;TZID=America/New_York:20261221T181500
-SUMMARY:Saddle Brook at Emerson (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7530925@njicathletics
@@ -136,38 +71,12 @@ SUMMARY:Emerson vs Saddle Brook (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7530925@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T173000
-DTEND;TZID=America/New_York:20261221T193000
-SUMMARY:Saddle Brook at Emerson (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7535048@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261227T090000
-DTEND;TZID=America/New_York:20261227T110000
-SUMMARY:Saddle Brook at Passaic High School (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2541:7535077@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T090000
 DTEND;TZID=America/New_York:20261229T110000
 SUMMARY:Bogota vs Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7535089@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T090000
-DTEND;TZID=America/New_York:20261230T110000
-SUMMARY:Saddle Brook at KIPP Newark Lab High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7530831@njicathletics
@@ -204,36 +113,12 @@ SUMMARY:Hawthorne vs Saddle Brook (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7530846@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T161500
-DTEND;TZID=America/New_York:20270111T181500
-SUMMARY:Saddle Brook at Wallington (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530932@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T173000
-DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Saddle Brook at Wallington (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7530797@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T161500
 DTEND;TZID=America/New_York:20270113T181500
 SUMMARY:Mary Help at Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530797@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
-SUMMARY:Saddle Brook vs Mary Help (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7448992@njicathletics
@@ -244,37 +129,12 @@ SUMMARY:Emerson at Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7448992@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T161500
-DTEND;TZID=America/New_York:20270115T181500
-SUMMARY:Saddle Brook vs Emerson (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7530939@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T173000
 DTEND;TZID=America/New_York:20270115T193000
 SUMMARY:Emerson at Saddle Brook (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530939@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T173000
-DTEND;TZID=America/New_York:20270115T193000
-SUMMARY:Saddle Brook vs Emerson (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7530800@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Ridgefield Memorial at Saddle Brook (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7530801@njicathletics
@@ -295,30 +155,6 @@ SUMMARY:Manchester Regional at Saddle Brook (Junior Varsity Girls Girls B
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7530812@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T160000
-DTEND;TZID=America/New_York:20270126T180000
-SUMMARY:Saddle Brook vs Dwight-Englewood (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7527328@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T160000
-DTEND;TZID=America/New_York:20270201T180000
-SUMMARY:PCSST vs Saddle Brook (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7527328@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T160000
-DTEND;TZID=America/New_York:20270201T180000
-SUMMARY:Saddle Brook at PCSST (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7530802@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T161500
@@ -327,37 +163,12 @@ SUMMARY:Hawthorne at Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7516507@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T160000
-DTEND;TZID=America/New_York:20270204T180000
-SUMMARY:Saddle Brook vs Bergen Charter (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7531030@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T120000
-DTEND;TZID=America/New_York:20270206T140000
-SUMMARY:Saddle Brook at Hackensack High School (Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7530810@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T161500
 DTEND;TZID=America/New_York:20270209T181500
 SUMMARY:Elmwood Park at Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7530810@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T161500
-DTEND;TZID=America/New_York:20270209T181500
-SUMMARY:Saddle Brook vs Elmwood Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7536933@njicathletics
@@ -374,23 +185,5 @@ DTSTART;TZID=America/New_York:20270212T161500
 DTEND;TZID=America/New_York:20270212T181500
 SUMMARY:Bogota vs Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7554614@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-SUMMARY:Ridgefield Memorial vs Saddle Brook (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7554614@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-SUMMARY:Saddle Brook at Ridgefield Memorial (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 END:VCALENDAR

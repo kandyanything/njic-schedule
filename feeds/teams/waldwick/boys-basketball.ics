@@ -23,46 +23,20 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2763:7552674@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T160000
-DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:North Arlington at Waldwick (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2763:7551137@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T161500
-DTEND;TZID=America/New_York:20261207T181500
-SUMMARY:North Arlington vs Waldwick (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7593772@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T161500
-DTEND;TZID=America/New_York:20261210T181500
-SUMMARY:Waldwick vs Cliffside Park High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7593778@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T161500
-DTEND;TZID=America/New_York:20261210T181500
-SUMMARY:Waldwick at Cliffside Park High School (Freshman Boys Boys Basket
- ball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7509384@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
 SUMMARY:Eastern Christian at Waldwick (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7621109@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+SUMMARY:Butler at Waldwick (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7603737@njicathletics
@@ -87,5 +61,13 @@ DTSTART;TZID=America/New_York:20270206T120000
 DTEND;TZID=America/New_York:20270206T140000
 SUMMARY:Lyndhurst vs Waldwick (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7621194@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Butler vs Waldwick (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

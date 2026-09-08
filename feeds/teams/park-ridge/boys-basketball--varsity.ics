@@ -23,39 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2789:7605572@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T161500
-DTEND;TZID=America/New_York:20261207T181500
-SUMMARY:Park Ridge vs Indian Hills High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605574@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T161500
-DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Park Ridge vs Dumont High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605577@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T190000
-DTEND;TZID=America/New_York:20261216T210000
-SUMMARY:Park Ridge vs Saddle River Day (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605466@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T190000
-DTEND;TZID=America/New_York:20261218T210000
-SUMMARY:Park Ridge at Saint Mary (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2703:7603810@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T190000
@@ -72,14 +39,6 @@ SUMMARY:Leonia at Park Ridge (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7605584@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:Park Ridge at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7605500@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T190000
@@ -94,14 +53,6 @@ DTSTART;TZID=America/New_York:20270111T190000
 DTEND;TZID=America/New_York:20270111T210000
 SUMMARY:Manchester Regional at Park Ridge (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605505@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T190000
-DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Park Ridge vs Saint Mary (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7603827@njicathletics
@@ -128,30 +79,6 @@ SUMMARY:Glen Rock vs Park Ridge (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7605903@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T190000
-DTEND;TZID=America/New_York:20270125T210000
-SUMMARY:Park Ridge vs Wood-Ridge (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7527212@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T190000
-DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:Park Ridge vs PCSST (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7527212@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T190000
-DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:PCSST at Park Ridge (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7605541@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T190000
@@ -165,23 +92,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
 SUMMARY:Bogota at Park Ridge (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605913@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270213T130000
-DTEND;TZID=America/New_York:20270213T150000
-SUMMARY:Park Ridge at James I O Neill High School (Varsity Boys Boys Bask
- etball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7605914@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270219T190000
-DTEND;TZID=America/New_York:20270219T210000
-SUMMARY:Park Ridge at Dumont High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 END:VCALENDAR

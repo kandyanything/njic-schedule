@@ -38,5 +38,6 @@ jobs:
             echo "No schedule changes."
           else
             git commit -m "Schedule refresh $(date -u +%Y-%m-%d_%H:%M)"
+            git pull --rebase origin main
             git push
           fi

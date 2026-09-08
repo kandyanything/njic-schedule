@@ -23,11 +23,35 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2841:7545654@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T100000
+DTEND;TZID=America/New_York:20260829T120000
+SUMMARY:Rutherford at Bernards High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2703:7536865@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260905T100000
 DTEND;TZID=America/New_York:20260905T120000
 SUMMARY:Lyndhurst at Rutherford (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7446397@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Rutherford vs Emerson (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7451681@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Rutherford at Pompton Lakes (Boys (Sub Varsity) Football)
 DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -37,5 +61,37 @@ DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
 SUMMARY:Becton vs Rutherford (Boys (Sub Varsity) Football)
 DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7609247@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Rutherford at Becton (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7536875@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Rutherford vs Glen Rock (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7527131@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Rutherford at Midland Park (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7586640@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T110000
+SUMMARY:Rutherford at Garfield (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
 END:VEVENT
 END:VCALENDAR

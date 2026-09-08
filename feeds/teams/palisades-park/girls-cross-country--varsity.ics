@@ -23,6 +23,30 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2785:7476302@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Palisades Park at NJIC (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7515556@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T172000
+DTEND;TZID=America/New_York:20260922T192000
+SUMMARY:Palisades Park at NJIC (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7476303@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T172000
+DTEND;TZID=America/New_York:20260923T192000
+SUMMARY:Palisades Park at NJIC (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7515559@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T164500
@@ -38,5 +62,38 @@ DTEND;TZID=America/New_York:20260929T184500
 SUMMARY:Hawthorne Christian at Palisades Park (Varsity Girls Girls Cross 
  Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7515559@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T164500
+DTEND;TZID=America/New_York:20260929T184500
+SUMMARY:Palisades Park vs Bogota (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7515559@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T164500
+DTEND;TZID=America/New_York:20260929T184500
+SUMMARY:Waldwick at Palisades Park (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7602737@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Palisades Park at Hawthorne Christian (Varsity Girls Girls Cross 
+ Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7515564@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Palisades Park vs TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 2:30 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,11 +23,36 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2785:7567953@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T094200
+DTEND;TZID=America/New_York:20270329T114200
+SUMMARY:Palisades Park at Bogota (Varsity Girls Girls Track and Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Away - 9:42 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7567969@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Palisades Park at Hasbrouck Heights (Varsity Girls Girls Track an
+ d Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7567973@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T160000
 DTEND;TZID=America/New_York:20270427T180000
 SUMMARY:Emerson vs Palisades Park (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7567973@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Palisades Park at Emerson (Varsity Girls Girls Track and Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

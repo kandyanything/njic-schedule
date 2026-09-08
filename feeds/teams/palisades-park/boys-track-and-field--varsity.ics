@@ -23,11 +23,28 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2785:7567952@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Palisades Park at Hasbrouck Heights (Varsity Boys Boys Track and 
+ Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7567982@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T160000
 DTEND;TZID=America/New_York:20270427T180000
 SUMMARY:Emerson vs Palisades Park (Varsity Boys Boys Track and Field)
 DESCRIPTION:Varsity Boys Boys Track and Field - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7567982@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Palisades Park at Emerson (Varsity Boys Boys Track and Field)
+DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,20 +23,28 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2700:7564700@njicathletics
+UID:ds:2918:7624368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Wallington vs Bogota (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7564700@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
-SUMMARY:Lodi at Wallington (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+SUMMARY:Wallington vs Lodi (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484996@njicathletics
+UID:ds:2918:7484996@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Eastern Christian vs Wallington (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Wallington at Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7531227@njicathletics
@@ -45,5 +53,21 @@ DTSTART;TZID=America/New_York:20270126T161500
 DTEND;TZID=America/New_York:20270126T181500
 SUMMARY:Saddle Brook at Wallington (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7624251@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:North Arlington at Wallington (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7624386@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Wallington vs Wallington (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 END:VCALENDAR

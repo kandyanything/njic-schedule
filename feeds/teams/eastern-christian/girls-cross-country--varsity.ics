@@ -23,41 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2602:7461883@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T164000
-DTEND;TZID=America/New_York:20260915T184000
-SUMMARY:Eastern Christian at NJIC (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7518217@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T164000
-DTEND;TZID=America/New_York:20260915T184000
-SUMMARY:Eastern Christian vs Park Ridge (Varsity Girls Girls Cross Countr
- y)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7613940@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T164000
-DTEND;TZID=America/New_York:20260915T184000
-SUMMARY:Eastern Christian at New Milford (Varsity Girls Girls Cross Count
- ry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7518217@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T164000
-DTEND;TZID=America/New_York:20260915T184000
-SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
-  Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7518217@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T164000
@@ -65,32 +30,6 @@ DTEND;TZID=America/New_York:20260915T184000
 SUMMARY:Pompton Lakes at Eastern Christian (Varsity Girls Girls Cross Cou
  ntry)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7581456@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T164500
-DTEND;TZID=America/New_York:20260923T184500
-SUMMARY:Eastern Christian vs New Milford (Varsity Girls Girls Cross Count
- ry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7518218@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T164500
-DTEND;TZID=America/New_York:20260923T184500
-SUMMARY:Eastern Christian vs Secaucus (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7581456@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T164500
-DTEND;TZID=America/New_York:20260923T184500
-SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
-  Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7518218@njicathletics
@@ -102,30 +41,12 @@ SUMMARY:Saddle Brook at Eastern Christian (Varsity Girls Girls Cross Coun
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7581460@njicathletics
+UID:ds:38258:7518218@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T172000
-DTEND;TZID=America/New_York:20260929T192000
-SUMMARY:Eastern Christian vs New Milford (Varsity Girls Girls Cross Count
- ry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7518219@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T172000
-DTEND;TZID=America/New_York:20260929T192000
-SUMMARY:Eastern Christian vs PCSST (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7518219@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T172000
-DTEND;TZID=America/New_York:20260929T192000
-SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
-  Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+DTSTART;TZID=America/New_York:20260923T164500
+DTEND;TZID=America/New_York:20260923T184500
+SUMMARY:Secaucus at Eastern Christian (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7581460@njicathletics
@@ -134,14 +55,6 @@ DTSTART;TZID=America/New_York:20260929T172000
 DTEND;TZID=America/New_York:20260929T192000
 SUMMARY:North Arlington at Eastern Christian (Varsity Girls Girls Cross C
  ountry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7581460@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T172000
-DTEND;TZID=America/New_York:20260929T192000
-SUMMARY:PCSST at Eastern Christian (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -23,36 +23,28 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2626:7575438@njicathletics
+UID:ds:2815:7575438@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
-SUMMARY:Glen Rock vs Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7572743@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270331T160000
-DTEND;TZID=America/New_York:20270331T180000
-SUMMARY:New Milford at Pompton Lakes (Varsity Boys Boys Tennis)
+SUMMARY:Pompton Lakes at Glen Rock (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7572863@njicathletics
+UID:ds:2815:7572743@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T160000
+DTEND;TZID=America/New_York:20270331T180000
+SUMMARY:Pompton Lakes vs New Milford (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7572863@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T161500
 DTEND;TZID=America/New_York:20270402T181500
-SUMMARY:Eastern Christian at Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7575439@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T160000
-DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Emerson vs Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+SUMMARY:Pompton Lakes vs Eastern Christian (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7575439@njicathletics
@@ -63,12 +55,12 @@ SUMMARY:Pompton Lakes at Emerson (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7575441@njicathletics
+UID:ds:2815:7575441@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Park Ridge at Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Pompton Lakes vs Park Ridge (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7575442@njicathletics
@@ -103,28 +95,20 @@ SUMMARY:Pompton Lakes at Becton (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7575448@njicathletics
+UID:ds:2815:7575448@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
 DTEND;TZID=America/New_York:20270416T180000
-SUMMARY:Lodi at Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Pompton Lakes vs Lodi (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7572899@njicathletics
+UID:ds:2815:7572899@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T161500
 DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Eastern Christian vs Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7575449@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Emerson at Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Pompton Lakes at Eastern Christian (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7575449@njicathletics
@@ -135,12 +119,12 @@ SUMMARY:Pompton Lakes vs Emerson (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7575450@njicathletics
+UID:ds:2815:7575450@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Park Ridge vs Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+SUMMARY:Pompton Lakes at Park Ridge (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7575452@njicathletics
@@ -175,11 +159,11 @@ SUMMARY:Pompton Lakes vs Becton (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7575456@njicathletics
+UID:ds:2815:7575456@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
-SUMMARY:Lodi vs Pompton Lakes (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+SUMMARY:Pompton Lakes at Lodi (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

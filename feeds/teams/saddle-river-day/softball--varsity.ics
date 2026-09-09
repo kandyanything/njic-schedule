@@ -23,35 +23,35 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2758:7557844@njicathletics
+UID:ds:2844:7557844@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T161500
 DTEND;TZID=America/New_York:20270401T181500
-SUMMARY:New Milford vs Saddle River Day (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7569643@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T161500
-DTEND;TZID=America/New_York:20270409T181500
-SUMMARY:Palisades Park vs Saddle River Day (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7584348@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270421T161500
-DTEND;TZID=America/New_York:20270421T181500
-SUMMARY:Garfield at Saddle River Day (Varsity Girls Softball)
+SUMMARY:Saddle River Day at New Milford (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7569096@njicathletics
+UID:ds:2844:7569643@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Saddle River Day at Palisades Park (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7584348@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T161500
+DTEND;TZID=America/New_York:20270421T181500
+SUMMARY:Saddle River Day vs Garfield (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7569096@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T161500
 DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Eastern Christian vs Saddle River Day (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+SUMMARY:Saddle River Day at Eastern Christian (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,20 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2602:7536244@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Eastern Christian vs Leonia (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7485009@njicathletics
+UID:ds:2843:7485009@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Eastern Christian at Saddle Brook (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+SUMMARY:Saddle Brook vs Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7484986@njicathletics
@@ -47,20 +39,20 @@ SUMMARY:Butler at Eastern Christian (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484990@njicathletics
+UID:ds:2843:7484990@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T161500
 DTEND;TZID=America/New_York:20270113T181500
-SUMMARY:Eastern Christian vs Saddle Brook (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Saddle Brook at Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484996@njicathletics
+UID:ds:2918:7484996@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Eastern Christian vs Wallington (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Wallington at Eastern Christian (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7485007@njicathletics
@@ -69,14 +61,5 @@ DTSTART;TZID=America/New_York:20270122T161500
 DTEND;TZID=America/New_York:20270122T181500
 SUMMARY:Butler vs Eastern Christian (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7532813@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T161500
-DTEND;TZID=America/New_York:20270218T181500
-SUMMARY:Eastern Christian at Sussex County Technical High School (Freshma
- n Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

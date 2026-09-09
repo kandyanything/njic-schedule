@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2700:7564317@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T190000
-DTEND;TZID=America/New_York:20261212T210000
-SUMMARY:Lodi vs TBA NJ (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7564581@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T161500
@@ -55,307 +47,107 @@ SUMMARY:Butler vs Lodi (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7564642@njicathletics
+UID:ds:2918:7564539@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T161500
-DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Lodi at Harrison High School (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564527@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T173000
-DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Lodi at Harrison High School (Junior Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Wallington at Lodi (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7563297@njicathletics
+UID:ds:2918:7563300@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T190000
-DTEND;TZID=America/New_York:20261218T210000
-SUMMARY:Lodi at Harrison High School (Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20261221T190000
+DTEND;TZID=America/New_York:20261221T210000
+SUMMARY:Wallington at Lodi (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536250@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T160000
-DTEND;TZID=America/New_York:20270104T180000
-SUMMARY:Leonia vs Lodi (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7536231@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T173000
-DTEND;TZID=America/New_York:20270104T193000
-SUMMARY:Leonia vs Lodi (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7535944@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T190000
-DTEND;TZID=America/New_York:20270104T210000
-SUMMARY:Leonia vs Lodi (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7499658@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T173000
-DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Lodi at Palisades Park (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7499657@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T190000
-DTEND;TZID=America/New_York:20270108T210000
-SUMMARY:Lodi at Palisades Park (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7564679@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T161500
-DTEND;TZID=America/New_York:20270111T181500
-SUMMARY:Emerson vs Lodi (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564679@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T161500
-DTEND;TZID=America/New_York:20270111T181500
-SUMMARY:Lodi at Emerson (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7564548@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T173000
-DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Emerson vs Lodi (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564548@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T173000
-DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Lodi at Emerson (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7563363@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T190000
-DTEND;TZID=America/New_York:20270111T210000
-SUMMARY:Emerson vs Lodi (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7563363@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T190000
-DTEND;TZID=America/New_York:20270111T210000
-SUMMARY:Lodi at Emerson (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564700@njicathletics
+UID:ds:2918:7564700@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
-SUMMARY:Lodi at Wallington (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564559@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T173000
-DTEND;TZID=America/New_York:20270115T193000
-SUMMARY:Lodi at Wallington (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7564260@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T190000
-DTEND;TZID=America/New_York:20270115T210000
-SUMMARY:Lodi at Wallington (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7531223@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Lodi vs Saddle Brook (Freshman Boys Boys Basketball)
+SUMMARY:Wallington vs Lodi (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7531138@njicathletics
+UID:ds:2918:7564559@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T173000
-DTEND;TZID=America/New_York:20270120T193000
-SUMMARY:Lodi vs Saddle Brook (Junior Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Wallington vs Lodi (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7531083@njicathletics
+UID:ds:2918:7564260@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T190000
-DTEND;TZID=America/New_York:20270120T210000
-SUMMARY:Lodi vs Saddle Brook (Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T210000
+SUMMARY:Wallington vs Lodi (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536254@njicathletics
+UID:ds:2843:7531223@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T160000
-DTEND;TZID=America/New_York:20270122T180000
-SUMMARY:Leonia at Lodi (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Saddle Brook at Lodi (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7550758@njicathletics
+UID:ds:2843:7531138@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T161500
-DTEND;TZID=America/New_York:20270122T181500
-SUMMARY:Lodi at Wallington (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7536235@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T173000
-DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Leonia at Lodi (Junior Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Saddle Brook at Lodi (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7550819@njicathletics
+UID:ds:2843:7531083@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T161500
-DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Garfield vs Lodi (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7550819@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T161500
-DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Lodi at Garfield (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7550865@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T161500
-DTEND;TZID=America/New_York:20270129T181500
-SUMMARY:Elmwood Park at Lodi (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7550865@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T161500
-DTEND;TZID=America/New_York:20270129T181500
-SUMMARY:Lodi vs Elmwood Park (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7532467@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T160000
-DTEND;TZID=America/New_York:20270201T180000
-SUMMARY:Lodi at Wood-Ridge (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7534839@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T160000
-DTEND;TZID=America/New_York:20270201T180000
-SUMMARY:Lodi at Wood-Ridge (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7530798@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T173000
-DTEND;TZID=America/New_York:20270201T193000
-SUMMARY:Lodi at Wood-Ridge (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7530729@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T190000
-DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:Lodi at Wood-Ridge (Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T210000
+SUMMARY:Saddle Brook at Lodi (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7552520@njicathletics
+UID:ds:2918:7550758@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T161500
-DTEND;TZID=America/New_York:20270203T181500
-SUMMARY:Lodi at Passaic High School (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7499773@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T163000
-DTEND;TZID=America/New_York:20270203T183000
-SUMMARY:Lodi vs Palisades Park (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7499771@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T180000
-DTEND;TZID=America/New_York:20270203T200000
-SUMMARY:Lodi vs Palisades Park (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7550908@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T161500
-DTEND;TZID=America/New_York:20270208T181500
-SUMMARY:Garfield at Lodi (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7550908@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T161500
-DTEND;TZID=America/New_York:20270208T181500
-SUMMARY:Lodi vs Garfield (Middle School Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Wallington vs Lodi (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7550927@njicathletics
+UID:ds:2948:7532467@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270210T161500
-DTEND;TZID=America/New_York:20270210T181500
-SUMMARY:Elmwood Park vs Lodi (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Wood-Ridge vs Lodi (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7550927@njicathletics
+UID:ds:2948:7534839@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270210T161500
-DTEND;TZID=America/New_York:20270210T181500
-SUMMARY:Lodi at Elmwood Park (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Wood-Ridge vs Lodi (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7530798@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T173000
+DTEND;TZID=America/New_York:20270201T193000
+SUMMARY:Wood-Ridge vs Lodi (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7530729@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T190000
+DTEND;TZID=America/New_York:20270201T210000
+SUMMARY:Wood-Ridge vs Lodi (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

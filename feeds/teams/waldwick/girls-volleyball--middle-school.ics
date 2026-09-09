@@ -23,37 +23,29 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2602:7609549@njicathletics
+UID:ds:2916:7609549@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T161500
 DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Eastern Christian vs Waldwick (Middle School Girls Girls Volleyba
+SUMMARY:Waldwick at Eastern Christian (Middle School Girls Girls Volleyba
  ll)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7503280@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Lodi at Waldwick (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7508555@njicathletics
+UID:ds:2916:7503280@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Waldwick vs Lodi (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7508555@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Midland Park vs Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7514922@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Elmwood Park vs Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+SUMMARY:Waldwick at Midland Park (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7514922@njicathletics
@@ -73,53 +65,36 @@ SUMMARY:Saddle River Day at Waldwick (Middle School Girls Girls Volleybal
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7518306@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T161500
-DTEND;TZID=America/New_York:20261009T181500
-SUMMARY:Garfield at Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7529167@njicathletics
+UID:ds:2916:7529167@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:New Milford vs Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+SUMMARY:Waldwick at New Milford (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7508857@njicathletics
+UID:ds:2916:7508857@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Eastern Christian at Waldwick (Middle School Girls Girls Volleyba
+SUMMARY:Waldwick vs Eastern Christian (Middle School Girls Girls Volleyba
  ll)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7497248@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T161500
-DTEND;TZID=America/New_York:20261016T181500
-SUMMARY:Eastern Christian at Waldwick (Middle School Girls Girls Volleyba
- ll)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7508826@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Lodi vs Waldwick (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7508829@njicathletics
+UID:ds:2916:7508826@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Waldwick at Lodi (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7508829@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Midland Park at Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+SUMMARY:Waldwick vs Midland Park (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,15 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2703:7584349@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T140000
-DTEND;TZID=America/New_York:20260824T160000
-SUMMARY:Lyndhurst vs West Essex High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7456206@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T100000
@@ -40,67 +31,43 @@ SUMMARY:Becton vs Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7456206@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T100000
-DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:Lyndhurst at Becton (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7509611@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T160000
-DTEND;TZID=America/New_York:20260826T180000
-SUMMARY:Lyndhurst vs Nutley High School (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7455340@njicathletics
+UID:ds:2918:7455340@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T161500
 DTEND;TZID=America/New_York:20260901T181500
-SUMMARY:Lyndhurst at Wallington (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+SUMMARY:Wallington vs Lyndhurst (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7455361@njicathletics
+UID:ds:2854:7455361@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:Lyndhurst vs Saint Mary (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7455368@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Lyndhurst at Rutherford (Varsity Girls Girls Volleyball)
+SUMMARY:Saint Mary at Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7455394@njicathletics
+UID:ds:2841:7455368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Rutherford vs Lyndhurst (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7455394@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Lyndhurst vs Secaucus (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+SUMMARY:Secaucus at Lyndhurst (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7509626@njicathletics
+UID:ds:2843:7509626@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T161500
 DTEND;TZID=America/New_York:20260911T181500
-SUMMARY:Lyndhurst vs Saddle Brook (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7526862@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Lyndhurst at Harrison High School (Varsity Girls Girls Volleyball)
+SUMMARY:Saddle Brook at Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -112,14 +79,6 @@ SUMMARY:Bogota vs Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7455417@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Hawthorne at Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7456214@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T160000
@@ -128,77 +87,12 @@ SUMMARY:Becton at Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7456214@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T160000
-DTEND;TZID=America/New_York:20260918T180000
-SUMMARY:Lyndhurst vs Becton (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7455433@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Cresskill vs Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7455446@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T161500
-DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Glen Rock at Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7509647@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Lyndhurst at Nutley High School (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7455462@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Lyndhurst at New Milford (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7455478@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Leonia vs Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7455490@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Garfield at Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7509659@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T161500
-DTEND;TZID=America/New_York:20261001T181500
-SUMMARY:Lyndhurst at Passaic Valley High School (Varsity Girls Girls Voll
- eyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7455514@njicathletics
+UID:ds:2841:7455514@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Lyndhurst vs Rutherford (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+SUMMARY:Rutherford at Lyndhurst (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7455519@njicathletics
@@ -209,35 +103,11 @@ SUMMARY:Bogota at Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7455538@njicathletics
+UID:ds:38258:7455538@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T161500
 DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:Lyndhurst at Secaucus (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7455554@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T161500
-DTEND;TZID=America/New_York:20261020T181500
-SUMMARY:Hawthorne vs Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7455566@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Cresskill at Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7455586@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Glen Rock vs Lyndhurst (Varsity Girls Girls Volleyball)
+SUMMARY:Secaucus vs Lyndhurst (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

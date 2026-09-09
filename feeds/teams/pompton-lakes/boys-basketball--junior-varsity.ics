@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2621:7456355@njicathletics
+UID:ds:2815:7456355@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Garfield at Pompton Lakes (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+SUMMARY:Pompton Lakes vs Garfield (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7446233@njicathletics
@@ -38,15 +38,6 @@ DTEND;TZID=America/New_York:20261219T130000
 SUMMARY:Pompton Lakes at Paterson Arts (Junior Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7456367@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T180000
-DTEND;TZID=America/New_York:20270104T200000
-SUMMARY:Elmwood Park at Pompton Lakes (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456367@njicathletics
@@ -66,12 +57,12 @@ SUMMARY:Pompton Lakes at TBA NJ (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7456753@njicathletics
+UID:ds:2815:7456753@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T180000
 DTEND;TZID=America/New_York:20270115T200000
-SUMMARY:Hawthorne at Pompton Lakes (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+SUMMARY:Pompton Lakes vs Hawthorne (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456756@njicathletics
@@ -98,5 +89,13 @@ DTEND;TZID=America/New_York:20270125T200000
 SUMMARY:Pompton Lakes vs Kinnelon High School (Junior Varsity Boys Boys B
  asketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7624405@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T173000
+DTEND;TZID=America/New_York:20270210T193000
+SUMMARY:Pompton Lakes at Wallington (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR

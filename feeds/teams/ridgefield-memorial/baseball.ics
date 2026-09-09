@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2723:7542469@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Elmwood Park at Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7542469@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
@@ -39,12 +31,12 @@ SUMMARY:Ridgefield Memorial vs Elmwood Park (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7542471@njicathletics
+UID:ds:2831:7542471@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T161500
 DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Manchester Regional (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7539715@njicathletics
@@ -55,11 +47,11 @@ SUMMARY:Ridgefield Memorial at Leonia (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7585423@njicathletics
+UID:ds:2831:7585423@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T161500
 DTEND;TZID=America/New_York:20270521T181500
-SUMMARY:Cresskill vs Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

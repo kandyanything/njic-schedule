@@ -23,20 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2700:7566357@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260817T100000
-DTEND;TZID=America/New_York:20260817T120000
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7581000@njicathletics
+UID:ds:2831:7581000@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260817T180000
 DTEND;TZID=America/New_York:20260817T200000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+SUMMARY:Ridgefield Memorial at Palisades Park (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7581002@njicathletics
@@ -90,29 +82,29 @@ SUMMARY:Bogota vs Ridgefield Memorial (Junior Varsity Girls Girls Volleyb
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439744@njicathletics
+UID:ds:2831:7439744@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260827T100000
 DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Garfield at Ridgefield Memorial (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+SUMMARY:Ridgefield Memorial vs Garfield (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7526779@njicathletics
+UID:ds:2831:7448917@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260827T100000
 DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Garfield at Ridgefield Memorial (Junior Varsity Girls Girls Volle
+SUMMARY:Ridgefield Memorial at Lodi (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7526779@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T100000
+DTEND;TZID=America/New_York:20260827T120000
+SUMMARY:Ridgefield Memorial vs Garfield (Junior Varsity Girls Girls Volle
  yball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7448917@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260827T100000
-DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7590080@njicathletics
@@ -141,14 +133,6 @@ SUMMARY:Ridgefield Memorial at Ridgefield Memorial (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7439949@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Butler at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7448919@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -167,47 +151,47 @@ SUMMARY:North Arlington vs Ridgefield Memorial (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7448905@njicathletics
+UID:ds:2831:7448905@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T161500
 DTEND;TZID=America/New_York:20260902T181500
-SUMMARY:Garfield at Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Garfield (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7440098@njicathletics
+UID:ds:2831:7440098@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:New Milford vs Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+SUMMARY:Ridgefield Memorial at New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7448921@njicathletics
+UID:ds:2831:7448921@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T161500
 DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Girls Girls Vol
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Girls Girls Vol
  leyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7456698@njicathletics
+UID:ds:2831:7456698@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T170000
 DTEND;TZID=America/New_York:20260903T190000
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Junior Varsity Girls Gi
  rls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7448922@njicathletics
+UID:ds:2831:7448922@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T173000
 DTEND;TZID=America/New_York:20260903T193000
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Junior Varsity Girls Gi
  rls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7441566@njicathletics
@@ -246,74 +230,66 @@ SUMMARY:Ridgefield Memorial vs Ridgefield Memorial (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7448923@njicathletics
+UID:ds:2831:7448889@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Dwight-Englewood vs Ridgefield Memorial (Varsity Girls Girls Voll
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7448923@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Ridgefield Memorial at Dwight-Englewood (Varsity Girls Girls Voll
  eyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7448889@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7455115@njicathletics
+UID:ds:2831:7440009@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Cresskill at Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7526785@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Cresskill vs Ridgefield Memorial (Junior Varsity Girls Girls Tenn
- is)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440009@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Socce
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Socce
  r)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7483893@njicathletics
+UID:ds:2831:7455115@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Cresskill (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7448924@njicathletics
+UID:ds:2831:7483893@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7526785@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Ridgefield Memorial at Cresskill (Junior Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7448924@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T173000
 DTEND;TZID=America/New_York:20260908T193000
-SUMMARY:Dwight-Englewood vs Ridgefield Memorial (Junior Varsity Girls Gir
+SUMMARY:Ridgefield Memorial at Dwight-Englewood (Junior Varsity Girls Gir
  ls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7448906@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T161500
-DTEND;TZID=America/New_York:20260909T181500
-SUMMARY:PCSST at Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448906@njicathletics
@@ -324,12 +300,12 @@ SUMMARY:Ridgefield Memorial vs PCSST (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7448894@njicathletics
+UID:ds:2831:7448894@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Lyndhurst at Ridgefield Memorial (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Lyndhurst (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7451791@njicathletics
@@ -348,12 +324,12 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7440097@njicathletics
+UID:ds:2831:7440097@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Lyndhurst vs Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448927@njicathletics
@@ -363,24 +339,6 @@ DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:Ridgefield Memorial vs Wood-Ridge (Junior Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7605524@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260911T161500
-DTEND;TZID=America/New_York:20260911T181500
-SUMMARY:New Milford at Ridgefield Memorial (Varsity Girls Girls Volleybal
- l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7620564@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260911T163000
-DTEND;TZID=America/New_York:20260911T183000
-SUMMARY:Ridgefield Memorial vs North Bergen High School (Junior Varsity G
- irls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481960@njicathletics
@@ -408,13 +366,13 @@ SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7448895@njicathletics
+UID:ds:2831:7448895@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T100000
 DTEND;TZID=America/New_York:20260912T120000
-SUMMARY:New Milford at Ridgefield Memorial (Junior Varsity Boys Boys Socc
+SUMMARY:Ridgefield Memorial vs New Milford (Junior Varsity Boys Boys Socc
  er)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448898@njicathletics
@@ -426,12 +384,12 @@ SUMMARY:Ridgefield Memorial at Wood-Ridge (Junior Varsity Boys Boys Socce
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7455138@njicathletics
+UID:ds:2831:7455138@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7474774@njicathletics
@@ -467,22 +425,13 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448929@njicathletics
+UID:ds:2831:7448929@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Varsity Girls Girls Volley
+SUMMARY:Ridgefield Memorial at Palisades Park (Varsity Girls Girls Volley
  ball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7588003@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T161500
-DTEND;TZID=America/New_York:20260915T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
- rls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7448907@njicathletics
@@ -501,6 +450,15 @@ SUMMARY:Ridgefield Memorial at Mary Help (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2831:7588003@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Junior Varsity Girls Gi
+ rls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2831:7455727@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T170500
@@ -509,21 +467,21 @@ SUMMARY:Ridgefield Memorial at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448930@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T173000
-DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Junior Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7476302@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Ridgefield Memorial at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7448930@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Ridgefield Memorial at Palisades Park (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7440066@njicathletics
@@ -543,21 +501,21 @@ SUMMARY:North Arlington vs Ridgefield Memorial (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7455151@njicathletics
+UID:ds:2831:7455151@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+SUMMARY:Ridgefield Memorial at Park Ridge (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7612799@njicathletics
+UID:ds:2831:7612799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Park Ridge at Ridgefield Memorial (Junior Varsity Girls Girls Ten
+SUMMARY:Ridgefield Memorial vs Park Ridge (Junior Varsity Girls Girls Ten
  nis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7448932@njicathletics
@@ -594,22 +552,13 @@ SUMMARY:Ridgefield Memorial vs Becton (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7448908@njicathletics
+UID:ds:2831:7448908@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
 DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Manchester Regional vs Ridgefield Memorial (Varsity Girls Girls S
+SUMMARY:Ridgefield Memorial at Manchester Regional (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7496756@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Palisades Park at Ridgefield Memorial (Middle School Coed Coed Cr
- oss Country)
-DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7448933@njicathletics
@@ -630,12 +579,12 @@ SUMMARY:Ridgefield Memorial vs Becton (Junior Varsity Girls Girls Volleyb
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439745@njicathletics
+UID:ds:2831:7439745@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T160000
 DTEND;TZID=America/New_York:20260918T180000
-SUMMARY:Garfield vs Ridgefield Memorial (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+SUMMARY:Ridgefield Memorial at Garfield (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7534758@njicathletics
@@ -665,31 +614,22 @@ SUMMARY:Ridgefield Memorial at North Bergen High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439746@njicathletics
+UID:ds:2831:7439746@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
-SUMMARY:Garfield vs Ridgefield Memorial (Junior Varsity Girls Girls Volle
+SUMMARY:Ridgefield Memorial at Garfield (Junior Varsity Girls Girls Volle
  yball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7579129@njicathletics
+UID:ds:2831:7454960@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Hawthorne Christian at Ridgefield Memorial (Varsity Girls Girls S
+SUMMARY:Ridgefield Memorial vs Hawthorne Christian (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Hawthorne Christian at Ridgefield Memorial (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7448892@njicathletics
@@ -767,14 +707,6 @@ SUMMARY:Ridgefield Memorial at Harrison High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7594854@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Elmwood Park vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7448938@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -789,14 +721,6 @@ DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Ridgefield Memorial at Elmwood Park (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7447963@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T161500
-DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Emerson at Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7447963@njicathletics
@@ -824,13 +748,13 @@ SUMMARY:Ridgefield Memorial vs Weehawken (Junior Varsity Girls Girls Voll
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7440096@njicathletics
+UID:ds:2831:7440096@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Soc
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Boys Soc
  cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7544858@njicathletics
@@ -851,29 +775,12 @@ SUMMARY:Ridgefield Memorial at North Bergen High School (Junior Varsity G
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7448909@njicathletics
+UID:ds:2831:7455465@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Elmwood Park vs Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7455465@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7493136@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Palisades Park at Ridgefield Memorial (Middle School Girls Girls 
- Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial at Lodi (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7455157@njicathletics
@@ -893,13 +800,13 @@ SUMMARY:Ridgefield Memorial at Elmwood Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7526797@njicathletics
+UID:ds:2831:7526797@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T193000
-SUMMARY:Lodi vs Ridgefield Memorial (Junior Varsity Girls Girls Volleybal
+SUMMARY:Ridgefield Memorial at Lodi (Junior Varsity Girls Girls Volleybal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481998@njicathletics
@@ -927,22 +834,22 @@ SUMMARY:Ridgefield Memorial vs Bergen Charter (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7440095@njicathletics
+UID:ds:2831:7440095@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Socce
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Socce
  r)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7483897@njicathletics
+UID:ds:2831:7483897@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Boys Boy
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Junior Varsity Boys Boy
  s Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7555508@njicathletics
@@ -963,30 +870,30 @@ SUMMARY:North Arlington at Ridgefield Memorial (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7448893@njicathletics
+UID:ds:2831:7448893@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Boys Boy
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Junior Varsity Boys Boy
  s Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7455168@njicathletics
+UID:ds:2831:7448910@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Dwight-Englewood vs Ridgefield Memorial (Varsity Girls Girls Tenn
+SUMMARY:Ridgefield Memorial at Garfield (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7455168@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Ridgefield Memorial at Dwight-Englewood (Varsity Girls Girls Tenn
  is)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7448910@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Garfield vs Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7535847@njicathletics
@@ -998,48 +905,12 @@ SUMMARY:Ridgefield Memorial vs Secaucus (Junior Varsity Girls Girls Tenni
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7515786@njicathletics
+UID:ds:2831:7600862@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
 DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Garfield at Ridgefield Memorial (Middle School Coed Coed Cross Co
- untry)
-DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7448942@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Girls Girls Vol
- leyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7515786@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Leonia at Ridgefield Memorial (Middle School Coed Coed Cross Coun
- try)
-DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7600862@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Lodi at Ridgefield Memorial (Junior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7496758@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Palisades Park at Ridgefield Memorial (Middle School Coed Coed Cr
- oss Country)
-DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7455113@njicathletics
@@ -1050,30 +921,47 @@ SUMMARY:Ridgefield Memorial at Secaucus (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7456699@njicathletics
+UID:ds:2831:7448942@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7456699@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T170000
 DTEND;TZID=America/New_York:20260930T190000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Girls Gi
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Junior Varsity Girls Gi
  rls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7455178@njicathletics
+UID:ds:2554:7439949@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Butler at Ridgefield Memorial (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7455178@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T161500
 DTEND;TZID=America/New_York:20261001T181500
-SUMMARY:Cresskill vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Cresskill (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7526790@njicathletics
+UID:ds:2831:7526790@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T161500
 DTEND;TZID=America/New_York:20261001T181500
-SUMMARY:Cresskill at Ridgefield Memorial (Junior Varsity Girls Girls Tenn
+SUMMARY:Ridgefield Memorial vs Cresskill (Junior Varsity Girls Girls Tenn
  is)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481999@njicathletics
@@ -1085,21 +973,21 @@ SUMMARY:Ridgefield Memorial vs Memorial High School (Varsity Boys Footbal
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7448944@njicathletics
+UID:ds:2831:7474664@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Dwight-Englewood at Ridgefield Memorial (Varsity Girls Girls Voll
- eyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7474664@njicathletics
+UID:ds:2831:7448944@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Lodi at Ridgefield Memorial (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Dwight-Englewood (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7594855@njicathletics
@@ -1111,29 +999,29 @@ SUMMARY:Ridgefield Memorial vs Union City High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7448885@njicathletics
+UID:ds:2831:7448885@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Lodi (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7448886@njicathletics
+UID:ds:2831:7448886@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Lodi at Ridgefield Memorial (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7448945@njicathletics
+UID:ds:2831:7448945@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T193000
-SUMMARY:Dwight-Englewood at Ridgefield Memorial (Junior Varsity Girls Gir
+SUMMARY:Ridgefield Memorial vs Dwight-Englewood (Junior Varsity Girls Gir
  ls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7555540@njicathletics
@@ -1154,38 +1042,38 @@ SUMMARY:Ridgefield Memorial at Memorial High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7440040@njicathletics
+UID:ds:2831:7448946@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Lyndhurst at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7448890@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Lyndhurst vs Ridgefield Memorial (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7448946@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Girls Girls Volley
+SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Girls Girls Volley
  ball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448947@njicathletics
+UID:ds:2831:7440040@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Ridgefield Memorial vs Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7448890@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Ridgefield Memorial at Lyndhurst (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7448947@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
-SUMMARY:Palisades Park at Ridgefield Memorial (Junior Varsity Girls Girls
+SUMMARY:Ridgefield Memorial vs Palisades Park (Junior Varsity Girls Girls
   Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7476301@njicathletics
@@ -1210,14 +1098,6 @@ DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Ridgefield Memorial at Wood-Ridge (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7448911@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:PCSST vs Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448911@njicathletics
@@ -1253,12 +1133,12 @@ SUMMARY:Ridgefield Memorial at Wood-Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7455199@njicathletics
+UID:ds:2831:7455199@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T161500
 DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Lodi (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7380378@njicathletics
@@ -1270,21 +1150,12 @@ SUMMARY:Ridgefield Memorial at North Bergen High School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7455206@njicathletics
+UID:ds:2831:7455206@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
 DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Park Ridge at Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7612803@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Park Ridge vs Ridgefield Memorial (Junior Varsity Girls Girls Ten
- nis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Park Ridge (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7474677@njicathletics
@@ -1294,6 +1165,15 @@ DTEND;TZID=America/New_York:20261012T181500
 SUMMARY:Ridgefield Memorial at Fort Lee High School (Varsity Girls Girls 
  Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7612803@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Ridgefield Memorial at Park Ridge (Junior Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7555520@njicathletics
@@ -1314,13 +1194,13 @@ SUMMARY:Ridgefield Memorial vs North Bergen High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7588006@njicathletics
+UID:ds:2831:7588006@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
 DTEND;TZID=America/New_York:20261013T181500
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Girls Gi
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Junior Varsity Girls Gi
  rls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7606840@njicathletics
@@ -1341,20 +1221,20 @@ SUMMARY:Ridgefield Memorial at Harrison High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7455098@njicathletics
+UID:ds:2831:7455098@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T161500
 DTEND;TZID=America/New_York:20261015T181500
-SUMMARY:Leonia at Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Leonia (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7609216@njicathletics
+UID:ds:2831:7609216@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T161500
 DTEND;TZID=America/New_York:20261015T181500
-SUMMARY:Leonia vs Ridgefield Memorial (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Leonia (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7482001@njicathletics
@@ -1398,13 +1278,13 @@ SUMMARY:Ridgefield Memorial at Becton (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7448913@njicathletics
+UID:ds:2831:7448913@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T161500
 DTEND;TZID=America/New_York:20261020T181500
-SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Girls Girls S
+SUMMARY:Ridgefield Memorial vs Manchester Regional (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7448951@njicathletics
@@ -1457,30 +1337,13 @@ SUMMARY:Ridgefield Memorial at Becton (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7523188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Dwight-Englewood at Ridgefield Memorial (Girls (8TH) Volleyball)
-DESCRIPTION:Girls (8TH) Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7537114@njicathletics
+UID:ds:2831:7537114@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Girls Girls S
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7455019@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7455019@njicathletics
@@ -1500,54 +1363,12 @@ SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7473543@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7473719@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Lodi vs Ridgefield Memorial (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7592872@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T161500
-DTEND;TZID=America/New_York:20261023T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Girls Girls Vol
- leyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7592873@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T171500
-DTEND;TZID=America/New_York:20261023T191500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
- rls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7448954@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Ridgefield Memorial at Weehawken (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7447981@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Emerson vs Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7447981@njicathletics
@@ -1567,29 +1388,13 @@ SUMMARY:Ridgefield Memorial at Weehawken (Junior Varsity Girls Girls Voll
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7448914@njicathletics
+UID:ds:2831:7526798@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T161500
 DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Elmwood Park at Ridgefield Memorial (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7455602@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T161500
-DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7526798@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T161500
-DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Lodi at Ridgefield Memorial (Junior Varsity Girls Girls Volleybal
+SUMMARY:Ridgefield Memorial vs Lodi (Junior Varsity Girls Girls Volleybal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448914@njicathletics
@@ -1600,39 +1405,30 @@ SUMMARY:Ridgefield Memorial vs Elmwood Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7479488@njicathletics
+UID:ds:2831:7455602@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T144500
-DTEND;TZID=America/New_York:20261207T164500
-SUMMARY:Emerson at Ridgefield Memorial (Junior Varsity Boys Boys Basketba
- ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:45 PM
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Ridgefield Memorial vs Lodi (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7457992@njicathletics
+UID:ds:2831:7481800@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T161500
-DTEND;TZID=America/New_York:20261207T181500
-SUMMARY:Emerson at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20261208T161500
+DTEND;TZID=America/New_York:20261208T181500
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Boys Bas
+ ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7481800@njicathletics
+UID:ds:2831:7481801@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7481801@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T161500
-DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Junior Varsity Boys B
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Junior Varsity Boys B
  oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7480948@njicathletics
@@ -1679,13 +1475,13 @@ SUMMARY:Rutherford vs Ridgefield Memorial (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7476500@njicathletics
+UID:ds:2831:7476500@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Wrest
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Wrest
  ling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554582@njicathletics
@@ -1706,13 +1502,13 @@ SUMMARY:Ridgefield Memorial at Harrison High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7481825@njicathletics
+UID:ds:2831:7481825@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
-SUMMARY:Garfield at Ridgefield Memorial (Junior Varsity Boys Boys Basketb
+SUMMARY:Ridgefield Memorial vs Garfield (Junior Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554589@njicathletics
@@ -1724,20 +1520,20 @@ SUMMARY:Ridgefield Memorial at Harrison High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7481824@njicathletics
+UID:ds:2831:7481824@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
-SUMMARY:Garfield at Ridgefield Memorial (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+SUMMARY:Ridgefield Memorial vs Garfield (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7539083@njicathletics
+UID:ds:2831:7539083@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T190000
 DTEND;TZID=America/New_York:20261222T210000
-SUMMARY:Cresskill at Ridgefield Memorial (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+SUMMARY:Ridgefield Memorial vs Cresskill (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7567473@njicathletics
@@ -1782,22 +1578,22 @@ SUMMARY:Ridgefield Memorial vs TBA NJ (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7481826@njicathletics
+UID:ds:2831:7481826@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T161500
 DTEND;TZID=America/New_York:20270104T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Baske
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7554592@njicathletics
+UID:ds:2831:7554592@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
-SUMMARY:Lodi vs Ridgefield Memorial (Junior Varsity Girls Girls Basketbal
+SUMMARY:Ridgefield Memorial at Lodi (Junior Varsity Girls Girls Basketbal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554598@njicathletics
@@ -1818,31 +1614,31 @@ SUMMARY:Ridgefield Memorial vs Saddle River Day (Varsity Boys Boys Wrestl
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7458442@njicathletics
+UID:ds:2831:7458442@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T160000
 DTEND;TZID=America/New_York:20270108T180000
-SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Girls Girls Basket
+SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Girls Girls Basket
  ball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7458467@njicathletics
+UID:ds:2831:7458467@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T173000
 DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Palisades Park at Ridgefield Memorial (Junior Varsity Girls Girls
+SUMMARY:Ridgefield Memorial vs Palisades Park (Junior Varsity Girls Girls
   Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7554601@njicathletics
+UID:ds:2831:7554601@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Hawthorne at Ridgefield Memorial (Junior Varsity Girls Girls Bask
+SUMMARY:Ridgefield Memorial vs Hawthorne (Junior Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554604@njicathletics
@@ -1889,30 +1685,30 @@ SUMMARY:Ridgefield Memorial at Saddle Brook (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7554607@njicathletics
+UID:ds:2831:7554607@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T160000
 DTEND;TZID=America/New_York:20270122T180000
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7554608@njicathletics
+UID:ds:2831:7554608@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Lodi at Ridgefield Memorial (Junior Varsity Girls Girls Basketbal
+SUMMARY:Ridgefield Memorial vs Lodi (Junior Varsity Girls Girls Basketbal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7485175@njicathletics
+UID:ds:2831:7485175@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Baske
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481815@njicathletics
@@ -1932,40 +1728,22 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7543799@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T040000
-DTEND;TZID=America/New_York:20270127T060000
-SUMMARY:Leonia at Ridgefield Memorial (Middle School Girls Girls Basketba
- ll)
-DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7481812@njicathletics
+UID:ds:2831:7481812@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Boys Boys Basketba
+SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7481813@njicathletics
+UID:ds:2831:7481813@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T174500
 DTEND;TZID=America/New_York:20270127T194500
-SUMMARY:Palisades Park at Ridgefield Memorial (Junior Varsity Boys Boys B
+SUMMARY:Ridgefield Memorial vs Palisades Park (Junior Varsity Boys Boys B
  asketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7536843@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T170000
-DTEND;TZID=America/New_York:20270129T190000
-SUMMARY:Palisades Park at Ridgefield Memorial (Middle School Boys Boys Ba
- sketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554613@njicathletics
@@ -2012,13 +1790,13 @@ SUMMARY:Bogota at Ridgefield Memorial (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7458515@njicathletics
+UID:ds:2831:7458515@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T160000
 DTEND;TZID=America/New_York:20270203T180000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Varsity Girls Girls Basket
+SUMMARY:Ridgefield Memorial at Palisades Park (Varsity Girls Girls Basket
  ball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7481833@njicathletics
@@ -2030,13 +1808,13 @@ SUMMARY:Becton at Ridgefield Memorial (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7458516@njicathletics
+UID:ds:2831:7458516@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Junior Varsity Girls Girls
+SUMMARY:Ridgefield Memorial at Palisades Park (Junior Varsity Girls Girls
   Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481833@njicathletics
@@ -2064,15 +1842,6 @@ SUMMARY:Ridgefield Memorial vs Becton (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7481819@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T103000
-DTEND;TZID=America/New_York:20270206T123000
-SUMMARY:Emerson at Ridgefield Memorial (Junior Varsity Boys Boys Basketba
- ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7481819@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T103000
@@ -2082,20 +1851,29 @@ SUMMARY:Ridgefield Memorial vs Emerson (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7481818@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T120000
-DTEND;TZID=America/New_York:20270206T140000
-SUMMARY:Emerson at Ridgefield Memorial (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7481818@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T120000
 DTEND;TZID=America/New_York:20270206T140000
 SUMMARY:Ridgefield Memorial vs Emerson (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7481810@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T161500
+DTEND;TZID=America/New_York:20270208T181500
+SUMMARY:Ridgefield Memorial vs Wallington (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7481811@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T174500
+DTEND;TZID=America/New_York:20270208T194500
+SUMMARY:Ridgefield Memorial vs Wallington (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7532494@njicathletics
@@ -2182,45 +1960,37 @@ SUMMARY:Ridgefield Memorial vs Becton (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7573420@njicathletics
+UID:ds:2831:7573420@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
 DTEND;TZID=America/New_York:20270402T180000
-SUMMARY:Dwight-Englewood at Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7573421@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T160000
-DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Tenni
- s)
+SUMMARY:Ridgefield Memorial vs Dwight-Englewood (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7599876@njicathletics
+UID:ds:2831:7573421@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T160000
-DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Leonia at Ridgefield Memorial (Varsity Boys Boys Tennis)
+DTSTART;TZID=America/New_York:20270405T160000
+DTEND;TZID=America/New_York:20270405T180000
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Tenni
+ s)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7599926@njicathletics
+UID:ds:2831:7599876@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Leonia vs Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Leonia (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7542469@njicathletics
+UID:ds:2831:7599926@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Elmwood Park at Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Ridgefield Memorial at Leonia (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7542469@njicathletics
@@ -2231,14 +2001,6 @@ SUMMARY:Ridgefield Memorial vs Elmwood Park (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7573423@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T160000
-DTEND;TZID=America/New_York:20270409T180000
-SUMMARY:Cresskill vs Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7566102@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -2247,44 +2009,52 @@ SUMMARY:North Arlington at Ridgefield Memorial (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7576636@njicathletics
+UID:ds:2831:7573423@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T161500
-DTEND;TZID=America/New_York:20270409T181500
-SUMMARY:Cresskill at Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7573424@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T160000
-DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Glen Rock vs Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7559618@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T161500
-DTEND;TZID=America/New_York:20270412T181500
-SUMMARY:Garfield vs Ridgefield Memorial (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7572750@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T160000
-DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:New Milford at Ridgefield Memorial (Varsity Boys Boys Tennis)
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Ridgefield Memorial at Cresskill (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7542471@njicathletics
+UID:ds:2831:7576636@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Ridgefield Memorial vs Cresskill (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7573424@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Ridgefield Memorial at Glen Rock (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7559618@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Ridgefield Memorial at Garfield (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7572750@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Ridgefield Memorial vs New Milford (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7542471@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T161500
 DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Manchester Regional (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7573425@njicathletics
@@ -2295,12 +2065,12 @@ SUMMARY:Ridgefield Memorial vs Saddle River Day (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7557825@njicathletics
+UID:ds:2831:7557825@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T161500
 DTEND;TZID=America/New_York:20270416T181500
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Lodi (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7566099@njicathletics
@@ -2311,54 +2081,54 @@ SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7573426@njicathletics
+UID:ds:2831:7573426@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Dwight-Englewood vs Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7566104@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270421T160000
-DTEND;TZID=America/New_York:20270421T180000
-SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Girls Softbal
- l)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7573427@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Tenni
- s)
+SUMMARY:Ridgefield Memorial at Dwight-Englewood (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7566105@njicathletics
+UID:ds:2831:7566104@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270423T160000
-DTEND;TZID=America/New_York:20270423T180000
-SUMMARY:Lyndhurst at Ridgefield Memorial (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Ridgefield Memorial vs Manchester Regional (Varsity Girls Softbal
+ l)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7599903@njicathletics
+UID:ds:2831:7573427@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270426T160000
-DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Leonia vs Ridgefield Memorial (Varsity Boys Boys Tennis)
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Tenni
+ s)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7599933@njicathletics
+UID:ds:2831:7566105@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T160000
+DTEND;TZID=America/New_York:20270423T180000
+SUMMARY:Ridgefield Memorial vs Lyndhurst (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7599903@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T160000
 DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Leonia at Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial at Leonia (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7599933@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Ridgefield Memorial vs Leonia (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7566098@njicathletics
@@ -2369,45 +2139,36 @@ SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Coed Coed Track and Field)
 DESCRIPTION:Varsity Coed Coed Track and Field - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7576653@njicathletics
+UID:ds:2831:7576653@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T103100
 DTEND;TZID=America/New_York:20270428T123100
-SUMMARY:Cresskill vs Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 10:31 AM
+SUMMARY:Ridgefield Memorial at Cresskill (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 10:31 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7573429@njicathletics
+UID:ds:2831:7573429@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Cresskill at Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Cresskill (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537158@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:New Milford vs Ridgefield Memorial (Middle School Coed Coed Track
-  and Field)
-DESCRIPTION:Middle School Coed Coed Track and Field - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7573430@njicathletics
+UID:ds:2831:7573430@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T160000
 DTEND;TZID=America/New_York:20270430T180000
-SUMMARY:Glen Rock at Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+SUMMARY:Ridgefield Memorial vs Glen Rock (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7559628@njicathletics
+UID:ds:2831:7559628@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T161500
 DTEND;TZID=America/New_York:20270430T181500
-SUMMARY:Garfield at Ridgefield Memorial (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
+SUMMARY:Ridgefield Memorial vs Garfield (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7539715@njicathletics
@@ -2418,12 +2179,12 @@ SUMMARY:Ridgefield Memorial at Leonia (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7572755@njicathletics
+UID:ds:2831:7572755@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:New Milford vs Ridgefield Memorial (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+SUMMARY:Ridgefield Memorial at New Milford (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7573431@njicathletics
@@ -2434,35 +2195,19 @@ SUMMARY:Ridgefield Memorial at Saddle River Day (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7544463@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270512T160000
-DTEND;TZID=America/New_York:20270512T180000
-SUMMARY:Leonia vs Ridgefield Memorial (Middle School Girls Softball)
-DESCRIPTION:Middle School Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7548749@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270521T160000
-DTEND;TZID=America/New_York:20270521T180000
-SUMMARY:Leonia at Ridgefield Memorial (Middle School Girls Softball)
-DESCRIPTION:Middle School Girls Softball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585423@njicathletics
+UID:ds:2831:7585423@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T161500
 DTEND;TZID=America/New_York:20270521T181500
-SUMMARY:Cresskill vs Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Ridgefield Memorial at Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7558678@njicathletics
+UID:ds:2831:7558678@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T190000
 DTEND;TZID=America/New_York:20270521T210000
-SUMMARY:Leonia at Ridgefield Memorial (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 7:00 PM
+SUMMARY:Ridgefield Memorial vs Leonia (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

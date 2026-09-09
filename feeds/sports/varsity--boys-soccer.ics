@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2789:7527344@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T080000
-DTEND;TZID=America/New_York:20260824T100000
-SUMMARY:Park Ridge at Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7527344@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T080000
@@ -57,22 +49,6 @@ SUMMARY:Butler at Morris County School of Technology (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7543687@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T100000
-DTEND;TZID=America/New_York:20260824T120000
-SUMMARY:Glen Rock at Pascack Valley High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7461537@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T100000
-DTEND;TZID=America/New_York:20260824T120000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7499146@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T100000
@@ -80,15 +56,6 @@ DTEND;TZID=America/New_York:20260824T120000
 SUMMARY:Waldwick at Northern Valley Regional High (Varsity Boys Boys Socc
  er)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7464734@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T140000
-DTEND;TZID=America/New_York:20260824T160000
-SUMMARY:Hasbrouck Heights vs Hackensack High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7440381@njicathletics
@@ -99,28 +66,19 @@ SUMMARY:Bogota at Cresskill (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7452069@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T160000
-DTEND;TZID=America/New_York:20260824T180000
-SUMMARY:Lodi at Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7464221@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T160000
-DTEND;TZID=America/New_York:20260824T180000
-SUMMARY:Lyndhurst vs Bergen County Technical High School (Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7441567@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T160000
 DTEND;TZID=America/New_York:20260824T180000
 SUMMARY:Ridgefield Memorial vs Wallington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7452069@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T160000
+DTEND;TZID=America/New_York:20260824T180000
+SUMMARY:Saddle Brook vs Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -132,53 +90,20 @@ SUMMARY:Becton vs Pascack Hills High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7473525@njicathletics
+UID:ds:2763:7525015@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T100000
 DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:Dwight-Englewood at Lodi (Varsity Boys Boys Soccer)
+SUMMARY:North Arlington at Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7445676@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T100000
-DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:Emerson vs Westwood Regional Senior High School (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7459431@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T100000
-DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:Leonia vs Cliffside Park High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7525015@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T100000
-DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:Midland Park vs North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7518904@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T100000
-DTEND;TZID=America/New_York:20260825T120000
-SUMMARY:New Milford vs Ridgewood High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7566329@njicathletics
+UID:ds:2844:7566329@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T110000
 DTEND;TZID=America/New_York:20260825T130000
-SUMMARY:Hawthorne Christian vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+SUMMARY:Saddle River Day at Hawthorne Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7483809@njicathletics
@@ -189,52 +114,12 @@ SUMMARY:Butler vs Mountain Lakes High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7532839@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T090000
-DTEND;TZID=America/New_York:20260826T110000
-SUMMARY:New Milford vs Dumont High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7498189@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T100000
 DTEND;TZID=America/New_York:20260826T120000
 SUMMARY:Becton at McNair Academy (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7440383@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T100000
-DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:Cresskill at Pascack Hills High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7554729@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T100000
-DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:Hawthorne Christian vs Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7502078@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T100000
-DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:Leonia at Barnegat High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7458758@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T100000
-DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:Manchester Regional vs Palisades Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7389857@njicathletics
@@ -246,53 +131,12 @@ SUMMARY:Waldwick vs Northern Highlands Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7588764@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T110000
-DTEND;TZID=America/New_York:20260826T130000
-SUMMARY:Garfield vs Saint Joseph Regional High School (Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7545554@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T110000
-DTEND;TZID=America/New_York:20260826T130000
-SUMMARY:Midland Park vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7483970@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T150000
-DTEND;TZID=America/New_York:20260826T170000
-SUMMARY:Eastern Christian vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2541:7496610@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T160000
 DTEND;TZID=America/New_York:20260826T180000
 SUMMARY:Bogota vs Teaneck High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7491492@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T160000
-DTEND;TZID=America/New_York:20260826T180000
-SUMMARY:Elmwood Park at Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7525309@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T160000
-DTEND;TZID=America/New_York:20260826T180000
-SUMMARY:Lyndhurst at Nutley High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7449279@njicathletics
@@ -327,43 +171,11 @@ SUMMARY:Wood-Ridge at Bergen Charter (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7464736@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T161500
-DTEND;TZID=America/New_York:20260826T181500
-SUMMARY:Glen Rock at Hasbrouck Heights (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7498192@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260827T100000
 DTEND;TZID=America/New_York:20260827T120000
 SUMMARY:Becton vs Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7517925@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260827T100000
-DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Dwight-Englewood at The Ranney School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445681@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260827T100000
-DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Emerson vs Cliffside Park High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7553514@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260827T100000
-DTEND;TZID=America/New_York:20260827T120000
-SUMMARY:Emerson vs Saddle Brook (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -392,39 +204,6 @@ SUMMARY:Butler at Wallkill Valley Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7549815@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T100000
-DTEND;TZID=America/New_York:20260828T120000
-SUMMARY:Cresskill at Hackensack High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445689@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T100000
-DTEND;TZID=America/New_York:20260828T120000
-SUMMARY:Emerson at Point Pleasant Beach High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7463172@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T100000
-DTEND;TZID=America/New_York:20260828T120000
-SUMMARY:Lyndhurst at Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7461579@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T100000
-DTEND;TZID=America/New_York:20260828T120000
-SUMMARY:Manchester Regional vs Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7545841@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
@@ -450,22 +229,6 @@ SUMMARY:Wood-Ridge at Saint Joseph Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7491993@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T110000
-DTEND;TZID=America/New_York:20260828T130000
-SUMMARY:Glen Rock at Madison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7590523@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T110000
-DTEND;TZID=America/New_York:20260828T130000
-SUMMARY:Glen Rock at Don Bosco Prep (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7463237@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T123000
@@ -479,22 +242,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T160000
 DTEND;TZID=America/New_York:20260828T180000
 SUMMARY:Bogota at Bergen Charter (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7578517@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T160000
-DTEND;TZID=America/New_York:20260828T180000
-SUMMARY:Dwight-Englewood vs Dwight-Englewood (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7464739@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T160000
-DTEND;TZID=America/New_York:20260828T180000
-SUMMARY:Hasbrouck Heights at Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -515,101 +262,11 @@ SUMMARY:Waldwick at Morris Knolls High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7543909@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260829T100000
-DTEND;TZID=America/New_York:20260829T120000
-SUMMARY:Hawthorne at Fair Lawn High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7483986@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260831T150000
-DTEND;TZID=America/New_York:20260831T170000
-SUMMARY:Eastern Christian at Lakeland Regional High School (Varsity Boys 
- Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7562822@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260831T160000
-DTEND;TZID=America/New_York:20260831T180000
-SUMMARY:Lodi at Saint Joseph Regional High School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7440055@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Becton vs New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2554:7439949@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Butler at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439978@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Elmwood Park at Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7439981@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Emerson at Glen Rock (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7440136@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Garfield vs Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7439981@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Glen Rock vs Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440016@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Hawthorne at Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7440055@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:New Milford at Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440145@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:PCSST vs Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -621,6 +278,14 @@ SUMMARY:Saddle Brook vs Wood-Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7440016@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Secaucus vs Hawthorne (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7439978@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -629,70 +294,28 @@ SUMMARY:Waldwick vs Elmwood Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7439966@njicathletics
+UID:ds:2918:7440136@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T161500
-DTEND;TZID=America/New_York:20260901T181500
-SUMMARY:Eastern Christian at Lodi (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Wallington at Garfield (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7445694@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T161500
-DTEND;TZID=America/New_York:20260901T181500
-SUMMARY:Emerson at Glen Rock (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7445694@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T161500
-DTEND;TZID=America/New_York:20260901T181500
-SUMMARY:Glen Rock vs Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440007@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T161500
-DTEND;TZID=America/New_York:20260901T181500
-SUMMARY:Hasbrouck Heights at Manchester Regional (Varsity Boys Boys Socce
- r)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440071@njicathletics
+UID:ds:2844:7440071@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T163000
 DTEND;TZID=America/New_York:20260901T183000
-SUMMARY:Palisades Park at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+SUMMARY:Saddle River Day vs Palisades Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7440022@njicathletics
+UID:ds:2763:7440022@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T190000
 DTEND;TZID=America/New_York:20260901T210000
-SUMMARY:Hawthorne Christian at North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7605032@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260902T161500
-DTEND;TZID=America/New_York:20260902T181500
-SUMMARY:Cresskill vs Lyndhurst (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454957@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260902T161500
-DTEND;TZID=America/New_York:20260902T181500
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:North Arlington vs Hawthorne Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7440081@njicathletics
@@ -711,52 +334,11 @@ SUMMARY:Butler vs North Arlington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439998@njicathletics
+UID:ds:2831:7440098@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:Dwight-Englewood vs Harrison High School (Varsity Boys Boys Socce
- r)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439988@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T160000
-DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:Garfield at Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440112@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T160000
-DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:Lyndhurst vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7440048@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T160000
-DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:Manchester Regional at Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7440098@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T160000
-DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:New Milford vs Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440081@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T160000
-DTEND;TZID=America/New_York:20260903T180000
-SUMMARY:PCSST at Bogota (Varsity Boys Boys Soccer)
+SUMMARY:Ridgefield Memorial at New Milford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -768,6 +350,14 @@ SUMMARY:Rutherford at Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2843:7440112@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Saddle Brook at Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2844:7440120@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
@@ -776,60 +366,12 @@ SUMMARY:Saddle River Day at Secaucus (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439952@njicathletics
+UID:ds:2948:7440048@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Cresskill at Hasbrouck Heights (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7439971@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Eastern Christian at Weehawken (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7440089@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Emerson vs Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7509916@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Garfield at Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440031@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Hawthorne vs Lodi (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7440052@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Midland Park at Palisades Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440132@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Park Ridge vs Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Wood-Ridge vs Manchester Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7440089@njicathletics
@@ -837,6 +379,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T161500
 DTEND;TZID=America/New_York:20260903T181500
 SUMMARY:Pompton Lakes at Emerson (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7440132@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Waldwick at Park Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -865,51 +415,35 @@ SUMMARY:Bogota vs Secaucus (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439953@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Cresskill at Hawthorne Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7440128@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Dwight-Englewood vs Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7439970@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Eastern Christian at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440142@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:Lodi vs Weehawken (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7440114@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T160000
-DTEND;TZID=America/New_York:20260908T180000
-SUMMARY:New Milford vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7440093@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Pompton Lakes at Wallington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7440114@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Saddle Brook at New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7439970@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Saddle River Day vs Eastern Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7440128@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Waldwick at Dwight-Englewood (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -921,53 +455,13 @@ SUMMARY:Wood-Ridge at Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7440077@njicathletics
+UID:ds:2831:7440009@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Garfield vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440009@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Socce
+SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Socce
  r)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440069@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Hawthorne vs Palisades Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7440084@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Midland Park vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440084@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:PCSST at Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439977@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T180000
-DTEND;TZID=America/New_York:20260908T200000
-SUMMARY:Elmwood Park at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7439977@njicathletics
@@ -986,44 +480,20 @@ SUMMARY:Butler vs Manchester Regional (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7439993@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T183000
-DTEND;TZID=America/New_York:20260908T203000
-SUMMARY:Glen Rock at Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7439982@njicathletics
+UID:ds:2763:7440039@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T210000
-SUMMARY:Emerson at Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+SUMMARY:North Arlington vs Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7440039@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T190000
-DTEND;TZID=America/New_York:20260908T210000
-SUMMARY:Lyndhurst at North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440015@njicathletics
+UID:ds:2844:7440015@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:Hawthorne at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454922@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T161500
-DTEND;TZID=America/New_York:20260909T181500
-SUMMARY:Hawthorne Christian vs Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Saddle River Day vs Hawthorne (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7439932@njicathletics
@@ -1050,51 +520,11 @@ SUMMARY:Butler at Cresskill (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439959@njicathletics
+UID:ds:2843:7440023@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Dwight-Englewood at Glen Rock (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7439932@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Hasbrouck Heights vs Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440023@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Hawthorne Christian at Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440033@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Lodi at PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7440059@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:Manchester Regional vs New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440033@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T160000
-DTEND;TZID=America/New_York:20260910T180000
-SUMMARY:PCSST vs Lodi (Varsity Boys Boys Soccer)
+SUMMARY:Saddle Brook vs Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,52 +544,12 @@ SUMMARY:Waldwick vs Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7440049@njicathletics
+UID:ds:2831:7440097@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Eastern Christian vs Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439985@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Elmwood Park vs Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7440102@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Emerson vs Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439985@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Garfield at Elmwood Park (Varsity Boys Boys Soccer)
+SUMMARY:Ridgefield Memorial at Lyndhurst (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440097@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Lyndhurst vs Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440002@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Park Ridge vs Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7440102@njicathletics
@@ -1170,12 +560,12 @@ SUMMARY:Rutherford at Emerson (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7440027@njicathletics
+UID:ds:2815:7440027@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T163000
 DTEND;TZID=America/New_York:20260910T183000
-SUMMARY:Leonia at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+SUMMARY:Pompton Lakes vs Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7440067@njicathletics
@@ -1186,29 +576,12 @@ SUMMARY:North Arlington at Wood-Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484165@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260911T161500
-DTEND;TZID=America/New_York:20260911T181500
-SUMMARY:Eastern Christian vs Passaic Valley High School (Varsity Boys Boy
- s Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7502877@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T161500
 DTEND;TZID=America/New_York:20260911T181500
 SUMMARY:Waldwick vs Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7523502@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T100000
-DTEND;TZID=America/New_York:20260912T120000
-SUMMARY:Lodi vs Lakeland Regional High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7440061@njicathletics
@@ -1227,59 +600,11 @@ SUMMARY:Butler vs Saddle Brook (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440043@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Cresskill vs Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7439960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Dwight-Englewood at Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7439997@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Glen Rock at Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440021@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Hawthorne Christian at New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440034@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Lodi at Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7440061@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:North Arlington at Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440074@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Palisades Park at Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1291,52 +616,20 @@ SUMMARY:Pompton Lakes at Waldwick (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7440082@njicathletics
+UID:ds:38258:7440034@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Eastern Christian vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Secaucus vs Lodi (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439980@njicathletics
+UID:ds:2918:7439997@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Emerson at Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439980@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Garfield vs Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440006@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Hasbrouck Heights at Lyndhurst (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440050@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Hawthorne vs Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440082@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:PCSST at Eastern Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Wallington vs Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7439942@njicathletics
@@ -1345,22 +638,6 @@ DTSTART;TZID=America/New_York:20260914T163000
 DTEND;TZID=America/New_York:20260914T183000
 SUMMARY:Bogota at Saddle River Day (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7440075@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T170000
-DTEND;TZID=America/New_York:20260914T190000
-SUMMARY:Elmwood Park vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440075@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T170000
-DTEND;TZID=America/New_York:20260914T190000
-SUMMARY:Park Ridge at Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7440151@njicathletics
@@ -1395,78 +672,6 @@ SUMMARY:Butler at Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440057@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Cresskill vs New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7440135@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Dwight-Englewood vs Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439999@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Elmwood Park vs Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440148@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Hasbrouck Heights vs Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440014@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Hawthorne at PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440028@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Leonia at Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440070@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Lodi vs Palisades Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7439934@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Lyndhurst vs Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7440113@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Manchester Regional vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7440066@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -1475,52 +680,60 @@ SUMMARY:North Arlington at Ridgefield Memorial (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43406:7440014@njicathletics
+UID:ds:2843:7440113@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:PCSST vs Hawthorne (Varsity Boys Boys Soccer)
+SUMMARY:Saddle Brook at Manchester Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7440028@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Waldwick vs Leonia (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7440123@njicathletics
+UID:ds:2918:7440135@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Wallington at Dwight-Englewood (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7440148@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Wood-Ridge at Hasbrouck Heights (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7439990@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T161500
 DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Eastern Christian vs Secaucus (Varsity Boys Boys Soccer)
+SUMMARY:Rutherford vs Garfield (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439983@njicathletics
+UID:ds:2844:7440118@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T161500
 DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Emerson at Park Ridge (Varsity Boys Boys Soccer)
+SUMMARY:Saddle River Day at Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439990@njicathletics
+UID:ds:38258:7440123@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T161500
 DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Garfield at Rutherford (Varsity Boys Boys Soccer)
+SUMMARY:Secaucus at Eastern Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7440118@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T161500
-DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Midland Park vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7439983@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T161500
-DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Park Ridge vs Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7440141@njicathletics
@@ -1531,20 +744,12 @@ SUMMARY:Bogota vs Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7439995@njicathletics
+UID:ds:2815:7439995@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T163000
 DTEND;TZID=America/New_York:20260916T183000
-SUMMARY:Glen Rock at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454956@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Hawthorne Christian at Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Pompton Lakes vs Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7499065@njicathletics
@@ -1555,37 +760,12 @@ SUMMARY:Bogota at Teaneck High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7556655@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T160000
-DTEND;TZID=America/New_York:20260918T180000
-SUMMARY:Hawthorne Christian vs Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7510435@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T160000
 DTEND;TZID=America/New_York:20260918T180000
 SUMMARY:North Arlington at Nutley High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7484170@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T161500
-DTEND;TZID=America/New_York:20260918T181500
-SUMMARY:Eastern Christian at Manchester Regional (Varsity Boys Boys Socce
- r)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7470798@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260918T161500
-DTEND;TZID=America/New_York:20260918T181500
-SUMMARY:Palisades Park vs Passaic Charter (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7534758@njicathletics
@@ -1613,62 +793,12 @@ SUMMARY:Becton at Kearny High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440388@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T083000
-DTEND;TZID=America/New_York:20260919T103000
-SUMMARY:Cresskill at Indian Hills High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 8:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7527369@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Emerson vs Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7553800@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Glen Rock at Fair Lawn High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7442000@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Hasbrouck Heights vs Fort Lee High School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7532865@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:New Milford vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7527369@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
 SUMMARY:Wood-Ridge at Emerson (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Hawthorne Christian at Ridgefield Memorial (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7475258@njicathletics
@@ -1678,41 +808,6 @@ DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Pompton Lakes at Whippany Park High School (Varsity Boys Boys Soc
  cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7467470@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T104500
-DTEND;TZID=America/New_York:20260919T124500
-SUMMARY:Hasbrouck Heights at Fort Lee High School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:45 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7474297@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T120000
-DTEND;TZID=America/New_York:20260919T140000
-SUMMARY:Eastern Christian at Passaic County Technical Institute (Varsity 
- Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445913@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T120000
-DTEND;TZID=America/New_York:20260919T140000
-SUMMARY:Emerson vs Pascack Valley High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440913@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T151500
-DTEND;TZID=America/New_York:20260919T171500
-SUMMARY:Leonia vs Northern Highlands Regional High School (Varsity Boys B
- oys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2918:7568750@njicathletics
@@ -1756,63 +851,6 @@ SUMMARY:Butler at New Milford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439956@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Cresskill at Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7440088@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Dwight-Englewood vs Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7440130@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Glen Rock vs Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440044@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440138@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Leonia vs Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440041@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Lyndhurst at Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440126@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Palisades Park vs Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7440094@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -1821,51 +859,59 @@ SUMMARY:Ridgefield Memorial at Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7439965@njicathletics
+UID:ds:2843:7439956@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Eastern Christian at Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Saddle Brook vs Cresskill (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7439972@njicathletics
+UID:ds:38258:7440126@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Elmwood Park at Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Secaucus at Palisades Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439972@njicathletics
+UID:ds:2916:7440130@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Waldwick at Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7440138@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Wallington at Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7440041@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Wood-Ridge vs Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7440080@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Emerson vs Elmwood Park (Varsity Boys Boys Soccer)
+SUMMARY:Rutherford vs Park Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7440143@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Midland Park vs Weehawken (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440080@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Park Ridge at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440086@njicathletics
+UID:ds:2815:7440088@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T163000
 DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:PCSST at Saddle River Day (Varsity Boys Boys Soccer)
+SUMMARY:Pompton Lakes at Dwight-Englewood (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1877,28 +923,12 @@ SUMMARY:Saddle River Day vs PCSST (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439987@njicathletics
+UID:ds:2763:7440008@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
-SUMMARY:Garfield at Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440008@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T190000
-DTEND;TZID=America/New_York:20260922T210000
-SUMMARY:Hasbrouck Heights at North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454987@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T161500
-DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Hawthorne Christian vs Mary Help (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:North Arlington vs Hasbrouck Heights (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7455038@njicathletics
@@ -1925,61 +955,37 @@ SUMMARY:Butler vs Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439957@njicathletics
+UID:ds:2763:7440065@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Cresskill at Wood-Ridge (Varsity Boys Boys Soccer)
+SUMMARY:North Arlington at New Milford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7440096@njicathletics
+UID:ds:2831:7440096@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Soc
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Boys Soc
  cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440017@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Hawthorne at Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7440117@njicathletics
+UID:ds:2844:7440117@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Lodi vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7440065@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440085@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Palisades Park vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440085@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:PCSST at Palisades Park (Varsity Boys Boys Soccer)
+SUMMARY:Saddle River Day at Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2948:7439957@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Wood-Ridge vs Cresskill (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7439938@njicathletics
@@ -1990,60 +996,28 @@ SUMMARY:Bogota at Eastern Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439958@njicathletics
+UID:ds:2841:7440105@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Dwight-Englewood at Garfield (Varsity Boys Boys Soccer)
+SUMMARY:Rutherford at Leonia (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7439994@njicathletics
+UID:ds:2843:7440110@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Glen Rock at Park Ridge (Varsity Boys Boys Soccer)
+SUMMARY:Saddle Brook at Hasbrouck Heights (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7440110@njicathletics
+UID:ds:38258:7440125@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Hasbrouck Heights vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440105@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Leonia vs Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440045@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Lyndhurst vs Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7440125@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Midland Park vs Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439976@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T163000
-DTEND;TZID=America/New_York:20260924T183000
-SUMMARY:Elmwood Park at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+SUMMARY:Secaucus at Midland Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7439976@njicathletics
@@ -2062,14 +1036,6 @@ SUMMARY:Wallington vs Harrison High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7454959@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Hawthorne Christian at PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7455040@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
@@ -2078,29 +1044,12 @@ SUMMARY:Secaucus at Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7578111@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T120000
-DTEND;TZID=America/New_York:20260926T140000
-SUMMARY:Hawthorne Christian vs Abundant Life Academy (Varsity Boys Boys S
- occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7499151@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T140000
 DTEND;TZID=America/New_York:20260926T160000
 SUMMARY:Waldwick at Shore Regional High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7480572@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T144400
-DTEND;TZID=America/New_York:20260928T164400
-SUMMARY:Palisades Park vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:44 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7439937@njicathletics
@@ -2127,43 +1076,19 @@ SUMMARY:Butler at Manchester Regional (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440019@njicathletics
+UID:ds:2763:7440064@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cresskill vs Hawthorne Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7439963@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Dwight-Englewood at Waldwick (Varsity Boys Boys Soccer)
+SUMMARY:North Arlington at Lyndhurst (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7440025@njicathletics
+UID:ds:2916:7439963@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Glen Rock vs Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440035@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lodi at Weehawken (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440064@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lyndhurst vs North Arlington (Varsity Boys Boys Soccer)
+SUMMARY:Waldwick vs Dwight-Englewood (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2175,69 +1100,21 @@ SUMMARY:Wood-Ridge vs Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7440115@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Eastern Christian vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7440101@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Elmwood Park vs Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7440000@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Emerson vs Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439989@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Garfield at Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440095@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Socce
- r)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7440053@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Midland Park at PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440053@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:PCSST vs Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7440139@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Pompton Lakes vs Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7440095@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7440101@njicathletics
@@ -2248,30 +1125,20 @@ SUMMARY:Rutherford at Elmwood Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7440060@njicathletics
+UID:ds:2844:7440115@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Saddle River Day at Eastern Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7440060@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T210000
-SUMMARY:New Milford at Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7541874@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Palisades Park vs Paramus Catholic High School (Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454981@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Saddle Brook vs New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7455018@njicathletics
@@ -2282,14 +1149,6 @@ SUMMARY:Secaucus vs Pompton Lakes (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7478457@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Elmwood Park at Nutley High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2541:7604568@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
@@ -2298,35 +1157,11 @@ SUMMARY:Bogota at Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439962@njicathletics
+UID:ds:2841:7439962@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
 DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Dwight-Englewood at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7484179@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Eastern Christian vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7440129@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Emerson vs Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7470804@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Manchester Regional vs Passaic Charter (Varsity Boys Boys Soccer)
+SUMMARY:Rutherford vs Dwight-Englewood (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2354,45 +1189,20 @@ SUMMARY:Saddle River Day at Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440399@njicathletics
+UID:ds:2554:7439949@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T180000
-DTEND;TZID=America/New_York:20260930T200000
-SUMMARY:Cresskill vs Northern Valley Regional High (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Butler at Ridgefield Memorial (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7562856@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T180000
-DTEND;TZID=America/New_York:20260930T200000
-SUMMARY:Lodi at Bloomfield High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7467055@njicathletics
+UID:ds:2815:7440079@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T163000
 DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Emerson vs Whippany Park High School (Varsity Boys Boys Soccer)
+SUMMARY:Pompton Lakes vs Park Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440079@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T163000
-DTEND;TZID=America/New_York:20261001T183000
-SUMMARY:Park Ridge at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7538724@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T181500
-DTEND;TZID=America/New_York:20261001T201500
-SUMMARY:Glen Rock vs Dwight-Englewood (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7523221@njicathletics
@@ -2411,27 +1221,19 @@ SUMMARY:Wallington at Don Bosco Prep (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7446280@njicathletics
+UID:ds:2831:7448885@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Cresskill at Waldwick (Varsity Boys Boys Soccer)
+SUMMARY:Ridgefield Memorial at Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484188@njicathletics
+UID:ds:2916:7446280@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Eastern Christian vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7448885@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T161500
-DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Lodi vs Ridgefield Memorial (Varsity Boys Boys Soccer)
+SUMMARY:Waldwick vs Cresskill (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2443,28 +1245,20 @@ SUMMARY:Wood-Ridge at Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7508209@njicathletics
+UID:ds:2844:7545438@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T150000
 DTEND;TZID=America/New_York:20261003T170000
-SUMMARY:Lyndhurst vs Glen Ridge High School (Varsity Boys Boys Soccer)
+SUMMARY:Saddle River Day vs Park Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7545438@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T150000
-DTEND;TZID=America/New_York:20261003T170000
-SUMMARY:Park Ridge at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7509775@njicathletics
+UID:ds:2843:7509775@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T153000
 DTEND;TZID=America/New_York:20261003T173000
-SUMMARY:Glen Rock vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
+SUMMARY:Saddle Brook at Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7440005@njicathletics
@@ -2491,43 +1285,19 @@ SUMMARY:Butler vs Cresskill (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439991@njicathletics
+UID:ds:2831:7440040@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Dwight-Englewood vs Glen Rock (Varsity Boys Boys Soccer)
+SUMMARY:Ridgefield Memorial vs Lyndhurst (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7440005@njicathletics
+UID:ds:2843:7440111@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Hasbrouck Heights at Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440111@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Hawthorne Christian vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440040@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Lyndhurst at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7440046@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Manchester Regional at New Milford (Varsity Boys Boys Soccer)
+SUMMARY:Saddle Brook at Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2547,60 +1317,20 @@ SUMMARY:Waldwick at Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7439967@njicathletics
+UID:ds:2844:7440116@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T161500
 DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Eastern Christian at Midland Park (Varsity Boys Boys Soccer)
+SUMMARY:Saddle River Day at Hawthorne (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7439973@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Elmwood Park at Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439973@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Garfield vs Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440116@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Hawthorne vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440078@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Park Ridge at Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440091@njicathletics
+UID:ds:2815:7440091@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
-SUMMARY:Leonia vs Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7439984@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T180000
-DTEND;TZID=America/New_York:20261005T200000
-SUMMARY:Emerson at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+SUMMARY:Pompton Lakes at Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7439984@njicathletics
@@ -2617,14 +1347,6 @@ DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:North Arlington vs Wood-Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454955@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:Hawthorne Christian at Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7455037@njicathletics
@@ -2651,54 +1373,6 @@ SUMMARY:Butler at Saddle Brook (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439954@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Cresskill at Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7440024@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Dwight-Englewood vs Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7440137@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Glen Rock vs Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440058@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Hawthorne Christian vs New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440124@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Lodi vs Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440144@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Palisades Park vs Weehawken (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7440003@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -2707,52 +1381,20 @@ SUMMARY:Rutherford vs Harrison High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7439969@njicathletics
+UID:ds:38258:7440124@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Eastern Christian at PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Secaucus at Lodi (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439986@njicathletics
+UID:ds:2918:7440137@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Emerson vs Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7439986@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Garfield at Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440038@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Hasbrouck Heights vs Lyndhurst (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440013@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Hawthorne at Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7439969@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T161500
-DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:PCSST vs Eastern Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Wallington at Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7467081@njicathletics
@@ -2761,22 +1403,6 @@ DTSTART;TZID=America/New_York:20261007T163000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:Saddle River Day vs Bergen Charter (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439975@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T180000
-DTEND;TZID=America/New_York:20261007T200000
-SUMMARY:Elmwood Park at Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7439975@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T180000
-DTEND;TZID=America/New_York:20261007T200000
-SUMMARY:Park Ridge vs Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7440133@njicathletics
@@ -2827,28 +1453,12 @@ SUMMARY:Becton at Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7439933@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Hawthorne Christian vs Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7497323@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T161500
 DTEND;TZID=America/New_York:20261009T181500
 SUMMARY:Waldwick vs Eastern Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445844@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T163000
-DTEND;TZID=America/New_York:20261009T183000
-SUMMARY:Emerson at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7445844@njicathletics
@@ -2868,12 +1478,12 @@ SUMMARY:North Arlington at Montclair High School (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7499153@njicathletics
+UID:ds:2916:7499153@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
 DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Cresskill at Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Waldwick vs Cresskill (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7468396@njicathletics
@@ -2884,21 +1494,12 @@ SUMMARY:Butler vs Bergen Charter (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7449306@njicathletics
+UID:ds:2815:7449306@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
 DTEND;TZID=America/New_York:20261013T181500
-SUMMARY:Manchester Regional vs Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7397102@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T183000
-DTEND;TZID=America/New_York:20261013T203000
-SUMMARY:Eastern Christian at Wayne Valley High School (Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+SUMMARY:Pompton Lakes at Manchester Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7470810@njicathletics
@@ -2909,14 +1510,6 @@ SUMMARY:Butler vs Passaic Charter (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7440012@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T170000
-DTEND;TZID=America/New_York:20261016T190000
-SUMMARY:Eastern Christian vs Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7459912@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T140000
@@ -2924,14 +1517,6 @@ DTEND;TZID=America/New_York:20261017T160000
 SUMMARY:Pompton Lakes vs Vernon Township High School (Varsity Boys Boys S
  occer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7546304@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T180000
-DTEND;TZID=America/New_York:20261017T200000
-SUMMARY:Cresskill at New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7440036@njicathletics
@@ -2958,124 +1543,52 @@ SUMMARY:Butler vs Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439955@njicathletics
+UID:ds:2843:7440047@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Cresskill at New Milford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7439964@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Dwight-Englewood at Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7439974@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Elmwood Park at Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7440090@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Glen Rock vs Pompton Lakes (Varsity Boys Boys Soccer)
+SUMMARY:Saddle Brook vs Manchester Regional (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7440131@njicathletics
+UID:ds:2916:7440131@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Leonia vs Waldwick (Varsity Boys Boys Soccer)
+SUMMARY:Waldwick at Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7439964@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Wallington vs Dwight-Englewood (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7440032@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Lodi at Palisades Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440036@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Lyndhurst at Becton (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7440047@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Manchester Regional at Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7440076@njicathletics
+UID:ds:2815:7440090@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T161500
 DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Emerson vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7440103@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Garfield vs Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7440083@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Hawthorne vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440076@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Park Ridge at Emerson (Varsity Boys Boys Soccer)
+SUMMARY:Pompton Lakes at Glen Rock (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43406:7440083@njicathletics
+UID:ds:2841:7440103@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T161500
 DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:PCSST at Hawthorne (Varsity Boys Boys Soccer)
+SUMMARY:Rutherford at Garfield (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7440054@njicathletics
+UID:ds:2844:7440054@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Midland Park at Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440010@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T190000
-DTEND;TZID=America/New_York:20261019T210000
-SUMMARY:Hasbrouck Heights at Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+SUMMARY:Saddle River Day vs Midland Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7440099@njicathletics
@@ -3086,12 +1599,12 @@ SUMMARY:North Arlington vs Ridgefield Memorial (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7454927@njicathletics
+UID:ds:2948:7440010@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T161500
-DTEND;TZID=America/New_York:20261020T181500
-SUMMARY:Hawthorne Christian vs Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20261019T190000
+DTEND;TZID=America/New_York:20261019T210000
+SUMMARY:Wood-Ridge vs Hasbrouck Heights (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7455041@njicathletics
@@ -3118,47 +1631,6 @@ SUMMARY:Butler vs New Milford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7439996@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Glen Rock at Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7440020@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7440029@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Leonia at Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7440072@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Palisades Park at Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440119@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:PCSST vs Saddle River Day (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7439936@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -3175,60 +1647,52 @@ SUMMARY:Saddle River Day at PCSST (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7439979@njicathletics
+UID:ds:38258:7440072@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Secaucus vs Palisades Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7439996@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Waldwick vs Glen Rock (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7440029@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Wallington vs Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7440063@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T161500
 DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Elmwood Park at Emerson (Varsity Boys Boys Soccer)
+SUMMARY:North Arlington at Hasbrouck Heights (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439979@njicathletics
+UID:ds:2841:7440106@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T161500
 DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Emerson vs Elmwood Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Rutherford at Park Ridge (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7440001@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Garfield vs Harrison High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7440063@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Hasbrouck Heights vs North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7606552@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Midland Park vs Bergen Charter (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7440106@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Park Ridge vs Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7440109@njicathletics
+UID:ds:2843:7440109@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T173000
 DTEND;TZID=America/New_York:20261021T193000
-SUMMARY:Cresskill vs Saddle Brook (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
+SUMMARY:Saddle Brook at Cresskill (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7439939@njicathletics
@@ -3239,21 +1703,12 @@ SUMMARY:Bogota at Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7440149@njicathletics
+UID:ds:2948:7440149@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T180000
 DTEND;TZID=America/New_York:20261021T200000
-SUMMARY:Lyndhurst vs Wood-Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7455019@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Wood-Ridge at Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7454970@njicathletics
@@ -3264,37 +1719,12 @@ SUMMARY:Secaucus vs Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439961@njicathletics
+UID:ds:2815:7439961@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T163000
 DTEND;TZID=America/New_York:20261022T183000
-SUMMARY:Dwight-Englewood at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7466075@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Elmwood Park at Hillside High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7473543@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Lodi at Ridgefield Memorial (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445838@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T161500
-DTEND;TZID=America/New_York:20261023T181500
-SUMMARY:Emerson at Montville Township High School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Pompton Lakes vs Dwight-Englewood (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7499021@njicathletics
@@ -3303,22 +1733,6 @@ DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Bogota vs Teaneck High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7467088@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T180000
-DTEND;TZID=America/New_York:20261023T200000
-SUMMARY:Eastern Christian vs Bergen Charter (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7502054@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T100000
-DTEND;TZID=America/New_York:20261024T120000
-SUMMARY:Leonia at Indian Hills High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7492658@njicathletics
@@ -3337,38 +1751,6 @@ SUMMARY:Waldwick at Pascack Hills High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7460999@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T150000
-DTEND;TZID=America/New_York:20261024T170000
-SUMMARY:Cresskill at Fair Lawn High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7620448@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T150000
-DTEND;TZID=America/New_York:20261024T170000
-SUMMARY:Lyndhurst vs New Providence High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7470811@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T161500
-DTEND;TZID=America/New_York:20261024T181500
-SUMMARY:Hawthorne vs Passaic Charter (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454958@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Hawthorne Christian at Mary Help (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7455053@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T161500
@@ -3385,24 +1767,6 @@ SUMMARY:Wallington vs Roselle Park High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7484369@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T183000
-DTEND;TZID=America/New_York:20261026T203000
-SUMMARY:Hasbrouck Heights at Pequannock Township High School (Varsity Boy
- s Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7515289@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T190000
-DTEND;TZID=America/New_York:20261026T210000
-SUMMARY:Cresskill at Westwood Regional Senior High School (Varsity Boys B
- oys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7552406@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T190000
@@ -3410,14 +1774,6 @@ DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:North Arlington vs James J Ferris High School (Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:43406:7440087@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T160000
-DTEND;TZID=America/New_York:20261027T180000
-SUMMARY:PCSST at Secaucus (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7440121@njicathletics
@@ -3444,60 +1800,11 @@ SUMMARY:Bogota vs Hawthorne (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7439968@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T161500
-DTEND;TZID=America/New_York:20261027T181500
-SUMMARY:Eastern Christian at Palisades Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7440051@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T161500
-DTEND;TZID=America/New_York:20261027T181500
-SUMMARY:Lodi vs Midland Park (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7455015@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T161500
-DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Hawthorne Christian vs PCSST (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7449313@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T163000
 DTEND;TZID=America/New_York:20261028T183000
 SUMMARY:North Arlington at Pompton Lakes (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7483728@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T160000
-DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Elmwood Park vs Pioneer Academy (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7445824@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T161500
-DTEND;TZID=America/New_York:20261029T181500
-SUMMARY:Emerson vs Northern Valley Regional High (Varsity Boys Boys Socce
- r)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7545517@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T163000
-DTEND;TZID=America/New_York:20261029T183000
-SUMMARY:Park Ridge at Weehawken (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

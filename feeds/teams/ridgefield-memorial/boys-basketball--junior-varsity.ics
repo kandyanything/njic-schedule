@@ -23,22 +23,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2609:7479488@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T144500
-DTEND;TZID=America/New_York:20261207T164500
-SUMMARY:Emerson at Ridgefield Memorial (Junior Varsity Boys Boys Basketba
- ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7481801@njicathletics
+UID:ds:2831:7481801@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Junior Varsity Boys B
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Junior Varsity Boys B
  oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7479494@njicathletics
@@ -50,13 +41,13 @@ SUMMARY:Ridgefield Memorial vs Ridgefield Memorial (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7481825@njicathletics
+UID:ds:2831:7481825@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
-SUMMARY:Garfield at Ridgefield Memorial (Junior Varsity Boys Boys Basketb
+SUMMARY:Ridgefield Memorial vs Garfield (Junior Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481815@njicathletics
@@ -68,13 +59,13 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Junior Varsity Boys Boys Baske
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7481813@njicathletics
+UID:ds:2831:7481813@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T174500
 DTEND;TZID=America/New_York:20270127T194500
-SUMMARY:Palisades Park at Ridgefield Memorial (Junior Varsity Boys Boys B
+SUMMARY:Ridgefield Memorial vs Palisades Park (Junior Varsity Boys Boys B
  asketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7481831@njicathletics
@@ -113,15 +104,6 @@ SUMMARY:Ridgefield Memorial vs Becton (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7481819@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T103000
-DTEND;TZID=America/New_York:20270206T123000
-SUMMARY:Emerson at Ridgefield Memorial (Junior Varsity Boys Boys Basketba
- ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7481819@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T103000
@@ -129,5 +111,14 @@ DTEND;TZID=America/New_York:20270206T123000
 SUMMARY:Ridgefield Memorial vs Emerson (Junior Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7481811@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T174500
+DTEND;TZID=America/New_York:20270208T194500
+SUMMARY:Ridgefield Memorial vs Wallington (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 END:VCALENDAR

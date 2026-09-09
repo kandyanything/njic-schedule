@@ -23,22 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2785:7567953@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270329T094200
-DTEND;TZID=America/New_York:20270329T114200
-SUMMARY:Palisades Park at Bogota (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 9:42 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7575499@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270329T160000
-DTEND;TZID=America/New_York:20270329T180000
-SUMMARY:Garfield at Saddle Brook (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7575499@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
@@ -48,36 +32,11 @@ SUMMARY:Pompton Lakes at Saddle Brook (Varsity Girls Girls Track and Fiel
 DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7564796@njicathletics
+UID:ds:2815:7575502@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T160000
 DTEND;TZID=America/New_York:20270406T180000
-SUMMARY:Emerson at Waldwick (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7575502@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270406T160000
-DTEND;TZID=America/New_York:20270406T180000
-SUMMARY:Garfield vs Pompton Lakes (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7564796@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270406T160000
-DTEND;TZID=America/New_York:20270406T180000
-SUMMARY:Leonia at Waldwick (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7575502@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270406T160000
-DTEND;TZID=America/New_York:20270406T180000
-SUMMARY:Manchester Regional at Garfield (Varsity Girls Girls Track and Fi
- eld)
+SUMMARY:Pompton Lakes at Garfield (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -89,24 +48,6 @@ SUMMARY:Waldwick vs Emerson (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7567969@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T160000
-DTEND;TZID=America/New_York:20270413T180000
-SUMMARY:Palisades Park at Hasbrouck Heights (Varsity Girls Girls Track an
- d Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7575504@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T160000
-DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Hawthorne vs Hawthorne Christian (Varsity Girls Girls Track and F
- ield)
-DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7575504@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
@@ -115,43 +56,11 @@ SUMMARY:Pompton Lakes at Hawthorne (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7575507@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T160000
-DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Glen Rock vs Saddle Brook (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7575507@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Pompton Lakes at Glen Rock (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7564717@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T161500
-DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Dwight-Englewood at Emerson (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7567973@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T160000
-DTEND;TZID=America/New_York:20270427T180000
-SUMMARY:Emerson vs Palisades Park (Varsity Girls Girls Track and Field)
-DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7567973@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T160000
-DTEND;TZID=America/New_York:20270427T180000
-SUMMARY:Palisades Park at Emerson (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

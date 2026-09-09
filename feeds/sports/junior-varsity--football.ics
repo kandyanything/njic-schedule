@@ -23,33 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2621:7564682@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260820T090000
-DTEND;TZID=America/New_York:20260820T110000
-SUMMARY:Garfield vs Mountain Lakes High School (Junior Varsity Boys Footb
- all)
-DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7440968@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T090000
-DTEND;TZID=America/New_York:20260828T110000
-SUMMARY:Lyndhurst at Hanover Park High School (Junior Varsity Boys Footba
- ll)
-DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7527121@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260828T100000
-DTEND;TZID=America/New_York:20260828T120000
-SUMMARY:Midland Park at Vernon Township High School (Junior Varsity Boys 
- Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7527121@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260828T100000
@@ -57,40 +30,6 @@ DTEND;TZID=America/New_York:20260828T120000
 SUMMARY:Waldwick at Vernon Township High School (Junior Varsity Boys Foot
  ball)
 DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7595318@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260829T093000
-DTEND;TZID=America/New_York:20260829T113000
-SUMMARY:Elmwood Park at Hopatcong High School (Junior Varsity Boys Footba
- ll)
-DESCRIPTION:Junior Varsity Boys Football - Away - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7480921@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260829T203000
-DTEND;TZID=America/New_York:20260829T223000
-SUMMARY:Manchester Regional vs Wallkill Valley Regional High School (Juni
- or Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 8:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7452560@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260830T150000
-DTEND;TZID=America/New_York:20260830T170000
-SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7452599@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260831T100000
-DTEND;TZID=America/New_York:20260831T120000
-SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7546848@njicathletics
@@ -102,28 +41,12 @@ SUMMARY:Pompton Lakes vs Lakeland Regional High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7491208@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260831T160000
-DTEND;TZID=America/New_York:20260831T180000
-SUMMARY:Garfield at Roxbury High School (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7584737@njicathletics
+UID:ds:2948:7584737@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T090000
 DTEND;TZID=America/New_York:20260904T110000
-SUMMARY:Glen Rock at Wood-Ridge (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7608834@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260904T100000
-DTEND;TZID=America/New_York:20260904T120000
-SUMMARY:Hasbrouck Heights at Hawthorne (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+SUMMARY:Wood-Ridge vs Glen Rock (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7527124@njicathletics
@@ -131,14 +54,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T161500
 DTEND;TZID=America/New_York:20260904T181500
 SUMMARY:Becton at Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7527124@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260904T161500
-DTEND;TZID=America/New_York:20260904T181500
-SUMMARY:Midland Park at Midland Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -150,67 +65,11 @@ SUMMARY:Waldwick at Midland Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7452561@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260906T150000
-DTEND;TZID=America/New_York:20260906T170000
-SUMMARY:Hasbrouck Heights at Hawthorne (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7462806@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260907T160000
-DTEND;TZID=America/New_York:20260907T180000
-SUMMARY:Elmwood Park at Wallington (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2918:7462806@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260907T160000
 DTEND;TZID=America/New_York:20260907T180000
 SUMMARY:Wallington vs Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446397@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T090000
-DTEND;TZID=America/New_York:20260912T110000
-SUMMARY:Emerson at Rutherford (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7586632@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T090000
-DTEND;TZID=America/New_York:20260912T110000
-SUMMARY:Hawthorne at Garfield (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7451680@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Elmwood Park vs Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7621352@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Garfield vs Leonia (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7452389@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Hasbrouck Heights vs Saddle Brook (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -222,60 +81,20 @@ SUMMARY:Pompton Lakes at Elmwood Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2843:7452389@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Saddle Brook at Hasbrouck Heights (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7572099@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:Becton vs Manchester Regional (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7509546@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Elmwood Park at Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7531692@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Garfield vs Palisades Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7568712@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Glen Rock vs Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7504728@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Lodi vs Lyndhurst (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7572099@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Manchester Regional at Becton (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7568712@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Midland Park at Glen Rock (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7609815@njicathletics
@@ -327,52 +146,12 @@ SUMMARY:Butler at New Milford (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7554532@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Cresskill at Cresskill (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7554532@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Emerson at Cresskill (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7554532@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Glen Rock at Cresskill (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7451681@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Pompton Lakes vs Rutherford (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7509547@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T120000
-DTEND;TZID=America/New_York:20260921T140000
-SUMMARY:Elmwood Park at Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7509547@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T120000
-DTEND;TZID=America/New_York:20260921T140000
-SUMMARY:Midland Park at Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7509547@njicathletics
@@ -391,45 +170,12 @@ SUMMARY:Becton at Palisades Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7452562@njicathletics
+UID:ds:2843:7452390@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Hasbrouck Heights at Cedar Grove High School (Junior Varsity Boys
-  Football)
+SUMMARY:Saddle Brook at Hawthorne (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7452390@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T160000
-DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Hawthorne vs Saddle Brook (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7544379@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T160000
-DTEND;TZID=America/New_York:20260921T180000
-SUMMARY:Palisades Park vs Becton (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7540737@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T161500
-DTEND;TZID=America/New_York:20260921T181500
-SUMMARY:Garfield at Lyndhurst (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7504711@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T161500
-DTEND;TZID=America/New_York:20260921T181500
-SUMMARY:Lodi at Manchester Regional (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7609964@njicathletics
@@ -457,31 +203,6 @@ SUMMARY:Becton vs Rutherford (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7509549@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Elmwood Park vs Lodi (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7509549@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lodi at Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7545267@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Palisades Park at Parsippany High School (Junior Varsity Boys Foo
- tball)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2918:7495728@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -490,85 +211,19 @@ SUMMARY:Wallington at Wood-Ridge (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7504753@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Elmwood Park vs Lodi (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446412@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Emerson vs Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7531695@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Garfield vs Manchester Regional (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7451682@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Glen Rock vs Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7554239@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Hasbrouck Heights at Passaic Valley High School (Junior Varsity B
- oys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7504753@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Lodi at Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7540714@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Lyndhurst at Governor Livingston High School (Junior Varsity Boys
-  Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7446412@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Midland Park at Emerson (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7528776@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:New Milford vs Mahwah High School (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2763:7452395@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:North Arlington at Saddle Brook (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7451682@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Pompton Lakes at Glen Rock (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -596,14 +251,6 @@ DTEND;TZID=America/New_York:20261003T110000
 SUMMARY:Ridgefield Memorial at Memorial High School (Junior Varsity Boys 
  Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7536875@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T100000
-DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Glen Rock at Rutherford (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7482062@njicathletics
@@ -639,55 +286,6 @@ SUMMARY:Becton vs Lyndhurst (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7446415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Elmwood Park vs Emerson (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Emerson at Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7504763@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Garfield at Lodi (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7545447@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Lyndhurst at Becton (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2710:7545461@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Manchester Regional vs Palisades Park (Junior Varsity Boys Footba
- ll)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7451685@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T163000
-DTEND;TZID=America/New_York:20261005T183000
-SUMMARY:Midland Park at Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7451685@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T163000
@@ -704,28 +302,12 @@ SUMMARY:Waldwick at Pompton Lakes (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7452391@njicathletics
+UID:ds:2843:7452391@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T190000
 DTEND;TZID=America/New_York:20261005T210000
-SUMMARY:New Milford vs Saddle Brook (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7509557@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Elmwood Park at Glen Rock (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7509557@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Glen Rock vs Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
+SUMMARY:Saddle Brook at New Milford (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7572102@njicathletics
@@ -736,54 +318,6 @@ SUMMARY:Becton at Garfield (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7572102@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Garfield vs Becton (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7560810@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Leonia vs Lodi (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7545247@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Lodi at Palisades Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7578737@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Cresskill at Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446419@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Emerson vs Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7527131@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Midland Park at Midland Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7446419@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
@@ -792,20 +326,20 @@ SUMMARY:Pompton Lakes at Emerson (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2815:7578737@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Pompton Lakes vs Cresskill (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7527131@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
 DTEND;TZID=America/New_York:20261012T181500
 SUMMARY:Waldwick at Midland Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7559601@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T163000
-DTEND;TZID=America/New_York:20261012T183000
-SUMMARY:Lyndhurst vs Manchester Regional (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7555520@njicathletics
@@ -826,30 +360,6 @@ SUMMARY:Ridgefield Memorial vs North Bergen High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7452564@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Hasbrouck Heights vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7560814@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Leonia vs New Austin School 2 (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7545375@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Palisades Park vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7452393@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -864,22 +374,6 @@ DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Wallington at TBD (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446424@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Emerson at TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7527139@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Midland Park at TBA NJ (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7451688@njicathletics
@@ -898,30 +392,6 @@ SUMMARY:Waldwick at TBA NJ (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7452565@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Hasbrouck Heights at TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7560818@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Leonia at co-op1 (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7545378@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Palisades Park at TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7452392@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -936,13 +406,5 @@ DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Wallington vs TBD (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7446429@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Emerson vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,12 +23,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2763:7445748@njicathletics
+UID:ds:2758:7495269@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260817T100000
+DTEND;TZID=America/New_York:20260817T120000
+SUMMARY:New Milford at Westwood Regional Senior High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7440764@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T131300
+DTEND;TZID=America/New_York:20260827T151300
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 1:13 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7445670@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T180000
+DTEND;TZID=America/New_York:20260827T200000
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7434596@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T180000
+DTEND;TZID=America/New_York:20260828T200000
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7445748@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T183000
 DTEND;TZID=America/New_York:20260904T203000
-SUMMARY:North Arlington vs New Milford (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+SUMMARY:New Milford at North Arlington (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7459919@njicathletics
@@ -39,19 +72,35 @@ SUMMARY:Butler vs New Milford (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7470799@njicathletics
+UID:ds:2758:7470799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T170000
-SUMMARY:Secaucus at New Milford (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 3:00 PM
+SUMMARY:New Milford vs Secaucus (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7452160@njicathletics
+UID:ds:2758:7383750@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T190000
+DTEND;TZID=America/New_York:20260925T210000
+SUMMARY:New Milford at Mahwah High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7452160@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
-SUMMARY:Saddle Brook vs New Milford (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+SUMMARY:New Milford at Saddle Brook (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7462032@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T183000
+DTEND;TZID=America/New_York:20261009T203000
+SUMMARY:Hawthorne at New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 END:VCALENDAR

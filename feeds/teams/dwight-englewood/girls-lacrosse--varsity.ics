@@ -23,11 +23,36 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2815:7605280@njicathletics
+UID:ds:2598:7620565@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T163000
+DTEND;TZID=America/New_York:20270318T183000
+SUMMARY:Dwight-Englewood at Northern Valley Regional High (Varsity Girls 
+ Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7605280@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T163000
 DTEND;TZID=America/New_York:20270413T183000
-SUMMARY:Pompton Lakes vs Dwight-Englewood (Varsity Girls Girls Lacrosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:30 PM
+SUMMARY:Dwight-Englewood at Pompton Lakes (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7609282@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Dwight-Englewood vs Emerson (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7609282@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Emerson at Dwight-Englewood (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

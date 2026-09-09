@@ -23,35 +23,35 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2831:7599926@njicathletics
+UID:ds:2695:7599926@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Ridgefield Memorial at Leonia (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7576636@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270409T161500
-DTEND;TZID=America/New_York:20270409T181500
-SUMMARY:Ridgefield Memorial vs Cresskill (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7599933@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270426T160000
-DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:Ridgefield Memorial vs Leonia (Junior Varsity Boys Boys Tennis)
+SUMMARY:Leonia vs Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
 DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7576653@njicathletics
+UID:ds:2582:7576636@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Cresskill at Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7599933@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Leonia at Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576653@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T103100
 DTEND;TZID=America/New_York:20270428T123100
-SUMMARY:Ridgefield Memorial at Cresskill (Junior Varsity Boys Boys Tennis)
-DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 10:31 AM
+SUMMARY:Cresskill vs Ridgefield Memorial (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 10:31 AM
 END:VEVENT
 END:VCALENDAR

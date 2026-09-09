@@ -23,20 +23,54 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2843:7511787@njicathletics
+UID:ds:2602:7464975@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T110000
+DTEND;TZID=America/New_York:20260827T130000
+SUMMARY:Eastern Christian vs Hawthorne (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7511787@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T173000
 DTEND;TZID=America/New_York:20260901T193000
-SUMMARY:Saddle Brook at Hawthorne (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+SUMMARY:Hawthorne vs Saddle Brook (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7582035@njicathletics
+UID:ds:2646:7582035@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T163000
 DTEND;TZID=America/New_York:20260903T183000
-SUMMARY:Saddle River Day vs Hawthorne (Junior Varsity Girls Girls Volleyb
+SUMMARY:Hawthorne at Saddle River Day (Junior Varsity Girls Girls Volleyb
  all)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458985@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T174500
+DTEND;TZID=America/New_York:20260908T194500
+SUMMARY:Cresskill vs Hawthorne (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7484355@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T173000
+DTEND;TZID=America/New_York:20260911T193000
+SUMMARY:Eastern Christian vs Hawthorne (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458994@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cresskill at Hawthorne (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 END:VCALENDAR

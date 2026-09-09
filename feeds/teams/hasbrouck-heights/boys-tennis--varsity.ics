@@ -23,21 +23,69 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2831:7573421@njicathletics
+UID:ds:2644:7599841@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T160000
+DTEND;TZID=America/New_York:20270402T180000
+SUMMARY:Hasbrouck Heights vs Leonia (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7573421@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
 DTEND;TZID=America/New_York:20270405T180000
-SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Tenni
+SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Tenni
+ s)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7572748@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576571@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T161500
+DTEND;TZID=America/New_York:20270414T181500
+SUMMARY:Cresskill at Hasbrouck Heights (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7599897@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T160000
+DTEND;TZID=America/New_York:20270419T180000
+SUMMARY:Hasbrouck Heights at Leonia (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7573427@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Tenni
  s)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7573427@njicathletics
+UID:ds:2644:7572758@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T160000
-DTEND;TZID=America/New_York:20270422T180000
-SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Tenni
- s)
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Hasbrouck Heights vs New Milford (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7576601@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T161500
+DTEND;TZID=America/New_York:20270503T181500
+SUMMARY:Cresskill vs Hasbrouck Heights (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

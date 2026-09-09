@@ -23,12 +23,62 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2843:7452389@njicathletics
+UID:ds:2644:7452560@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260830T150000
+DTEND;TZID=America/New_York:20260830T170000
+SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452599@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T100000
+DTEND;TZID=America/New_York:20260831T120000
+SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7608834@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T100000
+DTEND;TZID=America/New_York:20260904T120000
+SUMMARY:Hasbrouck Heights at Hawthorne (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452561@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260906T150000
+DTEND;TZID=America/New_York:20260906T170000
+SUMMARY:Hasbrouck Heights at Hawthorne (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452389@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Saddle Brook at Hasbrouck Heights (Junior Varsity Boys Football)
+SUMMARY:Hasbrouck Heights vs Saddle Brook (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452562@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Hasbrouck Heights at Cedar Grove High School (Junior Varsity Boys
+  Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7554239@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Hasbrouck Heights at Passaic Valley High School (Junior Varsity B
+ oys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7452563@njicathletics
@@ -37,5 +87,21 @@ DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Butler vs Hasbrouck Heights (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452564@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Hasbrouck Heights vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7452565@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Hasbrouck Heights at TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

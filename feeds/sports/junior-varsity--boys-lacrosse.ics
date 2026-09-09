@@ -23,12 +23,21 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2815:7580305@njicathletics
+UID:ds:2626:7513089@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T180000
+DTEND;TZID=America/New_York:20270330T200000
+SUMMARY:Glen Rock vs Ramsey High School (Junior Varsity Boys Boys Lacross
+ e)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7580305@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T173000
 DTEND;TZID=America/New_York:20270331T193000
-SUMMARY:Pompton Lakes vs Hawthorne (Junior Varsity Boys Boys Lacrosse)
-DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+SUMMARY:Hawthorne at Pompton Lakes (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7580309@njicathletics

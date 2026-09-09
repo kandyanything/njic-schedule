@@ -39,6 +39,14 @@ SUMMARY:Bogota at Elmwood Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2723:7442220@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260820T180000
+DTEND;TZID=America/New_York:20260820T200000
+SUMMARY:Elmwood Park vs Bogota (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2541:7581990@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T110000
@@ -195,6 +203,14 @@ DTSTART;TZID=America/New_York:20260903T160000
 DTEND;TZID=America/New_York:20260903T180000
 SUMMARY:Bogota vs PCSST (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7440081@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:PCSST at Bogota (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7458263@njicathletics
@@ -578,6 +594,14 @@ SUMMARY:Bogota at Palisades Park (Var-JV Girls Girls Cross Country)
 DESCRIPTION:Var-JV Girls Girls Cross Country - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2785:7515559@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T164500
+DTEND;TZID=America/New_York:20260929T184500
+SUMMARY:Palisades Park vs Bogota (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2541:7515213@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T174000
@@ -775,6 +799,14 @@ DTSTART;TZID=America/New_York:20261008T161500
 DTEND;TZID=America/New_York:20261008T181500
 SUMMARY:Bogota at Tenafly High School (Middle School Coed Coed Cross Coun
  try)
+DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7518510@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Garfield at Bogota (Middle School Coed Coed Cross Country)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1092,20 +1124,20 @@ SUMMARY:Bogota at Hasbrouck Heights (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7624368@njicathletics
+UID:ds:2541:7624368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T103000
 DTEND;TZID=America/New_York:20261219T123000
-SUMMARY:Wallington vs Bogota (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
+SUMMARY:Bogota at Wallington (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7624367@njicathletics
+UID:ds:2541:7624367@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T120000
 DTEND;TZID=America/New_York:20261219T140000
-SUMMARY:Wallington vs Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
+SUMMARY:Bogota at Wallington (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7535077@njicathletics
@@ -1255,12 +1287,12 @@ SUMMARY:Bogota vs Leonia (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7624385@njicathletics
+UID:ds:2541:7624385@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T103000
 DTEND;TZID=America/New_York:20270206T123000
-SUMMARY:Wallington at Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+SUMMARY:Bogota vs Wallington (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7523325@njicathletics
@@ -1329,12 +1361,37 @@ SUMMARY:Bogota vs Palisades Park (Varsity Coed Coed Track and Field)
 DESCRIPTION:Varsity Coed Coed Track and Field - Home - 9:42 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2785:7567953@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T094200
+DTEND;TZID=America/New_York:20270329T114200
+SUMMARY:Palisades Park at Bogota (Varsity Girls Girls Track and Field)
+DESCRIPTION:Varsity Girls Girls Track and Field - Away - 9:42 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7519163@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T161500
+DTEND;TZID=America/New_York:20270421T181500
+SUMMARY:Garfield vs Bogota (Middle School Girls Softball)
+DESCRIPTION:Middle School Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2541:7523224@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270429T161500
 DTEND;TZID=America/New_York:20270429T181500
 SUMMARY:Bogota vs Midland Park (Middle School Coed Coed Track and Field)
 DESCRIPTION:Middle School Coed Coed Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7523224@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T161500
+DTEND;TZID=America/New_York:20270429T181500
+SUMMARY:Eastern Christian at Bogota (Middle School Coed Coed Track and Fi
+ eld)
+DESCRIPTION:Middle School Coed Coed Track and Field - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7523225@njicathletics
@@ -1344,5 +1401,22 @@ DTEND;TZID=America/New_York:20270506T181500
 SUMMARY:Bogota vs Little Ferry Middle School (Middle School Coed Coed Tra
  ck and Field)
 DESCRIPTION:Middle School Coed Coed Track and Field - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7523225@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T161500
+DTEND;TZID=America/New_York:20270506T181500
+SUMMARY:Eastern Christian at Bogota (Middle School Coed Coed Track and Fi
+ eld)
+DESCRIPTION:Middle School Coed Coed Track and Field - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7519194@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T161500
+DTEND;TZID=America/New_York:20270512T181500
+SUMMARY:Garfield at Bogota (Middle School Girls Softball)
+DESCRIPTION:Middle School Girls Softball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

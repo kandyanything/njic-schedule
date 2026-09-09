@@ -23,13 +23,21 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2831:7481800@njicathletics
+UID:ds:2609:7457992@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T161500
+DTEND;TZID=America/New_York:20261207T181500
+SUMMARY:Emerson at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7481800@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Boys Bas
+SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Bas
  ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7477073@njicathletics
@@ -49,30 +57,30 @@ SUMMARY:Rutherford vs Ridgefield Memorial (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481824@njicathletics
+UID:ds:2621:7481824@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
-SUMMARY:Ridgefield Memorial vs Garfield (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Garfield at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481826@njicathletics
+UID:ds:2644:7481826@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T161500
 DTEND;TZID=America/New_York:20270104T181500
-SUMMARY:Ridgefield Memorial vs Hasbrouck Heights (Varsity Boys Boys Baske
+SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7485175@njicathletics
+UID:ds:2644:7485175@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
-SUMMARY:Ridgefield Memorial at Hasbrouck Heights (Varsity Boys Boys Baske
+SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Baske
  tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481814@njicathletics
@@ -83,13 +91,13 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481812@njicathletics
+UID:ds:2785:7481812@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Boys Boys Basketba
+SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7481900@njicathletics
@@ -114,6 +122,14 @@ DTSTART;TZID=America/New_York:20270203T190000
 DTEND;TZID=America/New_York:20270203T210000
 SUMMARY:Ridgefield Memorial vs Becton (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7481818@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T120000
+DTEND;TZID=America/New_York:20270206T140000
+SUMMARY:Emerson at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7481818@njicathletics

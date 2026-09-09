@@ -23,12 +23,20 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2831:7581000@njicathletics
+UID:ds:2700:7566357@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260817T100000
+DTEND;TZID=America/New_York:20260817T120000
+SUMMARY:Lodi vs Ridgefield Memorial (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7581000@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260817T180000
 DTEND;TZID=America/New_York:20260817T200000
-SUMMARY:Ridgefield Memorial at Palisades Park (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+SUMMARY:Palisades Park vs Ridgefield Memorial (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7581002@njicathletics

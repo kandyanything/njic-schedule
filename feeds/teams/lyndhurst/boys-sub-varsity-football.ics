@@ -23,12 +23,37 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2841:7536865@njicathletics
+UID:ds:2703:7529165@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Lyndhurst at Hanover Park High School (Boys (Sub Varsity) Footbal
+ l)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7536865@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260905T100000
 DTEND;TZID=America/New_York:20260905T120000
-SUMMARY:Rutherford vs Lyndhurst (Boys (Sub Varsity) Football)
-DESCRIPTION:Boys (Sub Varsity) Football - Home - 10:00 AM
+SUMMARY:Lyndhurst at Rutherford (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7586636@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Lyndhurst vs Garfield (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7623928@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Lyndhurst vs Nutley High School (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7580059@njicathletics
@@ -37,5 +62,21 @@ DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T110000
 SUMMARY:Becton vs Lyndhurst (Boys (Sub Varsity) Football)
 DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7580059@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T110000
+SUMMARY:Lyndhurst at Becton (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7586606@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Hasbrouck Heights at Lyndhurst (Boys (Sub Varsity) Football)
+DESCRIPTION:Boys (Sub Varsity) Football - Away - 9:00 AM
 END:VEVENT
 END:VCALENDAR

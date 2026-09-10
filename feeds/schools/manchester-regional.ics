@@ -950,20 +950,20 @@ SUMMARY:Emerson at Manchester Regional (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7444838@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:Manchester Regional at Emerson (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7577198@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T161500
 DTEND;TZID=America/New_York:20261006T181500
 SUMMARY:Manchester Regional vs Emerson (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7444838@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Manchester Regional at Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7444839@njicathletics
@@ -1254,6 +1254,15 @@ DTEND;TZID=America/New_York:20261212T143000
 SUMMARY:Manchester Regional at Cedar Grove High School (Junior Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7627124@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Manchester Regional vs Wayne Hills High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7572181@njicathletics

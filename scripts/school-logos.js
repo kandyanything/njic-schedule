@@ -21,6 +21,7 @@ var SCHOOLS = [
   ['emerson', ['emerson']],
   ['garfield', ['garfield']],
   ['glen-rock', ['glenrock']],
+  ['harrison', ['harrison']],
   ['hasbrouck-heights', ['hasbrouck', 'hasbrou']],
   ['hawthorne', ['hawthorne']],
   ['leonia', ['leonia']],

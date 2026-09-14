@@ -383,20 +383,20 @@ SUMMARY:Waldwick at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7546442@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Garfield vs Glen Rock (Middle School Girls Girls Cross Country)
-DESCRIPTION:Middle School Girls Girls Cross Country - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7582888@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260918T153000
 DTEND;TZID=America/New_York:20260918T173000
 SUMMARY:Saddle Brook at TBA NJ (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632137@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T083000
+DTEND;TZID=America/New_York:20260919T103000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7553169@njicathletics
@@ -700,7 +700,7 @@ SUMMARY:Palisades Park at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7476303@njicathletics
+UID:ds:2831:7515180@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
@@ -787,6 +787,14 @@ DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
 SUMMARY:Glen Rock at Garfield (Junior Varsity Girls Girls Cross Country)
 DESCRIPTION:Junior Varsity Girls Girls Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632332@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T084500
+DTEND;TZID=America/New_York:20260926T104500
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 8:45 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7582892@njicathletics
@@ -1117,6 +1125,14 @@ SUMMARY:Lyndhurst at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632360@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T104500
+DTEND;TZID=America/New_York:20261003T124500
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 10:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7503799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
@@ -1157,15 +1173,6 @@ SUMMARY:Hasbrouck Heights vs TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7602737@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T143000
-DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Hawthorne Christian vs Midland Park (Varsity Girls Girls Cross Co
- untry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7510074@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
@@ -1175,22 +1182,12 @@ SUMMARY:Manchester Regional at Lyndhurst (Varsity Girls Girls Cross Count
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7602737@njicathletics
+UID:ds:2733:7632068@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
 DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Midland Park at Hawthorne Christian (Var-JV Girls Girls Cross Cou
- ntry)
+SUMMARY:Midland Park at NJIC (Var-JV Girls Girls Cross Country)
 DESCRIPTION:Var-JV Girls Girls Cross Country - Away - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7602737@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T143000
-DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Palisades Park at Hawthorne Christian (Varsity Girls Girls Cross 
- Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2785:7515564@njicathletics
@@ -1214,15 +1211,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
 DTEND;TZID=America/New_York:20261006T163000
 SUMMARY:Saddle Brook at TBA NJ (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7602737@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T143000
-DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Waldwick at Hawthorne Christian (Varsity Girls Girls Cross Countr
- y)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1283,6 +1271,14 @@ SUMMARY:Lyndhurst at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632394@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T143000
+DTEND;TZID=America/New_York:20261017T163000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7546446@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
@@ -1339,6 +1335,14 @@ SUMMARY:Glen Rock at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 11:40 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632402@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T114000
+DTEND;TZID=America/New_York:20261024T134000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 11:40 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2703:7603317@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T160000
@@ -1347,12 +1351,28 @@ SUMMARY:Lyndhurst at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632406@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2703:7603318@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T090000
 DTEND;TZID=America/New_York:20261031T110000
 SUMMARY:Lyndhurst at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632451@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7553174@njicathletics
@@ -1377,6 +1397,14 @@ DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Lyndhurst at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632456@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7582929@njicathletics

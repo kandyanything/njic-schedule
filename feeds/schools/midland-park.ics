@@ -542,6 +542,14 @@ SUMMARY:Manchester Regional at Midland Park (Varsity Girls Girls Volleyba
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632483@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170500
+DTEND;TZID=America/New_York:20260915T190500
+SUMMARY:Midland Park at NJIC (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2710:7533974@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
@@ -651,12 +659,20 @@ SUMMARY:Midland Park at Elmwood Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7545384@njicathletics
+UID:ds:2733:7632137@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Midland Park at TBD (Var-JV Boys Boys Cross Country)
-DESCRIPTION:Var-JV Boys Boys Cross Country - Away
+DTSTART;TZID=America/New_York:20260919T083000
+DTEND;TZID=America/New_York:20260919T103000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632487@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7509547@njicathletics
@@ -681,22 +697,6 @@ DTSTART;TZID=America/New_York:20260921T160000
 DTEND;TZID=America/New_York:20260921T180000
 SUMMARY:Waldwick at Midland Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7496322@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T161500
-DTEND;TZID=America/New_York:20260921T181500
-SUMMARY:Elmwood Park vs Midland Park (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7496322@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260921T161500
-DTEND;TZID=America/New_York:20260921T181500
-SUMMARY:Midland Park at Elmwood Park (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7627178@njicathletics
@@ -762,6 +762,14 @@ DTSTART;TZID=America/New_York:20260923T161500
 DTEND;TZID=America/New_York:20260923T181500
 SUMMARY:Saddle River Day at Midland Park (Middle School Coed Coed Soccer)
 DESCRIPTION:Middle School Coed Coed Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632484@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T163000
+DTEND;TZID=America/New_York:20260923T183000
+SUMMARY:Midland Park at NJIC (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7476303@njicathletics
@@ -929,6 +937,22 @@ SUMMARY:Waldwick at Midland Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632332@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T084500
+DTEND;TZID=America/New_York:20260926T104500
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632488@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T084500
+DTEND;TZID=America/New_York:20260926T104500
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7444818@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -977,7 +1001,7 @@ SUMMARY:PCSST vs Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7496397@njicathletics
+UID:ds:2609:7533970@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
@@ -1042,12 +1066,12 @@ SUMMARY:Midland Park at Becton (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7508555@njicathletics
+UID:ds:2733:7632485@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Midland Park vs Waldwick (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20260929T170500
+DTEND;TZID=America/New_York:20260929T190500
+SUMMARY:Midland Park at NJIC (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7626642@njicathletics
@@ -1056,6 +1080,14 @@ DTSTART;TZID=America/New_York:20260930T160000
 DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Midland Park at New Milford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7508555@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Midland Park vs Waldwick (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7604568@njicathletics
@@ -1227,6 +1259,22 @@ SUMMARY:Midland Park at Mary Help (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632360@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T104500
+DTEND;TZID=America/New_York:20261003T124500
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 10:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632489@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T110000
+DTEND;TZID=America/New_York:20261003T130000
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7455201@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T161500
@@ -1286,22 +1334,20 @@ SUMMARY:Manchester Regional vs Midland Park (Junior Varsity Girls Girls V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7602737@njicathletics
+UID:ds:2733:7632068@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
 DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Hawthorne Christian vs Midland Park (Varsity Girls Girls Cross Co
- untry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 2:30 PM
+SUMMARY:Midland Park at NJIC (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7602737@njicathletics
+UID:ds:2733:7632486@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
 DTEND;TZID=America/New_York:20261006T163000
-SUMMARY:Midland Park at Hawthorne Christian (Var-JV Girls Girls Cross Cou
- ntry)
-DESCRIPTION:Var-JV Girls Girls Cross Country - Away - 2:30 PM
+SUMMARY:Midland Park at NJIC (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7455533@njicathletics
@@ -1575,6 +1621,15 @@ SUMMARY:Garfield vs Midland Park (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7560544@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Midland Park at Ridgefield Memorial (Middle School Coed Coed Cros
+ s Country)
+DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7513242@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T161500
@@ -1613,6 +1668,30 @@ DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Waldwick at Midland Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632490@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T134500
+DTEND;TZID=America/New_York:20261017T154500
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 1:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632394@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T143000
+DTEND;TZID=America/New_York:20261017T163000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632976@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Midland Park vs TBD (Middle School Coed Coed Cross Country)
+DESCRIPTION:Middle School Coed Coed Cross Country - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7527139@njicathletics
@@ -1770,6 +1849,22 @@ SUMMARY:Midland Park vs Elmwood Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632491@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T130000
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632402@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T114000
+DTEND;TZID=America/New_York:20261024T134000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 11:40 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2645:7564491@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T161500
@@ -1819,12 +1914,28 @@ SUMMARY:PCSST at Midland Park (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632406@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7440051@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T161500
 DTEND;TZID=America/New_York:20261027T181500
 SUMMARY:Lodi vs Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632492@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T163500
+DTEND;TZID=America/New_York:20261027T183500
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 4:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7497558@njicathletics
@@ -1921,6 +2032,22 @@ SUMMARY:Midland Park vs Park Ridge (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7632493@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632451@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2733:7564335@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T161500
@@ -1943,6 +2070,22 @@ DTSTART;TZID=America/New_York:20261106T161500
 DTEND;TZID=America/New_York:20261106T181500
 SUMMARY:Midland Park vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632456@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Midland Park vs TBD (Var-JV Girls Girls Cross Country)
+DESCRIPTION:Var-JV Girls Girls Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7632494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Midland Park vs TBD (Var-JV Boys Boys Cross Country)
+DESCRIPTION:Var-JV Boys Boys Cross Country - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7534409@njicathletics

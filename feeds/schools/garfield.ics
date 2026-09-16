@@ -683,14 +683,6 @@ SUMMARY:Garfield at Hackensack High School (Junior Varsity Girls Girls Vo
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7608909@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T150000
-DTEND;TZID=America/New_York:20260922T170000
-SUMMARY:Garfield at NJIC (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7474768@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -721,6 +713,14 @@ DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T210000
 SUMMARY:Garfield at Harrison (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7505150@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Garfield at Rutherford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7529154@njicathletics
@@ -795,14 +795,6 @@ DTSTART;TZID=America/New_York:20260923T170500
 DTEND;TZID=America/New_York:20260923T190500
 SUMMARY:Garfield at Rutherford (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7505150@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T170500
-DTEND;TZID=America/New_York:20260923T190500
-SUMMARY:Garfield at Rutherford (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7545623@njicathletics
@@ -991,6 +983,22 @@ SUMMARY:Garfield at Park Ridge (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2723:7496372@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Elmwood Park vs Garfield (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7496372@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Garfield at Elmwood Park (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7448910@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
@@ -1007,20 +1015,12 @@ SUMMARY:Garfield at Waldwick (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7496372@njicathletics
+UID:ds:2621:7455490@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T174000
-DTEND;TZID=America/New_York:20260929T194000
-SUMMARY:Elmwood Park vs Garfield (Varsity Coed Coed Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Home - 5:40 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7496372@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T174000
-DTEND;TZID=America/New_York:20260929T194000
-SUMMARY:Garfield at Elmwood Park (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:40 PM
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Garfield at Lyndhurst (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7510469@njicathletics
@@ -1039,14 +1039,6 @@ DTEND;TZID=America/New_York:20260930T181500
 SUMMARY:Garfield at Ridgefield Memorial (Middle School Coed Coed Cross Co
  untry)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7455490@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Garfield at Lyndhurst (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7525272@njicathletics
@@ -1214,10 +1206,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7608945@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
+DTSTART;TZID=America/New_York:20261006T140000
+DTEND;TZID=America/New_York:20261006T160000
 SUMMARY:Garfield at NJIC (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7454929@njicathletics
@@ -2322,6 +2314,14 @@ SUMMARY:Garfield vs Lyndhurst (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7638772@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Garfield at Wallington (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7550908@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T161500
@@ -2352,6 +2352,14 @@ DTSTART;TZID=America/New_York:20270208T161500
 DTEND;TZID=America/New_York:20270208T181500
 SUMMARY:Lodi at Garfield (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7638773@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Garfield vs TBD (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7565698@njicathletics

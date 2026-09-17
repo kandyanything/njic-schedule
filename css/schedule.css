@@ -215,7 +215,8 @@ select.filter { padding-right: 30px; appearance: none; cursor: pointer;
 @media (max-width: 560px) {
     .brand-tag { display: none; }
     .brand-logo { height: 38px; }
-    .head-actions .link-muted { display: none; }
+    .head-actions { gap: 10px; }
+    .head-actions .link-muted { font-size: .78rem; }
     .game { grid-template-columns: 72px 1fr; }
     .game-side { display: none; }
     .hero-stats { grid-template-columns: 1fr 1fr; }

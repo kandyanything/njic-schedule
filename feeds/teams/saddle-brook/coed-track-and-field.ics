@@ -23,7 +23,7 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2843:7575479@njicathletics
+UID:ds:2843:7575499@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T160000
 DTEND;TZID=America/New_York:20270329T180000
@@ -31,11 +31,28 @@ SUMMARY:Saddle Brook vs Garfield (Varsity Coed Coed Track and Field)
 DESCRIPTION:Varsity Coed Coed Track and Field - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7575493@njicathletics
+UID:ds:2710:7643626@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
+SUMMARY:Manchester Regional at Saddle Brook (Varsity Coed Coed Track and 
+ Field)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7575507@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Saddle Brook at Glen Rock (Varsity Coed Coed Track and Field)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2843:7643628@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Saddle Brook at Emerson (Varsity Coed Coed Track and Field)
 DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

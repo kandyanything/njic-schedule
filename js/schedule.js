@@ -65,8 +65,14 @@
     var c = (INDEX.counts || {});
     setStat('games', (c.deduped || ALL.length || 0).toLocaleString());
     setStat('sports', (INDEX.sports || []).length || '—');
-    setStat('updated', relTime(INDEX.generated));
-    var fu = $('.foot-updated'); if (fu && INDEX.generated) fu.textContent = 'Last updated ' + relTime(INDEX.generated) + '.';
+    loadJSON('data/fetched.json').then(function (f) {
+      var t = f.fetched || INDEX.generated;
+      setStat('updated', relTime(t));
+      var fu = $('.foot-updated'); if (fu) fu.textContent = 'Last checked ' + relTime(t) + '.';
+    }).catch(function () {
+      setStat('updated', relTime(INDEX.generated));
+      var fu = $('.foot-updated'); if (fu && INDEX.generated) fu.textContent = 'Last checked ' + relTime(INDEX.generated) + '.';
+    });
   }
   function setStat(k, v) { var el = $('[data-stat="' + k + '"]'); if (el) el.textContent = v; }
 

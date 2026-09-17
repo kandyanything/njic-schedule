@@ -4,7 +4,7 @@ name: Refresh schedule
 # the calendar). Bump the cron to '0 * * * *' for hourly if needed.
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 0,3,6,9,12,15,16,17,18,19,21 * * *'
   workflow_dispatch:
 
 permissions:

@@ -224,6 +224,15 @@ select.filter { padding-right: 30px; appearance: none; cursor: pointer;
     .cal-cell { padding: 5px 6px; }
     .cal-count { font-size: .64rem; }
     .sub-actions { grid-template-columns: 1fr; }
+    .filters { flex-direction: column; align-items: stretch; }
+    .filters label.sr-only {
+        position: static; width: auto; height: auto; overflow: visible; clip: auto;
+        white-space: normal; margin: 4px 0 2px;
+        font-size: .72rem; font-weight: 700; color: var(--muted);
+        letter-spacing: .05em; text-transform: uppercase;
+    }
+    .filters label.sr-only:first-child { margin-top: 0; }
+    .filters .filter { width: 100%; }
 }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
 

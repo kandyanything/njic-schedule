@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2646:7646412@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
+SUMMARY:Hawthorne at Teaneck High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7449003@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T190000
@@ -55,11 +63,28 @@ SUMMARY:Hawthorne at Clifton High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7646418@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T180000
+DTEND;TZID=America/New_York:20261222T200000
+SUMMARY:Hawthorne at Secaucus (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2646:7534342@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Hawthorne at New Milford (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7646425@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Hawthorne at Passaic Valley High School (Varsity Boys Boys Wrestl
+ ing)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 END:VCALENDAR

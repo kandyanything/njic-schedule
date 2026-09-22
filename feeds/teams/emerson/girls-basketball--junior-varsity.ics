@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2609:7649268@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261213T113000
+DTEND;TZID=America/New_York:20261213T133000
+SUMMARY:Emerson at Indian Hills High School (Junior Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7448977@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T174500
@@ -167,6 +176,24 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T174500
 DTEND;TZID=America/New_York:20270203T194500
 SUMMARY:Manchester Regional vs Emerson (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7649295@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Emerson at Indian Hills High School (Junior Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7649131@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T174500
+DTEND;TZID=America/New_York:20270219T194500
+SUMMARY:Emerson vs Hawthorne Christian (Junior Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT

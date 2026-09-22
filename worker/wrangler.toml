@@ -6,8 +6,11 @@ compatibility_date = "2026-09-01"
 # on daylight time and 16:00 UTC on standard time. The Worker checks the real
 # Eastern hour and skips the slots that fall outside the window, so this does not
 # need editing when the clocks change.
+#
+# Three minutes past the hour, not on it: the top of every hour is when GitHub's
+# runner queue is busiest, so a dispatch at :00 waits longest for a machine.
 [triggers]
-crons = ["0 15-20 * * *"]
+crons = ["3 15-20 * * *"]
 
 # The GitHub token is NOT set here. It is a secret:
 #   wrangler secret put GITHUB_TOKEN

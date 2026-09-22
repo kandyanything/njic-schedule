@@ -1,8 +1,15 @@
 name: Refresh schedule
 
-# Full rebuild every 3 hours; hourly 11 am–3 pm ET (15–19 UTC) for score freshness.
-# The build step is continue-on-error so data/fetched.json is always committed —
-# last-checked time on the site updates even when a source is temporarily unavailable.
+# Full rebuild every 3 hours, plus hourly 11 am–3 pm ET (15–19 UTC) for freshness
+# during the game day. The build step is continue-on-error so fetched.json and
+# refresh-log.json are committed even when a source is briefly unavailable — the
+# log records that a check happened, not that the data changed.
+#
+# GitHub honours roughly half of these slots: scheduled runs on shared runners are
+# best-effort and are delayed or dropped, worst during US peak, which is exactly
+# the hourly window. The site therefore shows the times it was ACTUALLY checked
+# rather than claiming a cadence. A Cloudflare Worker cron (see worker/) drives
+# the hourly window through workflow_dispatch, which does fire reliably.
 on:
   schedule:
     - cron: '0 0,3,6,9,12,15,16,17,18,19,21 * * *'
@@ -35,13 +42,14 @@ jobs:
       - name: Commit
         run: |
           printf '{"fetched":"%s"}' "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > data/fetched.json
+          node scripts/log-refresh.js "${{ steps.build.outcome }}"
           git config user.name "njic-schedule-bot"
           git config user.email "njic-schedule-bot@users.noreply.github.com"
           if [ "${{ steps.build.outcome }}" = "success" ]; then
-            git add data/schedule feeds data/fetched.json
+            git add data/schedule feeds data/fetched.json data/refresh-log.json
             LABEL="Schedule refresh"
           else
-            git add data/fetched.json
+            git add data/fetched.json data/refresh-log.json
             LABEL="Heartbeat (build failed)"
           fi
           if git diff --cached --quiet; then

@@ -81,6 +81,23 @@ a { color: var(--navy-600); }
 .hero-stats b { display: block; font-family: var(--disp); font-weight: 700; font-size: 2.1rem; line-height: 1; color: #fff; font-variant-numeric: tabular-nums; }
 .hero-stats span { font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: #b9c5db; font-weight: 600; }
 
+/* The times the schedule was actually checked today, shown as a receipt rather
+   than a promised cadence - a missed run leaves a visible gap, by design. */
+.refresh-strip {
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px;
+    margin: 12px 0 0; padding: 10px 14px;
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); border-radius: 10px;
+    font-size: .8rem; color: #dce5f5; font-variant-numeric: tabular-nums;
+}
+.refresh-strip:empty { display: none; }
+.refresh-strip .rs-label { font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: #9fb0cc; font-weight: 700; margin-right: 2px; }
+.refresh-strip .rs-time { font-weight: 600; }
+.refresh-strip .rs-time.is-warn { color: #ffd27a; }
+.refresh-strip .rs-time.is-warn::after { content: '*'; }
+.refresh-strip i { color: #7e8fab; font-style: normal; }
+.refresh-strip .rs-tz { font-size: .68rem; letter-spacing: .1em; color: #9fb0cc; margin-left: 2px; }
+@media (max-width: 720px) { .refresh-strip { font-size: .74rem; } }
+
 /* ---------- controls ---------- */
 .board { padding: 30px 0 70px; }
 .controls {

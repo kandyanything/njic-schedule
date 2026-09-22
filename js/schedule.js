@@ -33,6 +33,15 @@
     var h = Math.round(mins / 60); if (h < 24) return h + 'h ago';
     return Math.round(h / 24) + 'd ago';
   }
+  // The refresh window is defined in the conference's own timezone, so render
+  // check times in Eastern whatever the viewer's clock is set to.
+  var ET = 'America/New_York';
+  function etDay(iso) { return new Intl.DateTimeFormat('en-CA', { timeZone: ET, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(iso)); }
+  function etClock(iso) {
+    if (!iso) return '—';
+    return new Intl.DateTimeFormat('en-US', { timeZone: ET, hour: 'numeric', minute: '2-digit' })
+      .format(new Date(iso)).replace(/\s?AM$/, 'a').replace(/\s?PM$/, 'p');
+  }
   function initialDays() { return state.view === 'full' ? 40 : 10; }
   function byDateTime(a, b) { return a.date === b.date ? (a.time || '99:99').localeCompare(b.time || '99:99') : a.date.localeCompare(b.date); }
 
@@ -65,14 +74,37 @@
     var c = (INDEX.counts || {});
     setStat('games', (c.deduped || ALL.length || 0).toLocaleString());
     setStat('sports', (INDEX.sports || []).length || '—');
-    loadJSON('data/fetched.json').then(function (f) {
-      var t = f.fetched || INDEX.generated;
-      setStat('updated', relTime(t));
-      var fu = $('.foot-updated'); if (fu) fu.textContent = 'Last checked ' + relTime(t) + '.';
-    }).catch(function () {
-      setStat('updated', relTime(INDEX.generated));
-      var fu = $('.foot-updated'); if (fu && INDEX.generated) fu.textContent = 'Last checked ' + relTime(INDEX.generated) + '.';
+    Promise.all([
+      loadJSON('data/refresh-log.json').catch(function () { return null; }),
+      loadJSON('data/fetched.json').catch(function () { return null; }),
+    ]).then(function (r) {
+      var log = r[0], f = r[1];
+      var checks = (log && Array.isArray(log.checks)) ? log.checks : [];
+      var last = checks.length ? checks[0].at : ((f && f.fetched) || INDEX.generated);
+      // A clock time rather than "3h ago": it says the same thing without
+      // reading as staleness, and it does not imply a cadence we do not keep.
+      setStat('updated', etClock(last));
+      renderChecks(checks, last);
+      var fu = $('.foot-updated');
+      if (fu && last) fu.textContent = 'Last checked ' + etClock(last) + ' ET.';
     });
+  }
+  // Show the times the schedule was actually checked today. This is a receipt,
+  // not a claim - if a run is missed the gap is visible, which is the point.
+  function renderChecks(checks, last) {
+    var el = $('.refresh-strip'); if (!el) return;
+    var mine = checks.filter(function (c) { return c && c.at && etDay(c.at) === TODAY; });
+    if (!mine.length) {
+      el.textContent = last ? 'Last checked ' + etClock(last) + ' ET' : '';
+      return;
+    }
+    var times = mine.slice().reverse().map(function (c) {
+      return '<span class="rs-time' + (c.ok === false ? ' is-warn' : '') + '"'
+        + (c.ok === false ? ' title="the site was checked, but that build failed so the data did not change"' : '')
+        + '>' + etClock(c.at) + '</span>';
+    });
+    el.innerHTML = '<span class="rs-label">Checked today</span>' + times.join('<i aria-hidden="true">·</i>')
+      + '<span class="rs-tz">ET</span>';
   }
   function setStat(k, v) { var el = $('[data-stat="' + k + '"]'); if (el) el.textContent = v; }
 

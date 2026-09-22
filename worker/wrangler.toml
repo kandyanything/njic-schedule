@@ -1,0 +1,14 @@
+name = "njic-refresh-trigger"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# One hour wider than the 11 am - 3 pm ET window on purpose: 11 am ET is 15:00 UTC
+# on daylight time and 16:00 UTC on standard time. The Worker checks the real
+# Eastern hour and skips the slots that fall outside the window, so this does not
+# need editing when the clocks change.
+[triggers]
+crons = ["0 15-20 * * *"]
+
+# The GitHub token is NOT set here. It is a secret:
+#   wrangler secret put GITHUB_TOKEN
+# Fine-grained token, njic-schedule only, Actions: Read and write, nothing else.

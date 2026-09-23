@@ -23,11 +23,21 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2626:7585492@njicathletics
+UID:ds:2626:7652132@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T134500
-DTEND;TZID=America/New_York:20261230T154500
-SUMMARY:Glen Rock at Cranford High School (Junior Varsity Boys Ice Hockey)
-DESCRIPTION:Junior Varsity Boys Ice Hockey - Away - 1:45 PM
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Glen Rock at River Dell Regional High School (Junior Varsity Boys
+  Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Ice Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7652164@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T163000
+DTEND;TZID=America/New_York:20270107T183000
+SUMMARY:Glen Rock vs River Dell Regional High School (Junior Varsity Boys
+  Ice Hockey)
+DESCRIPTION:Junior Varsity Boys Ice Hockey - Home - 4:30 PM
 END:VEVENT
 END:VCALENDAR

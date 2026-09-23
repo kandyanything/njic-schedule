@@ -448,6 +448,14 @@ SUMMARY:Park Ridge at NJIC (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2789:7455151@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7612799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -455,14 +463,6 @@ DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Park Ridge at Ridgefield Memorial (Junior Varsity Girls Girls Ten
  nis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7455151@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7439983@njicathletics
@@ -545,20 +545,20 @@ SUMMARY:Garfield at Park Ridge (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7495263@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Park Ridge vs Rutherford (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7440080@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Park Ridge at Rutherford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7495263@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Park Ridge vs Rutherford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7647023@njicathletics
@@ -679,14 +679,6 @@ SUMMARY:Park Ridge at Ho-Ho-Kus Public School (Middle School Girls Girls
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7496583@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T190000
-DTEND;TZID=America/New_York:20260925T210000
-SUMMARY:Park Ridge vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7548783@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T164000
@@ -759,14 +751,6 @@ SUMMARY:Cresskill at Park Ridge (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7451818@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T160000
-DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Park Ridge vs Pompton Lakes (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7471362@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
@@ -798,6 +782,22 @@ DTSTART;TZID=America/New_York:20260929T173000
 DTEND;TZID=America/New_York:20260929T193000
 SUMMARY:Park Ridge vs Bergen Charter (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7451818@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Park Ridge vs Pompton Lakes (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7452345@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Park Ridge at Pompton Lakes (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7455498@njicathletics
@@ -1330,14 +1330,6 @@ SUMMARY:Park Ridge at TBD (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7440076@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
-SUMMARY:Emerson vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7446008@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T161500
@@ -1394,12 +1386,20 @@ SUMMARY:Park Ridge vs Emerson (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2609:7440076@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
+SUMMARY:Emerson vs Park Ridge (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7440076@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T161500
-DTEND;TZID=America/New_York:20261019T181500
+DTSTART;TZID=America/New_York:20261019T173000
+DTEND;TZID=America/New_York:20261019T193000
 SUMMARY:Park Ridge at Emerson (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7455008@njicathletics

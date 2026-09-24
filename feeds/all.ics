@@ -18823,6 +18823,15 @@ SUMMARY:Glen Rock vs Franklin Lakes Middle School (Middle School Girls Gi
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2758:7654903@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T150000
+DTEND;TZID=America/New_York:20260929T170000
+SUMMARY:New Milford at Wallkill Valley Regional High School (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2844:7572378@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T153000
@@ -18846,6 +18855,14 @@ DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Cresskill at Park Ridge (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7654813@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cresskill vs Park Ridge (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7496372@njicathletics
@@ -18979,14 +18996,6 @@ DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
 SUMMARY:Butler at West Milford High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7455170@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Cresskill vs Saddle River Day (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7455029@njicathletics
@@ -22178,14 +22187,6 @@ SUMMARY:Hawthorne vs Secaucus (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7506935@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T180000
-DTEND;TZID=America/New_York:20261002T200000
-SUMMARY:Leonia vs Manchester Regional (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7545479@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T180000
@@ -22420,13 +22421,28 @@ SUMMARY:Secaucus at TBA NJ (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7477024@njicathletics
+UID:ds:2582:7612093@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T093000
 DTEND;TZID=America/New_York:20261003T113000
-SUMMARY:Glen Rock vs Nutley High School (Junior Varsity Girls Girls Socce
- r)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:30 AM
+SUMMARY:Cresskill at Elmwood Park (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7612093@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T093000
+DTEND;TZID=America/New_York:20261003T113000
+SUMMARY:Elmwood Park vs Cresskill (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7612093@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T093000
+DTEND;TZID=America/New_York:20261003T113000
+SUMMARY:Emerson at Elmwood Park (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7509772@njicathletics
@@ -22443,6 +22459,15 @@ DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Glen Rock at Rutherford (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7654940@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Glen Rock vs Mahwah High School (Junior Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7649065@njicathletics
@@ -22699,22 +22724,6 @@ SUMMARY:Harrison at South Brunswick High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7612093@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Cresskill at Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7612093@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Elmwood Park vs Cresskill (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7548902@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261003
@@ -22729,14 +22738,6 @@ DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Emerson at TBD (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7612093@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Emerson at Elmwood Park (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7548902@njicathletics
@@ -37423,6 +37424,14 @@ SUMMARY:Butler at Ramapo High School (Varsity Boys Boys Fencing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2554:7654718@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T160000
+DTEND;TZID=America/New_York:20261214T180000
+SUMMARY:Butler at Ramapo High School (Varsity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2717:7652515@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
@@ -39721,14 +39730,6 @@ SUMMARY:Cresskill at Ridgefield Memorial (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7637817@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T114900
-DTEND;TZID=America/New_York:20261223T134900
-SUMMARY:Butler at Parsippany High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 11:49 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7643489@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T140000
@@ -39762,6 +39763,23 @@ DTEND;TZID=America/New_York:20261223T173000
 SUMMARY:Garfield vs Bergen County Technical High School (Junior Varsity G
  irls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7654811@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Butler at Parsippany High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7655057@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Butler at Parsippany High School (Junior Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7551099@njicathletics

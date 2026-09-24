@@ -597,14 +597,6 @@ SUMMARY:Harrison vs Hasbrouck Heights (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7539321@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T161500
-DTEND;TZID=America/New_York:20260915T181500
-SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7588003@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T161500
@@ -612,6 +604,14 @@ DTEND;TZID=America/New_York:20260915T181500
 SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Girls Gi
  rls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7539321@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7455044@njicathletics
@@ -622,21 +622,21 @@ SUMMARY:Hasbrouck Heights vs Waldwick (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7613940@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T164000
-DTEND;TZID=America/New_York:20260915T184000
-SUMMARY:Hasbrouck Heights at New Milford (Varsity Girls Girls Cross Count
- ry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7518217@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T164000
 DTEND;TZID=America/New_York:20260915T184000
 SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
   Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7613940@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T164000
+DTEND;TZID=America/New_York:20260915T184000
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Girls Girls Cross Count
+ ry)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -657,6 +657,14 @@ SUMMARY:Harrison vs Hasbrouck Heights (Junior Varsity Girls Girls Volleyb
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7610905@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2644:7511954@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T172000
@@ -664,14 +672,6 @@ DTEND;TZID=America/New_York:20260915T192000
 SUMMARY:Hasbrouck Heights vs Pompton Lakes (Varsity Boys Boys Cross Count
  ry)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7610905@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T172000
-DTEND;TZID=America/New_York:20260915T192000
-SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7483899@njicathletics
@@ -1081,10 +1081,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7454945@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T110000
-DTEND;TZID=America/New_York:20260926T130000
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Hasbrouck Heights at North Arlington (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7633622@njicathletics
@@ -1164,6 +1164,15 @@ SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7654570@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Hasbrouck Heights at Cedar Grove High School (Varsity Girls Girls
+  Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7454896@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
@@ -1178,22 +1187,6 @@ DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
 SUMMARY:Hasbrouck Heights vs Becton (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7455166@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Hasbrouck Heights at Mary Help (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2717:7455166@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Mary Help vs Hasbrouck Heights (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7581459@njicathletics
@@ -1237,15 +1230,6 @@ DTEND;TZID=America/New_York:20260929T192000
 SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
   Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7582842@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Eastern Christian vs Hasbrouck Heights (Junior Varsity Girls Girl
- s Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7448942@njicathletics
@@ -2188,12 +2172,12 @@ SUMMARY:Hasbrouck Heights at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2948:7530702@njicathletics
+UID:ds:2644:7530702@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T160000
-DTEND;TZID=America/New_York:20261228T180000
-SUMMARY:Wood-Ridge vs Hasbrouck Heights (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261228T163000
+DTEND;TZID=America/New_York:20261228T183000
+SUMMARY:Hasbrouck Heights at Wood-Ridge (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7485266@njicathletics
@@ -2719,6 +2703,15 @@ SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7654636@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T163000
+DTEND;TZID=America/New_York:20270316T183000
+SUMMARY:Hasbrouck Heights vs Union City High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2644:7577877@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270327T110000
@@ -2826,6 +2819,15 @@ DTSTART;TZID=America/New_York:20270416T161500
 DTEND;TZID=America/New_York:20270416T181500
 SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7654631@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Hasbrouck Heights at Union City High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7599897@njicathletics

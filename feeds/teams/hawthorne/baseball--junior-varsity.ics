@@ -23,11 +23,54 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2646:7574764@njicathletics
+UID:ds:2646:7653101@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T103000
+DTEND;TZID=America/New_York:20270320T123000
+SUMMARY:Hawthorne vs TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7653490@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T103000
+DTEND;TZID=America/New_York:20270320T123000
+SUMMARY:Hawthorne at Wayne Valley High School (Junior Varsity Boys Baseba
+ ll)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7653503@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Hawthorne at Fair Lawn High School (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7653518@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T103000
+DTEND;TZID=America/New_York:20270417T123000
+SUMMARY:Hawthorne at Bergenfield High School (Junior Varsity Boys Basebal
+ l)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7653543@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270511T160000
 DTEND;TZID=America/New_York:20270511T180000
-SUMMARY:Hawthorne vs Pompton Lakes (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Hawthorne at Pompton Lakes (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7653653@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T115800
+DTEND;TZID=America/New_York:20270517T135800
+SUMMARY:Hawthorne vs Jefferson Township High School (Junior Varsity Boys 
+ Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:58 AM
 END:VEVENT
 END:VCALENDAR

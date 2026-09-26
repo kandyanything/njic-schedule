@@ -87,17 +87,25 @@ function gameIdFromUrl(url) {
 // response stops after a while and the end date does not extend it. Asking for
 // a year returns the first few weeks. So the range is walked a month at a time
 // and the months are merged.
+//
+// endDate is EXCLUSIVE. Asking 2026-8-1..2026-8-31 returns nothing dated the
+// 31st, which silently cost a day per window until it was measured: a year-long
+// single request for Arts High School returned 147 games to the paged
+// version's 139, and all 8 missing games fell on the last day of a month. Each
+// window therefore asks up to the day AFTER its last day.
 function monthWindows(startDate, endDate) {
     const p = d => { const [y, m, day] = String(d).split('-').map(Number); return new Date(y, m - 1, day); };
+    const fmt = d => `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
     const a = p(startDate), b = p(endDate);
     const out = [];
     let y = a.getFullYear(), m = a.getMonth();
     while (y < b.getFullYear() || (y === b.getFullYear() && m <= b.getMonth())) {
         const first = new Date(y, m, 1), last = new Date(y, m + 1, 0);
-        const lo = first < a ? a : first, hi = last > b ? b : last;
-        // The API is given unpadded dates, the same shape the build passes in.
-        out.push([`${lo.getFullYear()}-${lo.getMonth() + 1}-${lo.getDate()}`,
-                  `${hi.getFullYear()}-${hi.getMonth() + 1}-${hi.getDate()}`]);
+        const lo = first < a ? a : first;
+        const lastIncl = last > b ? b : last;
+        // one day past the last date we actually want, because the end is exclusive
+        const hi = new Date(lastIncl.getFullYear(), lastIncl.getMonth(), lastIncl.getDate() + 1);
+        out.push([fmt(lo), fmt(hi)]);
         if (++m > 11) { m = 0; y++; }
     }
     return out;

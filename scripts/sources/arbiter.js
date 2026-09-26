@@ -83,32 +83,27 @@ function gameIdFromUrl(url) {
     return m ? m[1] : null;
 }
 
-async function fetchSchool(school, startDate, endDate) {
-    const calUrl = `${ORIGIN}/School/Calendar/${school.entityId}`;
+// ArbiterLive's start/end pair is not a range so much as a starting point: the
+// response stops after a while and the end date does not extend it. Asking for
+// a year returns the first few weeks. So the range is walked a month at a time
+// and the months are merged.
+function monthWindows(startDate, endDate) {
+    const p = d => { const [y, m, day] = String(d).split('-').map(Number); return new Date(y, m - 1, day); };
+    const a = p(startDate), b = p(endDate);
+    const out = [];
+    let y = a.getFullYear(), m = a.getMonth();
+    while (y < b.getFullYear() || (y === b.getFullYear() && m <= b.getMonth())) {
+        const first = new Date(y, m, 1), last = new Date(y, m + 1, 0);
+        const lo = first < a ? a : first, hi = last > b ? b : last;
+        // The API is given unpadded dates, the same shape the build passes in.
+        out.push([`${lo.getFullYear()}-${lo.getMonth() + 1}-${lo.getDate()}`,
+                  `${hi.getFullYear()}-${hi.getMonth() + 1}-${hi.getDate()}`]);
+        if (++m > 11) { m = 0; y++; }
+    }
+    return out;
+}
 
-    // 1. establish a session - the endpoint reads the school from it
-    const seed = await fetch(calUrl, { headers: { 'User-Agent': UA } });
-    if (!seed.ok) throw new Error(`calendar page ${seed.status}`);
-    const cookie = (seed.headers.getSetCookie ? seed.headers.getSetCookie() : [])
-        .map(c => c.split(';')[0]).join('; ');
-
-    // 2. ask for the range
-    const res = await fetch(`${ORIGIN}/School/GetEventsByEntity/`, {
-        method: 'POST',
-        headers: {
-            'User-Agent': UA,
-            'X-Requested-With': 'XMLHttpRequest',
-            'Referer': calUrl,
-            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-            ...(cookie ? { Cookie: cookie } : {}),
-        },
-        body: new URLSearchParams({ startDate, endDate }).toString(),
-    });
-    if (!res.ok) throw new Error(`events endpoint ${res.status}`);
-
-    const payload = await res.json();
-    const detail = JSON.parse(payload.EventsFilteredDetailString || '[]');
-
+function toEvents(detail, school) {
     const events = [];
     for (const e of detail) {
         // games only - the calendar also carries practices, and only some
@@ -147,4 +142,56 @@ async function fetchSchool(school, startDate, endDate) {
     return events;
 }
 
-module.exports = { fetchSchool, parseTitle, parseStamp, gameIdFromUrl };
+async function fetchSchool(school, startDate, endDate, opts) {
+    opts = opts || {};
+    const pauseMs = opts.pauseMs == null ? 350 : opts.pauseMs;
+    const calUrl = `${ORIGIN}/School/Calendar/${school.entityId}`;
+
+    // 1. establish a session - the endpoint reads the school from it. One
+    //    session serves every month window for this school.
+    const seed = await fetch(calUrl, { headers: { 'User-Agent': UA } });
+    if (!seed.ok) throw new Error(`calendar page ${seed.status}`);
+    const cookie = (seed.headers.getSetCookie ? seed.headers.getSetCookie() : [])
+        .map(c => c.split(';')[0]).join('; ');
+
+    // 2. ask for the range, one month at a time
+    const windows = monthWindows(startDate, endDate);
+    const byId = new Map();
+    const failures = [];
+
+    for (const [lo, hi] of windows) {
+        try {
+            const res = await fetch(`${ORIGIN}/School/GetEventsByEntity/`, {
+                method: 'POST',
+                headers: {
+                    'User-Agent': UA,
+                    'X-Requested-With': 'XMLHttpRequest',
+                    'Referer': calUrl,
+                    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                    ...(cookie ? { Cookie: cookie } : {}),
+                },
+                body: new URLSearchParams({ startDate: lo, endDate: hi }).toString(),
+            });
+            if (!res.ok) throw new Error(`events endpoint ${res.status}`);
+            const payload = await res.json();
+            const detail = JSON.parse(payload.EventsFilteredDetailString || '[]');
+            for (const ev of toEvents(detail, school)) {
+                // A fixture can surface in two adjacent windows; keep one.
+                if (!byId.has(ev.id)) byId.set(ev.id, ev);
+            }
+        } catch (err) {
+            failures.push(`${lo}: ${err.message}`);
+        }
+        if (pauseMs) await new Promise(r => setTimeout(r, pauseMs));
+    }
+
+    // Every window failing is a broken fetch, not an empty season - let the
+    // caller's ok-check see it. A few failing is worth saying out loud but is
+    // not worth discarding the months that did come back.
+    if (failures.length === windows.length) throw new Error(failures[0] || 'all windows failed');
+    if (failures.length) console.log(`         ${school.name}: ${failures.length}/${windows.length} month windows failed`);
+
+    return [...byId.values()];
+}
+
+module.exports = { fetchSchool, parseTitle, parseStamp, gameIdFromUrl, monthWindows };

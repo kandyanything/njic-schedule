@@ -27,13 +27,44 @@ function easternHour(date) {
   return Number(h) % 24;          // "24" at midnight in some ICU versions
 }
 
+// The dashboard form accepts whatever key you type, and this secret went in as
+// GITHUB-TOKEN with a hyphen. Cloudflare cannot rename a secret and GitHub shows
+// a token exactly once, so insisting on the underscore would mean generating a
+// replacement. Both spellings are read; the underscore wins if it is ever added.
+function token(env) {
+  return env.GITHUB_TOKEN || env['GITHUB-TOKEN'] || '';
+}
+
+// "A secret exists" and "the secret is a usable token" are different questions,
+// and a truncated paste or a revoked token looks identical to a good one until a
+// dispatch silently fails inside the window. This answers the second question
+// with a cheap authenticated read that changes nothing.
+async function tokenWorks(env) {
+  const t = token(env);
+  if (!t) return { ok: false, reason: 'no secret set' };
+  try {
+    const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}`, {
+      headers: {
+        'Authorization': `Bearer ${t}`,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': `${OWNER}-njic-refresh-worker`,
+      },
+    });
+    if (res.ok) return { ok: true };
+    return { ok: false, reason: `GitHub answered ${res.status}` };
+  } catch (err) {
+    return { ok: false, reason: `could not reach GitHub: ${err.message}` };
+  }
+}
+
 async function dispatch(env) {
   const res = await fetch(
     `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,
     {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+        'Authorization': `Bearer ${token(env)}`,
         'Accept': 'application/vnd.github+json',
         'X-GitHub-Api-Version': '2022-11-28',
         'User-Agent': `${OWNER}-njic-refresh-worker`,
@@ -54,8 +85,8 @@ export default {
       console.log(`skipped: ${hour}:00 ET is outside the ${FIRST_HOUR}-${LAST_HOUR} window`);
       return;
     }
-    if (!env.GITHUB_TOKEN) {
-      console.error('GITHUB_TOKEN secret is not set; nothing dispatched');
+    if (!token(env)) {
+      console.error('no GitHub token secret is set; nothing dispatched');
       return;
     }
     const r = await dispatch(env);
@@ -72,12 +103,15 @@ export default {
   async fetch(request, env) {
     const hour = easternHour(new Date());
     const inWindow = hour >= FIRST_HOUR && hour <= LAST_HOUR;
+    const check = await tokenWorks(env);
     return Response.json({
       easternHour: hour,
       window: `${FIRST_HOUR}:00-${LAST_HOUR}:00 ET`,
       inWindow,
-      hasToken: Boolean(env.GITHUB_TOKEN),
-      wouldDispatchNow: inWindow && Boolean(env.GITHUB_TOKEN),
+      hasToken: Boolean(token(env)),
+      tokenWorks: check.ok,
+      tokenProblem: check.ok ? undefined : check.reason,
+      wouldDispatchNow: inWindow && check.ok,
     });
   },
 };

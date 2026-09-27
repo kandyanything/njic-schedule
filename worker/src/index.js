@@ -64,19 +64,20 @@ export default {
       : `dispatch FAILED (${r.status}) ${r.detail}`);
   },
 
-  // Manual check: GET /?dry=1 reports what it would do without dispatching.
+  // Status only. This endpoint reports what the cron would do; it never
+  // dispatches. An earlier version fired a real workflow_dispatch on any
+  // plain GET, which made the workers.dev URL an unauthenticated build
+  // trigger that anyone who found it could hold down through the window.
+  // Manual runs belong in the GitHub Actions UI, behind a login.
   async fetch(request, env) {
-    const url = new URL(request.url);
     const hour = easternHour(new Date());
     const inWindow = hour >= FIRST_HOUR && hour <= LAST_HOUR;
-    if (url.searchParams.get('dry') === '1') {
-      return Response.json({
-        easternHour: hour, inWindow, hasToken: Boolean(env.GITHUB_TOKEN),
-        wouldDispatch: inWindow && Boolean(env.GITHUB_TOKEN),
-      });
-    }
-    if (!inWindow) return Response.json({ dispatched: false, reason: `outside window (${hour}:00 ET)` });
-    const r = await dispatch(env);
-    return Response.json({ dispatched: r.ok, ...r }, { status: r.ok ? 200 : 502 });
+    return Response.json({
+      easternHour: hour,
+      window: `${FIRST_HOUR}:00-${LAST_HOUR}:00 ET`,
+      inWindow,
+      hasToken: Boolean(env.GITHUB_TOKEN),
+      wouldDispatchNow: inWindow && Boolean(env.GITHUB_TOKEN),
+    });
   },
 };

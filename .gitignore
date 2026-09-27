@@ -4,3 +4,6 @@ package-lock.json
 .DS_Store
 
 data/schedule.json
+
+# local wrangler state (worker/.wrangler), never published
+.wrangler/

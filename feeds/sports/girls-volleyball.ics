@@ -2485,20 +2485,20 @@ SUMMARY:Butler vs Midland Park (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7499640@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Cresskill vs New Milford (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7455381@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
 SUMMARY:Cresskill at New Milford (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499640@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill vs New Milford (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7455383@njicathletics
@@ -3622,20 +3622,20 @@ SUMMARY:Butler vs Mary Help (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7455423@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Cresskill vs Rutherford (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7499682@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
 DTEND;TZID=America/New_York:20260917T181500
 SUMMARY:Cresskill at Rutherford (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455423@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Cresskill vs Rutherford (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7455411@njicathletics
@@ -5618,12 +5618,12 @@ SUMMARY:Bogota vs Saint Mary (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7455475@njicathletics
+UID:ds:2554:7588726@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Butler at PCSST (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+SUMMARY:Butler vs PCSST (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7504037@njicathletics
@@ -9952,6 +9952,14 @@ SUMMARY:Bogota vs New Milford (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2582:7458997@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Cresskill at Rutherford (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7484379@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T173000
@@ -10010,14 +10018,6 @@ DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Ridgefield Memorial at Becton (Junior Varsity Girls Girls Volleyb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2841:7458997@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T173000
-DTEND;TZID=America/New_York:20261020T193000
-SUMMARY:Rutherford vs Cresskill (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7462782@njicathletics
@@ -11540,6 +11540,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T173000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:Becton vs Dwight-Englewood (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7459000@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T173000
+DTEND;TZID=America/New_York:20261028T193000
+SUMMARY:Cresskill vs Secaucus (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT

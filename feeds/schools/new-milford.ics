@@ -1169,11 +1169,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7549266@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
+DTSTART;TZID=America/New_York:20261005T181500
+DTEND;TZID=America/New_York:20261005T201500
 SUMMARY:Manchester Regional vs New Milford (Junior Varsity Boys Boys Socc
  er)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7452391@njicathletics
@@ -2487,5 +2487,13 @@ DTSTART;TZID=America/New_York:20270505T160000
 DTEND;TZID=America/New_York:20270505T180000
 SUMMARY:Dwight-Englewood at New Milford (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7557876@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Glen Rock vs New Milford (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

@@ -545,20 +545,20 @@ SUMMARY:Garfield at Park Ridge (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7440080@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Park Ridge at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7495263@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Park Ridge vs Rutherford (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7440080@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Park Ridge at Rutherford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7647023@njicathletics
@@ -587,6 +587,14 @@ SUMMARY:Park Ridge vs Ramapo Ridge Middle School (Middle School Boys Boys
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2789:7455453@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Park Ridge at Wallington (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7582287@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T161500
@@ -594,14 +602,6 @@ DTEND;TZID=America/New_York:20260923T181500
 SUMMARY:Park Ridge at Ramapo Ridge Middle School (Middle School Girls Gir
  ls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7455453@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T161500
-DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Park Ridge at Wallington (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7548687@njicathletics
@@ -791,14 +791,6 @@ SUMMARY:Park Ridge vs Pompton Lakes (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7452345@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Park Ridge at Pompton Lakes (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7455498@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
@@ -842,12 +834,13 @@ SUMMARY:New Milford at Park Ridge (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7455174@njicathletics
+UID:ds:2789:7664601@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Lodi vs Park Ridge (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Park Ridge at Whippany Park High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7447971@njicathletics
@@ -1288,15 +1281,6 @@ SUMMARY:Park Ridge vs Montvale Middle School (Middle School Girls Girls V
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7582231@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T161500
-DTEND;TZID=America/New_York:20261016T181500
-SUMMARY:Park Ridge at Montvale Middle School (Middle School Boys Boys Soc
- cer)
-DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7582293@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T161500
@@ -1304,6 +1288,15 @@ DTEND;TZID=America/New_York:20261016T181500
 SUMMARY:Park Ridge vs Montvale Middle School (Middle School Girls Girls S
  occer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7582231@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Park Ridge at Montvale Middle School (Middle School Boys Boys Soc
+ cer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7545121@njicathletics

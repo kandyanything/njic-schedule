@@ -972,6 +972,15 @@ SUMMARY:Dwight-Englewood vs Northern Valley Regional High (Varsity Girls
 DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7542893@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Dwight-Englewood at Passaic Valley High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2598:7525957@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
@@ -986,15 +995,6 @@ DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Dwight-Englewood at Saddle River Day (Girls (8TH) Tennis)
 DESCRIPTION:Girls (8TH) Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7542893@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Dwight-Englewood at Passaic Valley High School (Varsity Girls Fie
- ld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7439991@njicathletics
@@ -1057,14 +1057,6 @@ SUMMARY:Dwight-Englewood vs Hasbrouck Heights (Varsity Girls Girls Volley
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7455190@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:Dwight-Englewood vs Saddle River Day (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7581943@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T163000
@@ -1091,20 +1083,20 @@ SUMMARY:Cresskill vs Dwight-Englewood (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7440024@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Dwight-Englewood vs Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7510924@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Dwight-Englewood at Leonia (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7440024@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Dwight-Englewood vs Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7547132@njicathletics
@@ -1162,15 +1154,6 @@ DTSTART;TZID=America/New_York:20261008T161500
 DTEND;TZID=America/New_York:20261008T181500
 SUMMARY:Dwight-Englewood vs Eastern Christian (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7602350@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Dwight-Englewood vs Pompton Lakes (Junior Varsity Girls Girls Ten
- nis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7535867@njicathletics
@@ -1263,20 +1246,20 @@ SUMMARY:Dwight-Englewood vs Becton (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7510846@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T161500
-DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:Dwight-Englewood at Leonia (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7455214@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
 DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Dwight-Englewood vs Leonia (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7510846@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Dwight-Englewood at Leonia (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7503970@njicathletics
@@ -1295,20 +1278,20 @@ SUMMARY:Dwight-Englewood vs Leonia (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7496753@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Dwight-Englewood vs Palisades Park (Girls (8TH) Volleyball)
-DESCRIPTION:Girls (8TH) Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7515497@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Dwight-Englewood at Leonia (Boys (8th-Gold) Soccer)
 DESCRIPTION:Boys (8th-Gold) Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7496753@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Dwight-Englewood vs Palisades Park (Girls (8TH) Volleyball)
+DESCRIPTION:Girls (8TH) Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7515497@njicathletics
@@ -1336,20 +1319,20 @@ SUMMARY:Dwight-Englewood vs Bergenfield High School (Girls (8TH) Soccer)
 DESCRIPTION:Girls (8TH) Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7505006@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Dwight-Englewood vs Wallington (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7496705@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Dwight-Englewood vs Palisades Park (Boys (8th-Gold) Soccer)
 DESCRIPTION:Boys (8th-Gold) Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7505006@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Dwight-Englewood vs Wallington (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7439964@njicathletics
@@ -1455,6 +1438,14 @@ SUMMARY:Dwight-Englewood vs Pompton Lakes (Junior Varsity Boys Boys Socce
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7454975@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Dwight-Englewood vs Lyndhurst (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2598:7455567@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T161500
@@ -1462,14 +1453,6 @@ DTEND;TZID=America/New_York:20261022T181500
 SUMMARY:Dwight-Englewood at North Arlington (Varsity Girls Girls Volleyba
  ll)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7454975@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Dwight-Englewood vs Lyndhurst (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7439961@njicathletics
@@ -1532,14 +1515,6 @@ SUMMARY:Dwight-Englewood vs Ramsey High School (Varsity Girls Field Hocke
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7454894@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Dwight-Englewood vs Becton (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7455588@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T161500
@@ -1547,6 +1522,14 @@ DTEND;TZID=America/New_York:20261026T181500
 SUMMARY:Dwight-Englewood vs Palisades Park (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7454894@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Dwight-Englewood vs Becton (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7455596@njicathletics

@@ -23,13 +23,21 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2831:7481800@njicathletics
+UID:ds:2609:7457992@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T161500
+DTEND;TZID=America/New_York:20261207T181500
+SUMMARY:Emerson at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7481800@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Boys Bas
+SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Bas
  ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7477073@njicathletics
@@ -123,21 +131,21 @@ SUMMARY:Lodi vs Ridgefield Memorial (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481812@njicathletics
+UID:ds:2785:7481812@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T190000
 DTEND;TZID=America/New_York:20270127T210000
-SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Boys Boys Basketba
+SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481900@njicathletics
+UID:ds:2541:7481900@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T190000
 DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:Ridgefield Memorial vs Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Bogota at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7481832@njicathletics
@@ -162,6 +170,14 @@ DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Park Ridge at Ridgefield Memorial (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7651167@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Emerson vs Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7651167@njicathletics

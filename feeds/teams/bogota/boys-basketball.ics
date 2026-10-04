@@ -23,28 +23,53 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2644:7651127@njicathletics
+UID:ds:2541:7645370@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T120000
+DTEND;TZID=America/New_York:20261212T140000
+SUMMARY:Bogota at North Plainfield Public Schools (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7651127@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Hasbrouck Heights vs Bogota (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+SUMMARY:Bogota at Hasbrouck Heights (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7651103@njicathletics
+UID:ds:2541:7651103@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Hasbrouck Heights vs Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+SUMMARY:Bogota at Hasbrouck Heights (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7485145@njicathletics
+UID:ds:2541:7485145@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
-SUMMARY:Hasbrouck Heights vs Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Bogota at Hasbrouck Heights (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7624368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Bogota at Wallington (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7624367@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Bogota at Wallington (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7652728@njicathletics
@@ -55,36 +80,52 @@ SUMMARY:Becton at Bogota (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7511822@njicathletics
+UID:ds:2541:7652728@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Bogota vs Becton (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7511822@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T095100
 DTEND;TZID=America/New_York:20270108T115100
-SUMMARY:Garfield at Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 9:51 AM
+SUMMARY:Bogota vs Garfield (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 9:51 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7651137@njicathletics
+UID:ds:2541:7531179@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Bogota vs Saddle Brook (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7651137@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T160000
 DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Hasbrouck Heights at Bogota (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+SUMMARY:Bogota vs Hasbrouck Heights (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7651113@njicathletics
+UID:ds:2541:7651113@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
-SUMMARY:Hasbrouck Heights at Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+SUMMARY:Bogota vs Hasbrouck Heights (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7485184@njicathletics
+UID:ds:2541:7485184@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Hasbrouck Heights at Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+SUMMARY:Bogota vs Hasbrouck Heights (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7652740@njicathletics
@@ -95,77 +136,125 @@ SUMMARY:Becton vs Bogota (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7656250@njicathletics
+UID:ds:2541:7652740@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T161500
-DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Lodi at Bogota (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7656345@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T173000
-DTEND;TZID=America/New_York:20270127T193000
-SUMMARY:Lodi at Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2700:7656354@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T190000
-DTEND;TZID=America/New_York:20270127T210000
-SUMMARY:Lodi at Bogota (Varsity Boys Boys Basketball)
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Bogota at Becton (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481831@njicathletics
+UID:ds:2541:7656250@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T161500
+DTEND;TZID=America/New_York:20270127T181500
+SUMMARY:Bogota vs Lodi (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7656345@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Bogota vs Lodi (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7656354@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T190000
+DTEND;TZID=America/New_York:20270127T210000
+SUMMARY:Bogota vs Lodi (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7481831@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T144500
 DTEND;TZID=America/New_York:20270201T164500
-SUMMARY:Ridgefield Memorial vs Bogota (Junior Varsity Boys Boys Basketbal
+SUMMARY:Bogota at Ridgefield Memorial (Junior Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:45 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481901@njicathletics
+UID:ds:2541:7536845@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T170000
+DTEND;TZID=America/New_York:20270201T190000
+SUMMARY:Bogota vs Palisades Park (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7481901@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T173000
 DTEND;TZID=America/New_York:20270201T193000
-SUMMARY:Ridgefield Memorial vs Bogota (Junior Varsity Boys Boys Basketbal
+SUMMARY:Bogota at Ridgefield Memorial (Junior Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7481900@njicathletics
+UID:ds:2541:7481900@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T190000
 DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:Ridgefield Memorial vs Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Bogota at Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7511829@njicathletics
+UID:ds:2541:7511829@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T095100
 DTEND;TZID=America/New_York:20270203T115100
-SUMMARY:Garfield vs Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 9:51 AM
+SUMMARY:Bogota at Garfield (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 9:51 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7643554@njicathletics
+UID:ds:2541:7543839@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T171500
+DTEND;TZID=America/New_York:20270203T191500
+SUMMARY:Bogota vs Leonia (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7624385@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T103000
+DTEND;TZID=America/New_York:20270206T123000
+SUMMARY:Bogota vs Wallington (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7523325@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T161500
+DTEND;TZID=America/New_York:20270208T181500
+SUMMARY:Bogota at Bergen Charter (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7523326@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T174500
+DTEND;TZID=America/New_York:20270208T194500
+SUMMARY:Bogota at Bergen Charter (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7643554@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T173000
 DTEND;TZID=America/New_York:20270210T193000
-SUMMARY:Park Ridge vs Bogota (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+SUMMARY:Bogota at Park Ridge (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7605908@njicathletics
+UID:ds:2541:7605908@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
-SUMMARY:Park Ridge vs Bogota (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Bogota at Park Ridge (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 END:VCALENDAR

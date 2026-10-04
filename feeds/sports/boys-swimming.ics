@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2841:7627576@njicathletics
+UID:ds:2758:7627576@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T161500
 DTEND;TZID=America/New_York:20261203T181500
-SUMMARY:Rutherford vs New Milford (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
+SUMMARY:New Milford at Rutherford (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7627579@njicathletics
@@ -39,12 +39,60 @@ SUMMARY:Garfield at Rutherford (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2703:7609195@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T161500
+DTEND;TZID=America/New_York:20261208T181500
+SUMMARY:Lyndhurst vs Mary Help (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7609198@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T161500
+DTEND;TZID=America/New_York:20261210T181500
+SUMMARY:Leonia at Lyndhurst (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7609198@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T161500
+DTEND;TZID=America/New_York:20261210T181500
+SUMMARY:Lyndhurst vs Leonia (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7609198@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T161500
+DTEND;TZID=America/New_York:20261210T181500
+SUMMARY:Palisades Park at Lyndhurst (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7627583@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
 DTEND;TZID=America/New_York:20261210T181500
 SUMMARY:Rutherford vs Becton (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7627585@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Leonia at Rutherford (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7627585@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Palisades Park at Rutherford (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7627585@njicathletics
@@ -63,6 +111,14 @@ SUMMARY:Harrison at Lyndhurst (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2758:7660498@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T163000
+DTEND;TZID=America/New_York:20261215T183000
+SUMMARY:New Milford at Secaucus (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7609204@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T161500
@@ -79,11 +135,35 @@ SUMMARY:Rutherford vs Weehawken (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7609213@njicathletics
+UID:ds:2758:7660460@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T201500
+DTEND;TZID=America/New_York:20261218T221500
+SUMMARY:New Milford vs Weehawken (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7663673@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:Rutherford at Lyndhurst (Varsity Boys Boys Swimming)
+SUMMARY:Leonia at Secaucus (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7609213@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Lyndhurst vs Rutherford (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7609215@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Lyndhurst at Secaucus (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -92,6 +172,22 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
 DTEND;TZID=America/New_York:20270111T181500
 SUMMARY:Rutherford vs Secaucus (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7663104@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T201500
+DTEND;TZID=America/New_York:20270111T221500
+SUMMARY:New Milford vs Becton (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7609318@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T161500
+DTEND;TZID=America/New_York:20270112T181500
+SUMMARY:Lyndhurst vs Weehawken (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

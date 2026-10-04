@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2841:7627596@njicathletics
+UID:ds:2758:7627596@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T161500
 DTEND;TZID=America/New_York:20261203T181500
-SUMMARY:Rutherford vs New Milford (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:15 PM
+SUMMARY:New Milford at Rutherford (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7627598@njicathletics
@@ -44,6 +44,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
 SUMMARY:Mary Help at Lyndhurst (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7663697@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T161500
+DTEND;TZID=America/New_York:20261210T181500
+SUMMARY:Leonia at Lyndhurst (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -63,12 +71,36 @@ SUMMARY:Rutherford vs Mary Help (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2695:7627602@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Leonia at Rutherford (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7627602@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Palisades Park at Rutherford (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7627602@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T161500
 DTEND;TZID=America/New_York:20261214T181500
 SUMMARY:Rutherford vs Leonia (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7660514@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T163000
+DTEND;TZID=America/New_York:20261215T183000
+SUMMARY:New Milford at Secaucus (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7627604@njicathletics
@@ -79,12 +111,28 @@ SUMMARY:Rutherford vs Weehawken (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7627605@njicathletics
+UID:ds:2758:7660526@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T201500
+DTEND;TZID=America/New_York:20261218T221500
+SUMMARY:New Milford vs Weehawken (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7663678@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:Rutherford at Lyndhurst (Varsity Girls Girls Swimming)
+SUMMARY:Leonia at Secaucus (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7627605@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Lyndhurst vs Rutherford (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7627608@njicathletics

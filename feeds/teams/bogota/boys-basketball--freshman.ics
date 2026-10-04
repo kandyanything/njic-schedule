@@ -23,35 +23,27 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2541:7651127@njicathletics
+UID:ds:2644:7651127@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
 DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Bogota at Hasbrouck Heights (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2541:7624368@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T103000
-DTEND;TZID=America/New_York:20261219T123000
-SUMMARY:Bogota at Wallington (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2541:7651137@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T160000
-DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Bogota vs Hasbrouck Heights (Freshman Boys Boys Basketball)
+SUMMARY:Hasbrouck Heights vs Bogota (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7656250@njicathletics
+UID:ds:2644:7651137@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Hasbrouck Heights at Bogota (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7656250@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Bogota vs Lodi (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Lodi at Bogota (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

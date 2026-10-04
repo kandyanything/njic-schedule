@@ -23,38 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2609:7458734@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T180000
-DTEND;TZID=America/New_York:20261223T200000
-SUMMARY:Emerson vs Pascack Valley High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7458756@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270215T161500
-DTEND;TZID=America/New_York:20270215T181500
-SUMMARY:Emerson vs West Essex High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7608528@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270315T160000
-DTEND;TZID=America/New_York:20270315T180000
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7608528@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270315T160000
-DTEND;TZID=America/New_York:20270315T180000
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7608528@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270315T160000
@@ -95,14 +63,6 @@ SUMMARY:Hawthorne at Lodi (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7539601@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270315T161500
-DTEND;TZID=America/New_York:20270315T181500
-SUMMARY:Leonia vs Saddle Brook (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7656131@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270315T161500
@@ -118,14 +78,6 @@ DTEND;TZID=America/New_York:20270316T180000
 SUMMARY:Dwight-Englewood at Bergenfield High School (Varsity Boys Basebal
  l)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539603@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270316T160000
-DTEND;TZID=America/New_York:20270316T180000
-SUMMARY:Leonia vs Hackensack High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7600965@njicathletics
@@ -161,14 +113,6 @@ SUMMARY:Wood-Ridge vs Passaic High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7601459@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270318T160000
-DTEND;TZID=America/New_York:20270318T180000
-SUMMARY:Pompton Lakes at Wayne Valley High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7588248@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T161500
@@ -199,15 +143,6 @@ DTSTART;TZID=America/New_York:20270319T160000
 DTEND;TZID=America/New_York:20270319T180000
 SUMMARY:North Arlington vs Hackensack High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7666531@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270319T161500
-DTEND;TZID=America/New_York:20270319T181500
-SUMMARY:Cresskill at River Dell Regional High School (Varsity Boys Baseba
- ll)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7656448@njicathletics
@@ -243,14 +178,6 @@ SUMMARY:Hawthorne at Wayne Valley High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7656161@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270320T110000
-DTEND;TZID=America/New_York:20270320T130000
-SUMMARY:Glen Rock at Wood-Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7646355@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270320T110000
@@ -259,20 +186,20 @@ SUMMARY:Ridgefield Memorial at Dwight-Englewood (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2948:7656161@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T110000
+DTEND;TZID=America/New_York:20270320T130000
+SUMMARY:Wood-Ridge vs Glen Rock (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7612805@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270320T160000
 DTEND;TZID=America/New_York:20270320T180000
 SUMMARY:Butler at Sparta High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585389@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270322T161500
-DTEND;TZID=America/New_York:20270322T181500
-SUMMARY:Cresskill vs Pascack Valley High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7588250@njicathletics
@@ -291,28 +218,20 @@ SUMMARY:Wood-Ridge at Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7656549@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270323T160000
-DTEND;TZID=America/New_York:20270323T180000
-SUMMARY:Cresskill vs Bergenfield High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7646357@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270323T161500
-DTEND;TZID=America/New_York:20270323T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7648506@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270323T161500
 DTEND;TZID=America/New_York:20270323T181500
 SUMMARY:Hawthorne vs Midland Park (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7646357@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T161500
+DTEND;TZID=America/New_York:20270323T181500
+SUMMARY:Ridgefield Memorial at Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7656223@njicathletics
@@ -329,22 +248,6 @@ DTSTART;TZID=America/New_York:20270324T161500
 DTEND;TZID=America/New_York:20270324T181500
 SUMMARY:Elmwood Park at Leonia (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539635@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270324T161500
-DTEND;TZID=America/New_York:20270324T181500
-SUMMARY:Leonia vs Elmwood Park (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539631@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270325T160000
-DTEND;TZID=America/New_York:20270325T180000
-SUMMARY:Leonia at Wallington (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7608542@njicathletics
@@ -405,59 +308,11 @@ SUMMARY:Saint Mary at Paramus High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7537185@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T160000
-DTEND;TZID=America/New_York:20270330T180000
-SUMMARY:Cresskill vs Pompton Lakes (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542465@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7601778@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Emerson vs Glen Rock (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7553260@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T161500
 DTEND;TZID=America/New_York:20270330T181500
 SUMMARY:Garfield at Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7601778@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Glen Rock at Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542465@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7542465@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Leonia at Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -469,22 +324,6 @@ SUMMARY:Lodi at Park Ridge (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7564349@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T161500
-DTEND;TZID=America/New_York:20270330T181500
-SUMMARY:Saddle Brook at Weehawken (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7537188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270401T160000
-DTEND;TZID=America/New_York:20270401T180000
-SUMMARY:Emerson at Pompton Lakes (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7539413@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T160000
@@ -493,36 +332,20 @@ SUMMARY:Hawthorne at Leonia (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7537188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270401T160000
-DTEND;TZID=America/New_York:20270401T180000
-SUMMARY:Pompton Lakes vs Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7538322@njicathletics
+UID:ds:2700:7542451@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T161500
 DTEND;TZID=America/New_York:20270401T181500
-SUMMARY:Cresskill at Midland Park (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Lodi vs Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7542451@njicathletics
+UID:ds:2733:7538322@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T161500
 DTEND;TZID=America/New_York:20270401T181500
-SUMMARY:Eastern Christian at Lodi (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542451@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270401T161500
-DTEND;TZID=America/New_York:20270401T181500
-SUMMARY:Hawthorne Christian at Lodi (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Midland Park vs Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7564352@njicathletics
@@ -590,28 +413,12 @@ SUMMARY:Elmwood Park at Butler (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7577905@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270403T110000
-DTEND;TZID=America/New_York:20270403T130000
-SUMMARY:Emerson vs Hackensack High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7588253@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270403T110000
 DTEND;TZID=America/New_York:20270403T130000
 SUMMARY:Garfield vs Wallington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585393@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270403T120000
-DTEND;TZID=America/New_York:20270403T140000
-SUMMARY:Cresskill at Fort Lee High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7559642@njicathletics
@@ -622,35 +429,11 @@ SUMMARY:Garfield vs North Arlington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7538326@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T161500
-DTEND;TZID=America/New_York:20270405T181500
-SUMMARY:Cresskill at Wood-Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542453@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T161500
-DTEND;TZID=America/New_York:20270405T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7542468@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T161500
 DTEND;TZID=America/New_York:20270405T181500
 SUMMARY:Elmwood Park at Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542453@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270405T161500
-DTEND;TZID=America/New_York:20270405T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -662,12 +445,12 @@ SUMMARY:Ridgefield Memorial vs Elmwood Park (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7542453@njicathletics
+UID:ds:2948:7538326@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T161500
 DTEND;TZID=America/New_York:20270405T181500
-SUMMARY:Saddle Brook at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Wood-Ridge vs Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7559645@njicathletics
@@ -678,22 +461,6 @@ SUMMARY:Garfield at North Arlington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7537194@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T160000
-DTEND;TZID=America/New_York:20270407T180000
-SUMMARY:Lyndhurst at Pompton Lakes (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7538330@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Cresskill vs Wood-Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7556688@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
@@ -702,28 +469,12 @@ SUMMARY:Dwight-Englewood vs Lodi (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7542454@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Eastern Christian at Saddle Brook (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7542469@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
 DTEND;TZID=America/New_York:20270407T181500
 SUMMARY:Elmwood Park vs Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542454@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Hawthorne Christian at Saddle Brook (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7553270@njicathletics
@@ -742,6 +493,14 @@ SUMMARY:Ridgefield Memorial at Elmwood Park (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2948:7538330@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Wood-Ridge at Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2710:7608563@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T160000
@@ -750,12 +509,12 @@ SUMMARY:Manchester Regional vs Paterson Arts (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7585394@njicathletics
+UID:ds:2598:7585394@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270409T161500
 DTEND;TZID=America/New_York:20270409T181500
-SUMMARY:Cresskill vs Dwight-Englewood (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Dwight-Englewood at Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7646341@njicathletics
@@ -766,37 +525,12 @@ SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7539674@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270410T100000
-DTEND;TZID=America/New_York:20270410T120000
-SUMMARY:Emerson vs Leonia (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539674@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270410T100000
-DTEND;TZID=America/New_York:20270410T120000
-SUMMARY:Leonia at Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7653168@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270410T110000
 DTEND;TZID=America/New_York:20270410T130000
 SUMMARY:Elmwood Park at Hawthorne (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7566324@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270410T110000
-DTEND;TZID=America/New_York:20270410T130000
-SUMMARY:Glen Rock vs Northern Highlands Regional High School (Varsity Boy
- s Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7653168@njicathletics
@@ -839,27 +573,11 @@ SUMMARY:Butler vs Hawthorne (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7538333@njicathletics
+UID:ds:2644:7538333@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T161500
 DTEND;TZID=America/New_York:20270412T181500
-SUMMARY:Cresskill vs Hasbrouck Heights (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542455@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T161500
-DTEND;TZID=America/New_York:20270412T181500
-SUMMARY:Eastern Christian at Waldwick (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542455@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T161500
-DTEND;TZID=America/New_York:20270412T181500
-SUMMARY:Hawthorne Christian at Waldwick (Varsity Boys Baseball)
+SUMMARY:Hasbrouck Heights at Cresskill (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -879,44 +597,28 @@ SUMMARY:Manchester Regional vs Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7539432@njicathletics
+UID:ds:2916:7542455@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T161500
+DTEND;TZID=America/New_York:20270412T181500
+SUMMARY:Waldwick vs Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7539432@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000
-SUMMARY:Leonia vs North Arlington (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:North Arlington at Leonia (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7538339@njicathletics
+UID:ds:2644:7538339@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T161500
 DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Cresskill at Hasbrouck Heights (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542456@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T161500
-DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7601788@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T161500
-DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Glen Rock at Lyndhurst (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542456@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T161500
-DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Hasbrouck Heights vs Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7542471@njicathletics
@@ -951,15 +653,6 @@ SUMMARY:Garfield at Saddle Brook (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7574766@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270416T160000
-DTEND;TZID=America/New_York:20270416T180000
-SUMMARY:Pompton Lakes vs Montville Township High School (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7646344@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T161500
@@ -974,14 +667,6 @@ DTSTART;TZID=America/New_York:20270416T161500
 DTEND;TZID=America/New_York:20270416T181500
 SUMMARY:Saint Mary vs Cranford High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585401@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T100000
-DTEND;TZID=America/New_York:20270417T120000
-SUMMARY:Cresskill at Dumont High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7588275@njicathletics
@@ -1008,15 +693,6 @@ SUMMARY:Hawthorne vs Bergenfield High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7563990@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T110000
-DTEND;TZID=America/New_York:20270417T130000
-SUMMARY:Glen Rock at Passaic County Technical Institute (Varsity Boys Bas
- eball)
-DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7646106@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270417T163000
@@ -1041,44 +717,20 @@ SUMMARY:Butler at Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7537413@njicathletics
+UID:ds:2854:7601803@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T161500
 DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Cresskill vs New Milford (Varsity Boys Baseball)
+SUMMARY:Saint Mary at Glen Rock (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7564371@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T161500
+DTEND;TZID=America/New_York:20270419T181500
+SUMMARY:Waldwick vs Saddle Brook (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542457@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T161500
-DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7601803@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T161500
-DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Glen Rock vs Saint Mary (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542457@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T161500
-DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2843:7564371@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T161500
-DTEND;TZID=America/New_York:20270419T181500
-SUMMARY:Saddle Brook at Waldwick (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7556691@njicathletics
@@ -1095,22 +747,6 @@ DTSTART;TZID=America/New_York:20270421T161500
 DTEND;TZID=America/New_York:20270421T181500
 SUMMARY:Butler vs Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7537404@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270421T161500
-DTEND;TZID=America/New_York:20270421T181500
-SUMMARY:Cresskill at New Milford (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542458@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270421T161500
-DTEND;TZID=America/New_York:20270421T181500
-SUMMARY:Eastern Christian at Butler (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7556706@njicathletics
@@ -1135,22 +771,6 @@ DTSTART;TZID=America/New_York:20270423T160000
 DTEND;TZID=America/New_York:20270423T180000
 SUMMARY:Elmwood Park at Clifton High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7574750@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270423T160000
-DTEND;TZID=America/New_York:20270423T180000
-SUMMARY:Hawthorne Christian vs Pompton Lakes (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585414@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270423T161500
-DTEND;TZID=America/New_York:20270423T181500
-SUMMARY:Cresskill at Memorial High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7608571@njicathletics
@@ -1185,14 +805,6 @@ SUMMARY:Garfield at Montclair High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7577951@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270424T110000
-DTEND;TZID=America/New_York:20270424T130000
-SUMMARY:Wallington at Wallington (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7577951@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270424T110000
@@ -1217,36 +829,12 @@ SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537207@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270426T160000
-DTEND;TZID=America/New_York:20270426T180000
-SUMMARY:New Milford at Pompton Lakes (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7538344@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270426T161500
-DTEND;TZID=America/New_York:20270426T181500
-SUMMARY:Cresskill at Glen Rock (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7553312@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T161500
 DTEND;TZID=America/New_York:20270426T181500
 SUMMARY:Hawthorne at Lodi (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542459@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270426T183000
-DTEND;TZID=America/New_York:20270426T203000
-SUMMARY:Eastern Christian at Garfield (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7542459@njicathletics
@@ -1262,14 +850,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T161500
 DTEND;TZID=America/New_York:20270427T181500
 SUMMARY:Garfield vs Wood-Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T161500
-DTEND;TZID=America/New_York:20270428T181500
-SUMMARY:Cresskill vs Pascack Hills High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,44 +869,12 @@ SUMMARY:Becton at Cresskill (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7538354@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:Cresskill vs Becton (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542460@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7537405@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:Emerson at New Milford (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2643:7542473@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270429T161500
 DTEND;TZID=America/New_York:20270429T181500
 SUMMARY:Harrison vs Ridgefield Memorial (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542460@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7542460@njicathletics
@@ -1345,30 +893,6 @@ SUMMARY:Lodi at North Arlington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537405@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270429T161500
-DTEND;TZID=America/New_York:20270429T181500
-SUMMARY:New Milford vs Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539715@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270430T190000
-DTEND;TZID=America/New_York:20270430T210000
-SUMMARY:Leonia vs Palisades Park (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7539715@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270430T190000
-DTEND;TZID=America/New_York:20270430T210000
-SUMMARY:Palisades Park at Leonia (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7539715@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T190000
@@ -1377,19 +901,11 @@ SUMMARY:Ridgefield Memorial at Leonia (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7585416@njicathletics
+UID:ds:2789:7585416@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270501T100000
 DTEND;TZID=America/New_York:20270501T120000
-SUMMARY:Cresskill vs Park Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7539723@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270501T100000
-DTEND;TZID=America/New_York:20270501T120000
-SUMMARY:Leonia at Saddle Brook (Varsity Boys Baseball)
+SUMMARY:Park Ridge at Cresskill (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -1425,36 +941,12 @@ SUMMARY:Butler vs Saddle Brook (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7538345@njicathletics
+UID:ds:2646:7542462@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T161500
 DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:Cresskill at Becton (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542462@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T161500
-DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:Eastern Christian at Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7537415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T161500
-DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:Emerson vs New Milford (Varsity Boys Baseball)
+SUMMARY:Hawthorne vs Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542462@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T161500
-DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:Hawthorne Christian at Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7556719@njicathletics
@@ -1465,35 +957,11 @@ SUMMARY:Lodi vs North Arlington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T161500
-DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:New Milford at Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7542474@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T161500
 DTEND;TZID=America/New_York:20270503T181500
 SUMMARY:Ridgefield Memorial at Secaucus (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7538356@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T161500
-DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Cresskill vs Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542463@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T161500
-DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Eastern Christian at Park Ridge (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1505,27 +973,19 @@ SUMMARY:Elmwood Park vs Bergenfield High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7538356@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T161500
-DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Emerson at Cresskill (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542463@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T161500
-DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Hawthorne Christian at Park Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7553313@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T161500
 DTEND;TZID=America/New_York:20270505T181500
 SUMMARY:Hawthorne vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7542463@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Park Ridge vs Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,22 +1013,6 @@ SUMMARY:Ridgefield Memorial at Wallington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7608599@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270510T160000
-DTEND;TZID=America/New_York:20270510T180000
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7608599@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270510T160000
-DTEND;TZID=America/New_York:20270510T180000
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7608599@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T160000
@@ -1583,14 +1027,6 @@ DTSTART;TZID=America/New_York:20270510T161500
 DTEND;TZID=America/New_York:20270510T181500
 SUMMARY:Hawthorne vs Wallington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7542663@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270510T161500
-DTEND;TZID=America/New_York:20270510T181500
-SUMMARY:Leonia at Clifton High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7561907@njicathletics
@@ -1609,20 +1045,12 @@ SUMMARY:Butler vs Jefferson Township High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7574753@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270511T160000
-DTEND;TZID=America/New_York:20270511T180000
-SUMMARY:Pompton Lakes vs Verona High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7585421@njicathletics
+UID:ds:2916:7585421@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270511T161500
 DTEND;TZID=America/New_York:20270511T181500
-SUMMARY:Cresskill at Waldwick (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Waldwick vs Cresskill (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7574763@njicathletics
@@ -1639,14 +1067,6 @@ DTSTART;TZID=America/New_York:20270512T161500
 DTEND;TZID=America/New_York:20270512T181500
 SUMMARY:Manchester Regional at Weehawken (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2815:7667186@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T160000
-DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Pompton Lakes at Montclair High School (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7553127@njicathletics
@@ -1671,15 +1091,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T160000
 DTEND;TZID=America/New_York:20270514T180000
 SUMMARY:Hawthorne vs Manchester Regional (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2815:7584496@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270514T160000
-DTEND;TZID=America/New_York:20270514T180000
-SUMMARY:Pompton Lakes vs Parsippany Hills High School (Varsity Boys Baseb
- all)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1725,14 +1136,6 @@ SUMMARY:Butler vs Emerson (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7563220@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270517T163000
-DTEND;TZID=America/New_York:20270517T183000
-SUMMARY:Emerson at Butler (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7559655@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T041500
@@ -1741,44 +1144,12 @@ SUMMARY:Garfield at Weehawken (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7539477@njicathletics
+UID:ds:2700:7539477@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
-SUMMARY:Leonia vs Lodi (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7538347@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270518T161500
-DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Cresskill at Emerson (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7542464@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270518T161500
-DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Eastern Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7538347@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270518T161500
-DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Emerson vs Cresskill (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7542464@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270518T161500
-DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Hawthorne Christian at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Lodi at Leonia (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7553315@njicathletics
@@ -1805,14 +1176,6 @@ SUMMARY:Ridgefield Memorial vs Wallington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7585422@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T161500
-DTEND;TZID=America/New_York:20270519T181500
-SUMMARY:Cresskill vs Dwight-Englewood (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7578023@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T160000
@@ -1821,19 +1184,19 @@ SUMMARY:Becton at Hackensack High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7585423@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270521T161500
-DTEND;TZID=America/New_York:20270521T181500
-SUMMARY:Cresskill vs Ridgefield Memorial (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7653468@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T161500
 DTEND;TZID=America/New_York:20270521T181500
 SUMMARY:Hawthorne at Midland Park (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7585423@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270521T161500
+DTEND;TZID=America/New_York:20270521T181500
+SUMMARY:Ridgefield Memorial at Cresskill (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -23,23 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2541:7498911@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T100000
-DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:Bogota vs Ridgefield Memorial (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2541:7525147@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260826T111500
-DTEND;TZID=America/New_York:20260826T131500
-SUMMARY:Bogota vs Ridgefield Memorial (Junior Varsity Girls Girls Volleyb
- all)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7439744@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260827T100000
@@ -155,31 +138,22 @@ SUMMARY:Ridgefield Memorial vs Wood-Ridge (Junior Varsity Girls Girls Vol
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7605524@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260911T161500
-DTEND;TZID=America/New_York:20260911T181500
-SUMMARY:New Milford at Ridgefield Memorial (Varsity Girls Girls Volleybal
- l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7448929@njicathletics
+UID:ds:2831:7448929@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Varsity Girls Girls Volley
+SUMMARY:Ridgefield Memorial at Palisades Park (Varsity Girls Girls Volley
  ball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448930@njicathletics
+UID:ds:2831:7448930@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Palisades Park vs Ridgefield Memorial (Junior Varsity Girls Girls
+SUMMARY:Ridgefield Memorial at Palisades Park (Junior Varsity Girls Girls
   Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7448932@njicathletics
@@ -284,15 +258,6 @@ SUMMARY:Lodi vs Ridgefield Memorial (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7493136@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Palisades Park at Ridgefield Memorial (Middle School Girls Girls 
- Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7526797@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T173000
@@ -356,13 +321,13 @@ SUMMARY:Dwight-Englewood at Ridgefield Memorial (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448946@njicathletics
+UID:ds:2831:7448946@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T173000
 DTEND;TZID=America/New_York:20261005T193000
-SUMMARY:Palisades Park at Ridgefield Memorial (Varsity Girls Girls Volley
+SUMMARY:Ridgefield Memorial vs Palisades Park (Varsity Girls Girls Volley
  ball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7448948@njicathletics
@@ -382,13 +347,13 @@ SUMMARY:Ridgefield Memorial at Wood-Ridge (Junior Varsity Girls Girls Vol
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7448947@njicathletics
+UID:ds:2831:7448947@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Palisades Park at Ridgefield Memorial (Junior Varsity Girls Girls
+SUMMARY:Ridgefield Memorial vs Palisades Park (Junior Varsity Girls Girls
   Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7665569@njicathletics
@@ -431,15 +396,6 @@ DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Ridgefield Memorial at Becton (Junior Varsity Girls Girls Volleyb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2541:7672318@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Bogota vs Ridgefield Memorial (Middle School Girls Girls Volleyba
- ll)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7592872@njicathletics

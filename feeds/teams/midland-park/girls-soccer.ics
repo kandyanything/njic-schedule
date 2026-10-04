@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2609:7447941@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T110000
-DTEND;TZID=America/New_York:20260824T130000
-SUMMARY:Emerson at Midland Park (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7447941@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T110000
@@ -39,20 +31,20 @@ SUMMARY:Midland Park vs Emerson (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7484213@njicathletics
+UID:ds:2733:7484213@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260829T110000
 DTEND;TZID=America/New_York:20260829T130000
-SUMMARY:Eastern Christian vs Midland Park (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+SUMMARY:Midland Park at Eastern Christian (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7542645@njicathletics
+UID:ds:2733:7542645@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260831T160000
 DTEND;TZID=America/New_York:20260831T180000
-SUMMARY:Lyndhurst vs Midland Park (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Midland Park at Lyndhurst (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7455051@njicathletics
@@ -111,21 +103,21 @@ SUMMARY:Hawthorne vs Midland Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7497930@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Eastern Christian at Midland Park (Middle School Girls Girls Socc
- er)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7454998@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
 SUMMARY:Midland Park at New Milford (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7497930@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Midland Park vs Eastern Christian (Middle School Girls Girls Socc
+ er)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7454969@njicathletics
@@ -136,22 +128,22 @@ SUMMARY:Lodi at Midland Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7497350@njicathletics
+UID:ds:2733:7497350@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
 DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Eastern Christian vs Midland Park (Middle School Girls Girls Socc
+SUMMARY:Midland Park at Eastern Christian (Middle School Girls Girls Socc
  er)
-DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7564513@njicathletics
+UID:ds:2733:7564513@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Hawthorne Christian at Midland Park (Middle School Girls Girls So
+SUMMARY:Midland Park vs Hawthorne Christian (Middle School Girls Girls So
  ccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7454990@njicathletics
@@ -243,21 +235,21 @@ SUMMARY:Midland Park vs Elmwood Park (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7564491@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Hawthorne Christian vs Midland Park (Middle School Girls Girls So
- ccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7454992@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T161500
 DTEND;TZID=America/New_York:20261026T181500
 SUMMARY:Midland Park vs New Milford (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7564491@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Midland Park at Hawthorne Christian (Middle School Girls Girls So
+ ccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7497558@njicathletics

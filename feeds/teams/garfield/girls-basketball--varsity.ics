@@ -23,12 +23,29 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2621:7676678@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T163000
+DTEND;TZID=America/New_York:20261208T183000
+SUMMARY:Garfield vs Clifton High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7516426@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
 DTEND;TZID=America/New_York:20261210T181500
 SUMMARY:Garfield vs Bergen Charter (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7676691@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Garfield vs William L Dickinson High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7511796@njicathletics
@@ -106,10 +123,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7458485@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
 SUMMARY:Garfield vs Palisades Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7511815@njicathletics
@@ -118,6 +135,30 @@ DTSTART;TZID=America/New_York:20270120T190000
 DTEND;TZID=America/New_York:20270120T210000
 SUMMARY:Butler vs Garfield (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7676742@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T210000
+SUMMARY:Garfield vs Passaic High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7676745@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Garfield at Mary Help (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7676745@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Mary Help vs Garfield (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7565478@njicathletics
@@ -144,6 +185,14 @@ SUMMARY:Garfield vs Lyndhurst (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7676746@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Dwight-Englewood at Garfield (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7638772@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T160000
@@ -158,5 +207,13 @@ DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
 SUMMARY:Garfield at Lodi (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7676755@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T210000
+SUMMARY:Garfield vs Hawthorne (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

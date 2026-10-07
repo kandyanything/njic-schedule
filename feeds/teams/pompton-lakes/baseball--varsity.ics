@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2815:7682838@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T160000
+DTEND;TZID=America/New_York:20270315T180000
+SUMMARY:Pompton Lakes at Lakeland Regional High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7601459@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T160000
@@ -70,6 +79,15 @@ DTEND;TZID=America/New_York:20270416T180000
 SUMMARY:Pompton Lakes vs Montville Township High School (Varsity Boys Bas
  eball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7682842@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T110000
+DTEND;TZID=America/New_York:20270417T130000
+SUMMARY:Pompton Lakes at Lakeland Regional High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7574750@njicathletics

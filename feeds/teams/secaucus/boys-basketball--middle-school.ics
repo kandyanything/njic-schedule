@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:38258:7681066@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Secaucus vs Fort Lee High School (Middle School Boys Boys Basketb
+ all)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:38258:7550855@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T171500
@@ -30,5 +39,14 @@ DTEND;TZID=America/New_York:20270205T191500
 SUMMARY:Secaucus at Cliffside Park High School (Middle School Boys Boys B
  asketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7681076@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T161500
+DTEND;TZID=America/New_York:20270219T181500
+SUMMARY:Secaucus at Fort Lee High School (Middle School Boys Boys Basketb
+ all)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

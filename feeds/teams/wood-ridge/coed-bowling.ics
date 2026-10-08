@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2541:7684721@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Bogota vs Wood-Ridge (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7683301@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -31,12 +39,28 @@ SUMMARY:Pompton Lakes at Wood-Ridge (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2948:7683301@njicathletics
+UID:ds:2785:7684766@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T160000
-DTEND;TZID=America/New_York:20261215T180000
-SUMMARY:Wood-Ridge vs Pompton Lakes (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+SUMMARY:Palisades Park vs Wood-Ridge (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7684913@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Lyndhurst vs Wood-Ridge (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7684789@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Bogota at Wood-Ridge (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7683349@njicathletics
@@ -47,11 +71,11 @@ SUMMARY:Pompton Lakes at Wood-Ridge (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2948:7683349@njicathletics
+UID:ds:2785:7684800@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Wood-Ridge vs Pompton Lakes (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Palisades Park at Wood-Ridge (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

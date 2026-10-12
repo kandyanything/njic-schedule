@@ -41,10 +41,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7495771@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
+DTSTART;TZID=America/New_York:20261229T123000
+DTEND;TZID=America/New_York:20261229T143000
 SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7495772@njicathletics
@@ -79,12 +79,12 @@ SUMMARY:New Milford at Pompton Lakes (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7456375@njicathletics
+UID:ds:2815:7689390@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270112
-SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Pompton Lakes at Secaucus (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7456723@njicathletics
@@ -129,7 +129,7 @@ SUMMARY:Pompton Lakes vs Kinnelon High School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7665748@njicathletics
+UID:ds:2815:7668546@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T163000
 DTEND;TZID=America/New_York:20270127T183000

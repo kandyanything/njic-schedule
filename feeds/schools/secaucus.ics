@@ -988,15 +988,6 @@ SUMMARY:Secaucus vs Harrison (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7530942@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T160000
-DTEND;TZID=America/New_York:20261009T180000
-SUMMARY:Secaucus vs Fort Lee High School (Middle School Girls Girls Volle
- yball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7531114@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -1004,6 +995,15 @@ DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Secaucus vs Fort Lee High School (Middle School Girls Girls Socce
  r)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7530942@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Secaucus vs Fort Lee High School (Middle School Girls Girls Volle
+ yball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7684160@njicathletics
@@ -1132,20 +1132,20 @@ SUMMARY:Secaucus at Hoboken Middle School (Middle School Girls Girls Socc
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7501479@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Secaucus vs Wood-Ridge (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7689239@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Secaucus vs Union City High School (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7501479@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Secaucus vs Wood-Ridge (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7689222@njicathletics
@@ -1196,14 +1196,6 @@ SUMMARY:Secaucus vs Leonia (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7535738@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Secaucus at TBA NJ (Varsity Coed Coed Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7689525@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -1212,13 +1204,12 @@ SUMMARY:Secaucus vs TBA NJ (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7512872@njicathletics
+UID:ds:38258:7535738@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T161500
-DTEND;TZID=America/New_York:20261016T181500
-SUMMARY:Secaucus at North Bergen High School (Middle School Girls Girls V
- olleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Secaucus at TBA NJ (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7504587@njicathletics
@@ -1288,20 +1279,20 @@ SUMMARY:Palisades Park at Secaucus (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7530954@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Secaucus vs Harrison (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7531136@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Secaucus at Harrison (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7530954@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Secaucus vs Harrison (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7506377@njicathletics
@@ -1344,6 +1335,14 @@ SUMMARY:New Milford at Secaucus (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7696011@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Secaucus at Hoboken High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:38258:7506923@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -1358,14 +1357,6 @@ DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Secaucus vs Fort Lee High School (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7696011@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T160000
-DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Secaucus at Hoboken High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7504452@njicathletics
@@ -1746,6 +1737,14 @@ DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:Leonia at Secaucus (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7697023@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Leonia at Secaucus (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7684865@njicathletics

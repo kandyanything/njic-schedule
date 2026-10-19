@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2710:7701118@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Manchester Regional at Verona High School (Freshman Boys Boys Bas
+ ketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2710:7579681@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T163000
@@ -121,5 +130,13 @@ DTEND;TZID=America/New_York:20270203T181500
 SUMMARY:Manchester Regional at North Arlington (Freshman Boys Boys Basket
  ball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7701452@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Hawthorne at Manchester Regional (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

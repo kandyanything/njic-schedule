@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2815:7703894@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Pompton Lakes vs Boonton High School (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7456257@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
@@ -65,6 +74,14 @@ DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Pompton Lakes vs Elmwood Park (Junior Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7689578@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T124100
+DTEND;TZID=America/New_York:20270210T144100
+SUMMARY:Mary Help at Pompton Lakes (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 12:41 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7689578@njicathletics

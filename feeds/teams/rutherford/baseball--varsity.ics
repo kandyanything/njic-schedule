@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2648:7683498@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T160000
+DTEND;TZID=America/New_York:20270330T180000
+SUMMARY:Becton at Rutherford (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7683498@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T160000
@@ -71,20 +79,20 @@ SUMMARY:Midland Park at Rutherford (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7697887@njicathletics
+UID:ds:2703:7697887@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
 DTEND;TZID=America/New_York:20270419T180000
-SUMMARY:Rutherford vs Lyndhurst (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Lyndhurst at Rutherford (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7697908@njicathletics
+UID:ds:2703:7697908@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
 DTEND;TZID=America/New_York:20270421T180000
-SUMMARY:Rutherford at Lyndhurst (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Lyndhurst vs Rutherford (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7702566@njicathletics

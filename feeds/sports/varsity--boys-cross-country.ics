@@ -23,12 +23,52 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2703:7570923@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570925@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7543888@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260912T084500
 DTEND;TZID=America/New_York:20260912T104500
 SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7619733@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7610843@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T110000
+DTEND;TZID=America/New_York:20260912T130000
+SUMMARY:Becton vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7552377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T113000
+DTEND;TZID=America/New_York:20260912T133000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7582816@njicathletics
@@ -63,6 +103,14 @@ SUMMARY:Eastern Christian at New Milford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7539321@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7455728@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T163000
@@ -79,11 +127,27 @@ SUMMARY:Cresskill at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2717:7455728@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:Mary Help at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2763:7455718@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T163000
 DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:North Arlington at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7455718@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:PCSST at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -95,12 +159,36 @@ SUMMARY:Saddle Brook at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2844:7455718@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T163000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:Saddle River Day at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2854:7455728@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T163000
 DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Saint Mary at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7455713@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170500
+DTEND;TZID=America/New_York:20260915T190500
+SUMMARY:Becton at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7455713@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170500
+DTEND;TZID=America/New_York:20260915T190500
+SUMMARY:Dwight-Englewood at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7455713@njicathletics
@@ -116,6 +204,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T170500
 DTEND;TZID=America/New_York:20260915T190500
 SUMMARY:Hawthorne Christian at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7455713@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170500
+DTEND;TZID=America/New_York:20260915T190500
+SUMMARY:Lyndhurst at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -140,6 +236,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T170500
 DTEND;TZID=America/New_York:20260915T190500
 SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7632483@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170500
+DTEND;TZID=America/New_York:20260915T190500
+SUMMARY:Ridgefield Memorial at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -175,21 +279,29 @@ SUMMARY:Glen Rock at Leonia (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7528586@njicathletics
+UID:ds:2644:7610905@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
-SUMMARY:Lodi at Leonia (Varsity Boys Boys Cross Country)
+SUMMARY:Hasbrouck Heights at New Milford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7511954@njicathletics
+UID:ds:2644:7511954@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
-SUMMARY:Pompton Lakes at Hasbrouck Heights (Varsity Boys Boys Cross Count
+SUMMARY:Hasbrouck Heights vs Pompton Lakes (Varsity Boys Boys Cross Count
  ry)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7528586@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Leonia vs Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7506562@njicathletics
@@ -208,12 +320,44 @@ SUMMARY:Saddle Brook at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2844:7621346@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T171000
+DTEND;TZID=America/New_York:20260918T191000
+SUMMARY:Saddle River Day vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:10 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7543891@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T072000
 DTEND;TZID=America/New_York:20260919T092000
 SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 7:20 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7610845@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Becton vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7552388@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570932@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7586814@njicathletics
@@ -224,12 +368,36 @@ SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2831:7630769@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7447930@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
 SUMMARY:Pompton Lakes at Emerson (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7528596@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T163000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:Becton at Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7503368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T163000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:Becton at Elmwood Park (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7503368@njicathletics
@@ -264,6 +432,22 @@ SUMMARY:Harrison at Elmwood Park (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2695:7503368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T163000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:Leonia at Elmwood Park (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7528596@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T163000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:Leonia at Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7503368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T163000
@@ -280,11 +464,27 @@ SUMMARY:Butler at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7505150@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Dwight-Englewood at Rutherford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7505150@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 SUMMARY:Garfield at Rutherford (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7505150@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Lyndhurst at Rutherford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +497,12 @@ SUMMARY:Manchester Regional at Rutherford (Varsity Boys Boys Cross Countr
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7505150@njicathletics
+UID:ds:2648:7610846@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Rutherford vs Lyndhurst (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20260923T163000
+DTEND;TZID=America/New_York:20260923T183000
+SUMMARY:Becton vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7545860@njicathletics
@@ -329,12 +529,12 @@ SUMMARY:Hawthorne Christian at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7545860@njicathletics
+UID:ds:2695:7545860@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T163000
 DTEND;TZID=America/New_York:20260923T183000
-SUMMARY:Lodi at Leonia (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+SUMMARY:Leonia vs Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2785:7632484@njicathletics
@@ -342,6 +542,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T163000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:Palisades Park at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7632484@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T163000
+DTEND;TZID=America/New_York:20260923T183000
+SUMMARY:Ridgefield Memorial at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -361,11 +569,27 @@ SUMMARY:North Arlington at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43406:7461865@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:PCSST at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7461865@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T170500
 DTEND;TZID=America/New_York:20260923T190500
 SUMMARY:Pompton Lakes at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7461865@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T170500
+DTEND;TZID=America/New_York:20260923T190500
+SUMMARY:Saddle River Day at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -391,6 +615,23 @@ DTSTART;TZID=America/New_York:20260923T174000
 DTEND;TZID=America/New_York:20260923T194000
 SUMMARY:Eastern Christian vs New Milford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7511957@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T174000
+DTEND;TZID=America/New_York:20260923T194000
+SUMMARY:Hasbrouck Heights vs Secaucus (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7518222@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T174000
+DTEND;TZID=America/New_York:20260923T194000
+SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Boys Boys Cross C
+ ountry)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:40 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7515208@njicathletics
@@ -436,12 +677,44 @@ SUMMARY:Waldwick at Palisades Park (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:40 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2844:7646037@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:Saddle River Day vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2843:7582830@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T113000
 DTEND;TZID=America/New_York:20260926T133000
 SUMMARY:Saddle Brook at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7491431@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T163000
+DTEND;TZID=America/New_York:20260928T183000
+SUMMARY:Leonia at Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7491431@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T163000
+DTEND;TZID=America/New_York:20260928T183000
+SUMMARY:Lyndhurst at Lodi (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7496372@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Becton at Elmwood Park (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7496372@njicathletics
@@ -476,6 +749,22 @@ SUMMARY:Rutherford at Elmwood Park (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7506564@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Dwight-Englewood at Leonia (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7624377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Dwight-Englewood vs Glen Rock (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7518223@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T163000
@@ -492,12 +781,21 @@ SUMMARY:Eastern Christian vs New Milford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7624377@njicathletics
+UID:ds:2644:7581459@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
-SUMMARY:Glen Rock at Dwight-Englewood (Varsity Boys Boys Cross Country)
+SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Boys Boys Cross C
+ ountry)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7506564@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Leonia vs Lyndhurst (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7506564@njicathletics
@@ -517,6 +815,23 @@ SUMMARY:North Arlington at Eastern Christian (Varsity Boys Boys Cross Cou
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43406:7518223@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:PCSST at Eastern Christian (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7518223@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Saddle River Day at Eastern Christian (Varsity Boys Boys Cross Co
+ untry)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7632485@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T170500
@@ -525,11 +840,27 @@ SUMMARY:Cresskill at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2717:7632485@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T170500
+DTEND;TZID=America/New_York:20260929T190500
+SUMMARY:Mary Help at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7461876@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T170500
 DTEND;TZID=America/New_York:20260929T190500
 SUMMARY:Pompton Lakes at NJIC (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7632485@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T170500
+DTEND;TZID=America/New_York:20260929T190500
+SUMMARY:Ridgefield Memorial at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -549,12 +880,36 @@ SUMMARY:Saint Mary at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7552417@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T110000
+SUMMARY:Hasbrouck Heights at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570935@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2626:7657489@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T132000
 DTEND;TZID=America/New_York:20261003T152000
 SUMMARY:Glen Rock at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 1:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7657972@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T143500
+DTEND;TZID=America/New_York:20261003T163500
+SUMMARY:Saddle River Day vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 2:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7544232@njicathletics
@@ -573,6 +928,14 @@ SUMMARY:Garfield at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7503784@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Becton vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7611490@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
@@ -589,6 +952,14 @@ SUMMARY:Cresskill at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7511961@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2785:7515526@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
@@ -602,6 +973,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T143000
 DTEND;TZID=America/New_York:20261006T163000
 SUMMARY:Pompton Lakes at Emerson (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7476301@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T143000
+DTEND;TZID=America/New_York:20261006T163000
+SUMMARY:Ridgefield Memorial at NJIC (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -627,6 +1006,14 @@ DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:North Arlington vs TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570959@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7647397@njicathletics
@@ -662,6 +1049,38 @@ SUMMARY:Saddle Brook at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2831:7690569@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7698440@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T123000
+DTEND;TZID=America/New_York:20261017T143000
+SUMMARY:Becton vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553151@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T123000
+DTEND;TZID=America/New_York:20261017T143000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570962@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T123000
+DTEND;TZID=America/New_York:20261017T143000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7700195@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T130000
@@ -686,12 +1105,84 @@ SUMMARY:North Arlington vs TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2831:7690188@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T163000
+DTEND;TZID=America/New_York:20261020T183000
+SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7570965@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T090000
+DTEND;TZID=America/New_York:20261024T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553153@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2626:7624390@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T130000
 SUMMARY:Glen Rock at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7610940@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Becton at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7571068@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7610942@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Becton at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7571073@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7690206@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553154@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T100000
+DTEND;TZID=America/New_York:20261031T120000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7633351@njicathletics
@@ -726,6 +1217,22 @@ SUMMARY:Rutherford at TBA NJ (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7610944@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Becton at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2703:7571076@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Lyndhurst at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2843:7582866@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T100000
@@ -740,6 +1247,14 @@ DTSTART;TZID=America/New_York:20261107T113000
 DTEND;TZID=America/New_York:20261107T133000
 SUMMARY:Glen Rock at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553155@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T133000
+DTEND;TZID=America/New_York:20261107T153000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7543957@njicathletics
@@ -764,6 +1279,14 @@ DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T130000
 SUMMARY:Glen Rock at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553156@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261114T110000
+DTEND;TZID=America/New_York:20261114T130000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7543961@njicathletics

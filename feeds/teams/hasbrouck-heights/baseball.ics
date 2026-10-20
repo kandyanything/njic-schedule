@@ -23,6 +23,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2644:7646352@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T161500
+DTEND;TZID=America/New_York:20270315T181500
+SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7577877@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Hasbrouck Heights vs Hackensack High School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7697862@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T160000
+DTEND;TZID=America/New_York:20270401T180000
+SUMMARY:Hasbrouck Heights vs Lyndhurst (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7538333@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T161500
@@ -39,11 +64,19 @@ SUMMARY:Cresskill at Hasbrouck Heights (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7696182@njicathletics
+UID:ds:2644:7646344@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T161500
+DTEND;TZID=America/New_York:20270416T181500
+SUMMARY:Hasbrouck Heights at Ridgefield Memorial (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7696182@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T161500
 DTEND;TZID=America/New_York:20270427T181500
-SUMMARY:Saddle Brook vs Hasbrouck Heights (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Hasbrouck Heights at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

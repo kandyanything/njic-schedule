@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2695:7645688@njicathletics
+UID:ds:2733:7645688@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T180000
 DTEND;TZID=America/New_York:20261207T200000
-SUMMARY:Leonia vs Midland Park (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+SUMMARY:Midland Park at Leonia (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7452927@njicathletics
@@ -56,37 +56,12 @@ SUMMARY:Glen Rock at Kinnelon High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7546416@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T180000
-DTEND;TZID=America/New_York:20261208T200000
-SUMMARY:New Milford vs Tenafly High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7685083@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T173000
-DTEND;TZID=America/New_York:20261209T193000
-SUMMARY:Secaucus at Bloomfield High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7560119@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T180000
 DTEND;TZID=America/New_York:20261209T200000
 SUMMARY:Lodi at Orange High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7550054@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T180000
-DTEND;TZID=America/New_York:20261209T200000
-SUMMARY:Ridgefield Memorial vs Central Jersey College Prep Charter School
-  (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7560119@njicathletics
@@ -104,14 +79,6 @@ DTEND;TZID=America/New_York:20261210T190000
 SUMMARY:Pompton Lakes at Tenafly High School (Junior Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7557821@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T180000
-DTEND;TZID=America/New_York:20261210T200000
-SUMMARY:New Milford vs Fort Lee High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7452929@njicathletics
@@ -154,15 +121,6 @@ SUMMARY:Garfield vs Fort Lee High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7594330@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:Emerson at River Dell Regional High School (Junior Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7560185@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
@@ -186,15 +144,6 @@ DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
 SUMMARY:Lodi at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7552688@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:New Milford at Northern Valley Regional High (Junior Varsity Boys
-  Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7594330@njicathletics
@@ -223,14 +172,6 @@ SUMMARY:Saddle Brook at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7685129@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:Secaucus at Union City High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7670445@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -246,48 +187,6 @@ DTEND;TZID=America/New_York:20261212T120000
 SUMMARY:Cresskill at Mahwah High School (Junior Varsity Boys Boys Wrestli
  ng)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7670445@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Leonia at Mahwah High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7686432@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Leonia at Mahwah High School (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7670445@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Lyndhurst at Mahwah High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7686432@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Lyndhurst at Mahwah High School (Junior Varsity Boys Boys Wrestli
- ng)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7534292@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:New Milford at Northern Valley Regional High (Varsity Boys Boys W
- restling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2785:7670445@njicathletics
@@ -316,29 +215,12 @@ SUMMARY:Rutherford at Northern Valley Regional High (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7690274@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T110000
-DTEND;TZID=America/New_York:20261212T130000
-SUMMARY:Emerson at River Dell Regional High School (Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7477158@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T161500
 DTEND;TZID=America/New_York:20261212T181500
 SUMMARY:Garfield vs Hasbrouck Heights (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2648:7655358@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T173000
-DTEND;TZID=America/New_York:20261214T193000
-SUMMARY:Becton vs Newark Academy (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7452936@njicathletics
@@ -365,14 +247,6 @@ SUMMARY:Elmwood Park at Glen Rock (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7449003@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Emerson at Hawthorne (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7518441@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
@@ -389,15 +263,6 @@ SUMMARY:Glen Rock vs Elmwood Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7476500@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Wrest
- ling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7449003@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
@@ -406,27 +271,11 @@ SUMMARY:Hawthorne vs Emerson (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7510675@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Leonia at Leonia (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7518441@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Lodi at Garfield (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7510675@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Lyndhurst at Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -479,22 +328,6 @@ SUMMARY:Cresskill vs Saddle River Day (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7603452@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T170000
-DTEND;TZID=America/New_York:20261217T190000
-SUMMARY:Becton vs Lyndhurst (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7603452@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T170000
-DTEND;TZID=America/New_York:20261217T190000
-SUMMARY:Lyndhurst at Becton (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7603539@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
@@ -508,15 +341,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Garfield vs Leonia (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7476501@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T180000
-DTEND;TZID=America/New_York:20261217T200000
-SUMMARY:Hasbrouck Heights vs Saddle River Day (Varsity Boys Boys Wrestlin
- g)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -550,30 +374,6 @@ DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T210000
 SUMMARY:Butler at Cresskill (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7449004@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T190000
-DTEND;TZID=America/New_York:20261217T210000
-SUMMARY:Emerson vs New Milford (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7449004@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T190000
-DTEND;TZID=America/New_York:20261217T210000
-SUMMARY:New Milford at Emerson (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7684875@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T170000
-DTEND;TZID=America/New_York:20261218T190000
-SUMMARY:Lyndhurst at Secaucus (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7684875@njicathletics
@@ -626,15 +426,6 @@ SUMMARY:Butler at Mountain Lakes High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7638984@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T090000
-DTEND;TZID=America/New_York:20261219T110000
-SUMMARY:Emerson at Pascack Valley High School (Varsity Boys Boys Wrestlin
- g)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7518444@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T161500
@@ -657,14 +448,6 @@ DTSTART;TZID=America/New_York:20261222T170000
 DTEND;TZID=America/New_York:20261222T190000
 SUMMARY:Hawthorne at Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2648:7655469@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T173000
-DTEND;TZID=America/New_York:20261222T193000
-SUMMARY:Becton at Lodi (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7655469@njicathletics
@@ -755,15 +538,6 @@ SUMMARY:Elmwood Park at Boonton High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7567473@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T150000
-DTEND;TZID=America/New_York:20261223T170000
-SUMMARY:Ridgefield Memorial at Mountain Lakes High School (Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7654811@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000
@@ -787,15 +561,6 @@ DTSTART;TZID=America/New_York:20261223T180000
 DTEND;TZID=America/New_York:20261223T200000
 SUMMARY:Butler at Parsippany High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7638965@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T190000
-DTEND;TZID=America/New_York:20261223T210000
-SUMMARY:Emerson at Westwood Regional Senior High School (Varsity Boys Boy
- s Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7660596@njicathletics
@@ -838,44 +603,11 @@ SUMMARY:Elmwood Park vs Glen Rock (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7699950@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T090000
-DTEND;TZID=America/New_York:20261230T110000
-SUMMARY:Emerson at Metuchen High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7660607@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261230T090000
 DTEND;TZID=America/New_York:20261230T110000
 SUMMARY:Glen Rock at Elmwood Park (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7684933@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T090000
-DTEND;TZID=America/New_York:20261230T110000
-SUMMARY:Secaucus at Bloomfield High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7638993@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270102T090000
-DTEND;TZID=America/New_York:20270102T110000
-SUMMARY:Emerson vs Fair Lawn High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7509504@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270102T090000
-DTEND;TZID=America/New_York:20270102T110000
-SUMMARY:Hasbrouck Heights at Pequannock Township High School (Varsity Boy
- s Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -894,15 +626,6 @@ DTSTART;TZID=America/New_York:20270102T100000
 DTEND;TZID=America/New_York:20270102T120000
 SUMMARY:Butler vs Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7674354@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270102T100000
-DTEND;TZID=America/New_York:20270102T120000
-SUMMARY:New Milford at Westwood Regional Senior High School (Varsity Boys
-  Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7655356@njicathletics
@@ -930,14 +653,6 @@ SUMMARY:Pompton Lakes at Randolph High School (Junior Varsity Boys Boys W
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7655431@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T161500
-DTEND;TZID=America/New_York:20270105T181500
-SUMMARY:Becton at Garfield (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7518449@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T161500
@@ -954,12 +669,12 @@ SUMMARY:Garfield vs Becton (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7605027@njicathletics
+UID:ds:2854:7605027@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T163000
 DTEND;TZID=America/New_York:20270105T183000
-SUMMARY:Saddle River Day at Saint Mary (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
+SUMMARY:Saint Mary vs Saddle River Day (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7603594@njicathletics
@@ -975,14 +690,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Hawthorne at New Milford (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7510684@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T180000
-DTEND;TZID=America/New_York:20270105T200000
-SUMMARY:Leonia at Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1010,38 +717,6 @@ SUMMARY:Cresskill vs Hasbrouck Heights (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7449005@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T190000
-DTEND;TZID=America/New_York:20270105T210000
-SUMMARY:Emerson vs Secaucus (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7449005@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T190000
-DTEND;TZID=America/New_York:20270105T210000
-SUMMARY:Secaucus at Emerson (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2648:7510735@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T170000
-DTEND;TZID=America/New_York:20270107T190000
-SUMMARY:Becton vs Leonia (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7510735@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T170000
-DTEND;TZID=America/New_York:20270107T190000
-SUMMARY:Leonia at Becton (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7510735@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T170000
@@ -1058,14 +733,6 @@ SUMMARY:Elmwood Park vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7449006@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T180000
-DTEND;TZID=America/New_York:20270107T200000
-SUMMARY:Emerson at Pompton Lakes (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7560335@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T180000
@@ -1074,27 +741,11 @@ SUMMARY:Lodi at Lyndhurst (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7560335@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T180000
-DTEND;TZID=America/New_York:20270107T200000
-SUMMARY:Lyndhurst vs Lodi (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7603596@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Manchester Regional vs Rutherford (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7534346@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T180000
-DTEND;TZID=America/New_York:20270107T200000
-SUMMARY:New Milford vs Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1154,15 +805,6 @@ SUMMARY:Midland Park at Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7542892@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T190000
-DTEND;TZID=America/New_York:20270107T210000
-SUMMARY:Ridgefield Memorial vs Saddle River Day (Varsity Boys Boys Wrestl
- ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7541878@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T190000
@@ -1180,35 +822,11 @@ SUMMARY:Hawthorne at Passaic Valley High School (Varsity Boys Boys Wrestl
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7655517@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:Becton at Ridgewood High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7476863@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T090000
-DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Emerson vs Cedar Grove High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7660614@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Glen Rock at Somerville High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7476863@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T090000
-DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Hasbrouck Heights at Emerson (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -1226,6 +844,15 @@ DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Saddle Brook vs Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7703495@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Elmwood Park at River Dell Regional High School (Varsity Boys Boy
+ s Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7567488@njicathletics
@@ -1278,14 +905,6 @@ SUMMARY:Hawthorne at Waldwick (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7645727@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T180000
-DTEND;TZID=America/New_York:20270112T200000
-SUMMARY:New Milford at Leonia (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7647388@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T190000
@@ -1318,22 +937,6 @@ SUMMARY:Rutherford vs Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7605072@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T163000
-DTEND;TZID=America/New_York:20270114T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2648:7655619@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T170000
-DTEND;TZID=America/New_York:20270114T190000
-SUMMARY:Becton vs Parsippany Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7655619@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T170000
@@ -1342,35 +945,11 @@ SUMMARY:Elmwood Park at Becton (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7685223@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T170000
-DTEND;TZID=America/New_York:20270114T190000
-SUMMARY:Secaucus vs Hoboken High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7668201@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T180000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Butler vs Hawthorne (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7476509@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T180000
-DTEND;TZID=America/New_York:20270114T200000
-SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7645713@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T180000
-DTEND;TZID=America/New_York:20270114T200000
-SUMMARY:Leonia vs Teaneck High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1397,14 +976,6 @@ DTEND;VALUE=DATE:20270115
 SUMMARY:Elmwood Park vs Parsippany High School (Varsity Boys Boys Wrestli
  ng)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7685146@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T170000
-DTEND;TZID=America/New_York:20270115T190000
-SUMMARY:Secaucus at Orange High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7609183@njicathletics
@@ -1458,14 +1029,6 @@ SUMMARY:Garfield vs River Dell Regional High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7605064@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T163000
-DTEND;TZID=America/New_York:20270116T183000
-SUMMARY:Saddle River Day vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7452943@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T220000
@@ -1483,14 +1046,6 @@ SUMMARY:Glen Rock at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7605063@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270117T140300
-DTEND;TZID=America/New_York:20270117T160300
-SUMMARY:Saddle River Day vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 2:03 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7452946@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T090000
@@ -1506,15 +1061,6 @@ DTSTART;TZID=America/New_York:20270119T170000
 DTEND;TZID=America/New_York:20270119T190000
 SUMMARY:Cresskill at Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7650137@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T170000
-DTEND;TZID=America/New_York:20270119T190000
-SUMMARY:New Milford vs Cranford High School (Junior Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7647393@njicathletics
@@ -1550,14 +1096,6 @@ SUMMARY:Lodi at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7573665@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T180000
-DTEND;TZID=America/New_York:20270119T200000
-SUMMARY:New Milford vs Cranford High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7452944@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T180000
@@ -1574,28 +1112,12 @@ SUMMARY:Saddle Brook at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7655786@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T170000
-DTEND;TZID=America/New_York:20270120T190000
-SUMMARY:Becton at Union City High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7690878@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Rutherford vs Eastside High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7605076@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T163000
-DTEND;TZID=America/New_York:20270121T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7648855@njicathletics
@@ -1606,14 +1128,6 @@ SUMMARY:Cresskill at Hawthorne (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7476510@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T180000
-DTEND;TZID=America/New_York:20270121T200000
-SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7691368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T180000
@@ -1622,29 +1136,12 @@ SUMMARY:Midland Park at Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7649846@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T180000
-DTEND;TZID=America/New_York:20270121T200000
-SUMMARY:New Milford vs Pope John XXIII High School (Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7691368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T180000
 DTEND;TZID=America/New_York:20270121T200000
 SUMMARY:Waldwick at Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7552686@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T170000
-DTEND;TZID=America/New_York:20270122T190000
-SUMMARY:Secaucus at Fort Lee High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7647395@njicathletics
@@ -1671,14 +1168,6 @@ SUMMARY:Lodi at Rutherford (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7534353@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T180000
-DTEND;TZID=America/New_York:20270122T200000
-SUMMARY:New Milford vs Elmwood Park (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7560930@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T180000
@@ -1703,14 +1192,6 @@ SUMMARY:Butler at Mount Olive High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7653691@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Emerson at Emerson (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7623875@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
@@ -1727,23 +1208,6 @@ SUMMARY:Glen Rock vs Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7562860@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Hasbrouck Heights at Bernards High School (Varsity Boys Boys Wres
- tling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7623875@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Leonia at Glen Rock (Var-JV Boys Boys Wrestling)
-DESCRIPTION:Var-JV Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7562860@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
@@ -1757,14 +1221,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
 DTEND;TZID=America/New_York:20270123T110000
 SUMMARY:Lodi at Fort Lee High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7608115@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Lyndhurst at Belleville High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -1792,15 +1248,6 @@ SUMMARY:Saddle Brook at Fort Lee High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7503726@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T170000
-DTEND;TZID=America/New_York:20270125T190000
-SUMMARY:Secaucus vs Cliffside Park High School (Varsity Boys Boys Wrestli
- ng)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7452950@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T170000
@@ -1817,44 +1264,11 @@ SUMMARY:Butler vs Pompton Lakes (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7645717@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T180000
-DTEND;TZID=America/New_York:20270126T200000
-SUMMARY:Leonia vs Dumont High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2648:7655888@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T170000
-DTEND;TZID=America/New_York:20270127T190000
-SUMMARY:Becton at Secaucus (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7655888@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T170000
-DTEND;TZID=America/New_York:20270127T190000
-SUMMARY:Secaucus vs Becton (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7541900@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T180000
 DTEND;TZID=America/New_York:20270127T200000
 SUMMARY:Glen Rock vs TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7670061@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T180000
-DTEND;TZID=America/New_York:20270127T200000
-SUMMARY:Hasbrouck Heights vs Chatham High School (Varsity Boys Boys Wrest
- ling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1900,14 +1314,6 @@ SUMMARY:Pompton Lakes vs Delaware Valley Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7636931@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T170000
-DTEND;TZID=America/New_York:20270129T190000
-SUMMARY:Becton vs Ridgefield Memorial (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7648474@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T170000
@@ -1915,14 +1321,6 @@ DTEND;TZID=America/New_York:20270129T190000
 SUMMARY:Butler at Wayne Hills High School (Junior Varsity Boys Boys Wrest
  ling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2831:7636931@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T170000
-DTEND;TZID=America/New_York:20270129T190000
-SUMMARY:Ridgefield Memorial at Becton (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7636931@njicathletics
@@ -1966,14 +1364,6 @@ SUMMARY:Lodi at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7608119@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T180000
-DTEND;TZID=America/New_York:20270129T200000
-SUMMARY:Lyndhurst at Bloomfield High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7692036@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
@@ -1982,45 +1372,12 @@ SUMMARY:Manchester Regional vs Pompton Lakes (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7534370@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T180000
-DTEND;TZID=America/New_York:20270129T200000
-SUMMARY:New Milford at Lodi (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7534370@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000
 SUMMARY:Saddle Brook at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7685065@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T183000
-DTEND;TZID=America/New_York:20270129T203000
-SUMMARY:Secaucus vs Hackensack High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7639171@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T190000
-DTEND;TZID=America/New_York:20270129T210000
-SUMMARY:Emerson at Pascack Hills High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7562706@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T190000
-DTEND;TZID=America/New_York:20270129T210000
-SUMMARY:Hasbrouck Heights at North Bergen High School (Varsity Boys Boys 
- Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7647402@njicathletics
@@ -2049,23 +1406,6 @@ SUMMARY:Elmwood Park at Northern Valley Regional High (Junior Varsity Boy
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7699286@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T090000
-DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Emerson vs South Plainfield High School (Junior Varsity Boys Boys
-  Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2703:7608905@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T090000
-DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Lyndhurst at Dumont High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7551176@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -2073,23 +1413,6 @@ DTEND;TZID=America/New_York:20270130T120000
 SUMMARY:Elmwood Park at Northern Valley Regional High (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7494229@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T100000
-DTEND;TZID=America/New_York:20270130T120000
-SUMMARY:Emerson vs South Plainfield High School (Varsity Boys Boys Wrestl
- ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7510010@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T100000
-DTEND;TZID=America/New_York:20270130T120000
-SUMMARY:Hasbrouck Heights vs PCSST (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7561823@njicathletics
@@ -2115,14 +1438,6 @@ DTEND;TZID=America/New_York:20270130T120000
 SUMMARY:Saddle Brook at Belleville High School (Varsity Boys Boys Wrestli
  ng)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7605084@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T163000
-DTEND;TZID=America/New_York:20270130T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7668548@njicathletics
@@ -2192,14 +1507,6 @@ SUMMARY:Saddle Brook at Hackensack High School (Varsity Boys Boys Wrestli
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7656363@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T173000
-DTEND;TZID=America/New_York:20270204T193000
-SUMMARY:Becton vs Hawthorne (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7656363@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T173000
@@ -2241,14 +1548,6 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Pompton Lakes vs Wallkill Valley Regional High School (Junior Var
  sity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7685073@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T170000
-DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Secaucus vs Belleville High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7551199@njicathletics
@@ -2302,14 +1601,6 @@ SUMMARY:Pompton Lakes vs Wallkill Valley Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7683166@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T180000
-DTEND;TZID=America/New_York:20270205T200000
-SUMMARY:Ridgefield Memorial at Elmwood Park (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7561862@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T180000
@@ -2333,14 +1624,6 @@ DTSTART;TZID=America/New_York:20270206T090000
 DTEND;TZID=America/New_York:20270206T110000
 SUMMARY:Elmwood Park at Cliffside Park High School (Varsity Boys Boys Wre
  stling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7661674@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T090000
-DTEND;TZID=America/New_York:20270206T110000
-SUMMARY:Leonia at Indian Hills High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -2412,20 +1695,22 @@ SUMMARY:Saint Mary at Fair Lawn High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7685197@njicathletics
+UID:ds:2646:7595215@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270213T090000
-DTEND;TZID=America/New_York:20270213T110000
-SUMMARY:Secaucus vs TBA NJ (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+DTSTART;TZID=America/New_York:20270213T093000
+DTEND;TZID=America/New_York:20270213T113000
+SUMMARY:Hawthorne at River Dell Regional High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7551356@njicathletics
+UID:ds:2710:7595215@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-SUMMARY:Ridgefield Memorial at TBA NJ (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DTSTART;TZID=America/New_York:20270213T093000
+DTEND;TZID=America/New_York:20270213T113000
+SUMMARY:Manchester Regional at River Dell Regional High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7647411@njicathletics
@@ -2434,29 +1719,5 @@ DTSTART;TZID=America/New_York:20270220T090000
 DTEND;TZID=America/New_York:20270220T110000
 SUMMARY:Butler at West Milford High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7605096@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270225T163000
-DTEND;TZID=America/New_York:20270225T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7605099@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270226T163000
-DTEND;TZID=America/New_York:20270226T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7605101@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270227T163000
-DTEND;TZID=America/New_York:20270227T183000
-SUMMARY:Saddle River Day at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 END:VCALENDAR

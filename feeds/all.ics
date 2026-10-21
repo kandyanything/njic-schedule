@@ -24886,20 +24886,20 @@ SUMMARY:Manchester Regional at Eastside High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7511235@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Midland Park vs Waldwick (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7508889@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Midland Park at Waldwick (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7511235@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Midland Park vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7579819@njicathletics
@@ -28714,15 +28714,6 @@ SUMMARY:Midland Park vs Waldwick (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7564397@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T161500
-DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:Midland Park at Saddle River Day (Middle School Girls Girls Volle
- yball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7564482@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
@@ -28730,6 +28721,15 @@ DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Midland Park at Haledon Middle School (Middle School Girls Girls 
  Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7564397@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Midland Park at Saddle River Day (Middle School Girls Girls Volle
+ yball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7455215@njicathletics
@@ -33137,6 +33137,14 @@ SUMMARY:Mary Help at Golda Och Academy (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706400@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T163000
+DTEND;TZID=America/New_York:20261021T183000
+SUMMARY:Secaucus vs Bayonne High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2695:7515501@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T164500
@@ -34718,6 +34726,14 @@ SUMMARY:Cresskill at North Arlington (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7706240@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T183000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Garfield vs Waldwick (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2703:7689567@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T183000
@@ -34775,14 +34791,6 @@ SUMMARY:Hasbrouck Heights vs Wood-Ridge (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7458138@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T190000
-DTEND;TZID=America/New_York:20261023T210000
-SUMMARY:Midland Park at TBA NJ (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7689383@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T190000
@@ -34796,14 +34804,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Secaucus at Dunellen High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7458138@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T190000
-DTEND;TZID=America/New_York:20261023T210000
-SUMMARY:Waldwick at TBA NJ (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -36115,6 +36115,14 @@ SUMMARY:Wood-Ridge at Elmwood Park (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7706555@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Becton vs Hawthorne Christian (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2541:7440011@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T161500
@@ -36162,6 +36170,14 @@ DTSTART;TZID=America/New_York:20261027T161500
 DTEND;TZID=America/New_York:20261027T181500
 SUMMARY:Glen Rock at Lyndhurst (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7706555@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T161500
+DTEND;TZID=America/New_York:20261027T181500
+SUMMARY:Hawthorne Christian at Becton (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7440051@njicathletics
@@ -38402,6 +38418,14 @@ SUMMARY:Rutherford at Saint Mary (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706134@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Secaucus vs Weehawken (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2918:7575503@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -39019,6 +39043,14 @@ SUMMARY:Elmwood Park at Essex County West Caldwell Tech (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2643:7706545@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T163000
+DTEND;TZID=America/New_York:20261209T183000
+SUMMARY:Harrison vs Bergen Charter (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2695:7536751@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T163000
@@ -39084,6 +39116,14 @@ DTSTART;TZID=America/New_York:20261210T092500
 DTEND;TZID=America/New_York:20261210T112500
 SUMMARY:Secaucus vs Weehawken (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 9:25 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7706139@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Bogota at Secaucus (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7687338@njicathletics
@@ -39301,6 +39341,14 @@ DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Saint Mary at Wallington (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706139@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Secaucus vs Bogota (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2948:7684835@njicathletics
@@ -40178,14 +40226,6 @@ SUMMARY:Elmwood Park at Hasbrouck Heights (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7458089@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Emerson vs Fort Lee High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7676691@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -40950,6 +40990,14 @@ SUMMARY:Rutherford vs Wallington (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706186@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Secaucus vs TBA NJ (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2918:7684856@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -41654,6 +41702,15 @@ DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Garfield at Pompton Lakes (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2763:7550702@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:North Arlington at Secaucus (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7652720@njicathletics
@@ -43177,6 +43234,14 @@ SUMMARY:North Arlington at Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2785:7706193@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Palisades Park at Secaucus (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:43406:7527095@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T160000
@@ -43201,6 +43266,14 @@ SUMMARY:Pompton Lakes vs Ramapo High School (Varsity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706193@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Secaucus vs Palisades Park (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2948:7685404@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T160000
@@ -43223,6 +43296,14 @@ DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
 SUMMARY:Bogota at Dwight-Englewood (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7690232@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Bogota vs Secaucus (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7501605@njicathletics
@@ -43509,6 +43590,14 @@ DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Leonia vs Palisades Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536988@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Leonia at Secaucus (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7564539@njicathletics
@@ -43904,6 +43993,14 @@ DTSTART;TZID=America/New_York:20261223T140000
 DTEND;TZID=America/New_York:20261223T160000
 SUMMARY:Garfield vs Bergen County Technical High School (Varsity Girls Gi
  rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706696@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T140000
+DTEND;TZID=America/New_York:20261223T160000
+SUMMARY:Secaucus vs Midland Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -44460,6 +44557,15 @@ DTSTART;TZID=America/New_York:20261229T190000
 DTEND;TZID=America/New_York:20261229T210000
 SUMMARY:Wallington at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7706661@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Hasbrouck Heights at Academy of the Holy Angels (Junior Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7699950@njicathletics
@@ -46162,6 +46268,14 @@ SUMMARY:Manchester Regional at Glen Rock (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2763:7706197@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:North Arlington at Secaucus (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2815:7683321@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
@@ -46184,6 +46298,14 @@ DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Secaucus vs Lyndhurst (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706197@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Secaucus vs North Arlington (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7683555@njicathletics
@@ -47147,6 +47269,14 @@ SUMMARY:Pompton Lakes vs Passaic Charter (Junior Varsity Girls Girls Bask
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:43406:7706548@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T124500
+DTEND;TZID=America/New_York:20270109T144500
+SUMMARY:PCSST at Ridgewood High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7656020@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T130000
@@ -47353,6 +47483,14 @@ SUMMARY:Pompton Lakes at Secaucus (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7501741@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T161500
+DTEND;TZID=America/New_York:20270111T181500
+SUMMARY:Becton vs Secaucus (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7539323@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
@@ -47472,6 +47610,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
 DTEND;TZID=America/New_York:20270111T181500
 SUMMARY:Saddle Brook at Wallington (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7501741@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T161500
+DTEND;TZID=America/New_York:20270111T181500
+SUMMARY:Secaucus at Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -48644,6 +48790,14 @@ SUMMARY:Wallington vs Wallington (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2626:7541684@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Glen Rock vs Secaucus (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2695:7536993@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
@@ -49088,6 +49242,14 @@ SUMMARY:Bogota vs Dwight-Englewood (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7690236@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T161500
+DTEND;TZID=America/New_York:20270115T181500
+SUMMARY:Bogota at Secaucus (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7501773@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
@@ -49191,6 +49353,14 @@ DTSTART;TZID=America/New_York:20270115T163000
 DTEND;TZID=America/New_York:20270115T183000
 SUMMARY:Hawthorne at Pompton Lakes (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536870@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Leonia vs Secaucus (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7603828@njicathletics
@@ -49380,6 +49550,14 @@ DTSTART;TZID=America/New_York:20270115T180000
 DTEND;TZID=America/New_York:20270115T200000
 SUMMARY:Hawthorne at Pompton Lakes (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536994@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T180000
+DTEND;TZID=America/New_York:20270115T200000
+SUMMARY:Leonia vs Secaucus (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7603827@njicathletics
@@ -49940,6 +50118,14 @@ DTSTART;TZID=America/New_York:20270119T160000
 DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:Secaucus vs Becton (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706201@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Secaucus vs Weehawken (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2948:7684789@njicathletics
@@ -50688,6 +50874,14 @@ SUMMARY:Lyndhurst vs New Milford (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2758:7537352@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:New Milford vs Secaucus (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7690878@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
@@ -50798,6 +50992,14 @@ DTSTART;TZID=America/New_York:20270120T190000
 DTEND;TZID=America/New_York:20270120T210000
 SUMMARY:Wood-Ridge vs Emerson (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7706204@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Bogota at Secaucus (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7687360@njicathletics
@@ -50926,6 +51128,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Rutherford vs Hasbrouck Heights (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706204@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Secaucus vs Bogota (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -51216,6 +51426,14 @@ SUMMARY:Dwight-Englewood at Lyndhurst (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2602:7485038@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Eastern Christian vs Secaucus (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7448996@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T161500
@@ -51398,6 +51616,15 @@ DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Cresskill at Manchester Regional (Junior Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7485039@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Eastern Christian vs Secaucus (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7456768@njicathletics
@@ -53016,6 +53243,14 @@ SUMMARY:Rutherford vs Wallington (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706216@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Secaucus vs TBA NJ (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2918:7684925@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -54560,6 +54795,22 @@ DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
 SUMMARY:Mary Help at Hawthorne Christian (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2785:7706219@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Palisades Park at Secaucus (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7706219@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Secaucus vs Palisades Park (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7683525@njicathletics
@@ -56344,6 +56595,14 @@ SUMMARY:North Arlington vs Park Ridge (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7706238@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Secaucus vs TBA NJ (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2541:7523325@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T161500
@@ -57625,6 +57884,15 @@ SUMMARY:Rutherford at West Essex High School (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7698976@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T161500
+DTEND;TZID=America/New_York:20270216T181500
+SUMMARY:Secaucus at North Bergen High School (Middle School Girls Girls B
+ asketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7485059@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T163000
@@ -57649,6 +57917,15 @@ DTEND;TZID=America/New_York:20270216T183000
 SUMMARY:Hawthorne Christian vs Palisades Park (Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7699108@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T171500
+DTEND;TZID=America/New_York:20270216T191500
+SUMMARY:Secaucus at North Bergen High School (Middle School Boys Boys Bas
+ ketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456314@njicathletics

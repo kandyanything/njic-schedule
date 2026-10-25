@@ -2,6 +2,10 @@
   "_comment": "Rolling log of schedule-refresh runs, newest first. ok=false means the run happened but the build failed, so the data is unchanged.",
   "checks": [
     {
+      "at": "2026-10-25T13:47:29Z",
+      "ok": true
+    },
+    {
       "at": "2026-10-25T08:01:27Z",
       "ok": false
     },
@@ -283,10 +287,6 @@
     },
     {
       "at": "2026-10-17T19:22:25Z",
-      "ok": true
-    },
-    {
-      "at": "2026-10-17T18:23:58Z",
       "ok": true
     }
   ]

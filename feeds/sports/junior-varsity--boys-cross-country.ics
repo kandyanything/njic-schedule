@@ -23,11 +23,54 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2621:7500204@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Garfield vs Eastern Christian (Junior Varsity Boys Boys Cross Cou
+ ntry)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7501415@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Garfield vs Cliffside Park High School (Junior Varsity Boys Boys 
+ Cross Country)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7690108@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T091000
+DTEND;TZID=America/New_York:20261017T111000
+SUMMARY:Glen Rock at TBD (Junior Varsity Boys Boys Cross Country)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Away - 9:10 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7500214@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Garfield vs Eastern Christian (Junior Varsity Boys Boys Cross Cou
+ ntry)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7699504@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000
 DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Becton vs TBD (Junior Varsity Boys Boys Cross Country)
 DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7656475@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Glen Rock at TBD (Junior Varsity Boys Boys Cross Country)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

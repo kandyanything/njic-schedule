@@ -65,14 +65,6 @@ SUMMARY:Rutherford at Wallington (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7477032@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T161500
-DTEND;TZID=America/New_York:20261214T181500
-SUMMARY:Rutherford vs Ridgefield Memorial (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7724114@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T173000
@@ -82,21 +74,37 @@ SUMMARY:Rutherford vs Ridgefield Memorial (Junior Varsity Boys Boys Baske
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7636814@njicathletics
+UID:ds:2841:7477032@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T161500
-DTEND;TZID=America/New_York:20261216T181500
-SUMMARY:Dwight-Englewood vs Rutherford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+DTSTART;TZID=America/New_York:20261214T190000
+DTEND;TZID=America/New_York:20261214T210000
+SUMMARY:Rutherford vs Ridgefield Memorial (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7724128@njicathletics
+UID:ds:2598:7724157@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Dwight-Englewood vs Rutherford (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7724128@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
-SUMMARY:Rutherford at Dwight-Englewood (Junior Varsity Boys Boys Basketba
+SUMMARY:Dwight-Englewood vs Rutherford (Junior Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7636814@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Dwight-Englewood vs Rutherford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7539201@njicathletics
@@ -148,6 +156,23 @@ SUMMARY:Manchester Regional at Rutherford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2841:7724181@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Rutherford at Saddle River Day (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724180@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Rutherford at Saddle River Day (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7636818@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T190000
@@ -156,12 +181,44 @@ SUMMARY:Rutherford at Saddle River Day (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2841:7724189@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Rutherford vs Weehawken (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724192@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Rutherford vs Weehawken (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7636819@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Rutherford vs Weehawken (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724214@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Rutherford vs Saint Mary (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724200@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Rutherford vs Saint Mary (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7636823@njicathletics
@@ -245,12 +302,47 @@ SUMMARY:Lyndhurst at Rutherford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2841:7724218@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Rutherford vs Saddle River Day (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724238@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Rutherford vs Saddle River Day (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7636851@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Rutherford vs Saddle River Day (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724260@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Rutherford vs West Essex High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724247@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Rutherford vs West Essex High School (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7638352@njicathletics
@@ -295,6 +387,22 @@ SUMMARY:North Arlington at Rutherford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2841:7724279@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+SUMMARY:Rutherford at Weehawken (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724283@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Rutherford at Weehawken (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7636882@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T190000
@@ -303,12 +411,93 @@ SUMMARY:Rutherford at Weehawken (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2609:7724332@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Emerson at Rutherford (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724332@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Rutherford vs Emerson (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7724319@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Emerson at Rutherford (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724319@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Rutherford vs Emerson (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7724288@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Emerson at Rutherford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724288@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Rutherford vs Emerson (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724354@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Rutherford vs Memorial High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724348@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Rutherford vs Memorial High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2841:7638368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T190000
 DTEND;TZID=America/New_York:20270208T210000
 SUMMARY:Rutherford vs Memorial High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724380@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Rutherford vs PCSST (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7724372@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T173000
+DTEND;TZID=America/New_York:20270212T193000
+SUMMARY:Rutherford vs PCSST (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7638440@njicathletics

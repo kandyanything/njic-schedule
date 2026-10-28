@@ -23,11 +23,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2723:7721309@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:Elmwood Park at Lodi (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7721309@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Lodi vs Elmwood Park (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7702764@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Elmwood Park vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7683585@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T181500
+DTEND;TZID=America/New_York:20270128T201500
+SUMMARY:Elmwood Park vs Union City High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7544611@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Elmwood Park at Cliffside Park High School (Varsity Girls Girls W
+ restling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 END:VCALENDAR

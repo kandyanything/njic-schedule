@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2723:7529141@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260824T153000
-DTEND;TZID=America/New_York:20260824T173000
-SUMMARY:Elmwood Park at New Milford (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7529141@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T153000
@@ -332,14 +324,6 @@ SUMMARY:New Milford at Rutherford (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7529157@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:Elmwood Park at New Milford (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7529157@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
@@ -469,13 +453,13 @@ SUMMARY:Cresskill vs New Milford (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7568810@njicathletics
+UID:ds:2758:7568810@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T161500
 DTEND;TZID=America/New_York:20261007T181500
-SUMMARY:Eastern Christian vs New Milford (Middle School Girls Girls Volle
+SUMMARY:New Milford at Eastern Christian (Middle School Girls Girls Volle
  yball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7678163@njicathletics
@@ -588,14 +572,6 @@ SUMMARY:Bogota vs New Milford (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7706852@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:Elmwood Park vs New Milford (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7706852@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T161500
@@ -680,9 +656,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7723550@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T161500
-DTEND;TZID=America/New_York:20261029T181500
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:New Milford vs Bergen Charter (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -23,22 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2723:7530674@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T161500
-DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Elmwood Park at Wood-Ridge (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7652987@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T161500
-DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Elmwood Park at Wood-Ridge (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7530674@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
@@ -55,46 +39,12 @@ SUMMARY:Wood-Ridge vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7485245@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Elmwood Park at Hasbrouck Heights (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7485245@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T120000
 SUMMARY:Hasbrouck Heights vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7651322@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T163000
-DTEND;TZID=America/New_York:20261214T183000
-SUMMARY:Elmwood Park at Bergen County Technical High School (Varsity Boys
-  Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7690149@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T180000
-DTEND;TZID=America/New_York:20261214T200000
-SUMMARY:Elmwood Park at Bergen County Technical High School (Junior Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681603@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T161500
-DTEND;TZID=America/New_York:20261216T181500
-SUMMARY:Elmwood Park vs Secaucus (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7681603@njicathletics
@@ -105,28 +55,12 @@ SUMMARY:Secaucus at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681479@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T173000
-DTEND;TZID=America/New_York:20261216T193000
-SUMMARY:Elmwood Park vs Secaucus (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7681479@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Secaucus at Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681298@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T190000
-DTEND;TZID=America/New_York:20261216T210000
-SUMMARY:Elmwood Park vs Secaucus (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7681298@njicathletics
@@ -137,28 +71,12 @@ SUMMARY:Secaucus at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681604@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T161500
-DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Elmwood Park vs Hawthorne (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7681604@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
 SUMMARY:Hawthorne at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681480@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T173000
-DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Elmwood Park vs Hawthorne (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7681480@njicathletics
@@ -169,28 +87,12 @@ SUMMARY:Hawthorne at Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681301@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T190000
-DTEND;TZID=America/New_York:20261218T210000
-SUMMARY:Elmwood Park vs Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7681301@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Hawthorne at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681605@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T161500
-DTEND;TZID=America/New_York:20261221T181500
-SUMMARY:Elmwood Park vs Midland Park (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7681605@njicathletics
@@ -201,28 +103,12 @@ SUMMARY:Midland Park at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681481@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T173000
-DTEND;TZID=America/New_York:20261221T193000
-SUMMARY:Elmwood Park vs Midland Park (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7681481@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Midland Park at Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681303@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T190000
-DTEND;TZID=America/New_York:20261221T210000
-SUMMARY:Elmwood Park vs Midland Park (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7681303@njicathletics
@@ -233,29 +119,12 @@ SUMMARY:Midland Park at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7456366@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T163000
-DTEND;TZID=America/New_York:20270104T183000
-SUMMARY:Elmwood Park at Pompton Lakes (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7456366@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T163000
 DTEND;TZID=America/New_York:20270104T183000
 SUMMARY:Pompton Lakes vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7456367@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T180000
-DTEND;TZID=America/New_York:20270104T200000
-SUMMARY:Elmwood Park at Pompton Lakes (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456367@njicathletics
@@ -267,28 +136,12 @@ SUMMARY:Pompton Lakes vs Elmwood Park (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681606@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T161500
-DTEND;TZID=America/New_York:20270106T181500
-SUMMARY:Elmwood Park vs Waldwick (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7681606@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T161500
 DTEND;TZID=America/New_York:20270106T181500
 SUMMARY:Waldwick at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681482@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T173000
-DTEND;TZID=America/New_York:20270106T193000
-SUMMARY:Elmwood Park vs Waldwick (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7681482@njicathletics
@@ -299,36 +152,12 @@ SUMMARY:Waldwick at Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681305@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T190000
-DTEND;TZID=America/New_York:20270106T210000
-SUMMARY:Elmwood Park vs Waldwick (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7681305@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T190000
 DTEND;TZID=America/New_York:20270106T210000
 SUMMARY:Waldwick at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681477@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T161500
-DTEND;TZID=America/New_York:20270108T181500
-SUMMARY:Elmwood Park at New Milford (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681601@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T161500
-DTEND;TZID=America/New_York:20270108T181500
-SUMMARY:Elmwood Park at New Milford (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7681477@njicathletics
@@ -347,14 +176,6 @@ SUMMARY:New Milford vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7537351@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T180000
-DTEND;TZID=America/New_York:20270108T200000
-SUMMARY:Elmwood Park at New Milford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7537351@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T180000
@@ -363,29 +184,12 @@ SUMMARY:New Milford vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681599@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T161500
-DTEND;TZID=America/New_York:20270111T181500
-SUMMARY:Elmwood Park vs Hasbrouck Heights (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7681599@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
 DTEND;TZID=America/New_York:20270111T181500
 SUMMARY:Hasbrouck Heights at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7651112@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T173000
-DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Elmwood Park vs Hasbrouck Heights (Junior Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7651112@njicathletics
@@ -397,28 +201,12 @@ SUMMARY:Hasbrouck Heights at Elmwood Park (Junior Varsity Boys Boys Baske
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7485183@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T190000
-DTEND;TZID=America/New_York:20270111T210000
-SUMMARY:Elmwood Park vs Hasbrouck Heights (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7485183@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T190000
 DTEND;TZID=America/New_York:20270111T210000
 SUMMARY:Hasbrouck Heights at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681607@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
-SUMMARY:Elmwood Park at Hawthorne (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7681607@njicathletics
@@ -429,28 +217,12 @@ SUMMARY:Hawthorne vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681483@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T173000
-DTEND;TZID=America/New_York:20270113T193000
-SUMMARY:Elmwood Park at Hawthorne (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7681483@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Hawthorne vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681316@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T190000
-DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Elmwood Park at Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7681316@njicathletics
@@ -461,28 +233,12 @@ SUMMARY:Hawthorne vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681608@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T161500
-DTEND;TZID=America/New_York:20270115T181500
-SUMMARY:Elmwood Park at Midland Park (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7681608@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
 SUMMARY:Midland Park vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681484@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T173000
-DTEND;TZID=America/New_York:20270115T193000
-SUMMARY:Elmwood Park at Midland Park (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7681484@njicathletics
@@ -493,28 +249,12 @@ SUMMARY:Midland Park vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681320@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T190000
-DTEND;TZID=America/New_York:20270115T210000
-SUMMARY:Elmwood Park at Midland Park (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7681320@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
 SUMMARY:Midland Park vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681600@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Elmwood Park at Garfield (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7681600@njicathletics
@@ -525,28 +265,12 @@ SUMMARY:Garfield vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7676435@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T173000
-DTEND;TZID=America/New_York:20270120T193000
-SUMMARY:Elmwood Park at Garfield (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7676435@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
 SUMMARY:Garfield vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7511826@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T190000
-DTEND;TZID=America/New_York:20270120T210000
-SUMMARY:Elmwood Park at Garfield (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7511826@njicathletics
@@ -557,29 +281,12 @@ SUMMARY:Garfield vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7534838@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T160000
-DTEND;TZID=America/New_York:20270122T180000
-SUMMARY:Elmwood Park at Wood-Ridge (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2948:7534838@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T160000
 DTEND;TZID=America/New_York:20270122T180000
 SUMMARY:Wood-Ridge vs Elmwood Park (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7456768@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T173000
-DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Elmwood Park vs Pompton Lakes (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456768@njicathletics
@@ -591,55 +298,12 @@ SUMMARY:Pompton Lakes at Elmwood Park (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7456767@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T190000
-DTEND;TZID=America/New_York:20270122T210000
-SUMMARY:Elmwood Park vs Pompton Lakes (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7456767@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
 SUMMARY:Pompton Lakes at Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7538961@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T100000
-DTEND;TZID=America/New_York:20270123T120000
-SUMMARY:Elmwood Park at Wayne Valley High School (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7538960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T113000
-DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Elmwood Park at Wayne Valley High School (Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7538962@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T113000
-DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Elmwood Park at Wayne Valley High School (Freshman Boys Boys Bask
- etball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7550865@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T161500
-DTEND;TZID=America/New_York:20270129T181500
-SUMMARY:Elmwood Park at Lodi (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7550865@njicathletics
@@ -650,28 +314,12 @@ SUMMARY:Lodi vs Elmwood Park (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681609@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T161500
-DTEND;TZID=America/New_York:20270201T181500
-SUMMARY:Elmwood Park at Waldwick (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7681609@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T161500
 DTEND;TZID=America/New_York:20270201T181500
 SUMMARY:Waldwick vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681485@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T173000
-DTEND;TZID=America/New_York:20270201T193000
-SUMMARY:Elmwood Park at Waldwick (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7681485@njicathletics
@@ -682,28 +330,12 @@ SUMMARY:Waldwick vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681338@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T190000
-DTEND;TZID=America/New_York:20270201T210000
-SUMMARY:Elmwood Park at Waldwick (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7681338@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T190000
 DTEND;TZID=America/New_York:20270201T210000
 SUMMARY:Waldwick vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681602@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T161500
-DTEND;TZID=America/New_York:20270203T181500
-SUMMARY:Elmwood Park vs New Milford (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7681602@njicathletics
@@ -714,14 +346,6 @@ SUMMARY:New Milford at Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681478@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T173000
-DTEND;TZID=America/New_York:20270203T193000
-SUMMARY:Elmwood Park vs New Milford (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7681478@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
@@ -730,46 +354,11 @@ SUMMARY:New Milford at Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7604515@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T170000
-DTEND;TZID=America/New_York:20270206T190000
-SUMMARY:Elmwood Park at River Dell Regional High School (Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7550927@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270210T161500
-DTEND;TZID=America/New_York:20270210T181500
-SUMMARY:Elmwood Park vs Lodi (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7550927@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T161500
 DTEND;TZID=America/New_York:20270210T181500
 SUMMARY:Lodi at Elmwood Park (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7699905@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T163000
-DTEND;TZID=America/New_York:20270218T183000
-SUMMARY:Elmwood Park vs Science Park High School (Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7699923@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270218T180000
-DTEND;TZID=America/New_York:20270218T200000
-SUMMARY:Elmwood Park vs Science Park High School (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR

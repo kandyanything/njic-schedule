@@ -23,15 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2723:7605538@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T160000
-DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:Elmwood Park at Manchester Regional (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7605538@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -58,21 +49,21 @@ SUMMARY:Dwight-Englewood vs Tenafly High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485060@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T161500
-DTEND;TZID=America/New_York:20261207T181500
-SUMMARY:Eastern Christian at Hasbrouck Heights (Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7649139@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T161500
 DTEND;TZID=America/New_York:20261207T181500
 SUMMARY:Emerson vs Northern Valley Regional High (Varsity Girls Girls Bas
  ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7485060@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T161500
+DTEND;TZID=America/New_York:20261207T181500
+SUMMARY:Hasbrouck Heights vs Eastern Christian (Varsity Girls Girls Baske
+ tball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -222,15 +213,6 @@ SUMMARY:Cresskill vs Tenafly High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485063@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T161500
-DTEND;TZID=America/New_York:20261209T181500
-SUMMARY:Eastern Christian vs Wayne Hills High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7690008@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T161500
@@ -255,15 +237,6 @@ DTEND;TZID=America/New_York:20261209T181500
 SUMMARY:Lyndhurst at West Essex High School (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7598188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T163000
-DTEND;TZID=America/New_York:20261209T183000
-SUMMARY:Elmwood Park at Essex County West Caldwell Tech (Varsity Girls Gi
- rls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7706545@njicathletics
@@ -367,15 +340,6 @@ SUMMARY:Cresskill vs Wood-Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485061@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T161500
-DTEND;TZID=America/New_York:20261210T181500
-SUMMARY:Eastern Christian at Passaic County Technical Institute (Varsity 
- Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7516426@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T161500
@@ -468,15 +432,6 @@ SUMMARY:Wood-Ridge vs Wallkill Valley Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7653669@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T161500
-DTEND;TZID=America/New_York:20261211T181500
-SUMMARY:Elmwood Park at Dumont High School (Varsity Girls Girls Basketbal
- l)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7649172@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T161500
@@ -492,15 +447,6 @@ DTSTART;TZID=America/New_York:20261211T161500
 DTEND;TZID=America/New_York:20261211T181500
 SUMMARY:Park Ridge at Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7591897@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T163000
-DTEND;TZID=America/New_York:20261211T183000
-SUMMARY:Elmwood Park at Dumont High School (Varsity Girls Girls Basketbal
- l)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7594812@njicathletics
@@ -561,15 +507,6 @@ SUMMARY:Bogota vs Hackensack High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485062@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Eastern Christian at Clifton High School (Varsity Girls Girls Bas
- ketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7676691@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -618,14 +555,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T161500
 DTEND;TZID=America/New_York:20261214T181500
 SUMMARY:Cresskill at Dwight-Englewood (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7565476@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T161500
-DTEND;TZID=America/New_York:20261214T181500
-SUMMARY:Elmwood Park at Lodi (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -781,28 +710,12 @@ SUMMARY:Butler at Lyndhurst (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7511796@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T190000
-DTEND;TZID=America/New_York:20261216T210000
-SUMMARY:Elmwood Park at Garfield (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7511796@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T210000
 SUMMARY:Garfield vs Elmwood Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681210@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Elmwood Park at Midland Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7638612@njicathletics
@@ -1006,15 +919,6 @@ SUMMARY:Cresskill vs Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485021@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T161500
-DTEND;TZID=America/New_York:20261221T181500
-SUMMARY:Eastern Christian at Saddle River Day (Varsity Girls Girls Basket
- ball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448980@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
@@ -1039,20 +943,20 @@ SUMMARY:Saddle Brook at Emerson (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2844:7485021@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Saddle River Day vs Eastern Christian (Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7456256@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
 DTEND;TZID=America/New_York:20261221T183000
 SUMMARY:Butler at Pompton Lakes (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7556553@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T163000
-DTEND;TZID=America/New_York:20261221T183000
-SUMMARY:Elmwood Park at Hawthorne Christian (Varsity Girls Girls Basketba
- ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,14 +999,6 @@ DTSTART;TZID=America/New_York:20261222T161500
 DTEND;TZID=America/New_York:20261222T181500
 SUMMARY:Manchester Regional at Saint Mary (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7671999@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261222T163000
-DTEND;TZID=America/New_York:20261222T183000
-SUMMARY:Elmwood Park vs Gateway Academy (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7554581@njicathletics
@@ -1379,14 +1275,6 @@ SUMMARY:Garfield at Saint Mary (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 9:50 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7456259@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T160000
-DTEND;TZID=America/New_York:20270104T180000
-SUMMARY:Elmwood Park vs Pompton Lakes (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7458654@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T160000
@@ -1470,12 +1358,12 @@ SUMMARY:Hawthorne Christian vs Midland Park (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485023@njicathletics
+UID:ds:38258:7485023@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
-SUMMARY:Eastern Christian at Secaucus (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+SUMMARY:Secaucus vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7536846@njicathletics
@@ -1542,14 +1430,6 @@ SUMMARY:Cresskill at Park Ridge (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485025@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T161500
-DTEND;TZID=America/New_York:20270106T181500
-SUMMARY:Eastern Christian at Leonia (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448984@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T161500
@@ -1574,6 +1454,14 @@ SUMMARY:Hawthorne at Emerson (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2695:7485025@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Leonia vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2700:7565447@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T161500
@@ -1590,20 +1478,20 @@ SUMMARY:North Arlington at Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7536850@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T163000
-DTEND;TZID=America/New_York:20270106T183000
-SUMMARY:Eastern Christian at Leonia (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2645:7456260@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T163000
 DTEND;TZID=America/New_York:20270106T183000
 SUMMARY:Hawthorne Christian vs Pompton Lakes (Varsity Girls Girls Basketb
  all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536850@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T163000
+DTEND;TZID=America/New_York:20270106T183000
+SUMMARY:Leonia vs Eastern Christian (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1620,14 +1508,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Butler at Midland Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7537362@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T180000
-DTEND;TZID=America/New_York:20270106T200000
-SUMMARY:Elmwood Park at New Milford (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,20 +1576,20 @@ SUMMARY:Cresskill at North Arlington (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485027@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T161500
-DTEND;TZID=America/New_York:20270108T181500
-SUMMARY:Eastern Christian vs Glen Rock (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448986@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T161500
 DTEND;TZID=America/New_York:20270108T181500
 SUMMARY:Emerson vs Manchester Regional (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7485027@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T161500
+DTEND;TZID=America/New_York:20270108T181500
+SUMMARY:Glen Rock at Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7485883@njicathletics
@@ -1792,14 +1672,6 @@ DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
 SUMMARY:Butler at Elmwood Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7647585@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T180000
-DTEND;TZID=America/New_York:20270108T200000
-SUMMARY:Elmwood Park vs Butler (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7544074@njicathletics
@@ -1948,14 +1820,6 @@ SUMMARY:Saddle River Day vs Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7604055@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T173000
-DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Elmwood Park at Lyndhurst (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2703:7604055@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T173000
@@ -1978,14 +1842,6 @@ DTSTART;TZID=America/New_York:20270111T180000
 DTEND;TZID=America/New_York:20270111T200000
 SUMMARY:Garfield at New Milford (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7681283@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T160000
-DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Elmwood Park vs Midland Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7580060@njicathletics
@@ -2036,14 +1892,6 @@ SUMMARY:Cresskill at Hasbrouck Heights (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485032@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
-SUMMARY:Eastern Christian at Rutherford (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448990@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T161500
@@ -2074,6 +1922,14 @@ DTSTART;TZID=America/New_York:20270113T161500
 DTEND;TZID=America/New_York:20270113T181500
 SUMMARY:PCSST at Emerson (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7485032@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Rutherford vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7530797@njicathletics
@@ -2180,15 +2036,6 @@ SUMMARY:Cresskill at Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485034@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T161500
-DTEND;TZID=America/New_York:20270115T181500
-SUMMARY:Eastern Christian vs Saddle River Day (Varsity Girls Girls Basket
- ball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448992@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
@@ -2219,6 +2066,15 @@ DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
 SUMMARY:Saddle Brook vs Emerson (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7485034@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T161500
+DTEND;TZID=America/New_York:20270115T181500
+SUMMARY:Saddle River Day at Eastern Christian (Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7536870@njicathletics
@@ -2401,14 +2257,6 @@ SUMMARY:Cresskill vs Saddle River Day (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485036@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Eastern Christian at Waldwick (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448994@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
@@ -2450,6 +2298,14 @@ SUMMARY:Ridgefield Memorial at Saddle Brook (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7485036@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Waldwick vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7536877@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T163000
@@ -2464,14 +2320,6 @@ DTSTART;TZID=America/New_York:20270120T163000
 DTEND;TZID=America/New_York:20270120T183000
 SUMMARY:Dwight-Englewood at Pompton Lakes (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7672037@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T163000
-DTEND;TZID=America/New_York:20270120T183000
-SUMMARY:Elmwood Park vs Gateway Academy (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7572175@njicathletics
@@ -2554,14 +2402,6 @@ SUMMARY:Cresskill vs Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485038@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T161500
-DTEND;TZID=America/New_York:20270122T181500
-SUMMARY:Eastern Christian vs Secaucus (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7448996@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T161500
@@ -2604,12 +2444,12 @@ SUMMARY:Park Ridge vs Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7456289@njicathletics
+UID:ds:38258:7485038@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T163000
-DTEND;TZID=America/New_York:20270122T183000
-SUMMARY:Elmwood Park at Pompton Lakes (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Secaucus at Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7536881@njicathletics
@@ -2711,15 +2551,6 @@ SUMMARY:Waldwick vs West Milford High School (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7643536@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T163000
-DTEND;TZID=America/New_York:20270125T183000
-SUMMARY:Elmwood Park at Bergen County Technical High School (Varsity Girl
- s Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7676742@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T190000
@@ -2752,20 +2583,20 @@ SUMMARY:Saddle Brook vs Dwight-Englewood (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7691293@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T161500
-DTEND;TZID=America/New_York:20270126T181500
-SUMMARY:Eastern Christian vs Saint Mary (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7565482@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T161500
 DTEND;TZID=America/New_York:20270126T181500
 SUMMARY:Lodi vs Pioneer Academy (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2854:7691293@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T161500
+DTEND;TZID=America/New_York:20270126T181500
+SUMMARY:Saint Mary at Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7706772@njicathletics
@@ -2842,23 +2673,6 @@ SUMMARY:Wallington at Paterson Arts (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485051@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T161500
-DTEND;TZID=America/New_York:20270128T181500
-SUMMARY:Eastern Christian vs Wayne Valley High School (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7516500@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T161500
-DTEND;TZID=America/New_York:20270128T181500
-SUMMARY:Elmwood Park vs Bergen Charter (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7646088@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T180000
@@ -2927,20 +2741,20 @@ SUMMARY:Ridgefield Memorial vs Dwight-Englewood (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7536890@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T160000
-DTEND;TZID=America/New_York:20270201T180000
-SUMMARY:Eastern Christian vs Leonia (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2643:7458496@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T160000
 DTEND;TZID=America/New_York:20270201T180000
 SUMMARY:Harrison vs Palisades Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536890@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Leonia at Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7580121@njicathletics
@@ -3184,20 +2998,12 @@ SUMMARY:Butler vs Elmwood Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485042@njicathletics
+UID:ds:2626:7485042@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T200000
-SUMMARY:Eastern Christian at Glen Rock (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7647635@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T180000
-DTEND;TZID=America/New_York:20270203T200000
-SUMMARY:Elmwood Park at Butler (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+SUMMARY:Glen Rock vs Eastern Christian (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7516507@njicathletics
@@ -3239,14 +3045,6 @@ DTEND;TZID=America/New_York:20270205T180000
 SUMMARY:Leonia at Cliffside Park High School (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7565477@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T161500
-DTEND;TZID=America/New_York:20270205T181500
-SUMMARY:Elmwood Park vs Lodi (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7565477@njicathletics
@@ -3425,15 +3223,6 @@ SUMMARY:Rutherford at Northern Highlands Regional High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7624431@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T163000
-DTEND;TZID=America/New_York:20270208T183000
-SUMMARY:Elmwood Park at Belleville High School (Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7484456@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T173000
@@ -3450,23 +3239,6 @@ DTEND;TZID=America/New_York:20270209T180000
 SUMMARY:Palisades Park vs University Academy Charter (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7485055@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T161500
-DTEND;TZID=America/New_York:20270209T181500
-SUMMARY:Eastern Christian at Ramapo High School (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7530810@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T161500
-DTEND;TZID=America/New_York:20270209T181500
-SUMMARY:Elmwood Park at Saddle Brook (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7530810@njicathletics
@@ -3675,23 +3447,6 @@ SUMMARY:Rutherford at West Essex High School (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7485059@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270216T163000
-DTEND;TZID=America/New_York:20270216T183000
-SUMMARY:Eastern Christian vs Veritas Christian Academy (Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7591924@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270216T163000
-DTEND;TZID=America/New_York:20270216T183000
-SUMMARY:Elmwood Park vs Beloved Charter (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2645:7556566@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T163000
@@ -3800,14 +3555,5 @@ DTEND;TZID=America/New_York:20270219T190000
 SUMMARY:Wallington vs James J Ferris High School (Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7485057@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270219T190000
-DTEND;TZID=America/New_York:20270219T210000
-SUMMARY:Eastern Christian vs Indian Hills High School (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

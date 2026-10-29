@@ -23,15 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2645:7481801@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T161500
-DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Junior Varsity Boys B
- oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2645:7481800@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T163000
@@ -41,13 +32,22 @@ SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2645:7481801@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Hawthorne Christian vs Ridgefield Memorial (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2645:7594809@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T174500
-DTEND;TZID=America/New_York:20261211T194500
+DTSTART;TZID=America/New_York:20261211T180000
+DTEND;TZID=America/New_York:20261211T200000
 SUMMARY:Hawthorne Christian vs Veritas Christian Academy (Varsity Boys Bo
  ys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7546300@njicathletics
@@ -164,70 +164,70 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7536234@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T161500
-DTEND;TZID=America/New_York:20270111T181500
+DTSTART;TZID=America/New_York:20270111T163000
+DTEND;TZID=America/New_York:20270111T183000
 SUMMARY:Hawthorne Christian vs Leonia (Junior Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7535967@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T174500
-DTEND;TZID=America/New_York:20270111T194500
+DTSTART;TZID=America/New_York:20270111T180000
+DTEND;TZID=America/New_York:20270111T200000
 SUMMARY:Hawthorne Christian vs Leonia (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7724120@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
 SUMMARY:Emerson at Hawthorne Christian (Junior Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7724120@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
 SUMMARY:Hawthorne Christian vs Emerson (Junior Varsity Boys Boys Basketba
  ll)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7462054@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T174500
-DTEND;TZID=America/New_York:20270113T194500
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Emerson at Hawthorne Christian (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7462054@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T174500
-DTEND;TZID=America/New_York:20270113T194500
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Hawthorne Christian vs Emerson (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7557734@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T161500
-DTEND;TZID=America/New_York:20270115T181500
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
 SUMMARY:Butler at Hawthorne Christian (Junior Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7556479@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T174500
-DTEND;TZID=America/New_York:20270115T194500
+DTSTART;TZID=America/New_York:20270115T180000
+DTEND;TZID=America/New_York:20270115T200000
 SUMMARY:Butler at Hawthorne Christian (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7556516@njicathletics
@@ -250,19 +250,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7594836@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
+DTSTART;TZID=America/New_York:20270120T163000
+DTEND;TZID=America/New_York:20270120T183000
 SUMMARY:Harrison at Hawthorne Christian (Junior Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7556517@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T174500
-DTEND;TZID=America/New_York:20270120T194500
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Harrison at Hawthorne Christian (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7522408@njicathletics
@@ -276,20 +276,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7594837@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T161500
-DTEND;TZID=America/New_York:20270125T181500
+DTSTART;TZID=America/New_York:20270125T163000
+DTEND;TZID=America/New_York:20270125T183000
 SUMMARY:Hawthorne Christian vs Manchester Regional (Junior Varsity Boys B
  oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7556443@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T174500
-DTEND;TZID=America/New_York:20270125T194500
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
 SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Bas
  ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7485001@njicathletics
@@ -312,19 +312,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7531145@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T161500
-DTEND;TZID=America/New_York:20270203T181500
+DTSTART;TZID=America/New_York:20270203T163000
+DTEND;TZID=America/New_York:20270203T183000
 SUMMARY:Hawthorne Christian vs Saddle Brook (Junior Varsity Boys Boys Bas
  ketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7531087@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T174500
-DTEND;TZID=America/New_York:20270203T194500
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Hawthorne Christian vs Saddle Brook (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7454539@njicathletics
@@ -356,37 +356,37 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7554704@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T161500
-DTEND;TZID=America/New_York:20270211T181500
+DTSTART;TZID=America/New_York:20270211T163000
+DTEND;TZID=America/New_York:20270211T183000
 SUMMARY:Hawthorne Christian vs Hawthorne (Junior Varsity Boys Boys Basket
  ball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7554702@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T174500
-DTEND;TZID=America/New_York:20270211T194500
+DTSTART;TZID=America/New_York:20270211T180000
+DTEND;TZID=America/New_York:20270211T200000
 SUMMARY:Hawthorne Christian vs Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7724127@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270212T161500
-DTEND;TZID=America/New_York:20270212T181500
+DTSTART;TZID=America/New_York:20270212T163000
+DTEND;TZID=America/New_York:20270212T183000
 SUMMARY:Hawthorne Christian vs Pompton Lakes (Junior Varsity Boys Boys Ba
  sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7556433@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270212T174500
-DTEND;TZID=America/New_York:20270212T194500
+DTSTART;TZID=America/New_York:20270212T180000
+DTEND;TZID=America/New_York:20270212T200000
 SUMMARY:Hawthorne Christian vs Pompton Lakes (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7733031@njicathletics
@@ -409,10 +409,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7651307@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T174500
-DTEND;TZID=America/New_York:20270217T194500
+DTSTART;TZID=America/New_York:20270217T180000
+DTEND;TZID=America/New_York:20270217T200000
 SUMMARY:Hawthorne Christian vs American Christian School (Varsity Boys Bo
  ys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR

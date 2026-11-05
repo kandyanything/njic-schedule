@@ -184,20 +184,20 @@ SUMMARY:Dwight-Englewood at Northern Valley Regional High (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7451766@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260901T160000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Pompton Lakes vs Saddle Brook (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7452331@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Pompton Lakes at Saddle Brook (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7451766@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Pompton Lakes vs Saddle Brook (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7455096@njicathletics
@@ -296,7 +296,7 @@ SUMMARY:Midland Park at New Milford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7455114@njicathletics
+UID:ds:2841:7596119@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T161500
 DTEND;TZID=America/New_York:20260903T181500
@@ -919,14 +919,6 @@ SUMMARY:Glen Rock vs Pompton Lakes (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7455151@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7612799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -934,6 +926,14 @@ DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Park Ridge at Ridgefield Memorial (Junior Varsity Girls Girls Ten
  nis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7455151@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7455145@njicathletics
@@ -1032,15 +1032,6 @@ SUMMARY:Leonia at Saddle River Day (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7544845@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T160000
-DTEND;TZID=America/New_York:20260917T180000
-SUMMARY:Ridgefield Memorial vs Teaneck High School (Varsity Girls Girls T
- ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7544847@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T160000
@@ -1048,6 +1039,15 @@ DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Ridgefield Memorial at Teaneck High School (Junior Varsity Girls 
  Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7544845@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Ridgefield Memorial vs Teaneck High School (Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7596094@njicathletics
@@ -2402,6 +2402,14 @@ SUMMARY:Mary Help at Hawthorne (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2789:7455206@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T161500
+DTEND;TZID=America/New_York:20261012T181500
+SUMMARY:Park Ridge at Ridgefield Memorial (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7612803@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T161500
@@ -2409,14 +2417,6 @@ DTEND;TZID=America/New_York:20261012T181500
 SUMMARY:Park Ridge vs Ridgefield Memorial (Junior Varsity Girls Girls Ten
  nis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7455206@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T161500
-DTEND;TZID=America/New_York:20261012T181500
-SUMMARY:Park Ridge at Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7455207@njicathletics
@@ -3045,20 +3045,20 @@ SUMMARY:Mary Help at Golda Och Academy (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7455102@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Park Ridge at Saddle River Day (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2789:7581932@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Park Ridge vs Saddle River Day (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7455102@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Park Ridge at Saddle River Day (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7702106@njicathletics

@@ -23,12 +23,20 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2844:7497349@njicathletics
+UID:ds:2602:7497349@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Saddle River Day vs Eastern Christian (Middle School Girls Girls 
+SUMMARY:Eastern Christian at Saddle River Day (Middle School Girls Girls 
  Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7526336@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T161500
+DTEND;TZID=America/New_York:20261002T181500
+SUMMARY:Glen Rock at Saddle River Day (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 END:VCALENDAR

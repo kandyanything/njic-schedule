@@ -23,28 +23,28 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2843:7539601@njicathletics
+UID:ds:2695:7539601@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270315T161500
 DTEND;TZID=America/New_York:20270315T181500
-SUMMARY:Saddle Brook at Leonia (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Leonia vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7539732@njicathletics
+UID:ds:2695:7539732@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270315T161500
 DTEND;TZID=America/New_York:20270315T181500
-SUMMARY:Saddle Brook vs Leonia (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Leonia at Saddle Brook (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7695965@njicathletics
+UID:ds:2621:7695965@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270325T161500
 DTEND;TZID=America/New_York:20270325T181500
-SUMMARY:Saddle Brook at Garfield (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Garfield vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7683139@njicathletics
@@ -71,12 +71,12 @@ SUMMARY:Saddle Brook at Weehawken (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7564352@njicathletics
+UID:ds:2763:7564352@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T161500
 DTEND;TZID=America/New_York:20270401T181500
-SUMMARY:Saddle Brook vs North Arlington (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:North Arlington at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7646340@njicathletics
@@ -95,12 +95,20 @@ SUMMARY:Saddle Brook at Hawthorne Christian (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7542454@njicathletics
+UID:ds:2602:7542454@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
 DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Saddle Brook vs Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Eastern Christian at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7542454@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Hawthorne Christian at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7696096@njicathletics
@@ -112,20 +120,20 @@ SUMMARY:Saddle Brook at Lenape Valley Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7564366@njicathletics
+UID:ds:2789:7564366@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T161500
 DTEND;TZID=America/New_York:20270414T181500
-SUMMARY:Saddle Brook at Park Ridge (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Park Ridge vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7588262@njicathletics
+UID:ds:2621:7588262@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T161500
 DTEND;TZID=America/New_York:20270415T181500
-SUMMARY:Saddle Brook vs Garfield (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Garfield at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7696154@njicathletics
@@ -144,44 +152,44 @@ SUMMARY:Saddle Brook at Waldwick (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7696182@njicathletics
+UID:ds:2644:7696182@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T161500
 DTEND;TZID=America/New_York:20270427T181500
-SUMMARY:Saddle Brook vs Hasbrouck Heights (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Hasbrouck Heights at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7539723@njicathletics
+UID:ds:2695:7539723@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270501T100000
 DTEND;TZID=America/New_York:20270501T120000
-SUMMARY:Saddle Brook vs Leonia (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
+SUMMARY:Leonia at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7539785@njicathletics
+UID:ds:2695:7539785@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270501T100000
 DTEND;TZID=America/New_York:20270501T120000
-SUMMARY:Saddle Brook at Leonia (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+SUMMARY:Leonia vs Saddle Brook (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7564386@njicathletics
+UID:ds:2554:7564386@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T161500
 DTEND;TZID=America/New_York:20270503T181500
-SUMMARY:Saddle Brook at Butler (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Butler vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7553313@njicathletics
+UID:ds:2646:7553313@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T161500
 DTEND;TZID=America/New_York:20270505T181500
-SUMMARY:Saddle Brook at Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Hawthorne vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7696185@njicathletics
@@ -201,28 +209,28 @@ SUMMARY:Saddle Brook vs Bergenfield High School (Junior Varsity Boys Base
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7696188@njicathletics
+UID:ds:2700:7696188@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270515T190000
 DTEND;TZID=America/New_York:20270515T210000
-SUMMARY:Saddle Brook at Lodi (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 7:00 PM
+SUMMARY:Lodi vs Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7553315@njicathletics
+UID:ds:2646:7553315@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T161500
 DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Saddle Brook vs Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Hawthorne at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2843:7696191@njicathletics
+UID:ds:2703:7696191@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T161500
 DTEND;TZID=America/New_York:20270520T181500
-SUMMARY:Saddle Brook vs Lyndhurst (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Lyndhurst at Saddle Brook (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7696192@njicathletics

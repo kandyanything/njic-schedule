@@ -23,11 +23,28 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2815:7691872@njicathletics
+UID:ds:2626:7732567@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T161500
+DTEND;TZID=America/New_York:20270325T181500
+SUMMARY:Glen Rock vs Paramus High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7691872@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T122300
 DTEND;TZID=America/New_York:20270402T142300
-SUMMARY:Pompton Lakes vs Glen Rock (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Home - 12:23 PM
+SUMMARY:Glen Rock at Pompton Lakes (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 12:23 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7636369@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T161500
+DTEND;TZID=America/New_York:20270408T181500
+SUMMARY:Glen Rock vs River Dell Regional High School (Junior Varsity Girl
+ s Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

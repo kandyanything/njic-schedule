@@ -23,28 +23,132 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2841:7440104@njicathletics
+UID:ds:2643:7463172@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T190000
-DTEND;TZID=America/New_York:20260914T210000
-SUMMARY:Rutherford at Harrison (Varsity Boys Boys Soccer)
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Harrison vs Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7439998@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Dwight-Englewood vs Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7412785@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T150000
+DTEND;TZID=America/New_York:20260905T170000
+SUMMARY:Harrison at Notre Dame High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7439982@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Emerson at Harrison (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7440004@njicathletics
+UID:ds:2643:7439982@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T190000
-DTEND;TZID=America/New_York:20260924T210000
-SUMMARY:Wallington vs Harrison (Varsity Boys Boys Soccer)
+DTSTART;TZID=America/New_York:20260908T190000
+DTEND;TZID=America/New_York:20260908T210000
+SUMMARY:Harrison vs Emerson (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7440003@njicathletics
+UID:ds:2643:7440002@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Harrison at Park Ridge (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7440104@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T190000
+DTEND;TZID=America/New_York:20260914T210000
+SUMMARY:Harrison vs Rutherford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7439999@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Elmwood Park vs Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7439999@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Harrison at Elmwood Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7558986@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T183000
+DTEND;TZID=America/New_York:20260919T203000
+SUMMARY:Harrison vs Tenafly High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7439987@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T210000
+SUMMARY:Garfield at Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7440004@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T190000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:Harrison at Wallington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7440000@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T190000
+DTEND;TZID=America/New_York:20260928T210000
+SUMMARY:Emerson vs Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7440000@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T190000
+DTEND;TZID=America/New_York:20260928T210000
+SUMMARY:Harrison at Emerson (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7555515@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T173000
+DTEND;TZID=America/New_York:20261003T193000
+SUMMARY:Harrison at South Brunswick High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7440003@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T193000
 DTEND;TZID=America/New_York:20261007T213000
-SUMMARY:Rutherford vs Harrison (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:30 PM
+SUMMARY:Harrison at Rutherford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7454940@njicathletics
@@ -55,11 +159,51 @@ SUMMARY:Secaucus vs Harrison (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7689222@njicathletics
+UID:ds:2643:7689222@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T190000
 DTEND;TZID=America/New_York:20261014T210000
-SUMMARY:Secaucus at Harrison (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
+SUMMARY:Harrison vs Secaucus (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7440001@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Garfield vs Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7678745@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T190000
+DTEND;TZID=America/New_York:20261026T210000
+SUMMARY:Harrison vs Park Ridge (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7720065@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Elmwood Park at Harrison (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7720065@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Harrison vs Elmwood Park (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7744911@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:Harrison vs Lyndhurst (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

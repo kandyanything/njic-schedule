@@ -23,42 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2598:7620567@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270318T174500
-DTEND;TZID=America/New_York:20270318T194500
-SUMMARY:Dwight-Englewood at Northern Valley Regional High (Junior Varsity
-  Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7612237@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270318T174500
-DTEND;TZID=America/New_York:20270318T194500
-SUMMARY:Glen Rock vs Fair Lawn High School (Junior Varsity Girls Girls La
- crosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7689234@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270318T180000
-DTEND;TZID=America/New_York:20270318T200000
-SUMMARY:Emerson at River Dell Regional High School (Junior Varsity Girls 
- Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7689234@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270318T180000
-DTEND;TZID=America/New_York:20270318T200000
-SUMMARY:Park Ridge at River Dell Regional High School (Junior Varsity Gir
- ls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7685215@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T180000
@@ -75,24 +39,6 @@ DTEND;TZID=America/New_York:20270324T200000
 SUMMARY:Rutherford at Northern Valley Regional High (Junior Varsity Girls
   Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609182@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270329T174500
-DTEND;TZID=America/New_York:20270329T194500
-SUMMARY:Emerson vs Northern Valley Regional High (Junior Varsity Girls Gi
- rls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7734342@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270330T174500
-DTEND;TZID=America/New_York:20270330T194500
-SUMMARY:Glen Rock vs Ridgewood High School (Junior Varsity Girls Girls La
- crosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7605218@njicathletics
@@ -122,15 +68,6 @@ SUMMARY:Pompton Lakes vs Newark Academy (Junior Varsity Girls Girls Lacro
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7609218@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270403T113000
-DTEND;TZID=America/New_York:20270403T133000
-SUMMARY:Emerson at Clifton High School (Junior Varsity Girls Girls Lacros
- se)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7605251@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T180000
@@ -149,30 +86,13 @@ SUMMARY:Pompton Lakes at West Milford High School (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7609277@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T174500
-DTEND;TZID=America/New_York:20270413T194500
-SUMMARY:Emerson vs TBD (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7691810@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T174500
-DTEND;TZID=America/New_York:20270413T194500
-SUMMARY:Emerson at Wayne Valley High School (Junior Varsity Girls Girls L
- acrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7605281@njicathletics
+UID:ds:2815:7605281@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T180000
 DTEND;TZID=America/New_York:20270413T200000
-SUMMARY:Dwight-Englewood at Pompton Lakes (Junior Varsity Girls Girls Lac
+SUMMARY:Pompton Lakes vs Dwight-Englewood (Junior Varsity Girls Girls Lac
  rosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7728609@njicathletics
@@ -181,22 +101,6 @@ DTSTART;TZID=America/New_York:20270414T174500
 DTEND;TZID=America/New_York:20270414T194500
 SUMMARY:Waldwick at Bergen County Technical High School (Junior Varsity G
  irls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7609283@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270416T174500
-DTEND;TZID=America/New_York:20270416T194500
-SUMMARY:Dwight-Englewood vs Emerson (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609283@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270416T174500
-DTEND;TZID=America/New_York:20270416T194500
-SUMMARY:Emerson at Dwight-Englewood (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -227,44 +131,11 @@ SUMMARY:Rutherford at Ramapo High School (Junior Varsity Girls Girls Lacr
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7609363@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T174500
-DTEND;TZID=America/New_York:20270417T194500
-SUMMARY:Emerson at TBD (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609308@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T174500
-DTEND;TZID=America/New_York:20270419T194500
-SUMMARY:Emerson vs TBD (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2733:7691816@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T174500
-DTEND;TZID=America/New_York:20270419T194500
-SUMMARY:Midland Park at Midland Park (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7691816@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T174500
 DTEND;TZID=America/New_York:20270419T194500
 SUMMARY:Waldwick at Midland Park (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2717:7728627@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270420T174500
-DTEND;TZID=America/New_York:20270420T194500
-SUMMARY:Mary Help at Bergen County Technical High School (Junior Varsity 
- Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -277,32 +148,6 @@ SUMMARY:Pompton Lakes at Hoboken High School (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7691817@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270423T174500
-DTEND;TZID=America/New_York:20270423T194500
-SUMMARY:Dwight-Englewood vs Wayne Valley High School (Junior Varsity Girl
- s Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609311@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270423T174500
-DTEND;TZID=America/New_York:20270423T194500
-SUMMARY:Emerson vs Pascack Hills High School (Junior Varsity Girls Girls 
- Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609314@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T174500
-DTEND;TZID=America/New_York:20270428T194500
-SUMMARY:Emerson at Pompton Lakes (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7609314@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T174500
@@ -311,29 +156,12 @@ SUMMARY:Pompton Lakes vs Emerson (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7605296@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270428T180000
-DTEND;TZID=America/New_York:20270428T200000
-SUMMARY:Emerson vs Pompton Lakes (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7605296@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T180000
 DTEND;TZID=America/New_York:20270428T200000
 SUMMARY:Pompton Lakes at Emerson (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609321@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270430T174500
-DTEND;TZID=America/New_York:20270430T194500
-SUMMARY:Emerson vs West Milford High School (Junior Varsity Girls Girls L
- acrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7691809@njicathletics
@@ -345,15 +173,6 @@ SUMMARY:Pompton Lakes vs Wayne Valley High School (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7609336@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T174500
-DTEND;TZID=America/New_York:20270503T194500
-SUMMARY:Emerson vs Passaic County Technical Institute (Junior Varsity Gir
- ls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7605305@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T180000
@@ -361,33 +180,6 @@ DTEND;TZID=America/New_York:20270503T200000
 SUMMARY:Pompton Lakes at Pascack Hills High School (Junior Varsity Girls 
  Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7614106@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270504T161500
-DTEND;TZID=America/New_York:20270504T181500
-SUMMARY:Glen Rock vs Northern Highlands Regional High School (Junior Vars
- ity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609339@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270505T174500
-DTEND;TZID=America/New_York:20270505T194500
-SUMMARY:Emerson vs Indian Hills High School (Junior Varsity Girls Girls L
- acrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7735575@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270507T173000
-DTEND;TZID=America/New_York:20270507T193000
-SUMMARY:Dwight-Englewood vs Paramus High School (Junior Varsity Girls Gir
- ls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7647376@njicathletics
@@ -399,38 +191,12 @@ SUMMARY:Rutherford at Ramsey High School (Junior Varsity Girls Girls Lacr
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7609342@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270518T174500
-DTEND;TZID=America/New_York:20270518T194500
-SUMMARY:Emerson vs Saddle Brook (Junior Varsity Girls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2843:7609342@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T174500
 DTEND;TZID=America/New_York:20270518T194500
 SUMMARY:Saddle Brook at Emerson (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7609344@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270521T174500
-DTEND;TZID=America/New_York:20270521T194500
-SUMMARY:Emerson at Westwood Regional Senior High School (Junior Varsity G
- irls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7621785@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270521T180000
-DTEND;TZID=America/New_York:20270521T200000
-SUMMARY:Glen Rock at River Dell Regional High School (Junior Varsity Girl
- s Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7605313@njicathletics

@@ -287,20 +287,20 @@ SUMMARY:Leonia vs Bergen Charter (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7510778@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260904T173000
-DTEND;TZID=America/New_York:20260904T193000
-SUMMARY:Leonia vs Bergen Charter (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7467842@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260904T173000
 DTEND;TZID=America/New_York:20260904T193000
 SUMMARY:Leonia vs Bergen Charter (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510778@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T173000
+DTEND;TZID=America/New_York:20260904T193000
+SUMMARY:Leonia vs Bergen Charter (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7545452@njicathletics
@@ -722,22 +722,6 @@ SUMMARY:Palisades Park at Leonia (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7455049@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Leonia vs Weehawken (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7455421@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:Leonia vs Park Ridge (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7510853@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
@@ -753,6 +737,22 @@ DTEND;TZID=America/New_York:20260917T181500
 SUMMARY:Leonia at Maywood Middle School (Middle School Coed Coed Cross Co
  untry)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455049@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Leonia vs Weehawken (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455421@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Leonia vs Park Ridge (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7599211@njicathletics
@@ -869,20 +869,20 @@ SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7504035@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7455431@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Leonia at Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7504035@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7545888@njicathletics
@@ -1079,7 +1079,7 @@ SUMMARY:Harrison at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7545623@njicathletics
+UID:ds:2695:7530096@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
@@ -3837,6 +3837,15 @@ SUMMARY:Leonia vs Elmwood Park (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2695:7755013@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Leonia vs Cliffside Park High School (Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2723:7539635@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T161500
@@ -4751,6 +4760,24 @@ DTSTART;TZID=America/New_York:20270507T160000
 DTEND;TZID=America/New_York:20270507T180000
 SUMMARY:Leonia vs North Bergen High School (Middle School Boys Baseball)
 DESCRIPTION:Middle School Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7755027@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T160000
+DTEND;TZID=America/New_York:20270507T180000
+SUMMARY:Leonia at Cliffside Park High School (Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7755096@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T174500
+DTEND;TZID=America/New_York:20270507T194500
+SUMMARY:Leonia at Cliffside Park High School (Junior Varsity Boys Boys Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7580919@njicathletics

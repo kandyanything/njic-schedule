@@ -204,12 +204,28 @@ SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7440055@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Becton vs New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2758:7440055@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:New Milford at Becton (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7579718@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T161500
+DTEND;TZID=America/New_York:20260901T181500
+SUMMARY:Becton at New Milford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7504030@njicathletics
@@ -307,6 +323,22 @@ DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:New Milford vs Saddle Brook (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7455121@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Becton vs New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7584335@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Becton at New Milford (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7455371@njicathletics
@@ -416,12 +448,12 @@ SUMMARY:New Milford at Ridgefield Memorial (Varsity Girls Girls Volleybal
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7459919@njicathletics
+UID:ds:2554:7459919@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T210000
-SUMMARY:New Milford at Butler (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+SUMMARY:Butler vs New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7448895@njicathletics
@@ -489,12 +521,12 @@ SUMMARY:New Milford at Emerson (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7483742@njicathletics
+UID:ds:2554:7483742@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T190000
 DTEND;TZID=America/New_York:20260914T210000
-SUMMARY:New Milford vs Butler (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 7:00 PM
+SUMMARY:Butler at New Milford (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7539321@njicathletics
@@ -643,6 +675,14 @@ SUMMARY:Leonia at New Milford (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7455410@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T161500
+DTEND;TZID=America/New_York:20260917T181500
+SUMMARY:Bogota at New Milford (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2695:7510853@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
@@ -659,14 +699,6 @@ SUMMARY:New Milford vs Rutherford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455410@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260917T161500
-DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:New Milford vs Bogota (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7454999@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
@@ -675,12 +707,12 @@ SUMMARY:New Milford at Park Ridge (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7525134@njicathletics
+UID:ds:2541:7525134@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T174500
 DTEND;TZID=America/New_York:20260917T194500
-SUMMARY:New Milford vs Bogota (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
+SUMMARY:Bogota at New Milford (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7532865@njicathletics
@@ -700,12 +732,12 @@ SUMMARY:New Milford vs Bergen Charter (Junior Varsity Girls Girls Volleyb
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7454902@njicathletics
+UID:ds:2554:7454902@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T130000
-SUMMARY:New Milford vs Butler (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+SUMMARY:Butler at New Milford (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7469320@njicathletics
@@ -741,6 +773,14 @@ SUMMARY:New Milford at Kittatinny Regional High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2554:7439948@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Butler at New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2758:7603290@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -750,20 +790,12 @@ SUMMARY:New Milford at Dumont High School (Freshman Girls Girls Volleybal
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7439948@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:New Milford vs Butler (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7549251@njicathletics
+UID:ds:2554:7549251@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:New Milford at Butler (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Butler vs New Milford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7455439@njicathletics
@@ -872,20 +904,20 @@ SUMMARY:Elmwood Park at New Milford (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7440065@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7529157@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:New Milford vs Elmwood Park (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7440065@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7526860@njicathletics
@@ -1159,6 +1191,14 @@ SUMMARY:Cresskill at New Milford (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7455182@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Becton at New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7455539@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T161500
@@ -1364,6 +1404,14 @@ SUMMARY:New Milford at Paramus High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2648:7592602@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Becton vs New Milford (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2758:7592602@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -1497,6 +1545,14 @@ SUMMARY:New Milford vs Pascack Hills High School (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7455556@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Bogota vs New Milford (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2758:7699198@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T161500
@@ -1514,36 +1570,28 @@ SUMMARY:New Milford at Park Ridge (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455556@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T161500
-DTEND;TZID=America/New_York:20261020T181500
-SUMMARY:New Milford at Bogota (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7525143@njicathletics
+UID:ds:2541:7525143@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
-SUMMARY:New Milford at Bogota (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+SUMMARY:Bogota vs New Milford (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7454995@njicathletics
+UID:ds:2554:7454995@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T180000
 DTEND;TZID=America/New_York:20261020T200000
-SUMMARY:New Milford at Butler (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+SUMMARY:Butler vs New Milford (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7440056@njicathletics
+UID:ds:2554:7440056@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:New Milford at Butler (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Butler vs New Milford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7700222@njicathletics
@@ -1983,12 +2031,12 @@ SUMMARY:Hasbrouck Heights vs New Milford (Junior Varsity Boys Boys Basket
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537361@njicathletics
+UID:ds:2541:7537361@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:New Milford vs Bogota (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+SUMMARY:Bogota at New Milford (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7485144@njicathletics
@@ -2061,6 +2109,14 @@ DTSTART;TZID=America/New_York:20261218T180000
 DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Midland Park at New Milford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7687512@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T200000
+DTEND;TZID=America/New_York:20261218T220000
+SUMMARY:Becton at New Milford (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7687512@njicathletics
@@ -2161,12 +2217,12 @@ SUMMARY:Hawthorne at New Milford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7732484@njicathletics
+UID:ds:2554:7732484@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T163000
 DTEND;TZID=America/New_York:20270104T183000
-SUMMARY:New Milford at Butler (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
+SUMMARY:Butler vs New Milford (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7693238@njicathletics
@@ -2615,12 +2671,12 @@ SUMMARY:Hawthorne vs New Milford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7732559@njicathletics
+UID:ds:2554:7732559@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T163000
 DTEND;TZID=America/New_York:20270122T183000
-SUMMARY:New Milford vs Butler (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
+SUMMARY:Butler at New Milford (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7534353@njicathletics

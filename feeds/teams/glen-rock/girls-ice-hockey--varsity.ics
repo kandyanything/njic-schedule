@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2626:7756703@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T171500
+DTEND;TZID=America/New_York:20261202T191500
+SUMMARY:Glen Rock at Princeton Day School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2626:7683134@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261204T163000
@@ -32,12 +40,44 @@ SUMMARY:Glen Rock vs East Side High School (Varsity Girls Girls Ice Hocke
 DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2626:7756709@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T153000
+DTEND;TZID=America/New_York:20261211T173000
+SUMMARY:Glen Rock at Cranford High School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2626:7668839@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T201500
 DTEND;TZID=America/New_York:20261219T221500
 SUMMARY:Glen Rock at Randolph High School (Varsity Girls Girls Ice Hockey)
 DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 8:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7756729@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T200000
+DTEND;TZID=America/New_York:20261222T220000
+SUMMARY:Glen Rock vs Cranford High School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7756735@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T191500
+DTEND;TZID=America/New_York:20270105T211500
+SUMMARY:Glen Rock at Princeton Day School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7756740@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Glen Rock vs Princeton Day School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7688906@njicathletics
@@ -89,5 +129,13 @@ DTSTART;TZID=America/New_York:20270131T195000
 DTEND;TZID=America/New_York:20270131T215000
 SUMMARY:Glen Rock at Ridge High School (Varsity Girls Girls Ice Hockey)
 DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 7:50 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7756763@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Glen Rock at Kent Place School (Varsity Girls Girls Ice Hockey)
+DESCRIPTION:Varsity Girls Girls Ice Hockey - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

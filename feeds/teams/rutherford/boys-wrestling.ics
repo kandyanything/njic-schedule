@@ -23,22 +23,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2841:7534292@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:Rutherford at Northern Valley Regional High (Varsity Boys Boys Wr
- estling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2841:7552688@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
+DTSTART;TZID=America/New_York:20261212T093000
+DTEND;TZID=America/New_York:20261212T113000
 SUMMARY:Rutherford at Northern Valley Regional High (Junior Varsity Boys 
  Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2841:7534292@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Rutherford at Northern Valley Regional High (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7635227@njicathletics

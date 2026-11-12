@@ -320,14 +320,6 @@ SUMMARY:Butler vs Midland Park (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7561892@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260911T190000
-DTEND;TZID=America/New_York:20260911T210000
-SUMMARY:Butler vs TBA NJ (Varsity Coed Coed Cheerleading)
-DESCRIPTION:Varsity Coed Coed Cheerleading - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7459919@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260911T190000
@@ -336,12 +328,12 @@ SUMMARY:Butler vs New Milford (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7469303@njicathletics
+UID:ds:2554:7561892@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260912T100000
-DTEND;TZID=America/New_York:20260912T120000
-SUMMARY:Butler vs Passaic Charter (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+DTSTART;TZID=America/New_York:20260911T190000
+DTEND;TZID=America/New_York:20260911T210000
+SUMMARY:Butler vs TBA NJ (Varsity Coed Coed Cheerleading)
+DESCRIPTION:Varsity Coed Coed Cheerleading - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7622210@njicathletics
@@ -350,6 +342,14 @@ DTSTART;TZID=America/New_York:20260912T100000
 DTEND;TZID=America/New_York:20260912T120000
 SUMMARY:Butler at Manchester Regional (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7469303@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Butler vs Passaic Charter (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7440108@njicathletics
@@ -392,15 +392,6 @@ SUMMARY:Elmwood Park vs Butler (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7437656@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T161500
-DTEND;TZID=America/New_York:20260915T181500
-SUMMARY:Butler vs River Dell Regional High School (Varsity Girls Field Ho
- ckey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7454901@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T161500
@@ -415,6 +406,15 @@ DTSTART;TZID=America/New_York:20260915T161500
 DTEND;TZID=America/New_York:20260915T181500
 SUMMARY:Butler at Saddle Brook (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7437656@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Butler vs River Dell Regional High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7455728@njicathletics
@@ -782,20 +782,20 @@ SUMMARY:Butler vs Indian Hills High School (Junior Varsity Girls Girls Vo
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7454900@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Butler at Leonia (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7451274@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
 SUMMARY:Butler at West Milford High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7454900@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Butler at Leonia (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7515559@njicathletics
@@ -2242,6 +2242,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T090000
 DTEND;TZID=America/New_York:20270116T110000
 SUMMARY:Butler vs TBA NJ (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7761789@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T090000
+DTEND;TZID=America/New_York:20270116T110000
+SUMMARY:Butler vs Vernon Township High School (Varsity Boys Boys Wrestlin
+ g)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT

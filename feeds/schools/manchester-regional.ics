@@ -352,20 +352,20 @@ SUMMARY:Butler at Manchester Regional (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7458968@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Cresskill at Manchester Regional (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7440043@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Cresskill vs Manchester Regional (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7458968@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Cresskill at Manchester Regional (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7572099@njicathletics
@@ -1859,14 +1859,6 @@ SUMMARY:Manchester Regional vs North Arlington (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7643655@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T160000
-DTEND;TZID=America/New_York:20270111T180000
-SUMMARY:Manchester Regional at Park Ridge (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7579758@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
@@ -2531,6 +2523,15 @@ SUMMARY:Manchester Regional vs Elmwood Park (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2710:7764175@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T161500
+DTEND;TZID=America/New_York:20270319T181500
+SUMMARY:Manchester Regional at John F Kennedy High School (Varsity Boys B
+ aseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7588250@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T161500
@@ -2671,6 +2672,14 @@ SUMMARY:Manchester Regional at Garfield (Varsity Girls Girls Track and Fi
 DESCRIPTION:Varsity Girls Girls Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2710:7764220@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T161500
+DTEND;TZID=America/New_York:20270406T181500
+SUMMARY:Manchester Regional at Saddle Brook (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2710:7707584@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
@@ -2794,6 +2803,14 @@ SUMMARY:Manchester Regional vs Wallington (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7764285@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T161500
+DTEND;TZID=America/New_York:20270422T181500
+SUMMARY:Garfield at Manchester Regional (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2648:7708456@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T161500
@@ -2866,6 +2883,14 @@ SUMMARY:Manchester Regional vs Saddle River Day (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2710:7764171@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T183000
+DTEND;TZID=America/New_York:20270430T203000
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2643:7708242@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T161500
@@ -2898,20 +2923,21 @@ SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7608599@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270510T160000
-DTEND;TZID=America/New_York:20270510T180000
-SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7757703@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T161500
 DTEND;TZID=America/New_York:20270510T181500
 SUMMARY:Manchester Regional vs Bergen Charter (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7764168@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270511T161500
+DTEND;TZID=America/New_York:20270511T181500
+SUMMARY:Manchester Regional at John F Kennedy High School (Varsity Boys B
+ aseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7608602@njicathletics

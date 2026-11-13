@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2554:7763468@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T090000
+DTEND;TZID=America/New_York:20261205T110000
+SUMMARY:Butler at Pequannock Township High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2695:7645688@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T180000
@@ -958,15 +967,6 @@ DTEND;TZID=America/New_York:20261229T120000
 SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Junior Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2723:7763139@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T080000
-DTEND;TZID=America/New_York:20261230T100000
-SUMMARY:Elmwood Park vs Ridgewood High School (Varsity Boys Boys Wrestlin
- g)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7699950@njicathletics

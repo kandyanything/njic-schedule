@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2646:7460571@njicathletics
+UID:ds:2710:7460571@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260804T150000
 DTEND;TZID=America/New_York:20260804T170000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 3:00 PM
+SUMMARY:Manchester Regional vs Hawthorne (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7460613@njicathletics
@@ -56,20 +56,20 @@ SUMMARY:Manchester Regional at Sussex County Technical High School (Varsi
 DESCRIPTION:Varsity Boys Football - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7461537@njicathletics
+UID:ds:2710:7461537@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T100000
 DTEND;TZID=America/New_York:20260824T120000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+SUMMARY:Manchester Regional vs Hawthorne (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7461538@njicathletics
+UID:ds:2710:7461538@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260824T100000
 DTEND;TZID=America/New_York:20260824T120000
-SUMMARY:Hawthorne vs Manchester Regional (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+SUMMARY:Manchester Regional at Hawthorne (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7458758@njicathletics
@@ -150,22 +150,13 @@ SUMMARY:Hasbrouck Heights vs Manchester Regional (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7536905@njicathletics
+UID:ds:2710:7536905@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
 DTEND;TZID=America/New_York:20260902T180000
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Girls Girls S
+SUMMARY:Manchester Regional vs Hawthorne Christian (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454957@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260902T161500
-DTEND;TZID=America/New_York:20260902T181500
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7454957@njicathletics
@@ -352,20 +343,20 @@ SUMMARY:Butler at Manchester Regional (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440043@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Cresskill vs Manchester Regional (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7458968@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Cresskill at Manchester Regional (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440043@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Cresskill vs Manchester Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7572099@njicathletics
@@ -572,13 +563,13 @@ SUMMARY:Lodi at Manchester Regional (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7440044@njicathletics
+UID:ds:2710:7440044@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
 DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Soc
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Boys Boys Soc
  cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7455434@njicathletics
@@ -674,21 +665,21 @@ SUMMARY:Lyndhurst at Manchester Regional (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7455461@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Girls Girls V
- olleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7454982@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
 SUMMARY:Manchester Regional at Mary Help (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7455461@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Manchester Regional vs Hawthorne Christian (Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7454982@njicathletics
@@ -739,22 +730,13 @@ SUMMARY:Manchester Regional at Lodi (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7536895@njicathletics
+UID:ds:2710:7536895@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Girls Girls S
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Girls Girls S
  occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2645:7454981@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7654061@njicathletics
@@ -1155,21 +1137,21 @@ SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Girls Girls S
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7440020@njicathletics
+UID:ds:2710:7668310@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Boys Boys Soc
- cer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Manchester Regional at Hawthorne (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7668310@njicathletics
+UID:ds:2710:7440020@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Hawthorne vs Manchester Regional (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+SUMMARY:Manchester Regional vs Hawthorne Christian (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7455574@njicathletics
@@ -1246,13 +1228,13 @@ SUMMARY:Manchester Regional vs Rutherford (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7455603@njicathletics
+UID:ds:2710:7455603@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T161500
 DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Girls Girls V
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Girls Girls V
  olleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7454988@njicathletics
@@ -1426,13 +1408,13 @@ SUMMARY:New Milford at Manchester Regional (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7689029@njicathletics
+UID:ds:2710:7689029@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Coed Coed Bow
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Coed Coed Bow
  ling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7572181@njicathletics
@@ -1508,12 +1490,12 @@ SUMMARY:Manchester Regional at Elmwood Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7572185@njicathletics
+UID:ds:2710:7572185@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Hawthorne vs Manchester Regional (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+SUMMARY:Manchester Regional at Hawthorne (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7579681@njicathletics
@@ -1524,13 +1506,13 @@ SUMMARY:Manchester Regional vs Weehawken (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7579667@njicathletics
+UID:ds:2710:7579667@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Hawthorne vs Manchester Regional (Junior Varsity Girls Girls Bask
+SUMMARY:Manchester Regional at Hawthorne (Junior Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7579676@njicathletics
@@ -1568,12 +1550,12 @@ SUMMARY:Manchester Regional vs Weehawken (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7685999@njicathletics
+UID:ds:2710:7685999@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T160000
 DTEND;TZID=America/New_York:20261221T180000
-SUMMARY:Hawthorne vs Manchester Regional (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+SUMMARY:Manchester Regional at Hawthorne (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7579688@njicathletics
@@ -1901,12 +1883,12 @@ SUMMARY:Lodi vs Manchester Regional (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7580060@njicathletics
+UID:ds:2710:7580060@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T160000
 DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+SUMMARY:Manchester Regional vs Hawthorne (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7579943@njicathletics
@@ -1917,15 +1899,6 @@ SUMMARY:Manchester Regional at Weehawken (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7580068@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T173000
-DTEND;TZID=America/New_York:20270113T193000
-SUMMARY:Hawthorne at Manchester Regional (Junior Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7579949@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T173000
@@ -1933,6 +1906,15 @@ DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Manchester Regional at Weehawken (Junior Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7580068@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Manchester Regional vs Hawthorne (Junior Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7579945@njicathletics
@@ -2009,13 +1991,13 @@ SUMMARY:Mary Help vs Manchester Regional (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7504353@njicathletics
+UID:ds:2710:7504353@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T163000
 DTEND;TZID=America/New_York:20270119T183000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Girls Girls B
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Girls Girls B
  asketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7539702@njicathletics
@@ -2156,22 +2138,22 @@ SUMMARY:Manchester Regional vs Shore Regional High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 1:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7594837@njicathletics
+UID:ds:2710:7594837@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T163000
 DTEND;TZID=America/New_York:20270125T183000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Junior Varsity Boys B
+SUMMARY:Manchester Regional at Hawthorne Christian (Junior Varsity Boys B
  oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7556443@njicathletics
+UID:ds:2710:7556443@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
 DTEND;TZID=America/New_York:20270125T200000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Boys Boys Bas
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Boys Boys Bas
  ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7700012@njicathletics
@@ -2206,13 +2188,13 @@ SUMMARY:Manchester Regional vs Saint Mary (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7689040@njicathletics
+UID:ds:2710:7689040@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Hawthorne Christian vs Manchester Regional (Varsity Coed Coed Bow
+SUMMARY:Manchester Regional at Hawthorne Christian (Varsity Coed Coed Bow
  ling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7692036@njicathletics
@@ -2301,20 +2283,20 @@ SUMMARY:Manchester Regional vs Saddle River Day (Varsity Boys Boys Basket
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7686038@njicathletics
+UID:ds:2710:7686038@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T160000
 DTEND;TZID=America/New_York:20270202T180000
-SUMMARY:Hawthorne vs Manchester Regional (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
+SUMMARY:Manchester Regional at Hawthorne (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7668548@njicathletics
+UID:ds:2710:7668548@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+SUMMARY:Manchester Regional vs Hawthorne (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7449000@njicathletics
@@ -2572,15 +2554,6 @@ SUMMARY:Butler at Manchester Regional (Varsity Boys Boys Track and Field)
 DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7608735@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270331T160000
-DTEND;TZID=America/New_York:20270331T180000
-SUMMARY:Hawthorne Christian at Manchester Regional (Varsity Boys Boys Tra
- ck and Field)
-DESCRIPTION:Varsity Boys Boys Track and Field - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7608735@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T160000
@@ -2777,15 +2750,6 @@ SUMMARY:Manchester Regional vs Elmwood Park (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7569616@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270421T160000
-DTEND;TZID=America/New_York:20270421T180000
-SUMMARY:Hawthorne vs Manchester Regional (Varsity Coed Coed Track and Fie
- ld)
-DESCRIPTION:Varsity Coed Coed Track and Field - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2710:7566104@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270421T160000
@@ -2793,6 +2757,15 @@ DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Manchester Regional at Ridgefield Memorial (Varsity Girls Softbal
  l)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7569616@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Manchester Regional at Hawthorne (Varsity Coed Coed Track and Fie
+ ld)
+DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7707588@njicathletics
@@ -2915,12 +2888,12 @@ SUMMARY:Harrison vs Manchester Regional (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7608595@njicathletics
+UID:ds:2710:7608595@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270507T160000
 DTEND;TZID=America/New_York:20270507T180000
-SUMMARY:Hawthorne at Manchester Regional (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+SUMMARY:Manchester Regional vs Hawthorne (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7757703@njicathletics
@@ -2948,12 +2921,12 @@ SUMMARY:Manchester Regional at Weehawken (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7653370@njicathletics
+UID:ds:2710:7653370@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270514T160000
 DTEND;TZID=America/New_York:20270514T180000
-SUMMARY:Hawthorne vs Manchester Regional (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+SUMMARY:Manchester Regional at Hawthorne (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7569641@njicathletics

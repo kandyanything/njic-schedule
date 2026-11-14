@@ -39,12 +39,12 @@ SUMMARY:Bogota vs Saddle River Day (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7566329@njicathletics
+UID:ds:2645:7566329@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260825T110000
 DTEND;TZID=America/New_York:20260825T130000
-SUMMARY:Saddle River Day at Hawthorne Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+SUMMARY:Hawthorne Christian vs Saddle River Day (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7582028@njicathletics
@@ -174,21 +174,21 @@ SUMMARY:Saddle Brook vs Saddle River Day (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7582035@njicathletics
+UID:ds:2646:7455354@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T163000
 DTEND;TZID=America/New_York:20260903T183000
-SUMMARY:Saddle River Day vs Hawthorne (Junior Varsity Girls Girls Volleyb
- all)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
+SUMMARY:Hawthorne at Saddle River Day (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7455354@njicathletics
+UID:ds:2646:7582035@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T163000
 DTEND;TZID=America/New_York:20260903T183000
-SUMMARY:Saddle River Day vs Hawthorne (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+SUMMARY:Hawthorne at Saddle River Day (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7439970@njicathletics
@@ -232,12 +232,12 @@ SUMMARY:Saddle Brook vs Saddle River Day (Junior Varsity Girls Girls Voll
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7440015@njicathletics
+UID:ds:2646:7440015@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260909T160000
 DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:Saddle River Day vs Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+SUMMARY:Hawthorne at Saddle River Day (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7455030@njicathletics
@@ -738,15 +738,6 @@ SUMMARY:Lodi vs Saddle River Day (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7528461@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T161500
-DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Saddle River Day at Northern Highlands Regional High School (Fres
- hman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2844:7528459@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
@@ -756,13 +747,13 @@ SUMMARY:Saddle River Day at Northern Highlands Regional High School (Vars
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7518223@njicathletics
+UID:ds:2844:7528461@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T163000
-DTEND;TZID=America/New_York:20260929T183000
-SUMMARY:Saddle River Day at Eastern Christian (Varsity Boys Boys Cross Co
- untry)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Saddle River Day at Northern Highlands Regional High School (Fres
+ hman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7553167@njicathletics
@@ -772,6 +763,15 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Saddle River Day at Hasbrouck Heights (Varsity Girls Girls Cross 
  Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2844:7581459@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T183000
+SUMMARY:Saddle River Day at Eastern Christian (Varsity Boys Boys Cross Co
+ untry)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7518219@njicathletics
@@ -1028,12 +1028,20 @@ SUMMARY:Saddle River Day vs Dwight-Englewood (Middle School Girls Girls T
 DESCRIPTION:Middle School Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7440116@njicathletics
+UID:ds:2646:7440116@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T161500
 DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Saddle River Day at Hawthorne (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Hawthorne vs Saddle River Day (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7670211@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T163000
+DTEND;TZID=America/New_York:20261005T183000
+SUMMARY:Hawthorne at Saddle River Day (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7455530@njicathletics
@@ -1051,14 +1059,6 @@ DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Park Ridge at Saddle River Day (Junior Varsity Girls Girls Volley
  ball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2844:7670211@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T163000
-DTEND;TZID=America/New_York:20261005T183000
-SUMMARY:Saddle River Day vs Hawthorne (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7657975@njicathletics
@@ -1135,6 +1135,14 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Saddle River Day at Waldwick (Middle School Girls Girls Volleybal
  l)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532593@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Hawthorne vs Saddle River Day (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7532593@njicathletics
@@ -1646,6 +1654,14 @@ SUMMARY:Saddle River Day vs Saint Mary (Junior Varsity Girls Girls Volley
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7532616@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Hawthorne at Saddle River Day (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:43406:7440119@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -1965,12 +1981,12 @@ SUMMARY:Saddle River Day vs Pope John XXIII High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7737141@njicathletics
+UID:ds:2645:7737141@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T140000
 DTEND;TZID=America/New_York:20261106T160000
-SUMMARY:Saddle River Day vs Hawthorne Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+SUMMARY:Hawthorne Christian at Saddle River Day (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7657989@njicathletics
@@ -2829,12 +2845,12 @@ SUMMARY:Saddle River Day vs Leonia (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7669447@njicathletics
+UID:ds:2646:7669447@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Saddle River Day vs Hawthorne (Middle School Boys Boys Basketball)
-DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Hawthorne at Saddle River Day (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7727666@njicathletics

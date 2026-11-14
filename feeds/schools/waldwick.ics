@@ -700,20 +700,20 @@ SUMMARY:Saddle Brook vs Waldwick (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7510928@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Leonia vs Waldwick (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7440028@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Leonia at Waldwick (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7510928@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Leonia vs Waldwick (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7501827@njicathletics
@@ -797,7 +797,7 @@ SUMMARY:Glen Rock vs Waldwick (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7501775@njicathletics
+UID:ds:2916:7513029@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
@@ -837,20 +837,20 @@ SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7504035@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7455431@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Leonia at Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7504035@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7515556@njicathletics
@@ -943,6 +943,14 @@ SUMMARY:Emerson at Waldwick (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7445961@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Waldwick vs Emerson (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7515646@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
@@ -960,28 +968,20 @@ SUMMARY:Waldwick vs Cedar Grove High School (Junior Varsity Girls Girls T
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7445961@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Waldwick vs Emerson (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7508884@njicathletics
+UID:ds:2646:7511123@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Waldwick vs Hawthorne (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Hawthorne vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7511123@njicathletics
+UID:ds:2646:7508884@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T160000
 DTEND;TZID=America/New_York:20260925T180000
-SUMMARY:Waldwick at Hawthorne (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Hawthorne at Waldwick (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7455161@njicathletics
@@ -990,6 +990,22 @@ DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
 SUMMARY:Becton vs Waldwick (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7633469@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Hawthorne vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7532541@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Hawthorne vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7503280@njicathletics
@@ -1014,14 +1030,6 @@ DTSTART;TZID=America/New_York:20260925T161500
 DTEND;TZID=America/New_York:20260925T181500
 SUMMARY:Waldwick at Wallington (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7633469@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Waldwick at Hawthorne (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7455161@njicathletics
@@ -1056,7 +1064,7 @@ SUMMARY:Waldwick vs Wallington (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7439396@njicathletics
+UID:ds:2916:7571134@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
@@ -1185,20 +1193,20 @@ SUMMARY:Emerson vs Waldwick (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7455493@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T161500
+DTEND;TZID=America/New_York:20260930T181500
+SUMMARY:Hawthorne at Waldwick (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7531689@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T161500
 DTEND;TZID=America/New_York:20260930T181500
 SUMMARY:Waldwick vs Haledon Middle School (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7455493@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T161500
-DTEND;TZID=America/New_York:20260930T181500
-SUMMARY:Waldwick vs Hawthorne (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7440129@njicathletics
@@ -1227,7 +1235,7 @@ SUMMARY:Waldwick vs Bergen County Technical High School (Freshman Boys Bo
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7455180@njicathletics
+UID:ds:2841:7596126@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T161500
 DTEND;TZID=America/New_York:20261001T181500
@@ -1713,28 +1721,28 @@ SUMMARY:North Arlington vs Waldwick (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2645:7508899@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Hawthorne Christian vs Waldwick (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2645:7531702@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Hawthorne Christian at Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2733:7513478@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Midland Park at Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7531702@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Waldwick vs Hawthorne Christian (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7508899@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:Waldwick at Hawthorne Christian (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7455218@njicathletics
@@ -2190,20 +2198,20 @@ SUMMARY:Saint Mary at Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7605073@njicathletics
+UID:ds:2645:7605073@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T160000
 DTEND;TZID=America/New_York:20261027T180000
-SUMMARY:Waldwick at Hawthorne Christian (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:00 PM
+SUMMARY:Hawthorne Christian vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7531741@njicathletics
+UID:ds:2645:7531741@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T180000
-SUMMARY:Waldwick vs Hawthorne Christian (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Hawthorne Christian at Waldwick (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7719460@njicathletics
@@ -2263,12 +2271,12 @@ SUMMARY:Waldwick at Wallington (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7508914@njicathletics
+UID:ds:2646:7508914@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T161500
 DTEND;TZID=America/New_York:20261030T181500
-SUMMARY:Waldwick at Hawthorne (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+SUMMARY:Hawthorne vs Waldwick (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7723218@njicathletics
@@ -2338,12 +2346,12 @@ SUMMARY:Waldwick at North Warren Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7755930@njicathletics
+UID:ds:2646:7755930@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261110T160000
 DTEND;TZID=America/New_York:20261110T180000
-SUMMARY:Waldwick at Hawthorne (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+SUMMARY:Hawthorne vs Waldwick (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7757912@njicathletics
@@ -2689,6 +2697,14 @@ SUMMARY:Park Ridge vs Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7763051@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Hawthorne at Waldwick (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7725747@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T173000
@@ -2697,20 +2713,12 @@ SUMMARY:Park Ridge vs Waldwick (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7763051@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T173000
-DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Waldwick vs Hawthorne (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7706899@njicathletics
+UID:ds:2646:7706899@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
-SUMMARY:Waldwick vs Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+SUMMARY:Hawthorne at Waldwick (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7730811@njicathletics
@@ -2745,12 +2753,12 @@ SUMMARY:Bogota at Waldwick (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7653804@njicathletics
+UID:ds:2646:7653804@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
-SUMMARY:Waldwick vs Hawthorne (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+SUMMARY:Hawthorne at Waldwick (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7501768@njicathletics
@@ -2972,6 +2980,14 @@ SUMMARY:Waldwick at Secaucus (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7763059@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Hawthorne vs Waldwick (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7708426@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
@@ -2980,12 +2996,12 @@ SUMMARY:Park Ridge at Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7763059@njicathletics
+UID:ds:2646:7706891@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T173000
-DTEND;TZID=America/New_York:20270203T193000
-SUMMARY:Waldwick at Hawthorne (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+DTSTART;TZID=America/New_York:20270203T190000
+DTEND;TZID=America/New_York:20270203T210000
+SUMMARY:Hawthorne vs Waldwick (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7725746@njicathletics
@@ -2996,12 +3012,20 @@ SUMMARY:Park Ridge at Waldwick (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7706891@njicathletics
+UID:ds:2646:7669498@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T190000
-DTEND;TZID=America/New_York:20270203T210000
-SUMMARY:Waldwick at Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+DTSTART;TZID=America/New_York:20270205T161500
+DTEND;TZID=America/New_York:20270205T181500
+SUMMARY:Hawthorne at Waldwick (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7670355@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T161500
+DTEND;TZID=America/New_York:20270205T181500
+SUMMARY:Hawthorne vs Waldwick (Middle School Girls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7603737@njicathletics
@@ -3085,6 +3109,22 @@ SUMMARY:Waldwick at Glen Ridge High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7669572@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T161500
+DTEND;TZID=America/New_York:20270219T181500
+SUMMARY:Hawthorne vs Waldwick (Middle School Boys Boys Basketball)
+DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7670368@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T161500
+DTEND;TZID=America/New_York:20270219T181500
+SUMMARY:Hawthorne at Waldwick (Middle School Girls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7666522@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T161500
@@ -3103,12 +3143,12 @@ SUMMARY:Waldwick at River Dell Regional High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7727849@njicathletics
+UID:ds:2646:7727849@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T160000
 DTEND;TZID=America/New_York:20270322T180000
-SUMMARY:Waldwick vs Hawthorne (Varsity Boys Boys Lacrosse)
-DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
+SUMMARY:Hawthorne at Waldwick (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7758994@njicathletics
@@ -3209,20 +3249,20 @@ SUMMARY:Waldwick vs Emerson (Varsity Girls Girls Track and Field)
 DESCRIPTION:Varsity Girls Girls Track and Field - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7553270@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Hawthorne at Waldwick (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2785:7572956@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270407T161500
 DTEND;TZID=America/New_York:20270407T181500
 SUMMARY:Palisades Park at Waldwick (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7553270@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270407T161500
-DTEND;TZID=America/New_York:20270407T181500
-SUMMARY:Waldwick vs Hawthorne (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7567786@njicathletics
@@ -3250,12 +3290,12 @@ SUMMARY:Waldwick vs Wood-Ridge (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7727845@njicathletics
+UID:ds:2646:7727845@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T160000
 DTEND;TZID=America/New_York:20270412T180000
-SUMMARY:Waldwick vs Hawthorne (Varsity Boys Boys Lacrosse)
-DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
+SUMMARY:Hawthorne at Waldwick (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7542455@njicathletics
@@ -3266,12 +3306,12 @@ SUMMARY:Eastern Christian at Waldwick (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7542455@njicathletics
+UID:ds:2645:7542455@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T161500
 DTEND;TZID=America/New_York:20270412T181500
-SUMMARY:Waldwick vs Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
+SUMMARY:Hawthorne Christian at Waldwick (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7542456@njicathletics

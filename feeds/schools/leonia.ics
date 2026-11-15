@@ -239,20 +239,20 @@ SUMMARY:Leonia vs Rutherford (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7510936@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260903T161500
-DTEND;TZID=America/New_York:20260903T181500
-SUMMARY:Garfield vs Leonia (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7509916@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T161500
 DTEND;TZID=America/New_York:20260903T181500
 SUMMARY:Garfield at Leonia (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7510936@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Garfield vs Leonia (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7455108@njicathletics
@@ -450,20 +450,20 @@ SUMMARY:Leonia vs Independent School 2 (Varsity Coed Pep Band)
 DESCRIPTION:Varsity Coed Pep Band - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7439960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Dwight-Englewood at Leonia (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2598:7510922@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Dwight-Englewood vs Leonia (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7439960@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Dwight-Englewood at Leonia (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7621352@njicathletics
@@ -570,20 +570,12 @@ SUMMARY:Garfield at Leonia (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7506562@njicathletics
+UID:ds:2626:7528586@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
 SUMMARY:Glen Rock at Leonia (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7545886@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T172000
-DTEND;TZID=America/New_York:20260915T192000
-SUMMARY:Glen Rock at Leonia (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7546033@njicathletics
@@ -592,6 +584,14 @@ DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
 SUMMARY:Glen Rock at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7545886@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Glen Rock at Leonia (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7506562@njicathletics

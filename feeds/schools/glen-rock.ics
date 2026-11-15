@@ -557,20 +557,20 @@ SUMMARY:Glen Rock at Midland Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7439997@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Glen Rock at Wallington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7504994@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Glen Rock vs Wallington (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7439997@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Glen Rock at Wallington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7455136@njicathletics
@@ -661,20 +661,12 @@ SUMMARY:Glen Rock at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7506562@njicathletics
+UID:ds:2626:7528586@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
 SUMMARY:Glen Rock at Leonia (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2626:7545886@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T172000
-DTEND;TZID=America/New_York:20260915T192000
-SUMMARY:Glen Rock at Leonia (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7546033@njicathletics
@@ -683,6 +675,14 @@ DTSTART;TZID=America/New_York:20260915T172000
 DTEND;TZID=America/New_York:20260915T192000
 SUMMARY:Glen Rock at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7545886@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T172000
+DTEND;TZID=America/New_York:20260915T192000
+SUMMARY:Glen Rock at Leonia (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2582:7477057@njicathletics

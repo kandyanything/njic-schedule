@@ -144,12 +144,12 @@ SUMMARY:Leonia vs Secaucus (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7528844@njicathletics
+UID:ds:38258:7528844@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
 DTEND;TZID=America/New_York:20260902T180000
-SUMMARY:New Milford vs Secaucus (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+SUMMARY:Secaucus at New Milford (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7535797@njicathletics
@@ -443,6 +443,14 @@ SUMMARY:Harrison vs Secaucus (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:38258:7535675@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Secaucus at TBA NJ (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:38258:7536041@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
@@ -450,14 +458,6 @@ DTEND;TZID=America/New_York:20260919T110000
 SUMMARY:Secaucus at Livingston High School (Junior Varsity Girls Girls Vo
  lleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:38258:7535675@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Secaucus at TBA NJ (Varsity Coed Coed Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7463320@njicathletics
@@ -484,12 +484,12 @@ SUMMARY:Wood-Ridge at Secaucus (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7470799@njicathletics
+UID:ds:38258:7470799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T170000
-SUMMARY:New Milford vs Secaucus (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 3:00 PM
+SUMMARY:Secaucus at New Milford (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7484296@njicathletics
@@ -516,12 +516,12 @@ SUMMARY:Palisades Park vs Secaucus (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455439@njicathletics
+UID:ds:38258:7455439@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:New Milford vs Secaucus (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+SUMMARY:Secaucus at New Milford (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7506283@njicathletics
@@ -1333,14 +1333,6 @@ SUMMARY:Lodi at Secaucus (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455572@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:New Milford at Secaucus (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7454970@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T161500
@@ -1349,12 +1341,20 @@ SUMMARY:Secaucus vs Lodi (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7536121@njicathletics
+UID:ds:38258:7455572@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:Secaucus vs New Milford (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7536121@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T173000
 DTEND;TZID=America/New_York:20261022T193000
-SUMMARY:New Milford at Secaucus (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
+SUMMARY:Secaucus vs New Milford (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7506923@njicathletics
@@ -1672,22 +1672,6 @@ DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Secaucus vs TBA NJ (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7660514@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T163000
-DTEND;TZID=America/New_York:20261215T183000
-SUMMARY:New Milford at Secaucus (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7756443@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T163000
-DTEND;TZID=America/New_York:20261215T183000
-SUMMARY:New Milford at Secaucus (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7660514@njicathletics
@@ -2167,12 +2151,12 @@ SUMMARY:Secaucus vs Lyndhurst (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7534346@njicathletics
+UID:ds:38258:7534346@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
-SUMMARY:New Milford vs Secaucus (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+SUMMARY:Secaucus at New Milford (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7651111@njicathletics
@@ -2483,20 +2467,20 @@ SUMMARY:Hasbrouck Heights at Secaucus (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7723362@njicathletics
+UID:ds:38258:7723362@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
-SUMMARY:New Milford vs Secaucus (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+SUMMARY:Secaucus at New Milford (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7723427@njicathletics
+UID:ds:38258:7723427@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
-SUMMARY:New Milford vs Secaucus (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+SUMMARY:Secaucus at New Milford (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7679652@njicathletics
@@ -2525,12 +2509,12 @@ SUMMARY:Hasbrouck Heights at Secaucus (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537352@njicathletics
+UID:ds:38258:7537352@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
-SUMMARY:New Milford vs Secaucus (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+SUMMARY:Secaucus at New Milford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7706204@njicathletics
@@ -2591,14 +2575,6 @@ SUMMARY:Secaucus at Fort Lee High School (Middle School Girls Girls Baske
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:38258:7552686@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T170000
-DTEND;TZID=America/New_York:20270122T190000
-SUMMARY:Secaucus at Fort Lee High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7485039@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T173000
@@ -2606,6 +2582,22 @@ DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Eastern Christian vs Secaucus (Junior Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7552686@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T183000
+DTEND;TZID=America/New_York:20270122T203000
+SUMMARY:Secaucus at Fort Lee High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:38258:7769461@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T210000
+SUMMARY:Secaucus at Fort Lee High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7666922@njicathletics

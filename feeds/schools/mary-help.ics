@@ -31,14 +31,6 @@ SUMMARY:Mary Help at New Milford (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7529143@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260825T153000
-DTEND;TZID=America/New_York:20260825T173000
-SUMMARY:New Milford vs Mary Help (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7513826@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T100000
@@ -187,20 +179,20 @@ SUMMARY:Mary Help vs Elmwood Park (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2717:7455120@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Mary Help at Palisades Park (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7455370@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
 SUMMARY:Mary Help at Midland Park (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455120@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Mary Help at Palisades Park (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7455370@njicathletics
@@ -324,20 +316,20 @@ SUMMARY:Manchester Regional at Mary Help (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2717:7455137@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Mary Help vs Hawthorne (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7455497@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:Mary Help vs Manchester Regional (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7455137@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Mary Help vs Hawthorne (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7455397@njicathletics
@@ -1242,6 +1234,14 @@ SUMMARY:Mary Help at Hawthorne (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2717:7769472@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Mary Help vs Weehawken (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2717:7743593@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
@@ -1258,28 +1258,12 @@ SUMMARY:Midland Park at Mary Help (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7743593@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T160000
-DTEND;TZID=America/New_York:20261217T180000
-SUMMARY:New Milford at Mary Help (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2717:7738238@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T161500
 DTEND;TZID=America/New_York:20261217T181500
 SUMMARY:Mary Help at New Milford (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7738238@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T161500
-DTEND;TZID=America/New_York:20261217T181500
-SUMMARY:New Milford vs Mary Help (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7530841@njicathletics
@@ -1314,6 +1298,14 @@ SUMMARY:Saddle Brook at Mary Help (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2717:7769417@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T132800
+DTEND;TZID=America/New_York:20261221T152800
+SUMMARY:Mary Help at Weehawken (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 1:28 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2645:7689036@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T160000
@@ -1322,12 +1314,28 @@ SUMMARY:Hawthorne Christian at Mary Help (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7769483@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Hawthorne at Mary Help (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2717:7689036@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T160000
 DTEND;TZID=America/New_York:20261221T180000
 SUMMARY:Mary Help vs Hawthorne Christian (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7769483@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Mary Help vs Hawthorne (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7448982@njicathletics
@@ -1428,28 +1436,28 @@ SUMMARY:Mary Help at Lodi (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2643:7769489@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T134500
+DTEND;TZID=America/New_York:20270111T154500
+SUMMARY:Harrison at Mary Help (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7769489@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T134500
+DTEND;TZID=America/New_York:20270111T154500
+SUMMARY:Mary Help vs Harrison (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2717:7756452@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T201500
 DTEND;TZID=America/New_York:20270111T221500
 SUMMARY:Mary Help at New Milford (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 8:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7756452@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T201500
-DTEND;TZID=America/New_York:20270111T221500
-SUMMARY:New Milford vs Mary Help (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 8:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7756458@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T201500
-DTEND;TZID=America/New_York:20270111T221500
-SUMMARY:New Milford vs Mary Help (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 8:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7699754@njicathletics
@@ -1482,6 +1490,22 @@ DTSTART;TZID=America/New_York:20270113T161500
 DTEND;TZID=America/New_York:20270113T181500
 SUMMARY:Saddle Brook vs Mary Help (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7769494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Hawthorne vs Mary Help (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2717:7769494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Mary Help at Hawthorne (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7676188@njicathletics
@@ -1674,14 +1698,6 @@ DTSTART;TZID=America/New_York:20270201T161500
 DTEND;TZID=America/New_York:20270201T181500
 SUMMARY:Mary Help at New Milford (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7738248@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270201T161500
-DTEND;TZID=America/New_York:20270201T181500
-SUMMARY:New Milford vs Mary Help (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7580125@njicathletics

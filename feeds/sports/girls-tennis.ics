@@ -100,12 +100,12 @@ SUMMARY:Dwight-Englewood at Tenafly High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7588640@njicathletics
+UID:ds:2843:7588640@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260826T100000
 DTEND;TZID=America/New_York:20260826T120000
-SUMMARY:New Milford at Saddle Brook (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 10:00 AM
+SUMMARY:Saddle Brook vs New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7538338@njicathletics
@@ -417,22 +417,6 @@ SUMMARY:Mary Help at Palisades Park (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455121@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:New Milford at Becton (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7584335@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:New Milford vs Becton (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7455120@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
@@ -455,15 +439,6 @@ DTSTART;TZID=America/New_York:20260908T170000
 DTEND;TZID=America/New_York:20260908T190000
 SUMMARY:Dwight-Englewood at Pompton Lakes (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7544257@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260909T160000
-DTEND;TZID=America/New_York:20260909T180000
-SUMMARY:New Milford vs Teaneck High School (Junior Varsity Girls Girls Te
- nnis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7595220@njicathletics
@@ -563,20 +538,20 @@ SUMMARY:Becton vs Eastern Christian (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7455129@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Cresskill vs Lodi (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7526786@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
 SUMMARY:Cresskill at Lodi (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7455129@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Cresskill vs Lodi (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7526864@njicathletics
@@ -643,19 +618,19 @@ SUMMARY:Midland Park at Rutherford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455133@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:New Milford vs Waldwick (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7595235@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
 SUMMARY:Palisades Park at Weehawken (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7455133@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Waldwick at New Milford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -919,6 +894,14 @@ SUMMARY:Glen Rock vs Pompton Lakes (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2789:7455151@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7612799@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -926,14 +909,6 @@ DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Park Ridge at Ridgefield Memorial (Junior Varsity Girls Girls Ten
  nis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2789:7455151@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Park Ridge vs Ridgefield Memorial (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7455145@njicathletics
@@ -1108,12 +1083,12 @@ SUMMARY:Midland Park at Becton (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7632107@njicathletics
+UID:ds:2841:7632107@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260917T161500
 DTEND;TZID=America/New_York:20260917T181500
-SUMMARY:New Milford vs Rutherford (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Rutherford at New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7613102@njicathletics
@@ -1510,15 +1485,6 @@ DTSTART;TZID=America/New_York:20260925T163000
 DTEND;TZID=America/New_York:20260925T183000
 SUMMARY:Glen Rock at Saddle River Day (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7656679@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T143000
-DTEND;TZID=America/New_York:20260929T163000
-SUMMARY:New Milford at Wallkill Valley Regional High School (Varsity Girl
- s Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7655536@njicathletics
@@ -2120,14 +2086,6 @@ SUMMARY:Mary Help vs Palisades Park (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455182@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:New Milford vs Becton (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7455186@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T161500
@@ -2282,22 +2240,6 @@ SUMMARY:Midland Park at Rutherford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7515661@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T161500
-DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:New Milford vs Waldwick (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7455198@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T161500
-DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:New Milford at Waldwick (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2785:7455200@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T161500
@@ -2312,6 +2254,22 @@ DTSTART;TZID=America/New_York:20261008T161500
 DTEND;TZID=America/New_York:20261008T181500
 SUMMARY:Pompton Lakes vs Saddle River Day (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7455198@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Waldwick vs New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7515661@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Waldwick at New Milford (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7587217@njicathletics
@@ -2330,12 +2288,12 @@ SUMMARY:Lodi vs Secaucus (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7649943@njicathletics
+UID:ds:2916:7649943@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T161500
 DTEND;TZID=America/New_York:20261009T181500
-SUMMARY:New Milford vs Waldwick (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+SUMMARY:Waldwick at New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7506054@njicathletics
@@ -2453,23 +2411,6 @@ SUMMARY:Lodi at Hackensack High School (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7544259@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T160000
-DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:New Milford at Teaneck High School (Junior Varsity Girls Girls Te
- nnis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7544273@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T160000
-DTEND;TZID=America/New_York:20261013T180000
-SUMMARY:New Milford vs Teaneck High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7582890@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
@@ -2569,14 +2510,6 @@ SUMMARY:Lodi at Saddle Brook (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7592602@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T160000
-DTEND;TZID=America/New_York:20261014T180000
-SUMMARY:New Milford at Becton (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:38258:7689239@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -2665,12 +2598,12 @@ SUMMARY:Midland Park vs Waldwick (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455215@njicathletics
+UID:ds:2841:7455215@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
 DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:New Milford at Rutherford (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+SUMMARY:Rutherford vs New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7455213@njicathletics
@@ -2961,12 +2894,12 @@ SUMMARY:Leonia at Rutherford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7688785@njicathletics
+UID:ds:2789:7688785@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T161500
 DTEND;TZID=America/New_York:20261020T181500
-SUMMARY:New Milford at Park Ridge (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+SUMMARY:Park Ridge vs New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7455220@njicathletics

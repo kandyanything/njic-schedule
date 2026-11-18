@@ -913,7 +913,7 @@ SUMMARY:Midland Park at Elmwood Park (Junior Varsity Girls Girls Volleyba
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7439396@njicathletics
+UID:ds:2582:7571134@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
@@ -2419,14 +2419,6 @@ SUMMARY:Midland Park at Mary Help (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681210@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Elmwood Park at Midland Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7727896@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -2435,12 +2427,20 @@ SUMMARY:Midland Park at New Milford (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2723:7681210@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
+SUMMARY:Elmwood Park at Midland Park (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2733:7681210@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
+DTSTART;TZID=America/New_York:20261218T161500
+DTEND;TZID=America/New_York:20261218T181500
 SUMMARY:Midland Park vs Elmwood Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7703938@njicathletics
@@ -2573,6 +2573,32 @@ SUMMARY:Midland Park at Secaucus (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7772778@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T091500
+DTEND;TZID=America/New_York:20261228T111500
+SUMMARY:Midland Park vs Pascack Hills High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 9:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7772546@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T123000
+DTEND;TZID=America/New_York:20261228T143000
+SUMMARY:Midland Park at Dumont High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7772781@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T124500
+DTEND;TZID=America/New_York:20261229T144500
+SUMMARY:Midland Park at Fort Lee High School (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7655356@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270102T100000
@@ -2652,6 +2678,14 @@ DTSTART;TZID=America/New_York:20270106T161500
 DTEND;TZID=America/New_York:20270106T181500
 SUMMARY:Hawthorne vs Midland Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7647584@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Midland Park vs Butler (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7732552@njicathletics
@@ -2808,20 +2842,20 @@ SUMMARY:Elmwood Park vs Midland Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7681283@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T160000
-DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Midland Park at Elmwood Park (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7727906@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T160000
 DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:Midland Park vs New Milford (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7681283@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Midland Park at Elmwood Park (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7728077@njicathletics
@@ -2920,12 +2954,12 @@ SUMMARY:Garfield at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7683852@njicathletics
+UID:ds:2733:7743939@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
 DTEND;TZID=America/New_York:20270119T180000
-SUMMARY:Midland Park at Garfield (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
+SUMMARY:Midland Park vs Garfield (Var-JV Coed Coed Bowling)
+DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7753556@njicathletics
@@ -2936,20 +2970,20 @@ SUMMARY:Becton at Midland Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7532485@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T160000
-DTEND;TZID=America/New_York:20270120T180000
-SUMMARY:Midland Park vs Wood-Ridge (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7753556@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
 SUMMARY:Midland Park vs Becton (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7532485@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Midland Park vs Wood-Ridge (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7753268@njicathletics
@@ -2992,12 +3026,12 @@ SUMMARY:Hawthorne at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7743940@njicathletics
+UID:ds:2733:7686008@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
-SUMMARY:Midland Park vs Hawthorne (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
+SUMMARY:Midland Park at Hawthorne (Var-JV Coed Coed Bowling)
+DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7691368@njicathletics
@@ -3014,6 +3048,15 @@ DTSTART;TZID=America/New_York:20270121T180000
 DTEND;TZID=America/New_York:20270121T200000
 SUMMARY:Waldwick at Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7556563@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Midland Park vs Hawthorne Christian (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7695527@njicathletics

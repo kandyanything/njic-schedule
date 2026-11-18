@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ds:2541:7771792@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Bogota at Weehawken (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7693213@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -271,6 +279,14 @@ SUMMARY:Lodi at Saddle River Day (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7771796@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T160000
+DTEND;TZID=America/New_York:20261214T180000
+SUMMARY:Bogota at Palisades Park (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7687344@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
@@ -309,14 +325,6 @@ DTSTART;TZID=America/New_York:20261214T160000
 DTEND;TZID=America/New_York:20261214T180000
 SUMMARY:Manchester Regional at New Milford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2785:7771796@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T160000
-DTEND;TZID=America/New_York:20261214T180000
-SUMMARY:Palisades Park vs Bogota (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:43406:7685988@njicathletics
@@ -406,6 +414,14 @@ DTSTART;TZID=America/New_York:20261215T161500
 DTEND;TZID=America/New_York:20261215T181500
 SUMMARY:Butler at Lodi (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7771811@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+SUMMARY:Bogota at TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7699859@njicathletics
@@ -665,6 +681,14 @@ SUMMARY:Manchester Regional at Saddle River Day (Varsity Coed Coed Bowlin
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7771813@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Bogota at Lyndhurst (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7686001@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
@@ -881,6 +905,14 @@ SUMMARY:New Milford at Eastern Christian (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7771815@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Bogota at Weehawken (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2609:7693246@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
@@ -1081,20 +1113,20 @@ SUMMARY:Hasbrouck Heights at Rutherford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7686008@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T160000
-DTEND;TZID=America/New_York:20270121T180000
-SUMMARY:Hawthorne vs New Milford (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7743940@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Hawthorne at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7686008@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Hawthorne vs New Milford (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7737703@njicathletics
@@ -1135,6 +1167,14 @@ DTSTART;TZID=America/New_York:20270121T161500
 DTEND;TZID=America/New_York:20270121T181500
 SUMMARY:Lodi vs Saddle River Day (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7771818@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Bogota at Palisades Park (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7714294@njicathletics
@@ -1272,6 +1312,14 @@ DTSTART;TZID=America/New_York:20270128T161500
 DTEND;TZID=America/New_York:20270128T181500
 SUMMARY:Butler at Lodi (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7771820@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Bogota at TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7687365@njicathletics
@@ -1442,6 +1490,14 @@ SUMMARY:PCSST at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2541:7771827@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Bogota at TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7687369@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
@@ -1488,6 +1544,14 @@ DTSTART;TZID=America/New_York:20270204T161500
 DTEND;TZID=America/New_York:20270204T181500
 SUMMARY:PCSST at New Milford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7771830@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Bogota at TBD (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7687371@njicathletics

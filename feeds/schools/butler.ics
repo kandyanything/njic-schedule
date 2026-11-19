@@ -247,20 +247,20 @@ SUMMARY:Butler at Secaucus (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7455369@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Butler vs Manchester Regional (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7483138@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
 SUMMARY:Butler vs Passaic Valley High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7455369@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Butler vs Manchester Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7612518@njicathletics
@@ -1169,20 +1169,20 @@ SUMMARY:Butler vs North Warren Regional High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7684979@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T160000
-DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Butler vs Kinnelon High School (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2554:7440018@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Butler vs Hawthorne Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7684979@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Butler vs Kinnelon High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7449682@njicathletics
@@ -1325,6 +1325,14 @@ SUMMARY:Butler vs High Point Regional High School (Varsity Boys Boys Socc
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2554:7496502@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Butler vs Emerson (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7388435@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T161500
@@ -1341,12 +1349,12 @@ SUMMARY:Butler vs Emerson (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7496502@njicathletics
+UID:ds:2609:7496502@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T161500
 DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Butler vs Emerson (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:15 PM
+SUMMARY:Emerson at Butler (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7444848@njicathletics
@@ -1355,14 +1363,6 @@ DTSTART;TZID=America/New_York:20261028T161500
 DTEND;TZID=America/New_York:20261028T181500
 SUMMARY:Emerson at Butler (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2609:7496502@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T161500
-DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Emerson at Butler (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7460334@njicathletics
@@ -3181,6 +3181,14 @@ SUMMARY:Elmwood Park at Butler (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2554:7774269@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T161500
+DTEND;TZID=America/New_York:20270405T181500
+SUMMARY:Butler at Park Ridge (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2554:7584413@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T161500
@@ -3211,6 +3219,14 @@ DTSTART;TZID=America/New_York:20270407T160000
 DTEND;TZID=America/New_York:20270407T180000
 SUMMARY:Saddle Brook at Butler (Varsity Coed Coed Track and Field)
 DESCRIPTION:Varsity Coed Coed Track and Field - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2554:7774274@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T161500
+DTEND;TZID=America/New_York:20270407T181500
+SUMMARY:Butler vs Park Ridge (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2554:7752770@njicathletics

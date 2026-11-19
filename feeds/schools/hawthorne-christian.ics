@@ -645,20 +645,20 @@ SUMMARY:Hawthorne Christian vs Abundant Life Academy (Varsity Boys Boys S
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7440019@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cresskill at Hawthorne Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7458966@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Cresskill at Hawthorne Christian (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7440019@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cresskill at Hawthorne Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7455479@njicathletics
@@ -2460,6 +2460,14 @@ SUMMARY:Hawthorne Christian at Park Ridge (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2789:7542463@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T161500
+DTEND;TZID=America/New_York:20270505T181500
+SUMMARY:Park Ridge at Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7542464@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T161500
@@ -2480,7 +2488,7 @@ UID:ds:2789:7542464@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270518T161500
 DTEND;TZID=America/New_York:20270518T181500
-SUMMARY:Park Ridge at Hawthorne Christian (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 4:15 PM
+SUMMARY:Park Ridge vs Hawthorne Christian (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:15 PM
 END:VEVENT
 END:VCALENDAR

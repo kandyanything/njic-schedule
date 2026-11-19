@@ -151,14 +151,6 @@ SUMMARY:Butler at Leonia (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7773276@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Eastern Christian vs Park Ridge (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7743949@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -221,6 +213,14 @@ DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Midland Park vs Garfield (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7773276@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Park Ridge at Eastern Christian (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2918:7683436@njicathletics
@@ -792,20 +792,20 @@ SUMMARY:Midland Park at N.Milford/M. Park (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7743865@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T160000
-DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:New Milford at N.Milford/M. Park (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7693238@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:New Milford at Leonia (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7743865@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:New Milford at N.Milford/M. Park (Var-JV Coed Coed Bowling)
+DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7683313@njicathletics
@@ -873,20 +873,20 @@ SUMMARY:Butler at Hawthorne (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7759597@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T160000
-DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Eastern Christian at Garfield (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7743929@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
 SUMMARY:Emerson at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7759597@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Garfield vs Eastern Christian (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7687158@njicathletics
@@ -1009,14 +1009,6 @@ SUMMARY:Butler at Hawthorne Christian (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7743955@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T160000
-DTEND;TZID=America/New_York:20270112T180000
-SUMMARY:Eastern Christian at Midland Park (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7683847@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -1103,14 +1095,6 @@ DTSTART;TZID=America/New_York:20270112T161500
 DTEND;TZID=America/New_York:20270112T181500
 SUMMARY:Lodi vs Manchester Regional (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7683510@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T161500
-DTEND;TZID=America/New_York:20270112T181500
-SUMMARY:New Milford at Eastern Christian (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2541:7771815@njicathletics
@@ -1233,14 +1217,6 @@ SUMMARY:Butler at Leonia (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7773294@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
-SUMMARY:Eastern Christian vs Park Ridge (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7683852@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T160000
@@ -1303,6 +1279,14 @@ DTSTART;TZID=America/New_York:20270119T160000
 DTEND;TZID=America/New_York:20270119T180000
 SUMMARY:New Milford at Garfield (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2789:7773294@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Park Ridge at Eastern Christian (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2918:7709479@njicathletics
@@ -1369,20 +1353,20 @@ SUMMARY:Hasbrouck Heights at Rutherford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7686008@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T160000
-DTEND;TZID=America/New_York:20270121T180000
-SUMMARY:Hawthorne vs New Milford (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7743940@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
 SUMMARY:Hawthorne at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7686008@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Hawthorne vs New Milford (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7693251@njicathletics

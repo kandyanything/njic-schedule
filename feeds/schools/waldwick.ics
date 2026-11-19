@@ -837,20 +837,20 @@ SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7455431@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Leonia at Waldwick (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7504035@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Leonia vs Waldwick (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455431@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Leonia at Waldwick (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7515556@njicathletics
@@ -1829,20 +1829,20 @@ SUMMARY:Waldwick at Ridgewood High School (Junior Varsity Girls Girls Soc
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7497248@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T161500
+DTEND;TZID=America/New_York:20261016T181500
+SUMMARY:Waldwick vs Eastern Christian (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7700158@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T161500
 DTEND;TZID=America/New_York:20261016T181500
 SUMMARY:Waldwick vs Pascack Valley High School (Varsity Girls Girls Volle
  yball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7497248@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T161500
-DTEND;TZID=America/New_York:20261016T181500
-SUMMARY:Waldwick vs Eastern Christian (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2059,12 +2059,12 @@ SUMMARY:Leonia vs Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7531728@njicathletics
+UID:ds:2602:7508936@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Eastern Christian at Waldwick (Middle School Girls Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+SUMMARY:Eastern Christian vs Waldwick (Middle School Girls Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7511272@njicathletics
@@ -2083,20 +2083,20 @@ SUMMARY:Midland Park at Waldwick (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7633473@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T161500
-DTEND;TZID=America/New_York:20261023T181500
-SUMMARY:Eastern Christian vs Waldwick (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7638036@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T161500
 DTEND;TZID=America/New_York:20261023T181500
 SUMMARY:Eastern Christian at Waldwick (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7633473@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T161500
+DTEND;TZID=America/New_York:20261023T181500
+SUMMARY:Eastern Christian vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7513216@njicathletics
@@ -2446,6 +2446,14 @@ SUMMARY:Waldwick at Cliffside Park High School (Freshman Boys Boys Basket
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7673377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T161500
+DTEND;TZID=America/New_York:20261214T181500
+SUMMARY:Waldwick vs Mahwah High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7673381@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T173000
@@ -2453,14 +2461,6 @@ DTEND;TZID=America/New_York:20261214T193000
 SUMMARY:Waldwick vs Mahwah High School (Junior Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7673377@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T190000
-DTEND;TZID=America/New_York:20261214T210000
-SUMMARY:Waldwick vs Mahwah High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7635227@njicathletics
@@ -2785,6 +2785,15 @@ SUMMARY:Waldwick vs Clifton High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7775632@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270110T110000
+DTEND;TZID=America/New_York:20270110T130000
+SUMMARY:Waldwick vs Northern Valley Regional High (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2844:7708448@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T163000
@@ -2939,15 +2948,6 @@ SUMMARY:Midland Park at Waldwick (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7766936@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T161500
-DTEND;TZID=America/New_York:20270122T181500
-SUMMARY:Waldwick vs Haledon Middle School (Middle School Girls Girls Bask
- etball)
-DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7766917@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T161500
@@ -2957,12 +2957,21 @@ SUMMARY:Waldwick at Haledon Middle School (Middle School Boys Boys Basket
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7774678@njicathletics
+UID:ds:2916:7766936@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T161500
+DTEND;TZID=America/New_York:20270122T181500
+SUMMARY:Waldwick vs Haledon Middle School (Middle School Girls Girls Bask
+ etball)
+DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7774678@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Waldwick vs Midland Park (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+SUMMARY:Midland Park at Waldwick (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7695527@njicathletics
@@ -2981,13 +2990,22 @@ SUMMARY:Waldwick vs Fort Lee High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7775298@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Waldwick vs West Milford High School (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2916:7729470@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T161500
-DTEND;TZID=America/New_York:20270125T181500
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T210000
 SUMMARY:Waldwick vs West Milford High School (Varsity Girls Girls Basketb
  all)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7509384@njicathletics
@@ -3230,15 +3248,6 @@ SUMMARY:Lyndhurst vs Waldwick (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7706866@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T190000
-DTEND;TZID=America/New_York:20270209T210000
-SUMMARY:Waldwick at Northern Valley Regional High (Varsity Boys Boys Bask
- etball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7766925@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T161500
@@ -3261,6 +3270,15 @@ DTSTART;TZID=America/New_York:20270211T161500
 DTEND;TZID=America/New_York:20270211T181500
 SUMMARY:Waldwick vs West Essex High School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7774771@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T173000
+DTEND;TZID=America/New_York:20270211T193000
+SUMMARY:Waldwick vs West Essex High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7706872@njicathletics

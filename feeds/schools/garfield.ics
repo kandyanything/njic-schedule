@@ -219,14 +219,6 @@ SUMMARY:Garfield vs Park Ridge (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7440077@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Garfield vs Park Ridge (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7455118@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
@@ -241,6 +233,14 @@ DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
 SUMMARY:Garfield at Leonia (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7440077@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Garfield vs Park Ridge (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7510760@njicathletics
@@ -475,12 +475,12 @@ SUMMARY:Becton vs Garfield (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7439990@njicathletics
+UID:ds:2621:7495236@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T161500
 DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Garfield at Rutherford (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+SUMMARY:Garfield vs Rutherford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7455145@njicathletics
@@ -491,12 +491,12 @@ SUMMARY:Garfield at Becton (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7495236@njicathletics
+UID:ds:2621:7439990@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T161500
 DTEND;TZID=America/New_York:20260916T181500
-SUMMARY:Garfield vs Rutherford (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+SUMMARY:Garfield at Rutherford (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7537079@njicathletics
@@ -607,6 +607,14 @@ SUMMARY:Lyndhurst vs Garfield (Boys (Sub Varsity) Football)
 DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7454928@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Garfield at Manchester Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7528355@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T100000
@@ -621,14 +629,6 @@ DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
 SUMMARY:Garfield at Tenafly High School (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7454928@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-SUMMARY:Garfield at Manchester Regional (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7528356@njicathletics
@@ -707,14 +707,6 @@ SUMMARY:Garfield at Harrison (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7529154@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T160000
-DTEND;TZID=America/New_York:20260923T180000
-SUMMARY:Garfield at New Milford (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7505150@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T160000
@@ -723,20 +715,20 @@ SUMMARY:Garfield at Rutherford (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7529154@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Garfield at New Milford (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2723:7454921@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T161500
 DTEND;TZID=America/New_York:20260923T181500
 SUMMARY:Elmwood Park vs Garfield (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7518280@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T161500
-DTEND;TZID=America/New_York:20260923T181500
-SUMMARY:Garfield at New Milford (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7455454@njicathletics
@@ -762,6 +754,14 @@ DTEND;TZID=America/New_York:20260923T181500
 SUMMARY:Garfield at Little Ferry Middle School (Middle School Boys Boys S
  occer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7518280@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Garfield at New Milford (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7582062@njicathletics
@@ -797,15 +797,6 @@ SUMMARY:Bogota at Garfield (Middle School Coed Coed Cross Country)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7501415@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Garfield vs Cliffside Park High School (Junior Varsity Boys Boys 
- Cross Country)
-DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7546443@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
@@ -820,6 +811,15 @@ DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
 SUMMARY:Garfield vs Glen Rock (Middle School Coed Coed Cross Country)
 DESCRIPTION:Middle School Coed Coed Cross Country - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7501415@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Garfield vs Cliffside Park High School (Junior Varsity Boys Boys 
+ Cross Country)
+DESCRIPTION:Junior Varsity Boys Boys Cross Country - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7501415@njicathletics
@@ -1178,14 +1178,6 @@ SUMMARY:Garfield vs Midland Park (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7504763@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T161500
-DTEND;TZID=America/New_York:20261005T181500
-SUMMARY:Garfield at Lodi (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7439973@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T161500
@@ -1200,6 +1192,14 @@ DTSTART;TZID=America/New_York:20261005T161500
 DTEND;TZID=America/New_York:20261005T181500
 SUMMARY:Garfield at Wallington (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7504763@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Garfield at Lodi (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7462780@njicathletics
@@ -1226,6 +1226,14 @@ SUMMARY:Garfield at Leonia (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7455188@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T161500
+DTEND;TZID=America/New_York:20261006T181500
+SUMMARY:Garfield vs Rutherford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7454929@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T161500
@@ -1240,14 +1248,6 @@ DTSTART;TZID=America/New_York:20261006T161500
 DTEND;TZID=America/New_York:20261006T181500
 SUMMARY:Garfield vs Saint Mary (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7455188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T161500
-DTEND;TZID=America/New_York:20261006T181500
-SUMMARY:Garfield vs Rutherford (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7454929@njicathletics
@@ -1828,6 +1828,14 @@ SUMMARY:Emerson at Garfield (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7455598@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T161500
+DTEND;TZID=America/New_York:20261028T181500
+SUMMARY:Garfield at Saddle Brook (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7447982@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T161500
@@ -1843,14 +1851,6 @@ DTEND;TZID=America/New_York:20261028T181500
 SUMMARY:Garfield at Bergenfield High School (Middle School Boys Boys Socc
  er)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7455598@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T161500
-DTEND;TZID=America/New_York:20261028T181500
-SUMMARY:Garfield at Saddle Brook (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7511709@njicathletics
@@ -2333,20 +2333,20 @@ SUMMARY:Garfield vs Manchester Regional (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7762988@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Garfield at Secaucus (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7732747@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:Garfield at Secaucus (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7762989@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T163000
-DTEND;TZID=America/New_York:20261217T183000
-SUMMARY:Garfield at Secaucus (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7732747@njicathletics
@@ -2357,20 +2357,20 @@ SUMMARY:Secaucus vs Garfield (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7532755@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T180000
-DTEND;TZID=America/New_York:20261217T200000
-SUMMARY:Garfield vs Palisades Park (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7510678@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Garfield vs Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7532755@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Garfield vs Palisades Park (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7532755@njicathletics
@@ -2617,6 +2617,14 @@ DTSTART;TZID=America/New_York:20261228T090000
 DTEND;TZID=America/New_York:20261228T110000
 SUMMARY:Garfield at Fair Lawn High School (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7773125@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T183000
+DTEND;TZID=America/New_York:20261228T203000
+SUMMARY:Garfield vs Tenafly High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7763163@njicathletics

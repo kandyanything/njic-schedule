@@ -484,20 +484,20 @@ SUMMARY:Bogota at Wallington (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7504994@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T160000
-DTEND;TZID=America/New_York:20260914T180000
-SUMMARY:Glen Rock vs Wallington (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7439997@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T160000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Glen Rock at Wallington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7504994@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Glen Rock vs Wallington (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7603642@njicathletics
@@ -926,15 +926,6 @@ SUMMARY:Rutherford at Wallington (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2918:7659961@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T160000
-DTEND;TZID=America/New_York:20260930T180000
-SUMMARY:Wallington vs Memorial High School (Junior Varsity Girls Girls So
- ccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2918:7513934@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -942,6 +933,15 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Wallington vs Fairview Middle School (Middle School Girls Girls V
  olleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2918:7659961@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Wallington vs Memorial High School (Junior Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2841:7455501@njicathletics

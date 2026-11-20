@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2621:7758712@njicathletics
+UID:ds:2621:7776369@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T093000
-DTEND;TZID=America/New_York:20261219T113000
-SUMMARY:Garfield vs Glen Rock (Varsity Coed Coed Indoor Track)
-DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Garfield vs New Milford (Varsity Coed Coed Indoor Track)
+DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7773596@njicathletics
@@ -36,6 +36,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T093000
 DTEND;TZID=America/New_York:20261219T113000
 SUMMARY:Garfield vs North Arlington (Varsity Coed Coed Indoor Track)
+DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7758712@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T093000
+DTEND;TZID=America/New_York:20261219T113000
+SUMMARY:Garfield vs Glen Rock (Varsity Coed Coed Indoor Track)
 DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -55,12 +63,20 @@ SUMMARY:Garfield vs Glen Rock (Varsity Coed Coed Indoor Track)
 DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7773623@njicathletics
+UID:ds:2758:7776376@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T093000
-DTEND;TZID=America/New_York:20270123T113000
-SUMMARY:Garfield vs North Arlington (Varsity Coed Coed Indoor Track)
-DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
+DTSTART;TZID=America/New_York:20270116T090000
+DTEND;TZID=America/New_York:20270116T110000
+SUMMARY:New Milford at Garfield (Varsity Coed Coed Indoor Track)
+DESCRIPTION:Varsity Coed Coed Indoor Track - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7776377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:New Milford at Garfield (Varsity Coed Coed Indoor Track)
+DESCRIPTION:Varsity Coed Coed Indoor Track - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7758743@njicathletics
@@ -68,6 +84,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T093000
 DTEND;TZID=America/New_York:20270123T113000
 SUMMARY:Garfield vs Glen Rock (Varsity Coed Coed Indoor Track)
+DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7773623@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T093000
+DTEND;TZID=America/New_York:20270123T113000
+SUMMARY:Garfield vs North Arlington (Varsity Coed Coed Indoor Track)
 DESCRIPTION:Varsity Coed Coed Indoor Track - Home - 9:30 AM
 END:VEVENT
 END:VCALENDAR

@@ -258,20 +258,20 @@ SUMMARY:Eastern Christian vs Waldwick (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7444706@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260908T161500
-DTEND;TZID=America/New_York:20260908T181500
-SUMMARY:Eastern Christian at Emerson (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7455116@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T161500
 DTEND;TZID=America/New_York:20260908T181500
 SUMMARY:Eastern Christian at Waldwick (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7444706@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T161500
+DTEND;TZID=America/New_York:20260908T181500
+SUMMARY:Eastern Christian at Emerson (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7444706@njicathletics
@@ -340,6 +340,15 @@ SUMMARY:Eastern Christian vs Midland Park (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2602:7574789@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T161500
+DTEND;TZID=America/New_York:20260910T181500
+SUMMARY:Eastern Christian vs Bergenfield High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7455125@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260910T161500
@@ -363,15 +372,6 @@ DTSTART;TZID=America/New_York:20260910T161500
 DTEND;TZID=America/New_York:20260910T181500
 SUMMARY:Eastern Christian at Becton (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7574789@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260910T161500
-DTEND;TZID=America/New_York:20260910T181500
-SUMMARY:Eastern Christian vs Bergenfield High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7574792@njicathletics
@@ -1236,7 +1236,7 @@ SUMMARY:PCSST at Eastern Christian (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7518223@njicathletics
+UID:ds:2844:7581459@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
@@ -1974,21 +1974,21 @@ SUMMARY:Eastern Christian at Bergenfield High School (Middle School Boys
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7644895@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T163000
-DTEND;TZID=America/New_York:20261019T183000
-SUMMARY:Eastern Christian at Saddle River Day (Middle School Coed Coed Cr
- oss Country)
-DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7500214@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T163000
 DTEND;TZID=America/New_York:20261019T183000
 SUMMARY:Eastern Christian at Garfield (Middle School Coed Coed Cross Coun
  try)
+DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7644895@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T163000
+DTEND;TZID=America/New_York:20261019T183000
+SUMMARY:Eastern Christian at Saddle River Day (Middle School Coed Coed Cr
+ oss Country)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2349,15 +2349,6 @@ SUMMARY:Eastern Christian at Hawthorne (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7582984@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261030T161500
-DTEND;TZID=America/New_York:20261030T181500
-SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
-  Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7583020@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T161500
@@ -2374,6 +2365,15 @@ DTEND;TZID=America/New_York:20261030T181500
 SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
   Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7582984@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T161500
+DTEND;TZID=America/New_York:20261030T181500
+SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7728504@njicathletics

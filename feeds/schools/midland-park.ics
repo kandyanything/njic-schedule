@@ -937,7 +937,7 @@ SUMMARY:Midland Park at Midland Park (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7439396@njicathletics
+UID:ds:2916:7571134@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T210000
@@ -1421,20 +1421,20 @@ SUMMARY:Garfield at Midland Park (Middle School Boys Boys Soccer)
 DESCRIPTION:Middle School Boys Boys Soccer - Away - 10:26 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7511235@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T160000
-DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Midland Park vs Waldwick (Middle School Boys Boys Soccer)
-DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7508889@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Midland Park at Waldwick (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7511235@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Midland Park vs Waldwick (Middle School Boys Boys Soccer)
+DESCRIPTION:Middle School Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2723:7514926@njicathletics
@@ -1641,14 +1641,6 @@ SUMMARY:Midland Park at Waldwick (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2733:7455218@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T161500
-DTEND;TZID=America/New_York:20261014T181500
-SUMMARY:Midland Park vs Waldwick (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2733:7564482@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T161500
@@ -1665,6 +1657,14 @@ DTEND;TZID=America/New_York:20261014T181500
 SUMMARY:Midland Park at Saddle River Day (Middle School Girls Girls Volle
  yball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7455218@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T161500
+DTEND;TZID=America/New_York:20261014T181500
+SUMMARY:Midland Park vs Waldwick (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7533988@njicathletics
@@ -3302,6 +3302,23 @@ SUMMARY:Eastern Christian at Midland Park (Middle School Boys Boys Basket
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2733:7778351@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T093000
+DTEND;TZID=America/New_York:20270206T113000
+SUMMARY:Midland Park at Midland Park (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7778351@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T093000
+DTEND;TZID=America/New_York:20270206T113000
+SUMMARY:Waldwick at Midland Park (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2733:7760481@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -3316,6 +3333,22 @@ DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Waldwick at Midland Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2733:7778348@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T110000
+DTEND;TZID=America/New_York:20270206T130000
+SUMMARY:Midland Park at Midland Park (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7778348@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T110000
+DTEND;TZID=America/New_York:20270206T130000
+SUMMARY:Waldwick at Midland Park (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7766925@njicathletics

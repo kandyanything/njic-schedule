@@ -1059,15 +1059,6 @@ SUMMARY:Saddle River Day at Montclair Kimberley Academy (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7479494@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T174500
-DTEND;TZID=America/New_York:20261211T194500
-SUMMARY:Ridgefield Memorial vs Ridgefield Memorial (Junior Varsity Boys B
- oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2831:7477073@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T174500
@@ -1075,6 +1066,15 @@ DTEND;TZID=America/New_York:20261211T194500
 SUMMARY:Ridgefield Memorial vs Ridgefield Memorial (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2831:7479494@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T174500
+DTEND;TZID=America/New_York:20261211T194500
+SUMMARY:Ridgefield Memorial vs Ridgefield Memorial (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7594809@njicathletics
@@ -4293,20 +4293,20 @@ SUMMARY:Dwight-Englewood at River Dell Regional High School (Middle Schoo
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7681477@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T161500
-DTEND;TZID=America/New_York:20270108T181500
-SUMMARY:Elmwood Park at New Milford (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7681601@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T161500
 DTEND;TZID=America/New_York:20270108T181500
 SUMMARY:Elmwood Park at New Milford (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7681477@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T161500
+DTEND;TZID=America/New_York:20270108T181500
+SUMMARY:Elmwood Park at New Milford (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7531081@njicathletics
@@ -4547,20 +4547,20 @@ SUMMARY:Emerson at Butler (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7527184@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T190000
-DTEND;TZID=America/New_York:20270108T210000
-SUMMARY:Glen Rock vs PCSST (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7539681@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T190000
 DTEND;TZID=America/New_York:20270108T210000
 SUMMARY:Glen Rock vs PCSST (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2626:7527184@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T190000
+DTEND;TZID=America/New_York:20270108T210000
+SUMMARY:Glen Rock vs PCSST (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7706899@njicathletics
@@ -4946,12 +4946,12 @@ SUMMARY:Bogota at Waldwick (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7527190@njicathletics
+UID:ds:2582:7539229@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
-SUMMARY:Cresskill vs PCSST (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+SUMMARY:Cresskill at PCSST (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7742398@njicathletics
@@ -5283,6 +5283,14 @@ SUMMARY:Butler at Sussex County Technical High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2582:7539234@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Cresskill vs Rutherford (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7707026@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T160000
@@ -5290,14 +5298,6 @@ DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:Cresskill vs Holdrum Middle School (Middle School Boys Boys Baske
  tball)
 DESCRIPTION:Middle School Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2582:7539234@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T160000
-DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Cresskill vs Rutherford (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7676547@njicathletics
@@ -7292,15 +7292,6 @@ SUMMARY:Emerson vs Paramus High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7538960@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T113000
-DTEND;TZID=America/New_York:20270123T133000
-SUMMARY:Elmwood Park at Wayne Valley High School (Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7538962@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
@@ -7308,6 +7299,15 @@ DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Elmwood Park at Wayne Valley High School (Freshman Boys Boys Bask
  etball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7538960@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Elmwood Park at Wayne Valley High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2710:7534421@njicathletics

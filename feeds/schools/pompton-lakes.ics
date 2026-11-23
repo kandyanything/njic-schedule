@@ -716,20 +716,20 @@ SUMMARY:Lodi at Pompton Lakes (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7586814@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7586810@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
 SUMMARY:Pompton Lakes at TBA NJ (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7586814@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Pompton Lakes at TBA NJ (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7451681@njicathletics
@@ -2306,14 +2306,6 @@ SUMMARY:Pompton Lakes at Becton (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7635373@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T160000
-DTEND;TZID=America/New_York:20270106T180000
-SUMMARY:Pompton Lakes vs Don Bosco Prep (Varsity Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7636978@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T160000
@@ -2321,6 +2313,14 @@ DTEND;TZID=America/New_York:20270106T180000
 SUMMARY:Pompton Lakes vs Academy of the Holy Angels (Varsity Girls Girls 
  Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7635373@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+SUMMARY:Pompton Lakes vs Don Bosco Prep (Varsity Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2645:7456260@njicathletics
@@ -2463,14 +2463,6 @@ SUMMARY:Glen Rock vs Pompton Lakes (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7637015@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T160000
-DTEND;TZID=America/New_York:20270113T180000
-SUMMARY:Pompton Lakes at TBA NJ (Varsity Girls Girls Fencing)
-DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7688091@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T160000
@@ -2478,6 +2470,14 @@ DTEND;TZID=America/New_York:20270113T180000
 SUMMARY:Pompton Lakes at Passaic Valley High School (Varsity Boys Boys Fe
  ncing)
 DESCRIPTION:Varsity Boys Boys Fencing - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7637015@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Pompton Lakes at TBA NJ (Varsity Girls Girls Fencing)
+DESCRIPTION:Varsity Girls Girls Fencing - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7456751@njicathletics
@@ -2623,15 +2623,6 @@ SUMMARY:Pompton Lakes vs Ridgefield Memorial (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7635435@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T160000
-DTEND;TZID=America/New_York:20270120T180000
-SUMMARY:Pompton Lakes vs Northern Highlands Regional High School (Varsity
-  Boys Boys Fencing)
-DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7637019@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
@@ -2639,6 +2630,15 @@ DTEND;TZID=America/New_York:20270120T180000
 SUMMARY:Pompton Lakes vs Northern Highlands Regional High School (Varsity
   Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7635435@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Pompton Lakes vs Northern Highlands Regional High School (Varsity
+  Boys Boys Fencing)
+DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7651107@njicathletics
@@ -2833,15 +2833,6 @@ SUMMARY:Butler vs Pompton Lakes (Varsity Girls Girls Fencing)
 DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7668546@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T163000
-DTEND;TZID=America/New_York:20270127T183000
-SUMMARY:Pompton Lakes at North Warren Regional High School (Varsity Boys 
- Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7456295@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T163000
@@ -2849,6 +2840,15 @@ DTEND;TZID=America/New_York:20270127T183000
 SUMMARY:Pompton Lakes vs Newark Vocational High School (Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7668546@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T163000
+DTEND;TZID=America/New_York:20270127T183000
+SUMMARY:Pompton Lakes at North Warren Regional High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7737166@njicathletics
@@ -2902,15 +2902,6 @@ SUMMARY:Pompton Lakes vs Delaware Valley Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7648926@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T160000
-DTEND;TZID=America/New_York:20270129T180000
-SUMMARY:Pompton Lakes vs Morristown High School (Varsity Girls Girls Fenc
- ing)
-DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2815:7648916@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T160000
@@ -2918,6 +2909,15 @@ DTEND;TZID=America/New_York:20270129T180000
 SUMMARY:Pompton Lakes vs Morristown High School (Varsity Boys Boys Fencin
  g)
 DESCRIPTION:Varsity Boys Boys Fencing - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7648926@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+SUMMARY:Pompton Lakes vs Morristown High School (Varsity Girls Girls Fenc
+ ing)
+DESCRIPTION:Varsity Girls Girls Fencing - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7647413@njicathletics

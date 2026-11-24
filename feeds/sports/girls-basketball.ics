@@ -1585,20 +1585,20 @@ SUMMARY:Bogota at Dwight-Englewood (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7721061@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T161500
-DTEND;TZID=America/New_York:20261221T181500
-SUMMARY:Cresskill at Glen Rock (Middle School Girls Girls Basketball)
-DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7501605@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
 SUMMARY:Cresskill vs Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7721061@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T161500
+DTEND;TZID=America/New_York:20261221T181500
+SUMMARY:Cresskill at Glen Rock (Middle School Girls Girls Basketball)
+DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7448980@njicathletics
@@ -3549,14 +3549,6 @@ SUMMARY:Elmwood Park vs Midland Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7448990@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T161500
-DTEND;TZID=America/New_York:20270113T181500
-SUMMARY:Emerson vs PCSST (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7707238@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T161500
@@ -3564,6 +3556,14 @@ DTEND;TZID=America/New_York:20270113T181500
 SUMMARY:Emerson at River Dell Regional High School (Middle School Girls G
  irls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7448990@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T161500
+DTEND;TZID=America/New_York:20270113T181500
+SUMMARY:Emerson vs PCSST (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7720898@njicathletics
@@ -4106,10 +4106,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2609:7753666@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270117T120000
-DTEND;TZID=America/New_York:20270117T140000
+DTSTART;TZID=America/New_York:20270117T114500
+DTEND;TZID=America/New_York:20270117T134500
 SUMMARY:Emerson vs Elizabeth High School (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:45 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7633803@njicathletics
@@ -4356,20 +4356,20 @@ SUMMARY:Leonia vs Becton (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7565458@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T161500
-DTEND;TZID=America/New_York:20270120T181500
-SUMMARY:Lodi at Mary Help (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2700:7696575@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
 SUMMARY:Lodi at Passaic High School (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7565458@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T161500
+DTEND;TZID=America/New_York:20270120T181500
+SUMMARY:Lodi at Mary Help (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2717:7565458@njicathletics

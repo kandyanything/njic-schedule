@@ -766,23 +766,6 @@ SUMMARY:Hasbrouck Heights vs Westwood Regional Senior High School (Boys (
 DESCRIPTION:Boys (Sub Varsity) Football - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7442000@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Hasbrouck Heights vs Fort Lee High School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7553169@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Hasbrouck Heights vs TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7483901@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
@@ -798,6 +781,23 @@ DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T110000
 SUMMARY:Hasbrouck Heights vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7442000@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Hasbrouck Heights vs Fort Lee High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553169@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T090000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Hasbrouck Heights vs TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7467470@njicathletics
@@ -842,14 +842,6 @@ SUMMARY:Emerson at Hasbrouck Heights (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7455432@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Hasbrouck Heights vs Lodi (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7483892@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
@@ -865,6 +857,14 @@ DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Hasbrouck Heights vs Emerson (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7455432@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hasbrouck Heights vs Lodi (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7456705@njicathletics
@@ -1079,14 +1079,6 @@ SUMMARY:Hasbrouck Heights vs Ridgefield Memorial (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7510063@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Hasbrouck Heights at Weehawken (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7455032@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
@@ -1119,6 +1111,14 @@ DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Hasbrouck Heights at Passaic Valley High School (Junior Varsity B
  oys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7510063@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Hasbrouck Heights at Weehawken (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7456708@njicathletics
@@ -2076,20 +2076,21 @@ SUMMARY:Hasbrouck Heights at North Arlington (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2644:7781890@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Hasbrouck Heights at Parsippany Hills High School (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2763:7687126@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:North Arlington vs Hasbrouck Heights (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2644:7485249@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T161500
-DTEND;TZID=America/New_York:20261208T181500
-SUMMARY:Hasbrouck Heights at Hawthorne (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7761912@njicathletics
@@ -2099,6 +2100,14 @@ DTEND;TZID=America/New_York:20261208T181500
 SUMMARY:Hasbrouck Heights at Hawthorne (Junior Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7485249@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T161500
+DTEND;TZID=America/New_York:20261208T181500
+SUMMARY:Hasbrouck Heights at Hawthorne (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7583179@njicathletics
@@ -2584,6 +2593,14 @@ DTEND;TZID=America/New_York:20270106T193000
 SUMMARY:Garfield at Hasbrouck Heights (Junior Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7485899@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Waldwick vs Hasbrouck Heights (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7485148@njicathletics

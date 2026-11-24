@@ -23,22 +23,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2916:7778562@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T173000
-DTEND;TZID=America/New_York:20261207T193000
-SUMMARY:Waldwick at Indian Hills High School (Junior Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2916:7778552@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T190000
-DTEND;TZID=America/New_York:20261207T210000
+DTSTART;TZID=America/New_York:20261207T161500
+DTEND;TZID=America/New_York:20261207T181500
 SUMMARY:Waldwick at Indian Hills High School (Varsity Girls Girls Basketb
  all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7778562@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T161500
+DTEND;TZID=America/New_York:20261207T181500
+SUMMARY:Waldwick at Indian Hills High School (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7697445@njicathletics
@@ -48,6 +48,14 @@ DTEND;TZID=America/New_York:20261209T193000
 SUMMARY:Waldwick at Paramus Catholic High School (Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2815:7781966@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T161500
+DTEND;TZID=America/New_York:20261211T181500
+SUMMARY:Pompton Lakes at Waldwick (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2626:7648450@njicathletics
@@ -68,10 +76,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2763:7550529@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T190000
-DTEND;TZID=America/New_York:20261221T210000
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:North Arlington at Waldwick (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7781216@njicathletics
@@ -99,6 +107,14 @@ SUMMARY:Cresskill at Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7649104@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Waldwick vs Cresskill (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2582:7649104@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T190000
@@ -115,6 +131,14 @@ SUMMARY:Hasbrouck Heights at Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7485899@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T173000
+DTEND;TZID=America/New_York:20270106T193000
+SUMMARY:Waldwick vs Hasbrouck Heights (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7714614@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T161500
@@ -123,12 +147,12 @@ SUMMARY:Park Ridge vs Waldwick (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7730811@njicathletics
+UID:ds:2916:7781975@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T160000
-DTEND;TZID=America/New_York:20270109T180000
-SUMMARY:Waldwick vs Clifton High School (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Waldwick at Clifton High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2844:7708448@njicathletics
@@ -207,20 +231,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7775298@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T173000
-DTEND;TZID=America/New_York:20270125T193000
+DTSTART;TZID=America/New_York:20270125T161500
+DTEND;TZID=America/New_York:20270125T181500
 SUMMARY:Waldwick vs West Milford High School (Junior Varsity Girls Girls 
  Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7729470@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T190000
-DTEND;TZID=America/New_York:20270125T210000
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
 SUMMARY:Waldwick vs West Milford High School (Varsity Girls Girls Basketb
  all)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2916:7766939@njicathletics
@@ -255,12 +279,28 @@ SUMMARY:Butler vs Waldwick (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2916:7725746@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T161500
+DTEND;TZID=America/New_York:20270203T181500
+SUMMARY:Waldwick vs Park Ridge (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2789:7725746@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T173000
 DTEND;TZID=America/New_York:20270203T193000
 SUMMARY:Park Ridge at Waldwick (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2916:7708426@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T173000
+DTEND;TZID=America/New_York:20270203T193000
+SUMMARY:Waldwick vs Park Ridge (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2789:7708426@njicathletics
@@ -287,12 +327,12 @@ SUMMARY:Hawthorne vs Waldwick (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2916:7778351@njicathletics
+UID:ds:2916:7778348@njicathletics
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T093000
-DTEND;TZID=America/New_York:20270206T113000
-SUMMARY:Waldwick at Midland Park (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Waldwick at Midland Park (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2831:7777454@njicathletics
@@ -300,14 +340,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T110000
 DTEND;TZID=America/New_York:20270206T130000
 SUMMARY:Ridgefield Memorial at Waldwick (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2916:7778348@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T110000
-DTEND;TZID=America/New_York:20270206T130000
-SUMMARY:Waldwick at Midland Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT

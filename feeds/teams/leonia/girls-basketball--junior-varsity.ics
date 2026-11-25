@@ -65,14 +65,6 @@ SUMMARY:Leonia at Secaucus (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7536989@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270104
-DTEND;VALUE=DATE:20270105
-SUMMARY:Glen Rock vs Leonia (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2626:7787968@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270104
@@ -81,7 +73,15 @@ SUMMARY:Glen Rock vs Leonia (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7787968@njicathletics
+UID:ds:2626:7536989@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Glen Rock vs Leonia (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7536989@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
@@ -89,7 +89,7 @@ SUMMARY:Leonia at Glen Rock (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536989@njicathletics
+UID:ds:2695:7787968@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
@@ -122,7 +122,7 @@ SUMMARY:Leonia vs North Arlington (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536993@njicathletics
+UID:ds:2695:7788570@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
@@ -146,7 +146,7 @@ SUMMARY:Becton at Leonia (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536996@njicathletics
+UID:ds:2695:7788892@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000

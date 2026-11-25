@@ -23,7 +23,7 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2582:7787190@njicathletics
+UID:ds:2582:7760877@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T163000
 DTEND;TZID=America/New_York:20261211T183000
@@ -31,7 +31,7 @@ SUMMARY:Cresskill at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787210@njicathletics
+UID:ds:2621:7780773@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T080000
 DTEND;TZID=America/New_York:20261212T100000
@@ -39,20 +39,12 @@ SUMMARY:Garfield vs Ridgefield Memorial (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7757588@njicathletics
+UID:ds:2621:7787209@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T080000
 DTEND;TZID=America/New_York:20261212T100000
 SUMMARY:Garfield vs Hasbrouck Heights (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7560185@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T110000
-SUMMARY:Garfield vs Lodi (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7759294@njicathletics
@@ -64,7 +56,7 @@ SUMMARY:Garfield vs Westwood Regional Senior High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787229@njicathletics
+UID:ds:2621:7769365@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
@@ -72,7 +64,15 @@ SUMMARY:Garfield vs Fort Lee High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7787212@njicathletics
+UID:ds:2621:7560185@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Garfield vs Lodi (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2700:7560185@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
@@ -88,7 +88,7 @@ SUMMARY:Saddle Brook at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787364@njicathletics
+UID:ds:2621:7518441@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
@@ -96,7 +96,7 @@ SUMMARY:Garfield at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787496@njicathletics
+UID:ds:2621:7510678@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
@@ -104,7 +104,7 @@ SUMMARY:Garfield vs Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2785:7510678@njicathletics
+UID:ds:2785:7787495@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
@@ -112,7 +112,7 @@ SUMMARY:Palisades Park at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787763@njicathletics
+UID:ds:2621:7603461@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T180000
 DTEND;TZID=America/New_York:20261222T200000
@@ -120,7 +120,7 @@ SUMMARY:Garfield at Lyndhurst (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787798@njicathletics
+UID:ds:2621:7762939@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000
 DTEND;TZID=America/New_York:20261223T180000
@@ -128,7 +128,7 @@ SUMMARY:Garfield vs Bergenfield High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7788059@njicathletics
+UID:ds:2648:7655431@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T161500
 DTEND;TZID=America/New_York:20270105T181500
@@ -136,7 +136,7 @@ SUMMARY:Becton at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7788059@njicathletics
+UID:ds:2621:7655431@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T161500
 DTEND;TZID=America/New_York:20270105T181500
@@ -152,7 +152,7 @@ SUMMARY:Garfield vs Wood-Ridge (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7753994@njicathletics
+UID:ds:2621:7788704@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T080000
 DTEND;TZID=America/New_York:20270116T100000
@@ -160,7 +160,7 @@ SUMMARY:Garfield vs Ridgefield Memorial (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7595110@njicathletics
+UID:ds:2621:7788718@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T100000
 DTEND;TZID=America/New_York:20270116T120000

@@ -106,7 +106,7 @@ SUMMARY:Eastern Christian at New Milford (Varsity Girls Girls Cross Count
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7570115@njicathletics
+UID:ds:2621:7506584@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T164000
 DTEND;TZID=America/New_York:20260915T184000
@@ -140,7 +140,7 @@ SUMMARY:Hasbrouck Heights at New Milford (Varsity Girls Girls Cross Count
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7570115@njicathletics
+UID:ds:2695:7506584@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T164000
 DTEND;TZID=America/New_York:20260915T184000
@@ -173,7 +173,7 @@ SUMMARY:Pompton Lakes at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:40 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2841:7506584@njicathletics
+UID:ds:2841:7570115@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T164000
 DTEND;TZID=America/New_York:20260915T184000
@@ -253,14 +253,6 @@ SUMMARY:Rutherford at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7603307@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T173000
-DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Becton at NJIC (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7503372@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
@@ -269,11 +261,11 @@ SUMMARY:Becton at Elmwood Park (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7603307@njicathletics
+UID:ds:2648:7603307@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Dwight-Englewood at NJIC (Varsity Girls Girls Cross Country)
+SUMMARY:Becton at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +278,11 @@ SUMMARY:Dwight-Englewood at Elmwood Park (Varsity Girls Girls Cross Count
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7603307@njicathletics
+UID:ds:2598:7603307@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Elmwood Park at NJIC (Varsity Girls Girls Cross Country)
+SUMMARY:Dwight-Englewood at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -300,6 +292,14 @@ DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Elmwood Park vs Lyndhurst (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7603307@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Elmwood Park at NJIC (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7503372@njicathletics
@@ -326,14 +326,6 @@ SUMMARY:Hawthorne Christian at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2703:7603307@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T173000
-DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Lyndhurst at NJIC (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2703:7503372@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
@@ -342,11 +334,11 @@ SUMMARY:Lyndhurst at Elmwood Park (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2710:7603307@njicathletics
+UID:ds:2703:7603307@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Manchester Regional at NJIC (Varsity Girls Girls Cross Country)
+SUMMARY:Lyndhurst at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +348,14 @@ DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Manchester Regional at Elmwood Park (Varsity Girls Girls Cross Co
  untry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2710:7603307@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Manchester Regional at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -528,14 +528,6 @@ SUMMARY:Eastern Christian vs Secaucus (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7553160@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T164500
-DTEND;TZID=America/New_York:20260923T184500
-SUMMARY:Hasbrouck Heights vs Secaucus (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2644:7581456@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T164500
@@ -543,6 +535,14 @@ DTEND;TZID=America/New_York:20260923T184500
 SUMMARY:Hasbrouck Heights at Eastern Christian (Varsity Girls Girls Cross
   Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7553160@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T164500
+DTEND;TZID=America/New_York:20260923T184500
+SUMMARY:Hasbrouck Heights vs Secaucus (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2843:7553160@njicathletics
@@ -596,19 +596,19 @@ SUMMARY:Manchester Regional at Rutherford (Varsity Girls Girls Cross Coun
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:05 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7506544@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T172000
-DTEND;TZID=America/New_York:20260923T192000
-SUMMARY:Becton at Leonia (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2648:7530096@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
 SUMMARY:Becton at Lodi (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2648:7506544@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T172000
+DTEND;TZID=America/New_York:20260923T192000
+SUMMARY:Becton at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -652,19 +652,11 @@ SUMMARY:Garfield at Lodi (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7530096@njicathletics
+UID:ds:2626:7545623@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
 SUMMARY:Glen Rock at Lodi (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2643:7506544@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260923T172000
-DTEND;TZID=America/New_York:20260923T192000
-SUMMARY:Harrison at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -673,6 +665,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
 SUMMARY:Harrison at Lodi (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2643:7506544@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T172000
+DTEND;TZID=America/New_York:20260923T192000
+SUMMARY:Harrison at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -708,7 +708,7 @@ SUMMARY:Palisades Park at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2831:7515180@njicathletics
+UID:ds:2831:7476303@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T172000
 DTEND;TZID=America/New_York:20260923T192000
@@ -943,20 +943,20 @@ SUMMARY:Dwight-Englewood at Leonia (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7518219@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T172000
-DTEND;TZID=America/New_York:20260929T192000
-SUMMARY:Eastern Christian vs PCSST (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:20 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7581460@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T172000
 DTEND;TZID=America/New_York:20260929T192000
 SUMMARY:Eastern Christian vs New Milford (Varsity Girls Girls Cross Count
  ry)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7518219@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T172000
+DTEND;TZID=America/New_York:20260929T192000
+SUMMARY:Eastern Christian vs PCSST (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -968,7 +968,7 @@ SUMMARY:Glen Rock at Lodi (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7581460@njicathletics
+UID:ds:2644:7518219@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T172000
 DTEND;TZID=America/New_York:20260929T192000
@@ -1026,7 +1026,7 @@ SUMMARY:North Arlington at Eastern Christian (Varsity Girls Girls Cross C
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43406:7518219@njicathletics
+UID:ds:43406:7581460@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T172000
 DTEND;TZID=America/New_York:20260929T192000

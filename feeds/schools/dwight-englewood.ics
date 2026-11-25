@@ -1183,20 +1183,20 @@ SUMMARY:Dwight-Englewood vs Saddle River Day (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7515843@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T161500
-DTEND;TZID=America/New_York:20261013T181500
-SUMMARY:Leonia at Dwight-Englewood (Middle School Girls Girls Volleyball)
-DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7506393@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
 DTEND;TZID=America/New_York:20261013T181500
 SUMMARY:Leonia at Dwight-Englewood (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7515843@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Leonia at Dwight-Englewood (Middle School Girls Girls Volleyball)
+DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7510852@njicathletics
@@ -1462,6 +1462,23 @@ SUMMARY:Dwight-Englewood vs Pompton Lakes (Junior Varsity Boys Boys Socce
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2598:7705679@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Dwight-Englewood at Northern Valley Regional High (Varsity Girls 
+ Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7523188@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T161500
+DTEND;TZID=America/New_York:20261021T181500
+SUMMARY:Dwight-Englewood at Ridgefield Memorial (Girls (8TH) Volleyball)
+DESCRIPTION:Girls (8TH) Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2598:7451291@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T161500
@@ -1478,23 +1495,6 @@ DTEND;TZID=America/New_York:20261021T181500
 SUMMARY:Dwight-Englewood at Northern Valley Regional High (Junior Varsity
   Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7523188@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Dwight-Englewood at Ridgefield Memorial (Girls (8TH) Volleyball)
-DESCRIPTION:Girls (8TH) Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7705679@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T161500
-DTEND;TZID=America/New_York:20261021T181500
-SUMMARY:Dwight-Englewood at Northern Valley Regional High (Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7487037@njicathletics
@@ -1771,7 +1771,7 @@ SUMMARY:Dwight-Englewood at Bergen Charter (Middle School Boys Boys Baske
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7787347@njicathletics
+UID:ds:2598:7742229@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
@@ -1795,7 +1795,7 @@ SUMMARY:Dwight-Englewood at Midland Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7724128@njicathletics
+UID:ds:2598:7787436@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T174500
 DTEND;TZID=America/New_York:20261216T194500
@@ -1846,7 +1846,7 @@ SUMMARY:Bogota at Dwight-Englewood (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7787720@njicathletics
+UID:ds:2541:7690099@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T173000
 DTEND;TZID=America/New_York:20261221T193000
@@ -2056,7 +2056,7 @@ SUMMARY:Dwight-Englewood at Garfield (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7788644@njicathletics
+UID:ds:2541:7689848@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
@@ -2276,15 +2276,7 @@ SUMMARY:Dwight-Englewood vs Secaucus (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7742470@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T160000
-DTEND;TZID=America/New_York:20270127T180000
-SUMMARY:Dwight-Englewood vs TBA NJ (Boys (8th-Gold) Basketball)
-DESCRIPTION:Boys (8th-Gold) Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7789225@njicathletics
+UID:ds:2598:7742474@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T160000
 DTEND;TZID=America/New_York:20270127T180000
@@ -2293,7 +2285,15 @@ SUMMARY:Dwight-Englewood at Benjamin Franklin Middle School (Girls (8TH)
 DESCRIPTION:Girls (8TH) Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7742477@njicathletics
+UID:ds:2598:7789224@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Dwight-Englewood vs TBA NJ (Boys (8th-Gold) Basketball)
+DESCRIPTION:Boys (8th-Gold) Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7789412@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T153000
 DTEND;TZID=America/New_York:20270128T173000
@@ -2302,7 +2302,7 @@ SUMMARY:Dwight-Englewood at The Elisabeth Morrow School (Middle School Bo
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7757155@njicathletics
+UID:ds:2598:7789336@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T161500
 DTEND;TZID=America/New_York:20270129T181500
@@ -2311,7 +2311,7 @@ SUMMARY:Dwight-Englewood at Bergenfield High School (Girls (8TH) Basketba
 DESCRIPTION:Girls (8TH) Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7663528@njicathletics
+UID:ds:2598:7789354@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T173000
 DTEND;TZID=America/New_York:20270129T193000

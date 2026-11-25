@@ -339,20 +339,20 @@ SUMMARY:Garfield vs Leonia (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2609:7439980@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Emerson at Garfield (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2609:7445952@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:Emerson vs Garfield (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2609:7439980@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Emerson at Garfield (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7445952@njicathletics
@@ -1917,20 +1917,12 @@ SUMMARY:Becton vs Garfield (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7786883@njicathletics
+UID:ds:2621:7676158@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T161500
 DTEND;TZID=America/New_York:20261202T181500
 SUMMARY:Garfield at Becton (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7733484@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T160000
-DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:Garfield at Saddle River Day (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7762987@njicathletics
@@ -1939,6 +1931,14 @@ DTSTART;TZID=America/New_York:20261207T160000
 DTEND;TZID=America/New_York:20261207T180000
 SUMMARY:Garfield at Rutherford (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7733484@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Garfield at Saddle River Day (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7685977@njicathletics
@@ -1973,20 +1973,12 @@ SUMMARY:Garfield at Rutherford (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7733487@njicathletics
+UID:ds:2621:7786960@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T173000
 DTEND;TZID=America/New_York:20261207T193000
 SUMMARY:Garfield at Saddle River Day (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7683820@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Garfield vs New Milford (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7786995@njicathletics
@@ -1995,6 +1987,14 @@ DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Garfield at Midland Park (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7683820@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Garfield vs New Milford (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2733:7743949@njicathletics
@@ -2021,7 +2021,7 @@ SUMMARY:Garfield at Hawthorne Christian (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7728021@njicathletics
+UID:ds:2621:7787112@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
@@ -2045,7 +2045,7 @@ SUMMARY:Garfield vs Bergen Charter (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787148@njicathletics
+UID:ds:2621:7768592@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T163000
 DTEND;TZID=America/New_York:20261210T183000
@@ -2062,7 +2062,7 @@ SUMMARY:Garfield vs Westwood Regional Senior High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7728031@njicathletics
+UID:ds:2621:7787153@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T173000
 DTEND;TZID=America/New_York:20261210T193000
@@ -2086,20 +2086,20 @@ SUMMARY:Cresskill at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2621:7656053@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T163000
+DTEND;TZID=America/New_York:20261211T183000
+SUMMARY:Garfield vs Ramsey High School (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2621:7759298@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T163000
 DTEND;TZID=America/New_York:20261211T183000
 SUMMARY:Garfield vs Westwood Regional Senior High School (Varsity Girls G
  irls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7656053@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T163000
-DTEND;TZID=America/New_York:20261211T183000
-SUMMARY:Garfield vs Ramsey High School (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2177,7 +2177,7 @@ SUMMARY:Garfield vs William L Dickinson High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7763193@njicathletics
+UID:ds:2621:7787257@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T120000
@@ -2229,7 +2229,7 @@ SUMMARY:Mary Help at Garfield (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7683826@njicathletics
+UID:ds:2621:7787340@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
@@ -2309,7 +2309,7 @@ SUMMARY:Elmwood Park at Garfield (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787431@njicathletics
+UID:ds:2621:7674927@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T173000
 DTEND;TZID=America/New_York:20261216T193000
@@ -2341,7 +2341,7 @@ SUMMARY:Garfield vs Elmwood Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787462@njicathletics
+UID:ds:2621:7699859@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
 DTEND;TZID=America/New_York:20261217T180000
@@ -2349,20 +2349,20 @@ SUMMARY:Garfield vs Manchester Regional (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787484@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T163000
-DTEND;TZID=America/New_York:20261217T183000
-SUMMARY:Garfield at Secaucus (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7787487@njicathletics
+UID:ds:2621:7762988@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T163000
 DTEND;TZID=America/New_York:20261217T183000
 SUMMARY:Garfield at Secaucus (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7732747@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T163000
+DTEND;TZID=America/New_York:20261217T183000
+SUMMARY:Garfield at Secaucus (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:38258:7787484@njicathletics
@@ -2373,20 +2373,20 @@ SUMMARY:Secaucus vs Garfield (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7532755@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T180000
-DTEND;TZID=America/New_York:20261217T200000
-SUMMARY:Garfield vs Palisades Park (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2621:7510678@njicathletics
+UID:ds:2621:7787496@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Garfield vs Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7787498@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Garfield vs Palisades Park (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7532755@njicathletics
@@ -2421,15 +2421,15 @@ SUMMARY:Dwight-Englewood vs Garfield (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787530@njicathletics
+UID:ds:2621:7787531@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Garfield at Lyndhurst (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
+SUMMARY:Garfield vs Becton (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7762990@njicathletics
+UID:ds:2621:7787537@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
@@ -2437,12 +2437,12 @@ SUMMARY:Garfield at Lyndhurst (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787531@njicathletics
+UID:ds:2621:7609204@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
-SUMMARY:Garfield vs Becton (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
+SUMMARY:Garfield at Lyndhurst (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7787569@njicathletics
@@ -2462,7 +2462,7 @@ SUMMARY:Dwight-Englewood vs Garfield (Junior Varsity Girls Girls Basketba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787569@njicathletics
+UID:ds:2621:7676401@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T173000
 DTEND;TZID=America/New_York:20261218T193000
@@ -2478,7 +2478,7 @@ SUMMARY:Becton at Garfield (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787592@njicathletics
+UID:ds:2621:7652710@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
@@ -2567,7 +2567,7 @@ SUMMARY:Garfield at Ridgefield Memorial (Junior Varsity Boys Boys Basketb
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787729@njicathletics
+UID:ds:2621:7481824@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T190000
 DTEND;TZID=America/New_York:20261221T210000
@@ -2583,7 +2583,7 @@ SUMMARY:Garfield vs Wood-Ridge (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7603461@njicathletics
+UID:ds:2621:7787763@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T180000
 DTEND;TZID=America/New_York:20261222T200000
@@ -2591,7 +2591,7 @@ SUMMARY:Garfield at Lyndhurst (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7787775@njicathletics
+UID:ds:2621:7762942@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T090000
 DTEND;TZID=America/New_York:20261223T110000
@@ -2634,7 +2634,7 @@ SUMMARY:Garfield vs Bergenfield High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7761944@njicathletics
+UID:ds:2621:7787804@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T173000
 DTEND;TZID=America/New_York:20261223T193000
@@ -2659,7 +2659,7 @@ SUMMARY:Garfield at Fair Lawn High School (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7773125@njicathletics
+UID:ds:2621:7787843@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T183000
 DTEND;TZID=America/New_York:20261228T203000
@@ -2699,7 +2699,7 @@ SUMMARY:Garfield vs Secaucus (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7788015@njicathletics
+UID:ds:2621:7676589@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
@@ -2723,14 +2723,6 @@ SUMMARY:Becton at Garfield (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7518449@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T161500
-DTEND;TZID=America/New_York:20270105T181500
-SUMMARY:Garfield vs Wood-Ridge (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2621:7788059@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T161500
@@ -2739,7 +2731,15 @@ SUMMARY:Garfield vs Becton (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7788099@njicathletics
+UID:ds:2621:7518449@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T161500
+DTEND;TZID=America/New_York:20270105T181500
+SUMMARY:Garfield vs Wood-Ridge (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2621:7651129@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T160000
 DTEND;TZID=America/New_York:20270106T180000
@@ -2804,7 +2804,7 @@ SUMMARY:Garfield vs New Milford (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7788197@njicathletics
+UID:ds:2758:7762991@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T163000
 DTEND;TZID=America/New_York:20270107T183000
@@ -2933,7 +2933,7 @@ SUMMARY:Garfield vs New Milford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7788420@njicathletics
+UID:ds:2621:7676605@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
@@ -2989,7 +2989,7 @@ SUMMARY:Garfield at Harrison (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2643:7762995@njicathletics
+UID:ds:2643:7788475@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T163000
 DTEND;TZID=America/New_York:20270112T183000
@@ -3038,7 +3038,7 @@ SUMMARY:Garfield at Becton (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2648:7652736@njicathletics
+UID:ds:2648:7788586@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
@@ -3225,7 +3225,7 @@ SUMMARY:Garfield vs Elmwood Park (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7788855@njicathletics
+UID:ds:2554:7676617@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T163000
 DTEND;TZID=America/New_York:20270120T183000
@@ -3249,7 +3249,7 @@ SUMMARY:Garfield vs Elmwood Park (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7788891@njicathletics
+UID:ds:2554:7511815@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
@@ -3459,7 +3459,7 @@ SUMMARY:Garfield vs Morris Hills High School (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43406:7789286@njicathletics
+UID:ds:43406:7683864@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000

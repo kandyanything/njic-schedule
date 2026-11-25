@@ -23,7 +23,7 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ds:2602:7485060@njicathletics
+UID:ds:2602:7786922@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T161500
 DTEND;TZID=America/New_York:20261207T181500
@@ -41,7 +41,7 @@ SUMMARY:Hasbrouck Heights vs Columbia High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7583184@njicathletics
+UID:ds:2644:7787162@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
 DTEND;TZID=America/New_York:20261211T180000
@@ -57,7 +57,16 @@ SUMMARY:Hasbrouck Heights at Leonia (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7583192@njicathletics
+UID:ds:2644:7536986@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Hasbrouck Heights at Leonia (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7787529@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
@@ -82,7 +91,7 @@ SUMMARY:Hasbrouck Heights vs Park Ridge (Junior Varsity Girls Girls Baske
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7777377@njicathletics
+UID:ds:2644:7787835@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T133000
 DTEND;TZID=America/New_York:20261228T153000
@@ -91,7 +100,7 @@ SUMMARY:Hasbrouck Heights vs Northern Valley Regional High (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7649581@njicathletics
+UID:ds:2644:7787864@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T133000
 DTEND;TZID=America/New_York:20261229T153000
@@ -116,6 +125,24 @@ DTEND;TZID=America/New_York:20270104T181500
 SUMMARY:Hasbrouck Heights vs North Arlington (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7788021@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T174500
+DTEND;TZID=America/New_York:20270104T194500
+SUMMARY:Hasbrouck Heights vs North Arlington (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7786865@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T161500
+DTEND;TZID=America/New_York:20270106T181500
+SUMMARY:Hasbrouck Heights at Waldwick (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7485899@njicathletics
@@ -150,7 +177,7 @@ SUMMARY:Hasbrouck Heights vs Rutherford (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7724995@njicathletics
+UID:ds:2644:7788426@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T173000
 DTEND;TZID=America/New_York:20270111T193000
@@ -159,7 +186,7 @@ SUMMARY:Hasbrouck Heights vs Rutherford (Junior Varsity Girls Girls Baske
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7485889@njicathletics
+UID:ds:2582:7788515@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T161500
 DTEND;TZID=America/New_York:20270113T181500
@@ -192,7 +219,7 @@ SUMMARY:Hasbrouck Heights vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2644:7723308@njicathletics
+UID:ds:2644:7788817@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
@@ -216,6 +243,15 @@ DTEND;TZID=America/New_York:20270122T181500
 SUMMARY:Hasbrouck Heights at North Arlington (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2644:7550684@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T174500
+DTEND;TZID=America/New_York:20270122T194500
+SUMMARY:Hasbrouck Heights at North Arlington (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2644:7485892@njicathletics

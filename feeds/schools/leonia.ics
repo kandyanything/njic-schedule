@@ -490,20 +490,20 @@ SUMMARY:Leonia at Secaucus (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7455405@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T161500
-DTEND;TZID=America/New_York:20260915T181500
-SUMMARY:Leonia vs Saint Mary (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7506394@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T161500
 DTEND;TZID=America/New_York:20260915T181500
 SUMMARY:Leonia vs New Milford (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7455405@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Leonia vs Saint Mary (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2621:7570115@njicathletics
@@ -650,14 +650,6 @@ SUMMARY:Leonia vs Waldwick (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7440028@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260916T160000
-DTEND;TZID=America/New_York:20260916T180000
-SUMMARY:Leonia at Waldwick (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7503838@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -672,6 +664,14 @@ DTSTART;TZID=America/New_York:20260916T160000
 DTEND;TZID=America/New_York:20260916T180000
 SUMMARY:Leonia vs New Milford (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7440028@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Leonia at Waldwick (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7501827@njicathletics
@@ -3064,7 +3064,7 @@ SUMMARY:Leonia at Leonia (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7721239@njicathletics
+UID:ds:2700:7788079@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
@@ -3161,7 +3161,7 @@ SUMMARY:Hawthorne Christian at Leonia (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7693240@njicathletics
+UID:ds:2695:7788173@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
@@ -3177,7 +3177,7 @@ SUMMARY:Becton vs Leonia (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7510735@njicathletics
+UID:ds:2695:7788199@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T170000
 DTEND;TZID=America/New_York:20270107T190000
@@ -3185,7 +3185,7 @@ SUMMARY:Leonia at Becton (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7532757@njicathletics
+UID:ds:2695:7788204@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
@@ -3233,7 +3233,7 @@ SUMMARY:Harrison vs Leonia (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536991@njicathletics
+UID:ds:2695:7788282@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T180000
 DTEND;TZID=America/New_York:20270108T200000
@@ -3258,7 +3258,7 @@ SUMMARY:Hawthorne Christian vs Leonia (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536864@njicathletics
+UID:ds:2695:7788383@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T163000
 DTEND;TZID=America/New_York:20270111T183000
@@ -3290,7 +3290,7 @@ SUMMARY:Hawthorne at Leonia (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7693242@njicathletics
+UID:ds:2695:7788463@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
@@ -3354,7 +3354,7 @@ SUMMARY:Leonia at Wood-Ridge (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7536993@njicathletics
+UID:ds:2695:7788570@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
@@ -3362,7 +3362,7 @@ SUMMARY:Leonia vs Saddle River Day (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7530720@njicathletics
+UID:ds:2695:7788582@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
@@ -3482,7 +3482,7 @@ SUMMARY:Leonia at Palisades Park (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7788791@njicathletics
+UID:ds:2695:7543836@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
@@ -3554,7 +3554,7 @@ SUMMARY:Leonia at Bogota (Middle School Coed Coed Wrestling)
 DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7693251@njicathletics
+UID:ds:2695:7788921@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
@@ -3676,20 +3676,12 @@ SUMMARY:Leonia at Saddle River Day (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2844:7699762@njicathletics
+UID:ds:2844:7789198@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T163000
 DTEND;TZID=America/New_York:20270126T183000
 SUMMARY:Saddle River Day vs Leonia (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2695:7645717@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T180000
-DTEND;TZID=America/New_York:20270126T200000
-SUMMARY:Leonia vs Dumont High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7645729@njicathletics
@@ -3698,6 +3690,14 @@ DTSTART;TZID=America/New_York:20270126T180000
 DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Leonia vs Dumont High School (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7645717@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Leonia vs Dumont High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2695:7789212@njicathletics
@@ -3726,7 +3726,7 @@ SUMMARY:Leonia vs Bergen County Technical High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7777174@njicathletics
+UID:ds:2695:7789269@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T173000
 DTEND;TZID=America/New_York:20270127T193000
@@ -3767,7 +3767,7 @@ SUMMARY:Hasbrouck Heights at Leonia (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7789316@njicathletics
+UID:ds:2646:7668222@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T180000
 DTEND;TZID=America/New_York:20270128T200000

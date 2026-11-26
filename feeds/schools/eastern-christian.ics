@@ -457,20 +457,20 @@ SUMMARY:Eastern Christian at PCSST (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:43406:7484294@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:PCSST vs Eastern Christian (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:43406:7440082@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:PCSST at Eastern Christian (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:43406:7484294@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:PCSST vs Eastern Christian (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7484356@njicathletics
@@ -1007,20 +1007,20 @@ SUMMARY:Eastern Christian vs Waldwick (Junior Varsity Girls Girls Volleyb
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7439938@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T161500
-DTEND;TZID=America/New_York:20260924T181500
-SUMMARY:Bogota at Eastern Christian (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2541:7633802@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T161500
 DTEND;TZID=America/New_York:20260924T181500
 SUMMARY:Bogota vs Eastern Christian (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2541:7439938@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Bogota at Eastern Christian (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7609358@njicathletics
@@ -1219,7 +1219,7 @@ SUMMARY:New Milford at Eastern Christian (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2763:7581459@njicathletics
+UID:ds:2763:7518223@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T163000
 DTEND;TZID=America/New_York:20260929T183000
@@ -1279,7 +1279,7 @@ SUMMARY:New Milford at Eastern Christian (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 5:20 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2763:7581460@njicathletics
+UID:ds:2763:7518219@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T172000
 DTEND;TZID=America/New_York:20260929T192000
@@ -1668,15 +1668,6 @@ SUMMARY:Dwight-Englewood vs Eastern Christian (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7474365@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T161500
-DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:Eastern Christian at Passaic County Technical Institute (Junior V
- arsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7560646@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T161500
@@ -1684,6 +1675,15 @@ DTEND;TZID=America/New_York:20261008T181500
 SUMMARY:Eastern Christian at Brookside Middle School (Middle School Coed 
  Coed Cross Country)
 DESCRIPTION:Middle School Coed Coed Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7474365@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Eastern Christian at Passaic County Technical Institute (Junior V
+ arsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7508894@njicathletics
@@ -2255,6 +2255,14 @@ SUMMARY:Eastern Christian vs Wayne Valley High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2602:7637078@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T161500
+DTEND;TZID=America/New_York:20261026T181500
+SUMMARY:Eastern Christian at New Milford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7454181@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T161500
@@ -2270,14 +2278,6 @@ DTEND;TZID=America/New_York:20261026T181500
 SUMMARY:Eastern Christian at Manchester Regional (Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7637078@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T161500
-DTEND;TZID=America/New_York:20261026T181500
-SUMMARY:Eastern Christian at New Milford (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7484385@njicathletics
@@ -2349,6 +2349,15 @@ SUMMARY:Eastern Christian at Hawthorne (Middle School Girls Girls Soccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2602:7582984@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T161500
+DTEND;TZID=America/New_York:20261030T181500
+SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
+  Girls Soccer)
+DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2602:7583020@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T161500
@@ -2365,15 +2374,6 @@ DTEND;TZID=America/New_York:20261030T181500
 SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
   Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2602:7582984@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261030T161500
-DTEND;TZID=America/New_York:20261030T181500
-SUMMARY:Eastern Christian at Bergenfield High School (Middle School Girls
-  Girls Soccer)
-DESCRIPTION:Middle School Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7728504@njicathletics
@@ -2479,7 +2479,7 @@ SUMMARY:Eastern Christian vs Park Ridge (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2789:7786996@njicathletics
+UID:ds:2789:7773276@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
@@ -2556,7 +2556,7 @@ SUMMARY:Eastern Christian vs Lodi (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2700:7787326@njicathletics
+UID:ds:2700:7683493@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T161500
 DTEND;TZID=America/New_York:20261214T181500
@@ -2747,7 +2747,7 @@ SUMMARY:Eastern Christian at Secaucus (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7788003@njicathletics
+UID:ds:2554:7484985@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T173000
 DTEND;TZID=America/New_York:20270104T193000
@@ -3139,7 +3139,7 @@ SUMMARY:Eastern Christian at Leonia (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7788921@njicathletics
+UID:ds:2695:7693251@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
 DTEND;TZID=America/New_York:20270121T180000
@@ -3207,7 +3207,7 @@ SUMMARY:Eastern Christian vs Secaucus (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2554:7484997@njicathletics
+UID:ds:2554:7789045@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000

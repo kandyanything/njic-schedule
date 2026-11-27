@@ -517,20 +517,20 @@ SUMMARY:Eastern Christian at Hawthorne (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7535779@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T161500
-DTEND;TZID=America/New_York:20260922T181500
-SUMMARY:Hawthorne vs Rutherford (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2646:7455429@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T161500
 DTEND;TZID=America/New_York:20260922T181500
 SUMMARY:Hawthorne at Rutherford (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2646:7535779@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Hawthorne vs Rutherford (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7644135@njicathletics
@@ -1956,7 +1956,7 @@ SUMMARY:Hawthorne vs Saddle Brook (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7788247@njicathletics
+UID:ds:2646:7771853@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T161500
 DTEND;TZID=America/New_York:20270108T181500
@@ -2224,7 +2224,7 @@ SUMMARY:Hawthorne vs Palisades Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7690237@njicathletics
+UID:ds:2541:7788843@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
@@ -2250,7 +2250,7 @@ SUMMARY:Hawthorne vs Haledon Middle School (Middle School Girls Girls Bas
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7690129@njicathletics
+UID:ds:2541:7788885@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T173000
 DTEND;TZID=America/New_York:20270120T193000
@@ -2367,7 +2367,7 @@ SUMMARY:Hawthorne vs New Milford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7537356@njicathletics
+UID:ds:2646:7789049@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000
@@ -2439,7 +2439,7 @@ SUMMARY:Hawthorne vs Emerson (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7789237@njicathletics
+UID:ds:2541:7670492@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
@@ -2447,7 +2447,7 @@ SUMMARY:Bogota at Hawthorne (Middle School Coed Coed Wrestling)
 DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7670492@njicathletics
+UID:ds:2626:7789237@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
 DTEND;TZID=America/New_York:20270127T181500
@@ -2463,6 +2463,14 @@ SUMMARY:Hawthorne at Saddle River Day (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2646:7670492@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T161500
+DTEND;TZID=America/New_York:20270127T181500
+SUMMARY:Hawthorne vs Glen Rock (Middle School Coed Coed Wrestling)
+DESCRIPTION:Middle School Coed Coed Wrestling - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2646:7789236@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T161500
@@ -2470,14 +2478,6 @@ DTEND;TZID=America/New_York:20270127T181500
 SUMMARY:Hawthorne vs East Brook Middle School (Middle School Girls Girls 
  Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2646:7789239@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T161500
-DTEND;TZID=America/New_York:20270127T181500
-SUMMARY:Hawthorne vs Glen Rock (Middle School Coed Coed Wrestling)
-DESCRIPTION:Middle School Coed Coed Wrestling - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7686034@njicathletics
@@ -2512,7 +2512,7 @@ SUMMARY:Hawthorne at Midland Park (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7789332@njicathletics
+UID:ds:2646:7669489@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T161500
 DTEND;TZID=America/New_York:20270129T181500
@@ -3247,7 +3247,7 @@ SUMMARY:Cresskill at Hawthorne (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2645:7790864@njicathletics
+UID:ds:2645:7575504@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T160000
 DTEND;TZID=America/New_York:20270414T180000

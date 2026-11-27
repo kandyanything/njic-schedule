@@ -904,20 +904,20 @@ SUMMARY:Elmwood Park at New Milford (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7440065@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T160000
-DTEND;TZID=America/New_York:20260924T180000
-SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7529157@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:New Milford vs Elmwood Park (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7440065@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2602:7526860@njicathletics
@@ -1175,20 +1175,20 @@ SUMMARY:New Milford vs Saddle Brook (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7499886@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Cresskill at New Milford (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2582:7539424@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Cresskill vs New Milford (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2582:7499886@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cresskill at New Milford (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2648:7455182@njicathletics
@@ -1619,14 +1619,6 @@ SUMMARY:Elmwood Park vs New Milford (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7455572@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T161500
-DTEND;TZID=America/New_York:20261022T181500
-SUMMARY:New Milford at Secaucus (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2758:7449958@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T161500
@@ -1641,6 +1633,14 @@ DTSTART;TZID=America/New_York:20261022T161500
 DTEND;TZID=America/New_York:20261022T181500
 SUMMARY:New Milford at Elmwood Park (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7455572@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T161500
+DTEND;TZID=America/New_York:20261022T181500
+SUMMARY:New Milford at Secaucus (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7536121@njicathletics
@@ -1856,7 +1856,7 @@ SUMMARY:New Milford at Fair Lawn High School (Varsity Coed Unified Bowlin
 DESCRIPTION:Varsity Coed Unified Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787011@njicathletics
+UID:ds:2758:7649361@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
@@ -1864,7 +1864,7 @@ SUMMARY:New Milford vs Fort Lee High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787012@njicathletics
+UID:ds:2758:7649364@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
@@ -1891,7 +1891,7 @@ SUMMARY:New Milford vs Fort Lee High School (Junior Varsity Boys Boys Bas
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7546416@njicathletics
+UID:ds:2758:7787040@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
 DTEND;TZID=America/New_York:20261208T200000
@@ -1923,21 +1923,21 @@ SUMMARY:Hawthorne vs New Milford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7685995@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:New Milford at Hawthorne (Var-JV Coed Coed Bowling)
-DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7787106@njicathletics
+UID:ds:2758:7700042@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:New Milford at Fort Lee High School (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2758:7685995@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:New Milford at Hawthorne (Var-JV Coed Coed Bowling)
+DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2758:7557821@njicathletics
@@ -1973,7 +1973,7 @@ SUMMARY:New Milford at Northern Valley Regional High (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787274@njicathletics
+UID:ds:2758:7787276@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T110000
 DTEND;TZID=America/New_York:20261212T130000
@@ -1990,7 +1990,7 @@ SUMMARY:Manchester Regional at New Milford (Varsity Coed Coed Bowling)
 DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787313@njicathletics
+UID:ds:2758:7743590@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
 DTEND;TZID=America/New_York:20261214T180000
@@ -2185,7 +2185,7 @@ SUMMARY:Midland Park vs New Milford (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7727894@njicathletics
+UID:ds:2758:7787679@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T161500
 DTEND;TZID=America/New_York:20261221T181500
@@ -2217,7 +2217,7 @@ SUMMARY:New Milford vs Waldwick (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537347@njicathletics
+UID:ds:2758:7787725@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
@@ -2225,7 +2225,7 @@ SUMMARY:New Milford vs Waldwick (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7452941@njicathletics
+UID:ds:2758:7787754@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T170000
 DTEND;TZID=America/New_York:20261222T190000
@@ -2869,7 +2869,7 @@ SUMMARY:New Milford vs Elmwood Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2646:7537356@njicathletics
+UID:ds:2646:7789049@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T190000
 DTEND;TZID=America/New_York:20270122T210000

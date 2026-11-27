@@ -559,20 +559,20 @@ SUMMARY:Pompton Lakes at Elmwood Park (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7509546@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T161500
-DTEND;TZID=America/New_York:20260914T181500
-SUMMARY:Elmwood Park at Pompton Lakes (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7455143@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T161500
 DTEND;TZID=America/New_York:20260914T181500
 SUMMARY:Elmwood Park vs Weehawken (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7509546@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T161500
+DTEND;TZID=America/New_York:20260914T181500
+SUMMARY:Elmwood Park at Pompton Lakes (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7509546@njicathletics
@@ -656,14 +656,6 @@ SUMMARY:Elmwood Park at NJIC (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7454979@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260915T173000
-DTEND;TZID=America/New_York:20260915T193000
-SUMMARY:Elmwood Park vs Manchester Regional (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7455395@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T173000
@@ -678,6 +670,14 @@ DTSTART;TZID=America/New_York:20260915T173000
 DTEND;TZID=America/New_York:20260915T193000
 SUMMARY:Elmwood Park vs Lyndhurst (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7454979@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T193000
+SUMMARY:Elmwood Park vs Manchester Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2643:7503372@njicathletics
@@ -1145,20 +1145,20 @@ SUMMARY:New Milford vs Elmwood Park (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7450193@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260924T163000
-DTEND;TZID=America/New_York:20260924T183000
-SUMMARY:Elmwood Park vs Pompton Lakes (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7439976@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260924T163000
 DTEND;TZID=America/New_York:20260924T183000
 SUMMARY:Elmwood Park at Pompton Lakes (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7450193@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T163000
+DTEND;TZID=America/New_York:20260924T183000
+SUMMARY:Elmwood Park vs Pompton Lakes (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2815:7450193@njicathletics
@@ -1293,20 +1293,20 @@ SUMMARY:Elmwood Park at Eastern Christian (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7495270@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T161500
-DTEND;TZID=America/New_York:20260928T181500
-SUMMARY:Elmwood Park at Rutherford (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2723:7504753@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T161500
 DTEND;TZID=America/New_York:20260928T181500
 SUMMARY:Elmwood Park vs Lodi (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2723:7495270@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T161500
+DTEND;TZID=America/New_York:20260928T181500
+SUMMARY:Elmwood Park at Rutherford (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2700:7504753@njicathletics
@@ -1849,7 +1849,7 @@ SUMMARY:Elmwood Park at Manchester Regional (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7455521@njicathletics
+UID:ds:2723:7578656@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T161500
 DTEND;TZID=America/New_York:20261008T181500
@@ -1963,7 +1963,7 @@ SUMMARY:Elmwood Park at Garfield (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2621:7673875@njicathletics
+UID:ds:2621:7514928@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
@@ -3570,7 +3570,7 @@ SUMMARY:Midland Park vs Elmwood Park (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7788792@njicathletics
+UID:ds:2723:7721309@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
@@ -3586,7 +3586,7 @@ SUMMARY:Elmwood Park at Lodi (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7788821@njicathletics
+UID:ds:2723:7742107@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
@@ -3602,7 +3602,7 @@ SUMMARY:Wallington at Elmwood Park (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7788846@njicathletics
+UID:ds:2541:7737390@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
@@ -3610,7 +3610,7 @@ SUMMARY:Bogota at Elmwood Park (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7737390@njicathletics
+UID:ds:2723:7788846@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T161500
 DTEND;TZID=America/New_York:20270120T181500
@@ -3732,7 +3732,7 @@ SUMMARY:Elmwood Park vs Pompton Lakes (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7456768@njicathletics
+UID:ds:2815:7789006@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T173000
 DTEND;TZID=America/New_York:20270122T193000
@@ -3766,7 +3766,7 @@ SUMMARY:New Milford vs Elmwood Park (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2815:7789031@njicathletics
+UID:ds:2815:7456290@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T180000
 DTEND;TZID=America/New_York:20270122T200000
@@ -3860,7 +3860,7 @@ SUMMARY:Elmwood Park at Passaic High School (Middle School Girls Girls Ba
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7789298@njicathletics
+UID:ds:2723:7516500@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T161500
 DTEND;TZID=America/New_York:20270128T181500
@@ -3917,7 +3917,7 @@ SUMMARY:Lodi at Elmwood Park (Middle School Girls Girls Basketball)
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2723:7552696@njicathletics
+UID:ds:2723:7789373@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T080000
 DTEND;TZID=America/New_York:20270130T100000

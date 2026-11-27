@@ -1191,20 +1191,20 @@ SUMMARY:Leonia at Dwight-Englewood (Middle School Girls Girls Volleyball)
 DESCRIPTION:Middle School Girls Girls Volleyball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2695:7506393@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T161500
-DTEND;TZID=America/New_York:20261013T181500
-SUMMARY:Leonia at Dwight-Englewood (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2695:7510852@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T161500
 DTEND;TZID=America/New_York:20261013T181500
 SUMMARY:Leonia vs Dwight-Englewood (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2695:7506393@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Leonia at Dwight-Englewood (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2918:7680463@njicathletics
@@ -1804,21 +1804,12 @@ SUMMARY:Dwight-Englewood vs Rutherford (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7787524@njicathletics
+UID:ds:2598:7511798@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T161500
 DTEND;TZID=America/New_York:20261218T181500
 SUMMARY:Dwight-Englewood vs Garfield (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2598:7539377@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T173000
-DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Dwight-Englewood at Glen Rock (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2598:7676581@njicathletics
@@ -1830,7 +1821,16 @@ SUMMARY:Dwight-Englewood vs Garfield (Junior Varsity Girls Girls Basketba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7787587@njicathletics
+UID:ds:2598:7539377@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Dwight-Englewood at Glen Rock (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2598:7536402@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
@@ -1979,7 +1979,7 @@ SUMMARY:Dwight-Englewood at Hackensack High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7556557@njicathletics
+UID:ds:2598:7788368@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T161500
 DTEND;TZID=America/New_York:20270111T181500
@@ -2006,7 +2006,7 @@ SUMMARY:Dwight-Englewood at Weehawken (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7742393@njicathletics
+UID:ds:2598:7788450@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T190000
 DTEND;TZID=America/New_York:20270111T210000
@@ -2014,7 +2014,7 @@ SUMMARY:Dwight-Englewood at Weehawken (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7788456@njicathletics
+UID:ds:2598:7742424@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T153000
 DTEND;TZID=America/New_York:20270112T173000
@@ -2030,7 +2030,7 @@ SUMMARY:Dwight-Englewood vs Glen Rock (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7675008@njicathletics
+UID:ds:2598:7788560@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
@@ -2039,7 +2039,7 @@ SUMMARY:Dwight-Englewood at Garfield (Junior Varsity Girls Girls Basketba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2598:7539383@njicathletics
+UID:ds:2598:7788567@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T174500
 DTEND;TZID=America/New_York:20270113T194500
@@ -2056,7 +2056,7 @@ SUMMARY:Dwight-Englewood at Garfield (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2541:7689848@njicathletics
+UID:ds:2541:7788644@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T161500
 DTEND;TZID=America/New_York:20270115T181500
@@ -2217,7 +2217,7 @@ SUMMARY:Dwight-Englewood at TBA NJ (Middle School Boys Boys Basketball)
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7789113@njicathletics
+UID:ds:2626:7539688@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
 DTEND;TZID=America/New_York:20270125T180000
@@ -2252,7 +2252,7 @@ SUMMARY:Dwight-Englewood at Saint Rose High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2626:7789159@njicathletics
+UID:ds:2626:7534364@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T190000
 DTEND;TZID=America/New_York:20270125T210000
@@ -2320,7 +2320,7 @@ SUMMARY:Dwight-Englewood at Bergenfield High School (Middle School Boys B
 DESCRIPTION:Middle School Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2582:7648894@njicathletics
+UID:ds:2582:7789363@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T180000
 DTEND;TZID=America/New_York:20270129T200000

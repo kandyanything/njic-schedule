@@ -920,14 +920,6 @@ SUMMARY:New Milford vs North Arlington (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2602:7455154@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260925T161500
-DTEND;TZID=America/New_York:20260925T181500
-SUMMARY:Eastern Christian at New Milford (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:ds:2602:7526860@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260925T161500
@@ -935,6 +927,14 @@ DTEND;TZID=America/New_York:20260925T181500
 SUMMARY:Eastern Christian vs New Milford (Junior Varsity Girls Girls Tenn
  is)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:ds:2602:7455154@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T161500
+DTEND;TZID=America/New_York:20260925T181500
+SUMMARY:Eastern Christian at New Milford (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2703:7455462@njicathletics
@@ -1856,7 +1856,7 @@ SUMMARY:New Milford at Fair Lawn High School (Varsity Coed Unified Bowlin
 DESCRIPTION:Varsity Coed Unified Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7649361@njicathletics
+UID:ds:2758:7787011@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
@@ -1864,7 +1864,7 @@ SUMMARY:New Milford vs Fort Lee High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7649364@njicathletics
+UID:ds:2758:7787012@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T161500
 DTEND;TZID=America/New_York:20261208T181500
@@ -1891,7 +1891,7 @@ SUMMARY:New Milford vs Fort Lee High School (Junior Varsity Boys Boys Bas
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787040@njicathletics
+UID:ds:2758:7546416@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
 DTEND;TZID=America/New_York:20261208T200000
@@ -1964,7 +1964,7 @@ SUMMARY:Harrison vs New Milford (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7552688@njicathletics
+UID:ds:2758:7787231@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T093000
 DTEND;TZID=America/New_York:20261212T113000
@@ -2007,7 +2007,7 @@ SUMMARY:New Milford vs Bergenfield High School (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7660514@njicathletics
+UID:ds:2758:7787354@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T163000
 DTEND;TZID=America/New_York:20261215T183000
@@ -2031,7 +2031,7 @@ SUMMARY:Secaucus vs New Milford (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787368@njicathletics
+UID:ds:2758:7534297@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
@@ -2072,7 +2072,7 @@ SUMMARY:Hasbrouck Heights vs New Milford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2717:7743593@njicathletics
+UID:ds:2717:7787468@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T160000
 DTEND;TZID=America/New_York:20261217T180000
@@ -2217,7 +2217,7 @@ SUMMARY:New Milford vs Waldwick (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7787725@njicathletics
+UID:ds:2758:7537347@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
@@ -2250,7 +2250,7 @@ SUMMARY:New Milford at Bergenfield High School (Varsity Boys Boys Wrestli
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7602357@njicathletics
+UID:ds:2758:7787840@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T170000
 DTEND;TZID=America/New_York:20261228T190000
@@ -2316,20 +2316,20 @@ SUMMARY:Leonia vs New Milford (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:ds:2758:7788049@njicathletics
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:New Milford at Leonia (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:ds:2758:7788056@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
 DTEND;TZID=America/New_York:20270105T180000
 SUMMARY:New Milford at N.Milford/M. Park (Var-JV Coed Coed Bowling)
 DESCRIPTION:Var-JV Coed Coed Bowling - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:ds:2758:7693238@njicathletics
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T160000
-DTEND;TZID=America/New_York:20270105T180000
-SUMMARY:New Milford at Leonia (Varsity Coed Coed Bowling)
-DESCRIPTION:Varsity Coed Coed Bowling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ds:2646:7534342@njicathletics
@@ -2681,7 +2681,7 @@ SUMMARY:Midland Park at New Milford (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7537355@njicathletics
+UID:ds:2758:7788694@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T190000
 DTEND;TZID=America/New_York:20270115T210000
@@ -2755,7 +2755,7 @@ SUMMARY:New Milford vs Secaucus (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:ds:2758:7788818@njicathletics
+UID:ds:2758:7723362@njicathletics
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T160000
 DTEND;TZID=America/New_York:20270120T180000
